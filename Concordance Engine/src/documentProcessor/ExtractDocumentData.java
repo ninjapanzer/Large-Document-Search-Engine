@@ -12,7 +12,7 @@ public class ExtractDocumentData
 	private Sentences Sentence = new Sentences();
 	private Words Word = new Words();
 	private String WholeDocument;
-	private NounManagement NounList = new NounManagement();
+	private NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
 	
 	public ExtractDocumentData(){}
 	

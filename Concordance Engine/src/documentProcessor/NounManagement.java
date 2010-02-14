@@ -8,15 +8,15 @@ public class NounManagement
 {
 	private Vector<String> NounList = new Vector<String>();
 	
-	public NounManagement()
+	public NounManagement(String filename)
 	{
-		this.LoadNounList();
+		this.LoadNounList(filename);
 	}
 	
-	private void LoadNounList()
+	private void LoadNounList(String filename)
 	{
 		try{
-		File file = new File("..\\Concordance\\Datafiles\\noun.pnz");
+		File file = new File(filename);
 		Scanner scan = new Scanner(file);
 		String[] nounlist;
 		scan.useDelimiter("\\n");

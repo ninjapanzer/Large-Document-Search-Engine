@@ -2,7 +2,6 @@ package documentProcessor;
 
 import java.io.File;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class StripCase
 {
@@ -34,7 +33,7 @@ public class StripCase
 			while(scan.hasNext())
 			{
 				wholedoc = scan.next();
-				wholedoc = wholedoc.replaceAll("[\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
+				wholedoc = wholedoc.replaceAll("[\\?\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
 				whitespacetemp = wholedoc.toCharArray();
 				if(this.NormalizeWhitespaceFlag)
 				{

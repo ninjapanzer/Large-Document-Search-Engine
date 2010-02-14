@@ -2,16 +2,53 @@ package documentProcessor;
 
 import java.util.Vector;
 
-public class WordWorkingSets
-{
+public class WordWorkingSets implements Runnable{
+	public void run()
+	{
+		this.BuildNounWorkingSet(this.start, this.stop);
+	}
+	private int uniquesize = 0;
+	private int start, stop;
 	private String wholedoc;
 	private Vector<String> uniqueworkingSet = new Vector<String>();
+	private Vector<String> nounworkingSet = new Vector<String>();
 
+	public Vector<String> getNounWorkinSet(){return this.nounworkingSet;}
+	public int getUniqueSize(){return this.uniquesize;}
+	
+	public void setThreadStartStop(int start, int stop){this.start=start;this.stop=stop;}
+	
 	public WordWorkingSets(String wholedoc)
 	{
 		this.wholedoc = wholedoc;
 		this.uniqueworkingSet.addElement("the");
 		this.BuildUniqueWordWorkingSet();
+	}
+	
+	public void BuildNounWorkingSet()
+	{
+		NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
+		for(int i = 0; i < this.uniqueworkingSet.size(); i++)
+		{
+			if(NounList.isNoun(this.uniqueworkingSet.get(i)))
+			{
+				this.nounworkingSet.addElement(this.uniqueworkingSet.get(i));
+			}
+			System.out.println(i);
+		}
+	}
+	
+	public void BuildNounWorkingSet(int start, int end)
+	{
+		NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
+		for(int i = start; i < end; i++)
+		{
+			if(NounList.isNoun(this.uniqueworkingSet.get(i)))
+			{
+				this.nounworkingSet.addElement(this.uniqueworkingSet.get(i));
+			}
+			System.out.println(i);
+		}
 	}
 	
 	private void BuildUniqueWordWorkingSet()
@@ -24,6 +61,12 @@ public class WordWorkingSets
 				this.uniqueworkingSet.addElement(activeSet[i]);
 			}
 		}
+		this.uniquesize=this.uniqueworkingSet.size();
+	}
+	
+	public void PrintNounWorkingSet()
+	{
+		System.out.println("Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words");
 	}
 	
 	public void PrintUniqueWordStats()
