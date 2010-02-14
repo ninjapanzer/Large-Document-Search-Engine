@@ -2,6 +2,7 @@ package documentProcessor;
 
 import java.io.File;
 import java.util.Scanner;
+import java.util.regex.Pattern;
 
 public class StripCase
 {
@@ -28,11 +29,12 @@ public class StripCase
 			File file = new File(filesource);
 			Scanner scan = new Scanner(file);
 			String wholedoc;
-			scan.useDelimiter("\\.");
+			scan.useDelimiter("[.?]");
 			char[] whitespacetemp;
 			while(scan.hasNext())
 			{
 				wholedoc = scan.next();
+				wholedoc.replaceAll("[*\\(\\)\\[\\]\\{\\}\\<\\>]", "");
 				whitespacetemp = wholedoc.toCharArray();
 				if(this.NormalizeWhitespaceFlag)
 				{
@@ -60,6 +62,7 @@ public class StripCase
 						wholedoc = '\t' + wholedoc;
 					}
 				}
+				
 				wholedoc += ".";
 				whitespacetemp = wholedoc.toCharArray();
 				this.WholeDocument += wholedoc;

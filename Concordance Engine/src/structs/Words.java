@@ -8,5 +8,6 @@ public class Words
 	public Vector<String> LOWords = new Vector<String> ();
 	public int length;
 	public boolean isKeyword;
+	public String WordType;
 	public Words(){}
 }

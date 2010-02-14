@@ -12,6 +12,7 @@ public class ExtractDocumentData
 	private Sentences Sentence = new Sentences();
 	private Words Word = new Words();
 	private String WholeDocument;
+	private NounManagement NounList = new NounManagement();
 	
 	public ExtractDocumentData(){}
 	
@@ -40,17 +41,27 @@ public class ExtractDocumentData
 					WordSplit = SentenceSplit[j].split(" ");
 					for(int k = 0; k < WordSplit.length; k++)
 					{
+						if (NounList.isNoun(WordSplit[k]))
+						{
+							this.Word.WordType = "noun";
+						}else
+						{
+							this.Word.WordType = "non Noun";
+						}
 						this.Word.Word = WordSplit[k];
 						this.Word.length = WordSplit[k].length();
 						this.Sentence.Sentence.addElement(this.Word);
 					}
+					System.out.println("Sentence "+j);
 					this.Sentence.length = WordSplit.length;
 					this.Paragraph.Paragraph.addElement(this.Sentence);	
 				}
+				System.out.println("Paragraph "+i);
 				this.Paragraph.length = SentenceSplit.length;
 				this.FinalDocument.Block.addElement(this.Paragraph);
 			}
 			System.out.println(this.FinalDocument.Block.get(2).Paragraph.get(2).Sentence.get(2).Word);
+			//System.out.println(NounList.isNoun("0"));
 		}
 	}
 }
