@@ -2,12 +2,12 @@ package documentProcessor;
 
 import java.util.Vector;
 
-public class WordWorkingSet
+public class WordWorkingSets
 {
 	private String wholedoc;
 	private Vector<String> uniqueworkingSet = new Vector<String>();
 
-	public WordWorkingSet(String wholedoc)
+	public WordWorkingSets(String wholedoc)
 	{
 		this.wholedoc = wholedoc;
 		this.uniqueworkingSet.addElement("the");

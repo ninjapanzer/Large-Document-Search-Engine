@@ -12,7 +12,7 @@ public class App
 		file.FlattenString();
 		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
-		WordWorkingSet EvaluateSets = new WordWorkingSet(file.GetWholeDocument());
+		WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		EvaluateSets.PrintUniqueWordStats();
 	}
 

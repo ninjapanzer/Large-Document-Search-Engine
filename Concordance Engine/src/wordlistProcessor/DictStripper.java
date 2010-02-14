@@ -26,6 +26,7 @@ public class DictStripper {
 				nounlist = scan.next().split(" ");
 				if(!nounlist[0].isEmpty())
 				{
+					if(!nounlist[0].contains(" "))
 					nounlist[0] = nounlist[0].replaceAll("_", " ");
 					out.write(nounlist[0] + "\n");
 				}
