@@ -29,12 +29,12 @@ public class StripCase
 			File file = new File(filesource);
 			Scanner scan = new Scanner(file);
 			String wholedoc;
-			scan.useDelimiter("[.?]");
+			scan.useDelimiter("[.]");
 			char[] whitespacetemp;
 			while(scan.hasNext())
 			{
 				wholedoc = scan.next();
-				wholedoc.replaceAll("[*\\(\\)\\[\\]\\{\\}\\<\\>]", "");
+				wholedoc = wholedoc.replaceAll("[\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
 				whitespacetemp = wholedoc.toCharArray();
 				if(this.NormalizeWhitespaceFlag)
 				{
@@ -64,7 +64,7 @@ public class StripCase
 				}
 				
 				wholedoc += ".";
-				whitespacetemp = wholedoc.toCharArray();
+				//whitespacetemp = wholedoc.toCharArray();
 				this.WholeDocument += wholedoc;
 			}
 			scan.close();
