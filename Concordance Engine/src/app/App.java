@@ -1,11 +1,15 @@
 package app;
 
+import java.util.Vector;
+
+import structs.ReconstructDocument;
 import documentProcessor.*;
 
 public class App
 {
 	private static WordWorkingSets EvaluateSets;
 	private static StripCase file = new StripCase();
+	private static Vector<ReconstructDocument> SequencedDocument;
 	public static void main(String[] args) throws InterruptedException
 	{
 		file.NormalizeWhitespace(true);
@@ -13,7 +17,8 @@ public class App
 		file.FlattenString();
 		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
-		DocumentGUI Display = new DocumentGUI(StripDocument.getFinalDocument());
+		SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
+		SequencedDocument = Sequence.getSequencedDocument();
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());

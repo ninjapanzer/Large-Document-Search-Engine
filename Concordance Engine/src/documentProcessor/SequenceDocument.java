@@ -1,4 +1,4 @@
-package app;
+package documentProcessor;
 
 import structs.*;
 
@@ -10,10 +10,11 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-public class DocumentGUI
+public class SequenceDocument
 {
 	private Vector<ReconstructDocument> SequencedDocument = new Vector<ReconstructDocument>();
-	public DocumentGUI(Document wholedocument)
+	public Vector<ReconstructDocument> getSequencedDocument(){return this.SequencedDocument;}
+	public SequenceDocument(Document wholedocument)
 	{
 		//System.out.println(wholedocument.Block.get(0).Paragraph.get(0).Sentence.get(0).Word);
 		for(int i = 0; i< wholedocument.Block.size(); i++)
@@ -29,17 +30,13 @@ public class DocumentGUI
 				{
 					ReconstructDocument Temp = new ReconstructDocument();
 					Temp.wordcontent = wholedocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word;
-					System.out.println(Temp.wordcontent);
 					Temp.wordID = k;
 					Temp.SentenceID = j;
 					Temp.paragraphID = i;
 					SequencedDocument.addElement(Temp);
+					System.out.println(Temp.wordcontent+" "+Temp.paragraphID+"|"+Temp.SentenceID+"|"+Temp.wordID);
 				}
 			}
-		}
-		for(ReconstructDocument i : SequencedDocument)
-		{
-			System.out.println(i);
 		}
 	}
 }
