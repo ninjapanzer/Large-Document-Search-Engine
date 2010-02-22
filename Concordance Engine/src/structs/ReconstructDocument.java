@@ -6,4 +6,5 @@ public class ReconstructDocument
 	public int paragraphID;
 	public int SentenceID;
 	public int wordID;
+	public int wordLength;
 }

@@ -19,6 +19,7 @@ public class App
 		//System.out.println(file.GetWholeDocument());
 		SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
 		SequencedDocument = Sequence.getSequencedDocument();
+		DisplayGui display = new DisplayGui(SequencedDocument);
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
