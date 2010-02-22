@@ -8,9 +8,6 @@ import structs.Words;
 public class ExtractDocumentData
 {
 	private Document FinalDocument = new Document();
-	private Paragraphs Paragraph = new Paragraphs();
-	private Sentences Sentence = new Sentences();
-	private Words Word = new Words();
 	private String WholeDocument;
 	private NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
 	
@@ -28,6 +25,7 @@ public class ExtractDocumentData
 	
 	private void BreakOnDocument()
 	{
+		int wo = 0;
 		if(this.WholeDocument != null || this.WholeDocument != "")
 		{
 			String[] ParagraphSplit = this.WholeDocument.split("\\t");
@@ -35,9 +33,13 @@ public class ExtractDocumentData
 			String[] WordSplit;
 			for(int i = 0; i < ParagraphSplit.length; i++)
 			{
+				final Paragraphs para = new Paragraphs();
+				this.FinalDocument.Block.add(para);
 				SentenceSplit = ParagraphSplit[i].split("\\.");
 				for(int j = 0; j < SentenceSplit.length; j++)
 				{
+					final Sentences sent = new Sentences();
+					this.FinalDocument.Block.elementAt(i).Paragraph.add(sent);
 					WordSplit = SentenceSplit[j].split(" ");
 					for(int k = 0; k < WordSplit.length; k++)
 					{
@@ -48,21 +50,21 @@ public class ExtractDocumentData
 						{
 							this.Word.WordType = "non Noun";
 						}*/
-						this.Word.Word = WordSplit[k];
-						this.Word.length = WordSplit[k].length();
-						this.Sentence.Sentence.addElement(this.Word);
+						//this.Word.Word = WordSplit[k];
+						//this.Word.length = WordSplit[k].length();
+						Words word = new Words();
+						word.Word = WordSplit[k];
+						String yourface = WordSplit[k];
+						word.length = WordSplit[k].length();
+						this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.addElement(word);
+						System.out.println(word.Word + " " + i+ "|"+j+"|"+k + " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString());
+						//this.Sentence.Sentence.addElement(this.Word);
+						//System.out.println(wo++);
 					}
-					System.out.println("Sentence "+j);
-					this.Sentence.length = WordSplit.length;
-					this.Paragraph.Paragraph.addElement(this.Sentence);
-					this.Sentence.Sentence.clear();
 				}
-				System.out.println("Paragraph "+i);
-				this.Paragraph.length = SentenceSplit.length;
-				this.FinalDocument.Block.addElement(this.Paragraph);
-				this.Paragraph.Paragraph.clear();
 			}
-			//System.out.println(this.FinalDocument.Block.get(2).Paragraph.get(2).Sentence.get(2).Word);
+			System.out.println(this.FinalDocument.Block.get(0).Paragraph.get(0).Sentence.get(0).Word);
+			//System.out.println(this.FinalDocument.Block.get(0).Paragraph.get(2).Sentence.get(2).Word);
 			//System.out.println(NounList.isNoun("0"));
 		}
 	}

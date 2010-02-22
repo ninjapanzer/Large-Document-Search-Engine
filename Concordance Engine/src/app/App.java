@@ -13,11 +13,12 @@ public class App
 		file.FlattenString();
 		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
+		DocumentGUI Display = new DocumentGUI(StripDocument.getFinalDocument());
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
 		//EvaluateSets.PrintUniqueWordStats();
-		threadNounWorkinSet();
+		//threadNounWorkinSet();
 		//EvaluateSets.BuildNounWorkingSet();  //5:32
 		EvaluateSets.PrintNounWorkingSet();
 	}
