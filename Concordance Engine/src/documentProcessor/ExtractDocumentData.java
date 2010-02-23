@@ -43,29 +43,21 @@ public class ExtractDocumentData
 					WordSplit = SentenceSplit[j].split(" ");
 					for(int k = 0; k < WordSplit.length; k++)
 					{
-						/*if (NounList.isNoun(WordSplit[k]))
+						Words word = new Words();
+						if (NounList.isNoun(WordSplit[k]))
 						{
-							this.Word.WordType = "noun";
+							word.WordType = "noun";
 						}else
 						{
-							this.Word.WordType = "non Noun";
-						}*/
-						//this.Word.Word = WordSplit[k];
-						//this.Word.length = WordSplit[k].length();
-						Words word = new Words();
+							word.WordType = "non Noun";
+						}
 						word.Word = WordSplit[k];
-						String yourface = WordSplit[k];
 						word.length = WordSplit[k].length();
 						this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.addElement(word);
-						System.out.println(word.Word + " " + i+ "|"+j+"|"+k + " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString());
-						//this.Sentence.Sentence.addElement(this.Word);
-						//System.out.println(wo++);
+						System.out.println(word.Word + " " + i+ "|"+j+"|"+k + " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
 					}
 				}
 			}
-			System.out.println(this.FinalDocument.Block.get(0).Paragraph.get(0).Sentence.get(0).Word);
-			//System.out.println(this.FinalDocument.Block.get(0).Paragraph.get(2).Sentence.get(2).Word);
-			//System.out.println(NounList.isNoun("0"));
 		}
 	}
 }

@@ -1,12 +1,14 @@
 package documentProcessor;
 
 import java.io.File;
+import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Vector;
 
 public class NounManagement
 {
-	private Vector<String> NounList = new Vector<String>();
+	private Vector<String> NounListVect = new Vector<String>();
+	private HashMap<String, Object> NounList = new HashMap<String, Object>();
 	
 	public NounManagement(String filename)
 	{
@@ -15,29 +17,29 @@ public class NounManagement
 	
 	private void LoadNounList(String filename)
 	{
+		
 		try{
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);
-		String[] nounlist;
+		//String[] nounlist;
 		scan.useDelimiter("\\n");
 		while(scan.hasNext())
 		{
-			this.NounList.addElement(scan.next());
+			this.NounListVect.addElement(scan.next());
+			NounList.put(scan.next(), null);
 		}
 		}catch (Exception e)
 		{
 		      System.err.println("Error: " + e.getMessage());
 	    }
+		 
 	}
 	
 	public boolean isNoun(String noun)
 	{
-		for(String testNoun : NounList)
+		if(this.NounList.containsKey(noun))
 		{
-			if(testNoun.matches(noun))
-			{
-				return true;
-			}
+			return true;
 		}
 		return false;
 		

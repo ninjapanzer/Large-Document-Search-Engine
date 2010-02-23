@@ -23,7 +23,7 @@ public class SequenceDocument
 					Temp.paragraphID = i;
 					Temp.wordLength = Temp.wordcontent.length();
 					SequencedDocument.addElement(Temp);
-					System.out.println(Temp.wordcontent+" "+Temp.paragraphID+"|"+Temp.SentenceID+"|"+Temp.wordID);
+					//System.out.println(Temp.wordcontent+" "+Temp.paragraphID+"|"+Temp.SentenceID+"|"+Temp.wordID);
 				}
 				ReconstructDocument Temp = new ReconstructDocument();
 				Temp.wordcontent = ".";

@@ -35,7 +35,7 @@ public class DisplayGui
 	    for(int p = 0; p < this.SequencedDocument.size(); p++)
 	    {
 	    	 thing += (this.SequencedDocument.elementAt(p).wordcontent +" ");
-	    	 System.out.println(p);
+	    	 //System.out.println(p);
 	    }
 	    textAreal.append(thing);
 	    if (textAreal.getText().contains("Mom"))
