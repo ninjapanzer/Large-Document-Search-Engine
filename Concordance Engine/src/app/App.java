@@ -4,6 +4,7 @@ import java.util.Vector;
 
 import structs.ReconstructDocument;
 import documentProcessor.*;
+import wordlistProcessor.ThesarusHandler;
 
 public class App
 {
@@ -21,6 +22,7 @@ public class App
 		SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
+		ThesarusHandler thesarus = new ThesarusHandler();
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
 		//EvaluateSets.PrintUniqueWordStats();
