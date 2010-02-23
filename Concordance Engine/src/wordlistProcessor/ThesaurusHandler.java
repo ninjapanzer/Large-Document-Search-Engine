@@ -1,6 +1,7 @@
 package wordlistProcessor;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
@@ -10,30 +11,38 @@ public class ThesaurusHandler
 	private HashMap<String, ArrayList<String>> Thesarus = new HashMap<String, ArrayList<String>>();
 	public ThesaurusHandler()
 	{
-		try{
 			File file = new File("..\\Concordance\\Datafiles\\mthesaur.txt");
 			//FileWriter fstream = new FileWriter("..\\Concordance\\Datafiles\\noun.pnz");
 			//BufferedWriter out = new BufferedWriter(fstream);
-			Scanner scan = new Scanner(file);
+			Scanner scan;
+			try {
+				scan = new Scanner(file);
+			
 			String[] thesarusstr;
 			scan.useDelimiter("\\r");
+			ArrayList<String> syn = new ArrayList<String>();
 			while(scan.hasNext())
 			{
 				thesarusstr = scan.next().split(",");
-				ArrayList<String> syn = new ArrayList<String>();
 				for(int i = 1; i < thesarusstr.length; i++)
 				{
-					syn.add(thesarusstr[i]);
+					try{
+						syn.add(thesarusstr[i]);
+					}catch (Exception e)
+					{
+					      System.err.println("out of Memory at index " + i);
+				    }
 				}
-				Thesarus.put(thesarusstr[0], syn);
+				System.out.println(thesarusstr[0].replaceAll("\n", ""));
+				Thesarus.put(thesarusstr[0].replaceAll("\n", ""), syn);
 				syn.clear();
 			}
 			scan.close();
 			//out.close();
-		}catch (Exception e)
-		{
-		      System.err.println("Error: " + e.getMessage());
-	    }
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
 		ArrayList<String> syn = this.Thesarus.get("aboriginal");
 		for (String i : syn)
 		{
