@@ -5,22 +5,21 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.Vector;
 
 public class ThesaurusHandler
 {
-	private HashMap<String, ArrayList<String>> Thesarus = new HashMap<String, ArrayList<String>>();
+	private HashMap<String, Vector<String>> Thesarus = new HashMap<String, Vector<String>>();
 	public ThesaurusHandler()
 	{
 			File file = new File("..\\Concordance\\Datafiles\\mthesaur.txt");
-			//FileWriter fstream = new FileWriter("..\\Concordance\\Datafiles\\noun.pnz");
-			//BufferedWriter out = new BufferedWriter(fstream);
 			Scanner scan;
 			try {
 				scan = new Scanner(file);
 			
 			String[] thesarusstr;
 			scan.useDelimiter("\\r");
-			ArrayList<String> syn = new ArrayList<String>();
+			Vector<String> syn = new Vector<String>();
 			while(scan.hasNext())
 			{
 				thesarusstr = scan.next().split(",");
@@ -33,20 +32,25 @@ public class ThesaurusHandler
 					      System.err.println("out of Memory at index " + i);
 				    }
 				}
-				System.out.println(thesarusstr[0].replaceAll("\n", ""));
-				Thesarus.put(thesarusstr[0].replaceAll("\n", ""), syn);
-				syn.clear();
+				try{
+					Vector<String> tempvect = syn;
+					Thesarus.put(thesarusstr[0].replaceAll("\n", ""), syn);
+					syn.clear();
+				}catch (Exception e)
+				{
+				      System.err.println("out of Memory at " + thesarusstr[0].replaceAll("\n", ""));
+			    }
 			}
 			scan.close();
-			//out.close();
 			} catch (FileNotFoundException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
-		ArrayList<String> syn = this.Thesarus.get("aboriginal");
-		for (String i : syn)
-		{
-			System.out.println(i);
-		}
+			if (this.Thesarus.containsKey("zoom")){
+				System.out.println("zoom exists");
+				System.out.println(this.Thesarus.toString());
+			}
+		Vector<String> syn = this.Thesarus.get("zoom");
+		String item = syn.toString();
+			System.out.println(item);
 	}
 }
