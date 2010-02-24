@@ -25,7 +25,7 @@ public class DisplayGui
 	{
 		JFrame.setDefaultLookAndFeelDecorated(true);
 		JFrame frame = new JFrame("JTextArea Test");
-	    //frame.setLayout(new FlowLayout());
+	    frame.setLayout(new FlowLayout());
 	    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    String text = "";
 	    JTextArea textAreal = new JTextArea(text, 50, 50);
