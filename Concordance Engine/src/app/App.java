@@ -23,6 +23,7 @@ public class App
 		//DisplayGui display = new DisplayGui(SequencedDocument);
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		ThesaurusHandler thesarus = new ThesaurusHandler();
+		//thesarus.CorrelateThesaurusItems("zoom");
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
 		//EvaluateSets.PrintUniqueWordStats();
