@@ -3,7 +3,6 @@ package wordlistProcessor;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Vector;
@@ -105,7 +104,6 @@ public class ThesaurusHandler
 	{
 		WordFrequency updateentry = new WordFrequency();
 		HashMap<String,WordFrequency> frequency = new HashMap<String,WordFrequency>(); 
-		ArrayList<String> Words = new ArrayList<String>();
 		ArrayList<String> ThesaurusItems = ThesaurusLookup(key);
 		if(ThesaurusItems != null)
 		{

@@ -29,7 +29,6 @@ public class ExtractDocumentData
 	private void BreakOnDocument()
 	{
 		ThesaurusHandler Thesaurus = new ThesaurusHandler();
-		int wo = 0;
 		if(this.WholeDocument != null || this.WholeDocument != "")
 		{
 			String[] ParagraphSplit = this.WholeDocument.split("\\t");
