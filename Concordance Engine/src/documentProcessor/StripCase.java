@@ -40,9 +40,19 @@ public class StripCase
 					wholedoc = "";
 					boolean spaceflag = false;
 					boolean paragraphflag = false;
-					if (whitespacetemp[0] == '\n' || whitespacetemp[0] == '\r')
-					{
-						paragraphflag = true;
+					try{
+						if(whitespacetemp.length > 0)
+						{
+							if (whitespacetemp[0] == '\n' || whitespacetemp[0] == '\r')
+							{
+								paragraphflag = true;
+							}
+						}
+					}catch (Exception e) {
+						//System.err.println(whitespacetemp[0]);
+						e.fillInStackTrace();
+				    	System.err.println("Error: " + e.getMessage()+" "+e.getCause()+" in file StripCase.java");
+				    	e.printStackTrace();
 					}
 					for (int i = 0; i < whitespacetemp.length; i++)
 					{
@@ -68,7 +78,9 @@ public class StripCase
 			}
 			scan.close();
 		    }catch (Exception e){//Catch exception if any
-		      System.err.println("Error: " + e.getMessage());
+		    	e.fillInStackTrace();
+		    	System.err.println("Error: " + e.getMessage()+" "+e.getCause()+" in file StripCase.java");
+		    	e.printStackTrace();
 		    }
 	}
 	

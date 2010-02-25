@@ -6,33 +6,38 @@ import java.io.FileWriter;
 import java.util.Scanner;
 
 public class DictStripper {
-
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args)
 	{
 		try{
-			File file = new File("..\\Concordance\\Datafiles\\index.noun");
-			FileWriter fstream = new FileWriter("..\\Concordance\\Datafiles\\noun.pnz");
-			BufferedWriter out = new BufferedWriter(fstream);
-			Scanner scan = new Scanner(file);
-			String[] nounlist;
-			scan.useDelimiter("\\n");
-			while(scan.hasNext())
+			File filedirectory = new File("..\\Concordance\\Datafiles\\dictionary source");
+			for(String index : filedirectory.list())
 			{
-				nounlist = scan.next().split(" ");
-				if(!nounlist[0].isEmpty())
+				//File file = null;
+				if(index.contains("index"))
 				{
-					if(!nounlist[0].contains("_"))
+					File file = new File("..\\Concordance\\Datafiles\\dictionary source\\"+index);
+					System.out.println("..\\Concordance\\Datafiles\\dictionary processed\\"+index.split("\\.")[1].toString()+".pnz");
+					FileWriter fstream = new FileWriter("..\\Concordance\\Datafiles\\dictionary processed\\"+index.split("\\.")[1].toString()+".pnz");
+					BufferedWriter out = new BufferedWriter(fstream);
+					Scanner scan = new Scanner(file);
+					String[] nounlist;
+					scan.useDelimiter("\\n");
+					while(scan.hasNext())
 					{
-						//nounlist[0] = nounlist[0].replaceAll("_", " ");
-						out.write(nounlist[0] + "\n");
+						nounlist = scan.next().split(" ");
+						if(!nounlist[0].isEmpty())
+						{
+							if(!nounlist[0].contains("_"))
+							{
+								out.write(nounlist[0] + "\n");
+							}
+						}
 					}
+					scan.close();
+					out.close();
 				}
 			}
-			scan.close();
-			out.close();
 		}catch (Exception e)
 		{
 		      System.err.println("Error: " + e.getMessage());
