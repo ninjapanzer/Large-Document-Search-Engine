@@ -12,7 +12,7 @@ import structs.WordFrequency;
 public class ThesaurusHandler
 {
 	private HashMap<String, ArrayList<String>> Thesarus = new HashMap<String, ArrayList<String>>();
-	private int LOWordSize = 50;
+	private int LOWordSize = 5;
 	public ThesaurusHandler()
 	{
 			File file = new File("..\\Concordance\\Datafiles\\mthesaur.txt");

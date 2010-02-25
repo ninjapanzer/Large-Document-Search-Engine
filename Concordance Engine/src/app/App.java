@@ -14,7 +14,7 @@ public class App
 	public static void main(String[] args) throws InterruptedException
 	{
 		file.NormalizeWhitespace(true);
-		file.ReadFile("..\\Concordance\\Datafiles\\8ethc10.txt");
+		file.ReadFile("..\\Concordance\\Datafiles\\8ethc10 - Copy.txt");
 		file.FlattenString();
 		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());

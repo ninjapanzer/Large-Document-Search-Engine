@@ -25,8 +25,7 @@ public class NounManagement
 		scan.useDelimiter("\\n");
 		while(scan.hasNext())
 		{
-			this.NounListVect.addElement(scan.next());
-			NounList.put(scan.next(), null);
+			NounList.put(scan.next().replaceAll(" ", ""), null);
 		}
 		}catch (Exception e)
 		{
@@ -41,7 +40,7 @@ public class NounManagement
 		{
 			return true;
 		}
-		return false;
+		return false;	
 		
 	}
 }
