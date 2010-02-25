@@ -40,7 +40,8 @@ public class DisplayGui
 	    textAreal.append(thing);
 	    if (textAreal.getText().contains("Mom"))
 	    {
-	    	String mom = textAreal.getText();
+	    	@SuppressWarnings("unused")
+			String mom = textAreal.getText();
 	    try {
 			h.addHighlight(1, 2, DefaultHighlighter.DefaultPainter);
 		} catch (BadLocationException e) {

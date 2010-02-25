@@ -10,6 +10,7 @@ public class App
 {
 	private static WordWorkingSets EvaluateSets;
 	private static StripCase file = new StripCase();
+	@SuppressWarnings("unused")
 	private static Vector<ReconstructDocument> SequencedDocument;
 	public static void main(String[] args) throws InterruptedException
 	{
@@ -22,6 +23,7 @@ public class App
 		SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
+		@SuppressWarnings("unused")
 		ThesaurusHandler thesarus = new ThesaurusHandler();
 		//thesarus.CorrelateThesaurusItems("zoom");
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
@@ -32,6 +34,7 @@ public class App
 		EvaluateSets.PrintNounWorkingSet();
 	}
 
+	@SuppressWarnings("unused")
 	private static void threadNounWorkinSet() throws InterruptedException
 	{
 		//2:30

@@ -3,11 +3,10 @@ package documentProcessor;
 import java.io.File;
 import java.util.HashMap;
 import java.util.Scanner;
-import java.util.Vector;
 
 public class NounManagement
 {
-	private Vector<String> NounListVect = new Vector<String>();
+	//private Vector<String> NounListVect = new Vector<String>();
 	private HashMap<String, Object> NounList = new HashMap<String, Object>();
 	
 	public NounManagement(String filename)
@@ -21,7 +20,6 @@ public class NounManagement
 		try{
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);
-		//String[] nounlist;
 		scan.useDelimiter("\\n");
 		while(scan.hasNext())
 		{
