@@ -20,22 +20,10 @@ import javax.swing.JFrame;
 import javax.swing.JDialog;
 import java.awt.Dimension;
 import javax.swing.JTextPane;
-import javax.swing.text.SimpleAttributeSet;
-import javax.swing.text.StyleConstants;
-import javax.swing.text.StyledDocument;
-import javax.swing.plaf.FileChooserUI;
-import javax.swing.JFileChooser;
-import java.io.File;
-import javax.swing.filechooser.FileFilter;
 import java.lang.String;
-import java.util.Vector;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
-
-import javax.swing.filechooser.FileView;
-
-import structs.Document;
 
 import app.App;
 
@@ -59,7 +47,6 @@ public class MainApplication {
 	private JLabel aboutVersionLabel = null;
 	private JTextPane jTextPane = null;
 	private JTextPane jTextPane1 = null;
-	private Vector<Document> Documents = new Vector<Document>();
 	private JLabel jLabel = null;
 	/**
 	 * This method initializes jTextPane	
@@ -173,10 +160,9 @@ public class MainApplication {
 				public void actionPerformed(ActionEvent e) {
 					FileDialog fd = new FileDialog(jFrame, null, FileDialog.LOAD);
 				    fd.setLocation(50, 50);
-				    fd.show();
+				    fd.setVisible(true);
 				    final FileDialog fd2 = fd;
 				    System.out.println(fd.getDirectory() + fd.getFile());
-				    App thing2 = null;
 				    FutureTask<App> Task = new FutureTask<App>(new Callable<App>() {
 
 						@Override
