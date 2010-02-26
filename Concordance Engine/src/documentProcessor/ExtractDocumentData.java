@@ -72,7 +72,7 @@ public class ExtractDocumentData
 						}catch (Exception e) {
 							// TODO: handle exception
 						}
-						System.out.println(word.Word + "\t" + i+ "|"+j+"|"+k + "\t" + "****"+this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+"****"+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
+						//System.out.println(word.Word + "\t" + i+ "|"+j+"|"+k + "\t" + "****"+this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+"****"+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
 					}
 					sent.topLOWords = Thesaurus.ReduceSynonyms(SentenceLOWords);
 					try{ParagraphLOWords.addAll(sent.topLOWords);
@@ -80,10 +80,10 @@ public class ExtractDocumentData
 					SentenceLOWords.clear();
 				}
 				para.topLOWords = Thesaurus.ReduceSynonyms(ParagraphLOWords);
-				for (String parawords : ParagraphLOWords)
-				{
-					System.out.println(parawords);
-				}
+				//for (String parawords : ParagraphLOWords)
+				//{
+				//	System.out.println(parawords);
+				//}
 				try{DocumentLOWords.addAll(para.topLOWords);
 				}catch (Exception e){}
 				ParagraphLOWords.clear();

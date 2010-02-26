@@ -2,9 +2,9 @@ package app;
 
 import java.util.Vector;
 
+import structs.Document;
 import structs.ReconstructDocument;
 import documentProcessor.*;
-import wordlistProcessor.ThesaurusHandler;
 
 public class App
 {
@@ -12,19 +12,29 @@ public class App
 	private static StripCase file = new StripCase();
 	@SuppressWarnings("unused")
 	private static Vector<ReconstructDocument> SequencedDocument;
-	public static void main(String[] args) throws InterruptedException
+	private static Document ProcessedDocument = null;
+	public static Document getProcessedDocument(){return ProcessedDocument;}
+	//public static void main(String[] args) throws InterruptedException{}
+	public App(){}
+	public App(String Filename)
+	{
+		ProcessFile(Filename);
+	}
+	
+	public static void ProcessFile(String Filename)
 	{
 		file.NormalizeWhitespace(true);
-		file.ReadFile("..\\Concordance\\Datafiles\\8ethc10 - Copy.txt");
+		file.ReadFile(Filename);
 		file.FlattenString();
 		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
-		SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
-		SequencedDocument = Sequence.getSequencedDocument();
+		ProcessedDocument = StripDocument.getFinalDocument();
+		//SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
+		//SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
 		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
-		@SuppressWarnings("unused")
-		ThesaurusHandler thesarus = new ThesaurusHandler();
+		//@SuppressWarnings("unused")
+		//ThesaurusHandler thesarus = new ThesaurusHandler();
 		//thesarus.CorrelateThesaurusItems("zoom");
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
