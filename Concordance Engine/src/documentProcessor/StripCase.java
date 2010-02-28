@@ -3,8 +3,11 @@ package documentProcessor;
 import java.io.File;
 import java.util.Scanner;
 
+import org.apache.log4j.Logger;
+
 public class StripCase
 {
+	private static Logger logger = Logger.getLogger(StripCase.class);
 	private String WholeDocument ="";
 	private boolean NormalizeWhitespaceFlag = false;
 	
@@ -49,10 +52,12 @@ public class StripCase
 							}
 						}
 					}catch (Exception e) {
-						//System.err.println(whitespacetemp[0]);
-						e.fillInStackTrace();
-				    	System.err.println("Error: " + e.getMessage()+" "+e.getCause()+" in file StripCase.java");
-				    	e.printStackTrace();
+				    	logger.debug("Error: " + e.getMessage()+" "+e.getCause()+" in file StripCase.java");
+				    	StackTraceElement[] stack = e.getStackTrace();
+				    	for(StackTraceElement element : stack)
+				    	{
+				    		logger.debug(element);
+				    	}
 					}
 					for (int i = 0; i < whitespacetemp.length; i++)
 					{

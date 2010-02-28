@@ -8,8 +8,13 @@ import structs.Sentences;
 import structs.Words;
 import wordlistProcessor.ThesaurusHandler;
 
+import org.apache.log4j.Logger;
+
 public class ExtractDocumentData
 {
+	private Logger loggerDocument = Logger.getLogger("documentProcessor.ExtractDocumentData.Document");
+	private Logger loggerParagraph = Logger.getLogger("documentProcessor.ExtractDocumentData.Paragraph");
+	private Logger loggerSentence = Logger.getLogger("documentProcessor.ExtractDocumentData.Sentence");
 	private Document FinalDocument = new Document();
 	private String WholeDocument;
 	private NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
@@ -57,6 +62,7 @@ public class ExtractDocumentData
 								word.LOWords.addAll(Thesaurus.CorrelateThesaurusItems(WordSplit[k]));
 								}
 								catch (Exception e) {
+									//logger.trace("LOWord null");
 									word.LOWords = null;
 								}
 						}else
@@ -75,15 +81,27 @@ public class ExtractDocumentData
 						//System.out.println(word.Word + "\t" + i+ "|"+j+"|"+k + "\t" + "****"+this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+"****"+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
 					}
 					sent.topLOWords = Thesaurus.ReduceSynonyms(SentenceLOWords);
+					loggerSentence.trace(" ");
+					loggerSentence.trace("Sentence "+j+" Paragraph "+i);
+					loggerSentence.trace(" ");
+					for (String sentwords : SentenceLOWords)
+					{
+						loggerSentence.trace(sentwords);
+					}
+					loggerSentence.trace(" ");
 					try{ParagraphLOWords.addAll(sent.topLOWords);
 					}catch (Exception e){}
 					SentenceLOWords.clear();
 				}
 				para.topLOWords = Thesaurus.ReduceSynonyms(ParagraphLOWords);
-				//for (String parawords : ParagraphLOWords)
-				//{
-				//	System.out.println(parawords);
-				//}
+				loggerParagraph.trace(" ");
+				loggerParagraph.trace("Paragraph "+i);
+				loggerParagraph.trace(" ");
+				for (String parawords : ParagraphLOWords)
+				{
+					loggerParagraph.trace(parawords);
+				}
+				loggerParagraph.trace(" ");
 				try{DocumentLOWords.addAll(para.topLOWords);
 				}catch (Exception e){}
 				ParagraphLOWords.clear();
@@ -91,7 +109,7 @@ public class ExtractDocumentData
 			this.FinalDocument.topLOWords = Thesaurus.ReduceSynonyms(DocumentLOWords);
 			for(String lovelytest : this.FinalDocument.topLOWords)
 			{
-				System.out.println(lovelytest);
+				loggerDocument.trace(lovelytest);
 			}
 			DocumentLOWords.clear();
 		}

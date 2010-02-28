@@ -6,8 +6,11 @@ import structs.Document;
 import structs.ReconstructDocument;
 import documentProcessor.*;
 
+import org.apache.log4j.Logger;;
+
 public class App
 {
+	private static Logger logger = Logger.getLogger(App.class);  //  @jve:decl-index=0:
 	private static WordWorkingSets EvaluateSets;
 	private static StripCase file = new StripCase();
 	@SuppressWarnings("unused")
