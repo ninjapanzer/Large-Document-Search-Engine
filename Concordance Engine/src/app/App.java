@@ -1,5 +1,8 @@
 package app;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 import java.util.Vector;
 
 import structs.Document;
@@ -12,6 +15,7 @@ public class App
 {
 	private boolean _done = false;
 	private Logger logger = Logger.getLogger(App.class);  //  @jve:decl-index=0:
+	private String Filename = null;
 	private WordWorkingSets EvaluateSets;
 	private StripCase file = new StripCase();
 	@SuppressWarnings("unused")
@@ -23,7 +27,25 @@ public class App
 	public App(){}
 	public App(String Filename)
 	{
-		ProcessFile(Filename);
+		this.Filename = Filename;
+		if (this.Filename != null || this.Filename != "")
+		{
+			File file = new File(this.Filename);
+			try {
+				this.logger.debug("Trying to Open File");
+				Scanner scan = new Scanner(file);
+				scan.close();
+				this.logger.debug("File Valid");
+			} catch (FileNotFoundException e) {
+				this.logger.debug("File "+this.Filename+" Could not be Opened");
+			}
+			this.logger.debug("Starting "+this.Filename);
+			ProcessFile(Filename);
+		}
+		else
+		{
+			this.logger.debug("Filename Invalid or Missing");
+		}
 	}
 	public boolean isDone() {
 		return this._done;
@@ -37,7 +59,7 @@ public class App
 	public void setisDone(boolean _done) {this._done = _done;}
 	public void ProcessFile(String Filename)
 	{
-		logger.debug("Thread Started");
+		this.logger.debug("Thread Started");
 		this.file.NormalizeWhitespace(true);
 		this.file.ReadFile(Filename);
 		this.file.FlattenString();
@@ -56,8 +78,8 @@ public class App
 		//EvaluateSets.PrintUniqueWordStats();
 		//threadNounWorkinSet();
 		//EvaluateSets.BuildNounWorkingSet();  //5:32
-		this.EvaluateSets.PrintNounWorkingSet();
-		logger.debug("Thread Completed");
+		this.logger.debug(this.EvaluateSets.PrintNounWorkingSet());
+		this.logger.debug("Thread Completed");
 		this._done = true;
 	}
 	//legacy multi thread per file

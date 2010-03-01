@@ -64,14 +64,16 @@ public class WordWorkingSets implements Runnable{
 		this.uniquesize=this.uniqueworkingSet.size();
 	}
 	
-	public void PrintNounWorkingSet()
+	public String PrintNounWorkingSet()
 	{
-		System.out.println("Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words");
+		//System.out.println("Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words");
+		return "Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words";
 	}
 	
-	public void PrintUniqueWordStats()
+	public String PrintUniqueWordStats()
 	{
-		System.out.println("Out of the original "+this.wholedoc.split(" ").length+" words only "+this.uniqueworkingSet.size()+ " are unique words");
+		//System.out.println("Out of the original "+this.wholedoc.split(" ").length+" words only "+this.uniqueworkingSet.size()+ " are unique words");
+		return "Out of the original "+this.wholedoc.split(" ").length+" words only "+this.uniqueworkingSet.size()+ " are unique words";
 	}
 	
 }
