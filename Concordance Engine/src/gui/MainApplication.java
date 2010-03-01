@@ -30,10 +30,16 @@ import app.App;
 
 import java.io.ObjectInputStream.GetField;
 import java.lang.String;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Vector;
 
 import org.apache.log4j.Logger;
+
+import structs.SelectionItems;
+
+import comparison.CompareDocuments;
+
 import javax.swing.JList;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
@@ -119,7 +125,7 @@ public class MainApplication {
 	private JList getJList() {
 		if (jList == null) {
 			jList = new JList();
-			jList.setBounds(new Rectangle(1, 0, 133, 300));
+			jList.setBounds(new Rectangle(1, 0, 179, 300));
 			jList.addListSelectionListener(new ListSelectionListener() {
 			      public void valueChanged(ListSelectionEvent evt) {
 			    	  if (!evt.getValueIsAdjusting())
@@ -151,6 +157,33 @@ public class MainApplication {
 			jButton.setLocation(new Point(207, 15));
 			jButton.setText("Compare");
 			jButton.setEnabled(false);
+			jButton.addActionListener(new ActionListener() {
+				
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					new Thread(new Runnable() {
+						private SelectionItems SelItems = null;
+						@Override
+						public void run() {
+							String filename = "";
+							ArrayList<SelectionItems> Selection = new ArrayList<SelectionItems>();
+							for(Object item : selected) {
+								String[] splititem = item.toString().split(" ");
+								for(int i = 2; i<splititem.length;i++) {
+									filename = filename+ " " +splititem[i];
+								}
+								filename = filename.substring(1);
+								SelItems = new SelectionItems();
+								SelItems.ID = Integer.parseInt(splititem[1]);
+								SelItems.Filename = filename;
+								Selection.add(SelItems);
+								filename = "";
+							}
+							CompareDocuments Comparison = new CompareDocuments(Selection, analyzedObjects);
+						}
+					}).start();	
+				}
+			});
 		}
 		return jButton;
 	}
@@ -253,8 +286,8 @@ public class MainApplication {
 			fileMenu = new JMenu();
 			fileMenu.setText("File");
 			fileMenu.add(getSaveMenuItem());
-			fileMenu.add(getExitMenuItem());
 			fileMenu.add(getOpenMenuItem());
+			fileMenu.add(getExitMenuItem());
 		}
 		return fileMenu;
 	}
