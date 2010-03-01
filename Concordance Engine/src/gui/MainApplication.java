@@ -3,6 +3,7 @@ package gui;
 import java.awt.event.KeyEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.awt.Component;
 import java.awt.Event;
 import java.awt.BorderLayout;
 import java.awt.FileDialog;
@@ -11,6 +12,8 @@ import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.KeyStroke;
 import java.awt.Point;
+
+import javax.swing.DefaultListModel;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JMenuItem;
@@ -18,20 +21,31 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenu;
 import javax.swing.JFrame;
 import javax.swing.JDialog;
+import javax.swing.ListSelectionModel;
+
 import java.awt.Dimension;
 import javax.swing.JTextPane;
 
 import app.App;
 
+import java.io.ObjectInputStream.GetField;
 import java.lang.String;
 import java.util.Iterator;
 import java.util.Vector;
 
 import org.apache.log4j.Logger;
+import javax.swing.JList;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+import javax.swing.JButton;
+import java.awt.Rectangle;
 
 public class MainApplication {
 
 	private static Logger logger = Logger.getLogger(gui.MainApplication.class);  //  @jve:decl-index=0:
+	private static MainApplication application = null;
+	private static DefaultListModel listModel = new DefaultListModel();
+	private static Object[] selected = null;
 	private JFrame jFrame = null;  //  @jve:decl-index=0:visual-constraint="10,10"
 	private JPanel jContentPane = null;
 	private JMenuBar jJMenuBar = null;
@@ -53,6 +67,8 @@ public class MainApplication {
 	private JLabel jLabel = null;
 	final static Vector<App> analyzingObjects = new Vector<App>();  //  @jve:decl-index=0:
 	final static Vector<App> analyzedObjects = new Vector<App>();  //  @jve:decl-index=0:
+	private static JList jList = null;
+	private JButton jButton = null;
 	/**
 	 * This method initializes jTextPane	
 	 * 	
@@ -81,13 +97,71 @@ public class MainApplication {
 	}
 
 	/**
+	 * This method initializes jList	
+	 * 	
+	 * @return javax.swing.JList	
+	 */
+
+	/**
+	 * This method initializes jList	
+	 * 	
+	 * @return javax.swing.JList	
+	 */
+	private static void updateFileList() {
+		listModel.clear();
+		for(App item : analyzedObjects) {
+			listModel.addElement("File "+item.getThreadID()+" "+item.getFileName());
+			}
+		jList.setModel(listModel);
+		//listModel.addElement(analyzedObjects.size());
+		
+	}
+	private JList getJList() {
+		if (jList == null) {
+			jList = new JList();
+			jList.setBounds(new Rectangle(1, 0, 133, 300));
+			jList.addListSelectionListener(new ListSelectionListener() {
+			      public void valueChanged(ListSelectionEvent evt) {
+			    	  if (!evt.getValueIsAdjusting())
+			    	  {
+			    		  JList list = (JList) evt.getSource();
+			    		  selected = list.getSelectedValues();
+			    		  if (selected.length >= 2){
+			    			  jButton.setEnabled(true);
+			    		  }
+			    		  else {
+			    			  jButton.setEnabled(false);
+			    		  }
+			    	  }
+			      }
+			    });
+		}
+		return jList;
+	}
+
+	/**
+	 * This method initializes jButton	
+	 * 	
+	 * @return javax.swing.JButton	
+	 */
+	private JButton getJButton() {
+		if (jButton == null) {
+			jButton = new JButton();
+			jButton.setSize(113, 25);
+			jButton.setLocation(new Point(207, 15));
+			jButton.setText("Compare");
+			jButton.setEnabled(false);
+		}
+		return jButton;
+	}
+
+	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
-				MainApplication application = new MainApplication();
+				application = new MainApplication();
 				application.getJFrame().setVisible(true);
 			}
 		});
@@ -104,6 +178,7 @@ public class MainApplication {
 							iter.remove();
 							logger.trace("Doing Size("+analyzingObjects.size()+")     Done Size("+analyzedObjects.size()+")    Value("+obj.getThreadID()+")");
 							logger.trace("Thread Object "+obj.getThreadID()+" Moved");
+							updateFileList();
 						}
 					}
 					try {
@@ -111,7 +186,7 @@ public class MainApplication {
 					} catch(InterruptedException e) {
 						logger.trace("Failed to Sleep");
 						e.printStackTrace();
-					}
+					}		
 				} while (true);
 			}
 		}).start();
@@ -143,9 +218,12 @@ public class MainApplication {
 		if (jContentPane == null) {
 			jLabel = new JLabel();
 			jLabel.setText("DROP HERE");
+			jLabel.setBounds(new Rectangle(0, 300, 545, 16));
 			jContentPane = new JPanel();
-			jContentPane.setLayout(new BorderLayout());
-			jContentPane.add(jLabel, BorderLayout.SOUTH);
+			jContentPane.setLayout(null);
+			jContentPane.add(jLabel, null);
+			jContentPane.add(getJList(), null);
+			jContentPane.add(getJButton(), null);
 		}
 		return jContentPane;
 	}
@@ -198,7 +276,6 @@ public class MainApplication {
 								logger.trace("File Dialog: "+fd2.getDirectory() + fd2.getFile());
 								App element = new App(fd2.getDirectory() + fd2.getFile());
 								analyzingObjects.add(element);
-								//analyzingObjects.get(0).SetisDone(true);
 								}catch (Exception e) {
 									logger.trace("Cannot Create New Thread");
 								}

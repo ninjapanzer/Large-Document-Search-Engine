@@ -1,13 +1,14 @@
 package documentProcessor;
 
+import java.util.ArrayList;
 import java.util.Vector;
 
 import structs.*;
 
 public class SequenceDocument
 {
-	private Vector<ReconstructDocument> SequencedDocument = new Vector<ReconstructDocument>();
-	public Vector<ReconstructDocument> getSequencedDocument(){return this.SequencedDocument;}
+	private ArrayList<ReconstructDocument> SequencedDocument = new ArrayList<ReconstructDocument>();
+	public ArrayList<ReconstructDocument> getSequencedDocument(){return this.SequencedDocument;}
 	public SequenceDocument(Document wholedocument)
 	{
 		for(int i = 0; i< wholedocument.Block.size(); i++)
@@ -22,7 +23,7 @@ public class SequenceDocument
 					Temp.SentenceID = j;
 					Temp.paragraphID = i;
 					Temp.wordLength = Temp.wordcontent.length();
-					SequencedDocument.addElement(Temp);
+					SequencedDocument.add(Temp);
 					//System.out.println(Temp.wordcontent+" "+Temp.paragraphID+"|"+Temp.SentenceID+"|"+Temp.wordID);
 				}
 				ReconstructDocument Temp = new ReconstructDocument();
@@ -31,7 +32,7 @@ public class SequenceDocument
 				Temp.SentenceID = -1;
 				Temp.paragraphID = -1;
 				Temp.wordLength = Temp.wordcontent.length();
-				SequencedDocument.addElement(Temp);
+				SequencedDocument.add(Temp);
 			}
 			ReconstructDocument Temp = new ReconstructDocument();
 			Temp.wordcontent = "\n\t";
@@ -39,7 +40,7 @@ public class SequenceDocument
 			Temp.SentenceID = -2;
 			Temp.paragraphID = -2;
 			Temp.wordLength = Temp.wordcontent.length();
-			SequencedDocument.addElement(Temp);
+			SequencedDocument.add(Temp);
 		}
 	}
 }

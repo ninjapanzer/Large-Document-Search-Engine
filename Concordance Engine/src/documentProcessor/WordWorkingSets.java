@@ -2,11 +2,7 @@ package documentProcessor;
 
 import java.util.Vector;
 
-public class WordWorkingSets implements Runnable{
-	public void run()
-	{
-		this.BuildNounWorkingSet(this.start, this.stop);
-	}
+public class WordWorkingSets{
 	private int uniquesize = 0;
 	private int start, stop;
 	private String wholedoc;

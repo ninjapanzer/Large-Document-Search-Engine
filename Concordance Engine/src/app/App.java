@@ -2,8 +2,11 @@ package app;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Vector;
+
+import javax.swing.ListModel;
 
 import structs.Document;
 import structs.ReconstructDocument;
@@ -19,9 +22,10 @@ public class App
 	private WordWorkingSets EvaluateSets;
 	private StripCase file = new StripCase();
 	@SuppressWarnings("unused")
-	private static Vector<ReconstructDocument> SequencedDocument;
+	private ArrayList<ReconstructDocument> SequencedDocument;
 	private Document ProcessedDocument = null;
 	private int threadID;
+	private String FullFileName;
 	public Document getProcessedDocument(){return this.ProcessedDocument;}
 	//public static void main(String[] args) throws InterruptedException{}
 	public App(){}
@@ -47,8 +51,19 @@ public class App
 			this.logger.debug("Filename Invalid or Missing");
 		}
 	}
+	public ArrayList<ReconstructDocument> getSequencedDocument()
+	{
+		return this.SequencedDocument;
+	}
 	public boolean isDone() {
 		return this._done;
+	}
+	public String getFullFileName() {
+		return this.Filename;
+	}
+	public String getFileName() {
+		logger.debug(this.Filename.split("\\\\")[this.Filename.split("\\\\").length-1].toString());
+		return this.Filename.split("\\\\")[this.Filename.split("\\\\").length-1].toString();
 	}
 	public void setThreadID(int ID) {
 		this.threadID = ID;
@@ -66,8 +81,8 @@ public class App
 		ExtractDocumentData StripDocument = new ExtractDocumentData(this.file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
 		this.ProcessedDocument = StripDocument.getFinalDocument();
-		//SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
-		//SequencedDocument = Sequence.getSequencedDocument();
+		SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
+		this.SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
 		this.EvaluateSets = new WordWorkingSets(this.file.GetWholeDocument());
 		//@SuppressWarnings("unused")
@@ -113,5 +128,6 @@ public class App
 		}
 		//EvaluateSets.BuildNounWorkingSet();  //5:32
 		*/
+	
 	}
 	
