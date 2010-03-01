@@ -83,7 +83,7 @@ public class StripCase
 			}
 			scan.close();
 		    }catch (Exception e){//Catch exception if any
-		    	e.fillInStackTrace();
+		    	//e.fillInStackTrace();
 		    	System.err.println("Error: " + e.getMessage()+" "+e.getCause()+" in file StripCase.java");
 		    	e.printStackTrace();
 		    }

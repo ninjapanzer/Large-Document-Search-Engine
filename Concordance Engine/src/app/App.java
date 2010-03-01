@@ -6,36 +6,48 @@ import structs.Document;
 import structs.ReconstructDocument;
 import documentProcessor.*;
 
-import org.apache.log4j.Logger;;
+import org.apache.log4j.Logger;
 
 public class App
 {
-	private static Logger logger = Logger.getLogger(App.class);  //  @jve:decl-index=0:
-	private static WordWorkingSets EvaluateSets;
-	private static StripCase file = new StripCase();
+	private boolean _done = false;
+	private Logger logger = Logger.getLogger(App.class);  //  @jve:decl-index=0:
+	private WordWorkingSets EvaluateSets;
+	private StripCase file = new StripCase();
 	@SuppressWarnings("unused")
 	private static Vector<ReconstructDocument> SequencedDocument;
-	private static Document ProcessedDocument = null;
-	public static Document getProcessedDocument(){return ProcessedDocument;}
+	private Document ProcessedDocument = null;
+	private int threadID;
+	public Document getProcessedDocument(){return this.ProcessedDocument;}
 	//public static void main(String[] args) throws InterruptedException{}
 	public App(){}
 	public App(String Filename)
 	{
 		ProcessFile(Filename);
 	}
-	
-	public static void ProcessFile(String Filename)
+	public boolean isDone() {
+		return this._done;
+	}
+	public void setThreadID(int ID) {
+		this.threadID = ID;
+	}
+	public int getThreadID() {
+		return this.threadID;
+	}
+	public void setisDone(boolean _done) {this._done = _done;}
+	public void ProcessFile(String Filename)
 	{
-		file.NormalizeWhitespace(true);
-		file.ReadFile(Filename);
-		file.FlattenString();
-		ExtractDocumentData StripDocument = new ExtractDocumentData(file.GetWholeDocument());
+		logger.debug("Thread Started");
+		this.file.NormalizeWhitespace(true);
+		this.file.ReadFile(Filename);
+		this.file.FlattenString();
+		ExtractDocumentData StripDocument = new ExtractDocumentData(this.file.GetWholeDocument());
 		//System.out.println(file.GetWholeDocument());
-		ProcessedDocument = StripDocument.getFinalDocument();
+		this.ProcessedDocument = StripDocument.getFinalDocument();
 		//SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
 		//SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
-		EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
+		this.EvaluateSets = new WordWorkingSets(this.file.GetWholeDocument());
 		//@SuppressWarnings("unused")
 		//ThesaurusHandler thesarus = new ThesaurusHandler();
 		//thesarus.CorrelateThesaurusItems("zoom");
@@ -44,9 +56,12 @@ public class App
 		//EvaluateSets.PrintUniqueWordStats();
 		//threadNounWorkinSet();
 		//EvaluateSets.BuildNounWorkingSet();  //5:32
-		EvaluateSets.PrintNounWorkingSet();
+		this.EvaluateSets.PrintNounWorkingSet();
+		logger.debug("Thread Completed");
+		this._done = true;
 	}
-
+	//legacy multi thread per file
+	/*
 	@SuppressWarnings("unused")
 	private static void threadNounWorkinSet() throws InterruptedException
 	{
@@ -75,5 +90,6 @@ public class App
 			fourth.join();
 		}
 		//EvaluateSets.BuildNounWorkingSet();  //5:32
+		*/
 	}
 	

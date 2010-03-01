@@ -20,15 +20,18 @@ import javax.swing.JFrame;
 import javax.swing.JDialog;
 import java.awt.Dimension;
 import javax.swing.JTextPane;
-import java.lang.String;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
 
 import app.App;
 
+import java.lang.String;
+import java.util.Iterator;
+import java.util.Vector;
+
+import org.apache.log4j.Logger;
+
 public class MainApplication {
 
+	private static Logger logger = Logger.getLogger(gui.MainApplication.class);  //  @jve:decl-index=0:
 	private JFrame jFrame = null;  //  @jve:decl-index=0:visual-constraint="10,10"
 	private JPanel jContentPane = null;
 	private JMenuBar jJMenuBar = null;
@@ -48,6 +51,8 @@ public class MainApplication {
 	private JTextPane jTextPane = null;
 	private JTextPane jTextPane1 = null;
 	private JLabel jLabel = null;
+	final static Vector<App> analyzingObjects = new Vector<App>();  //  @jve:decl-index=0:
+	final static Vector<App> analyzedObjects = new Vector<App>();  //  @jve:decl-index=0:
 	/**
 	 * This method initializes jTextPane	
 	 * 	
@@ -86,6 +91,30 @@ public class MainApplication {
 				application.getJFrame().setVisible(true);
 			}
 		});
+		new Thread(new Runnable() {
+			@Override
+			public void run() {
+				do {
+					for(Iterator<App> iter = analyzingObjects.iterator(); iter.hasNext();){
+						App obj = iter.next();
+						if(obj.isDone()) {
+							logger.trace("Moving Thread Object "+analyzedObjects.size());
+							obj.setThreadID(analyzedObjects.size());
+							analyzedObjects.add(obj);
+							iter.remove();
+							logger.trace("Doing Size("+analyzingObjects.size()+")     Done Size("+analyzedObjects.size()+")    Value("+obj.getThreadID()+")");
+							logger.trace("Thread Object "+obj.getThreadID()+" Moved");
+						}
+					}
+					try {
+						Thread.sleep(150);
+					} catch(InterruptedException e) {
+						logger.trace("Failed to Sleep");
+						e.printStackTrace();
+					}
+				} while (true);
+			}
+		}).start();
 	}
 
 	/**
@@ -163,27 +192,18 @@ public class MainApplication {
 				    fd.setVisible(true);
 				    final FileDialog fd2 = fd;
 				    System.out.println(fd.getDirectory() + fd.getFile());
-				    FutureTask<App> Task = new FutureTask<App>(new Callable<App>() {
-
+				    new Thread(new Runnable() {
 						@Override
-						public App call() throws Exception {
-							return new App(fd2.getDirectory() + fd2.getFile());
-							// TODO Auto-generated method stub
+						public void run() {
+							try {
+								App element = new App(fd2.getDirectory() + fd2.getFile());
+								analyzingObjects.add(element);
+								//analyzingObjects.get(0).SetisDone(true);
+								}catch (Exception e) {
+									logger.trace("Cannot Create New Thread");
+								}
 						}
-					});
-				    new Thread(Task).start();
-				    try {
-						System.out.println(Task.get().getProcessedDocument().Block.size());
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					} catch (ExecutionException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-				    //Documents.addElement(thing2.getProcessedDocument());
-				    //System.out.println(Documents.size());
-				    //first.start();
+					}).start();
 				}
 			});
 		}
