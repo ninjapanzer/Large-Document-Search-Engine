@@ -196,6 +196,7 @@ public class MainApplication {
 						@Override
 						public void run() {
 							try {
+								logger.trace(fd2.getDirectory() + fd2.getFile());
 								App element = new App(fd2.getDirectory() + fd2.getFile());
 								analyzingObjects.add(element);
 								//analyzingObjects.get(0).SetisDone(true);

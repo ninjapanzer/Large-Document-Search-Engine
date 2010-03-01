@@ -28,7 +28,7 @@ public class App
 	public App(String Filename)
 	{
 		this.Filename = Filename;
-		if (this.Filename != null || this.Filename != "")
+		if (this.Filename != null || this.Filename != "" || this.Filename != "nullnull")
 		{
 			File file = new File(this.Filename);
 			try {
@@ -36,11 +36,11 @@ public class App
 				Scanner scan = new Scanner(file);
 				scan.close();
 				this.logger.debug("File Valid");
+				this.logger.debug("Starting "+this.Filename);
+				ProcessFile(Filename);
 			} catch (FileNotFoundException e) {
 				this.logger.debug("File "+this.Filename+" Could not be Opened");
 			}
-			this.logger.debug("Starting "+this.Filename);
-			ProcessFile(Filename);
 		}
 		else
 		{
