@@ -20,7 +20,16 @@ public class CompareDocuments {
 		this.Selection = Selection;
 		this.AnaylzedDocuments = AnaylzedDocuments;
 		this.extractComparisonList();
-		int i = 10;
+		this.compareDocuments();
+	}
+	private void compareDocuments() {
+		for(Document item : this.Comparables) {
+			for(int i = 0; i<item.Block.size(); i++) {
+				for(int j = 0; j<item.Block.elementAt(i).topLOWords.size(); j++) {
+					item.Block.elementAt(i).topLOWords.elementAt(j);
+				}
+			}
+		}
 	}
 	private void extractComparisonList() {
 		this.Comparables = new ArrayList<Document>();
