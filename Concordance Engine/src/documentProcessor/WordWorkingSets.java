@@ -34,7 +34,6 @@ public class WordWorkingSets implements Runnable{
 			{
 				this.nounworkingSet.addElement(this.uniqueworkingSet.get(i));
 			}
-			System.out.println(i);
 		}
 	}
 	
@@ -47,7 +46,6 @@ public class WordWorkingSets implements Runnable{
 			{
 				this.nounworkingSet.addElement(this.uniqueworkingSet.get(i));
 			}
-			System.out.println(i);
 		}
 	}
 	

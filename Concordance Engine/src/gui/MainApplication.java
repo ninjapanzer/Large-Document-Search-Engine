@@ -191,12 +191,11 @@ public class MainApplication {
 				    fd.setLocation(50, 50);
 				    fd.setVisible(true);
 				    final FileDialog fd2 = fd;
-				    System.out.println(fd.getDirectory() + fd.getFile());
 				    new Thread(new Runnable() {
 						@Override
 						public void run() {
 							try {
-								logger.trace(fd2.getDirectory() + fd2.getFile());
+								logger.trace("File Dialog: "+fd2.getDirectory() + fd2.getFile());
 								App element = new App(fd2.getDirectory() + fd2.getFile());
 								analyzingObjects.add(element);
 								//analyzingObjects.get(0).SetisDone(true);

@@ -75,9 +75,9 @@ public class App
 		//thesarus.CorrelateThesaurusItems("zoom");
 		//WordWorkingSets EvaluateSets = new WordWorkingSets(file.GetWholeDocument());
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
-		//EvaluateSets.PrintUniqueWordStats();
+		this.logger.debug(EvaluateSets.PrintUniqueWordStats());
 		//threadNounWorkinSet();
-		//EvaluateSets.BuildNounWorkingSet();  //5:32
+		EvaluateSets.BuildNounWorkingSet();  //5:32
 		this.logger.debug(this.EvaluateSets.PrintNounWorkingSet());
 		this.logger.debug("Thread Completed");
 		this._done = true;
