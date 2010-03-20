@@ -1,5 +1,6 @@
 package documentProcessor;
 
+import java.io.File;
 import java.util.Vector;
 
 import structs.Document;
@@ -17,7 +18,7 @@ public class ExtractDocumentData
 	private Logger loggerSentence = Logger.getLogger("documentProcessor.ExtractDocumentData.Sentence");
 	private Document FinalDocument = new Document();
 	private String WholeDocument;
-	private NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
+	private NounManagement NounList = new NounManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
 	
 	public ExtractDocumentData(){}
 	
@@ -58,25 +59,29 @@ public class ExtractDocumentData
 						if (NounList.isNoun(WordSplit[k]))
 						{
 							word.WordType = "noun";
+							System.out.println("Thesaurus failed at: "+WordSplit[k]);
 							try{
 								word.LOWords.addAll(Thesaurus.CorrelateThesaurusItems(WordSplit[k]));
 								}
 								catch (Exception e) {
-									//logger.trace("LOWord null");
-									word.LOWords = null;
+									loggerSentence.trace(word.Word+ " LOWord null");
+									e.printStackTrace();
+									//word.LOWords = null;
 								}
 						}else
 						{
 							word.WordType = "non Noun";
-							word.LOWords = null;
+							word.LOWords = new Vector<String>();
 						}
 						
 						word.Word = WordSplit[k];
 						word.length = WordSplit[k].length();
 						this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.addElement(word);
+						//System.out.println(word.LOWords.size());
 						try{SentenceLOWords.addAll(word.LOWords);
 						}catch (Exception e) {
-							// TODO: handle exception
+							System.out.println("failed at word "+ word.Word);
+							e.printStackTrace();
 						}
 						//System.out.println(word.Word + "\t" + i+ "|"+j+"|"+k + "\t" + "****"+this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+"****"+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
 					}

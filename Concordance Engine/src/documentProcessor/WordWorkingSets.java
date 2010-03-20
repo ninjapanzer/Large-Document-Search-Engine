@@ -1,5 +1,6 @@
 package documentProcessor;
 
+import java.io.File;
 import java.util.Vector;
 
 public class WordWorkingSets{
@@ -23,7 +24,7 @@ public class WordWorkingSets{
 	
 	public void BuildNounWorkingSet()
 	{
-		NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
+		NounManagement NounList = new NounManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
 		for(int i = 0; i < this.uniqueworkingSet.size(); i++)
 		{
 			if(NounList.isNoun(this.uniqueworkingSet.get(i)))
@@ -35,7 +36,7 @@ public class WordWorkingSets{
 	
 	public void BuildNounWorkingSet(int start, int end)
 	{
-		NounManagement NounList = new NounManagement("..\\Concordance\\Datafiles\\noun.pnz");
+		NounManagement NounList = new NounManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
 		for(int i = start; i < end; i++)
 		{
 			if(NounList.isNoun(this.uniqueworkingSet.get(i)))

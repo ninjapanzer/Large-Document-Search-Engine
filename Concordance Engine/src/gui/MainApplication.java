@@ -3,7 +3,6 @@ package gui;
 import java.awt.event.KeyEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.awt.Component;
 import java.awt.Event;
 import java.awt.BorderLayout;
 import java.awt.FileDialog;
@@ -21,14 +20,11 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenu;
 import javax.swing.JFrame;
 import javax.swing.JDialog;
-import javax.swing.ListSelectionModel;
-
 import java.awt.Dimension;
 import javax.swing.JTextPane;
 
 import app.App;
 
-import java.io.ObjectInputStream.GetField;
 import java.lang.String;
 import java.util.ArrayList;
 import java.util.Iterator;

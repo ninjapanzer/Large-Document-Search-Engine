@@ -15,7 +15,7 @@ public class ThesaurusHandler
 	private int LOWordSize = 5;
 	public ThesaurusHandler()
 	{
-			File file = new File("..\\Concordance\\Datafiles\\mthesaur.txt");
+			File file = new File(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"mthesaur.txt");
 			Scanner scan;
 			try {
 				scan = new Scanner(file);

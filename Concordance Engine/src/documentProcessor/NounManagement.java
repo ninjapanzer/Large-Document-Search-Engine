@@ -20,7 +20,7 @@ public class NounManagement
 		try{
 		File file = new File(filename);
 		Scanner scan = new Scanner(file);
-		scan.useDelimiter("\\n");
+		scan.useDelimiter(System.getProperty("line.separator"));
 		while(scan.hasNext())
 		{
 			NounList.put(scan.next().replaceAll(" ", ""), null);

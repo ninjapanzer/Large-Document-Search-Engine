@@ -4,10 +4,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.Vector;
-
-import javax.swing.ListModel;
-
 import structs.Document;
 import structs.ReconstructDocument;
 import documentProcessor.*;
@@ -62,8 +58,8 @@ public class App
 		return this.Filename;
 	}
 	public String getFileName() {
-		logger.debug(this.Filename.split("\\\\")[this.Filename.split("\\\\").length-1].toString());
-		return this.Filename.split("\\\\")[this.Filename.split("\\\\").length-1].toString();
+		logger.debug(this.Filename.split(File.separator)[this.Filename.split(File.separator).length-1].toString());
+		return this.Filename.split(File.separator)[this.Filename.split(File.separator).length-1].toString();
 	}
 	public void setThreadID(int ID) {
 		this.threadID = ID;
