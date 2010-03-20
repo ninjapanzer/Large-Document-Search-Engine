@@ -20,6 +20,7 @@ public class WordWorkingSets{
 		this.wholedoc = wholedoc;
 		this.uniqueworkingSet.addElement("the");
 		this.BuildUniqueWordWorkingSet();
+		this.BuildNounWorkingSet();
 	}
 	
 	public void BuildNounWorkingSet()
@@ -62,7 +63,7 @@ public class WordWorkingSets{
 	public String PrintNounWorkingSet()
 	{
 		//System.out.println("Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words");
-		return "Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns words";
+		return "Out of the unique "+this.uniqueworkingSet.size()+" words only "+this.nounworkingSet.size()+ " are standard nouns";
 	}
 	
 	public String PrintUniqueWordStats()

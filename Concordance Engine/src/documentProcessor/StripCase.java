@@ -37,7 +37,8 @@ public class StripCase
 			{
 				wholedoc = scan.next();
 				wholedoc = wholedoc.replaceAll("[\\?\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
-				logger.debug(wholedoc);
+				//logger.debug(wholedoc.split(" ").length);
+				//logger.debug(this.WholeDocument.split(" ").length);
 				whitespacetemp = wholedoc.toCharArray();
 				if(this.NormalizeWhitespaceFlag)
 				{

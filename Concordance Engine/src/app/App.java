@@ -58,7 +58,7 @@ public class App
 		return this.Filename;
 	}
 	public String getFileName() {
-		logger.debug(this.Filename.split("\\"+File.separator)[this.Filename.split("\\"+File.separator).length-1].toString());
+		//logger.debug(this.Filename.split("\\"+File.separator)[this.Filename.split("\\"+File.separator).length-1].toString());
 		return this.Filename.split("\\"+File.separator)[this.Filename.split("\\"+File.separator).length-1].toString();
 	}
 	public void setThreadID(int ID) {
@@ -88,7 +88,7 @@ public class App
 		//WordWorkingSets EvaluateSets2 = new WordWorkingSets(file.GetWholeDocument());
 		this.logger.debug(EvaluateSets.PrintUniqueWordStats());
 		//threadNounWorkinSet();
-		EvaluateSets.BuildNounWorkingSet();  //5:32
+		//EvaluateSets.BuildNounWorkingSet();  //5:32
 		this.logger.debug(this.EvaluateSets.PrintNounWorkingSet());
 		this.logger.debug("Thread Completed");
 		this._done = true;
