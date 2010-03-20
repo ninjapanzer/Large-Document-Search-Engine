@@ -1,0 +1,160 @@
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 0 Paragraph 0
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 1 Paragraph 0
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 0 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 1 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 2 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 3 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 4 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 5 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 6 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 7 Paragraph 1
+19:37:05,890 TRACE Sentence:91 -  
+19:37:05,890 TRACE Sentence:96 -  
+19:37:05,890 TRACE Sentence:89 -  
+19:37:05,890 TRACE Sentence:90 - Sentence 8 Paragraph 1
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 9 Paragraph 1
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 10 Paragraph 1
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 2
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 3
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 3
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 4
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 4
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 2 Paragraph 4
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 2 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 3 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 4 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 5 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 6 Paragraph 5
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 6
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 6
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 2 Paragraph 6
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 3 Paragraph 6
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 4 Paragraph 6
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 7
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 7
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 2 Paragraph 7
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 3 Paragraph 7
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 4 Paragraph 7
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 0 Paragraph 8
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 1 Paragraph 8
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 2 Paragraph 8
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  
+19:37:05,906 TRACE Sentence:89 -  
+19:37:05,906 TRACE Sentence:90 - Sentence 3 Paragraph 8
+19:37:05,906 TRACE Sentence:91 -  
+19:37:05,906 TRACE Sentence:96 -  

@@ -1,0 +1,4 @@
+19:37:02,906 TRACE MainApplication:305 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+19:37:06,093 TRACE MainApplication:204 - Moving Thread Object 0
+19:37:06,093 TRACE MainApplication:208 - Doing Size(0)     Done Size(1)    Value(0)
+19:37:06,093 TRACE MainApplication:209 - Thread Object 0 Moved

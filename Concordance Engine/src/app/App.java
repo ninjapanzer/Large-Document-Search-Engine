@@ -58,8 +58,8 @@ public class App
 		return this.Filename;
 	}
 	public String getFileName() {
-		logger.debug(this.Filename.split(File.separator)[this.Filename.split(File.separator).length-1].toString());
-		return this.Filename.split(File.separator)[this.Filename.split(File.separator).length-1].toString();
+		logger.debug(this.Filename.split("\\"+File.separator)[this.Filename.split("\\"+File.separator).length-1].toString());
+		return this.Filename.split("\\"+File.separator)[this.Filename.split("\\"+File.separator).length-1].toString();
 	}
 	public void setThreadID(int ID) {
 		this.threadID = ID;
