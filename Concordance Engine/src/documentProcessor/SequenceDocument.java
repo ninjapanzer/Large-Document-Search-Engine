@@ -1,8 +1,6 @@
 package documentProcessor;
 
 import java.util.ArrayList;
-import java.util.Vector;
-
 import structs.*;
 
 public class SequenceDocument

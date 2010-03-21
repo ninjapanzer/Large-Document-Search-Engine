@@ -1,7 +1,6 @@
 package comparison;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.Vector;
 
 import org.apache.log4j.Logger;

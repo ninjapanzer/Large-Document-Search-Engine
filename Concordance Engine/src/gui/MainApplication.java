@@ -175,6 +175,7 @@ public class MainApplication {
 								Selection.add(SelItems);
 								filename = "";
 							}
+							@SuppressWarnings("unused")
 							CompareDocuments Comparison = new CompareDocuments(Selection, analyzedObjects);
 						}
 					}).start();	

@@ -17,10 +17,10 @@ public class App
 	private String Filename = null;
 	private WordWorkingSets EvaluateSets;
 	private StripCase file = new StripCase();
-	@SuppressWarnings("unused")
 	private ArrayList<ReconstructDocument> SequencedDocument;
 	private Document ProcessedDocument = null;
 	private int threadID;
+	@SuppressWarnings("unused")
 	private String FullFileName;
 	public Document getProcessedDocument(){return this.ProcessedDocument;}
 	//public static void main(String[] args) throws InterruptedException{}

@@ -5,6 +5,7 @@ import java.util.Vector;
 
 public class WordWorkingSets{
 	private int uniquesize = 0;
+	@SuppressWarnings("unused")
 	private int start, stop;
 	private String wholedoc;
 	private Vector<String> uniqueworkingSet = new Vector<String>();
