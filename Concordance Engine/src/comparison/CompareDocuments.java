@@ -1,6 +1,7 @@
 package comparison;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Vector;
 
 import org.apache.log4j.Logger;
@@ -20,15 +21,39 @@ public class CompareDocuments {
 		this.AnaylzedDocuments = AnaylzedDocuments;
 		this.extractComparisonList();
 		this.compareDocuments();
+		System.out.println(this.Comparables.size());
 	}
 	private void compareDocuments() {
+		Vector<Vector<String>> thing = new Vector<Vector<String>>();
 		for(Document item : this.Comparables) {
-			for(int i = 0; i<item.Block.size(); i++) {
-				for(int j = 0; j<item.Block.elementAt(i).topLOWords.size(); j++) {
-					item.Block.elementAt(i).topLOWords.elementAt(j);
+			thing.addElement(this.retrieveDocumentLOWords(item));
+		}
+		int count = 0;
+		HashMap<String, Object> test = new HashMap<String, Object>();
+		test.put("", null);
+		for(Vector<String> item : thing){
+			for(String subitem : item){
+				System.out.println(subitem);
+				if(!test.containsKey(subitem)){
+					test.put(subitem, null);
+					System.out.println(subitem);
+					count++;
 				}
 			}
 		}
+		System.out.println((count/test.size()-1)*100+"%");
+	}
+	private Vector<String> retrieveDocumentLOWords(Document FullDocument){
+		return FullDocument.topLOWords;
+	}
+	private Vector<String> retrieveParagraphLOWords(Document FullDocument, int ParagraphNumber){
+		return FullDocument.Block.elementAt(ParagraphNumber).topLOWords;
+	}
+	private Vector<String> retrieveSentenceLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber){
+		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).topLOWords;
+	}
+	private Vector<String> retrieveWordLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber, int WordNumber){
+		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).Sentence.elementAt(WordNumber).LOWords;
 	}
 	private void extractComparisonList() {
 		this.Comparables = new ArrayList<Document>();
