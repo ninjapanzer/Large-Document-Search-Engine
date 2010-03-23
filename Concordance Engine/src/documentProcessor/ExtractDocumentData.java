@@ -34,6 +34,7 @@ public class ExtractDocumentData
 	
 	private void BreakOnDocument()
 	{
+		int TFail = 0;
 		ThesaurusHandler Thesaurus = new ThesaurusHandler();
 		if(this.WholeDocument != null || this.WholeDocument != "")
 		{
@@ -59,13 +60,14 @@ public class ExtractDocumentData
 						if (NounList.isNoun(WordSplit[k]))
 						{
 							word.WordType = "noun";
-							System.out.println("Thesaurus failed at: "+WordSplit[k]);
 							try{
 								word.LOWords.addAll(Thesaurus.CorrelateThesaurusItems(WordSplit[k]));
 								}
 								catch (Exception e) {
+									//System.out.println("Thesaurus failed at: "+WordSplit[k]);
+									TFail++;
 									loggerSentence.trace(word.Word+ " LOWord null");
-									e.printStackTrace();
+									//e.printStackTrace();
 									//word.LOWords = null;
 								}
 						}else
@@ -118,5 +120,6 @@ public class ExtractDocumentData
 			}
 			DocumentLOWords.clear();
 		}
+		System.out.println("Thesaurus Failed on "+TFail+" Words");
 	}
 }

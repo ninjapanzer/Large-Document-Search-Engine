@@ -4,23 +4,27 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class NounManagement
+public final class NounManagement
 {
 	//private Vector<String> NounListVect = new Vector<String>();
 	private HashMap<String, Object> NounList = new HashMap<String, Object>();
-	
+	private File file = null;
 	public NounManagement(String filename)
 	{
-		this.LoadNounList(filename);
+		LoadNounList(filename);
 	}
 	
 	private void LoadNounList(String filename)
 	{
 		
 		try{
-		File file = new File(filename);
+			if (file == null)
+			{
+				file = new File(filename);
+			}
 		Scanner scan = new Scanner(file);
-		scan.useDelimiter(System.getProperty("line.separator"));
+		//System.out.println("\\"+System.getProperty("line.separator"));
+		scan.useDelimiter("\n");
 		while(scan.hasNext())
 		{
 			NounList.put(scan.next().replaceAll(" ", ""), null);
@@ -29,7 +33,6 @@ public class NounManagement
 		{
 		      System.err.println("Error: " + e.getMessage());
 	    }
-		 
 	}
 	
 	public boolean isNoun(String noun)

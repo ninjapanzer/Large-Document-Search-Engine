@@ -21,7 +21,7 @@ public class CompareDocuments {
 		this.AnaylzedDocuments = AnaylzedDocuments;
 		this.extractComparisonList();
 		this.compareDocuments();
-		System.out.println(this.Comparables.size());
+		logger.trace(this.Comparables.size());
 	}
 	private void compareDocuments() {
 		Vector<Vector<String>> thing = new Vector<Vector<String>>();
@@ -29,19 +29,29 @@ public class CompareDocuments {
 			thing.addElement(this.retrieveDocumentLOWords(item));
 		}
 		int count = 0;
+		int hashcount = 0;
 		HashMap<String, Object> test = new HashMap<String, Object>();
 		test.put("", null);
 		for(Vector<String> item : thing){
 			for(String subitem : item){
-				System.out.println(subitem);
+				//System.out.println(subitem);
 				if(!test.containsKey(subitem)){
 					test.put(subitem, null);
 					System.out.println(subitem);
-					count++;
+					hashcount++;
 				}
+				count++;
 			}
 		}
-		System.out.println((count/test.size()-1)*100+"%");
+		//double performance = (count/test.size()-1)*100;
+		//performance = performance;
+		//System.out.println(hashcount);
+		//System.out.println(count);
+		double closeto50 = (1-((double)(hashcount)/((double)count)))*100;
+		//System.out.println(closeto50);
+		System.out.print("Accuracy = ");
+		System.out.format("%.2f",(closeto50/50)*100);
+		System.out.println("%");
 	}
 	private Vector<String> retrieveDocumentLOWords(Document FullDocument){
 		return FullDocument.topLOWords;

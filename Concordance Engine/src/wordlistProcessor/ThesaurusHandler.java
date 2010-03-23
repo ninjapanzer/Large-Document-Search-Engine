@@ -11,11 +11,14 @@ import structs.WordFrequency;
 
 public class ThesaurusHandler
 {
+	private File file = null;
 	private HashMap<String, ArrayList<String>> Thesarus = new HashMap<String, ArrayList<String>>();
 	private int LOWordSize = 5;
 	public ThesaurusHandler()
 	{
-			File file = new File(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"mthesaur.txt");
+		if(file == null){
+			file = new File(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"mthesaur.txt");
+		}
 			Scanner scan;
 			try {
 				scan = new Scanner(file);
