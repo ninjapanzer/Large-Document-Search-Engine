@@ -1,4 +1,17 @@
-19:53:24,812 TRACE MainApplication:305 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
-19:53:27,984 TRACE MainApplication:204 - Moving Thread Object 0
-19:53:27,984 TRACE MainApplication:208 - Doing Size(0)     Done Size(1)    Value(0)
-19:53:27,984 TRACE MainApplication:209 - Thread Object 0 Moved
+00:35:52,996 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+00:35:55,746 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+00:35:58,903 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\1974.txt
+00:36:00,137 TRACE MainApplication:205 - Moving Thread Object 0
+00:36:00,137 TRACE MainApplication:209 - Doing Size(0)     Done Size(1)    Value(0)
+00:36:00,137 TRACE MainApplication:210 - Thread Object 0 Moved
+00:36:02,778 TRACE MainApplication:205 - Moving Thread Object 1
+00:36:02,778 TRACE MainApplication:209 - Doing Size(0)     Done Size(2)    Value(1)
+00:36:02,778 TRACE MainApplication:210 - Thread Object 1 Moved
+00:37:08,121 TRACE MainApplication:205 - Moving Thread Object 2
+00:37:08,121 TRACE MainApplication:209 - Doing Size(0)     Done Size(3)    Value(2)
+00:37:08,121 TRACE MainApplication:210 - Thread Object 2 Moved
+00:37:30,918 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\1974.txt
+00:38:24,903 TRACE MainApplication:306 - File Dialog: nullnull
+00:38:39,028 TRACE MainApplication:205 - Moving Thread Object 3
+00:38:39,028 TRACE MainApplication:209 - Doing Size(1)     Done Size(4)    Value(3)
+00:38:39,028 TRACE MainApplication:210 - Thread Object 3 Moved

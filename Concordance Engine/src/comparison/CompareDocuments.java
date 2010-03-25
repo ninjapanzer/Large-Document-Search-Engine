@@ -8,8 +8,7 @@ import org.apache.log4j.Logger;
 
 import app.App;
 
-import structs.Document;
-import structs.SelectionItems;
+import structs.*;
 
 public class CompareDocuments {
 	private ArrayList<SelectionItems> Selection = null;
@@ -28,7 +27,18 @@ public class CompareDocuments {
 		for(Document item : this.Comparables) {
 			thing.addElement(this.retrieveDocumentLOWords(item));
 		}
-		int count = 0;
+		System.out.print("Document Comparison = ");
+		System.out.format("%.2f",LOWordComparison(thing));
+		System.out.println("%");
+		Vector<Vector<String>> ParaLOWords = this.gatherParagraphsLOWords();
+		System.out.print("Paragraph Comparison = ");
+		System.out.format("%.2f",LOWordComparison(ParaLOWords));
+		System.out.println("%");
+		Vector<Vector<String>> SentLOWords = this.gatherSentencesLOWords();
+		System.out.print("Sentence Comparison = ");
+		System.out.format("%.2f",LOWordComparison(SentLOWords));
+		System.out.println("%");
+		/*int count = 0;
 		int hashcount = 0;
 		HashMap<String, Object> test = new HashMap<String, Object>();
 		test.put("", null);
@@ -51,16 +61,61 @@ public class CompareDocuments {
 		//System.out.println(closeto50);
 		System.out.print("Accuracy = ");
 		System.out.format("%.2f",(closeto50/50)*100);
-		System.out.println("%");
+		System.out.println("%");*/
+	}
+	private double LOWordComparison(Vector<Vector<String>> LOWords){
+		int count = 0,outercount=0;
+		int hashcount = 0;
+		HashMap<String, Object> test = new HashMap<String, Object>();
+		test.put("", null);
+		for(Vector<String> item : LOWords){
+			for(String subitem : item){
+				if(!test.containsKey(subitem)){
+					test.put(subitem, null);
+					//System.out.println(subitem);
+					hashcount++;
+				}
+				count++;
+			}
+			outercount++;
+		}
+		double closeto50 = ((double)hashcount/((double)count/2))*50;
+		/*System.out.println("hashcount "+hashcount);
+		System.out.println("outercount "+outercount);
+		System.out.println("Loop Count "+count);
+		System.out.println("Loop Count reduced "+(double)count/2);
+		System.out.println("Ratio "+closeto50);
+		System.out.println("Percentage of 50 "+(closeto50/50)*100);*/
+		return (closeto50/50)*100;
+	}
+	private Vector<Vector<String>> gatherParagraphsLOWords(){
+		Vector<Vector<String>> ParagraphLOWords = new Vector<Vector<String>>();
+		for(Document item : this.Comparables) {
+			for(Paragraphs pitem : item.Block){
+				ParagraphLOWords.addElement(retrieveParagraphLOWords(pitem));
+			}
+		}
+		return ParagraphLOWords;
+	}
+	private Vector<Vector<String>> gatherSentencesLOWords(){
+		Vector<Vector<String>> SentenceLOWords = new Vector<Vector<String>>();
+		for(Document item : this.Comparables) {
+			for(Paragraphs pitem : item.Block){
+				for(Sentences sitem : pitem.Paragraph){
+					SentenceLOWords.addElement(retrieveSentenceLOWords(sitem));
+				}
+			}
+		}
+		return SentenceLOWords;
 	}
 	private Vector<String> retrieveDocumentLOWords(Document FullDocument){
 		return FullDocument.topLOWords;
 	}
-	private Vector<String> retrieveParagraphLOWords(Document FullDocument, int ParagraphNumber){
-		return FullDocument.Block.elementAt(ParagraphNumber).topLOWords;
+	private Vector<String> retrieveParagraphLOWords(Paragraphs Paragraph){
+		return Paragraph.topLOWords;
 	}
-	private Vector<String> retrieveSentenceLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber){
-		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).topLOWords;
+	private Vector<String> retrieveSentenceLOWords(Sentences Sentence){
+		return Sentence.topLOWords;
 	}
 	private Vector<String> retrieveWordLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber, int WordNumber){
 		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).Sentence.elementAt(WordNumber).LOWords;
