@@ -15,9 +15,11 @@ public class CompareDocuments {
 	private Logger logger = Logger.getLogger(comparison.CompareDocuments.class);
 	private Vector<App> AnaylzedDocuments = null;
 	private ArrayList<Document> Comparables = null;
+	private ArrayList<Comparisons> DocumentComparison = null;
 	public CompareDocuments(ArrayList<SelectionItems> Selection, Vector<App> AnaylzedDocuments) {
 		this.Selection = Selection;
 		this.AnaylzedDocuments = AnaylzedDocuments;
+		this.DocumentComparison = new ArrayList<Comparisons>();
 		this.extractComparisonList();
 		this.compareDocuments();
 		logger.trace(this.Comparables.size());
@@ -38,6 +40,31 @@ public class CompareDocuments {
 		System.out.print("Sentence Comparison = ");
 		System.out.format("%.2f",LOWordComparison(SentLOWords));
 		System.out.println("%");
+		ArrayList<Vector<String>> Doc1LOWords = new ArrayList<Vector<String>>();
+		ArrayList<Vector<String>> Doc2LOWords = new ArrayList<Vector<String>>();
+		for(Paragraphs item : this.Comparables.get(0).Block){
+			Doc1LOWords.add(item.topLOWords);
+		}
+		for(Paragraphs item : this.Comparables.get(1).Block){
+			Doc2LOWords.add(item.topLOWords);
+		}
+		System.out.println("Paragraph Flat Comparison");
+		for(int i = 0; i<Doc1LOWords.size(); i++){
+			for(int j = 0; j<Doc2LOWords.size(); j++){
+				Comparisons cmp = new Comparisons();
+				cmp = this.CmpLOWords(Doc1LOWords.get(i), Doc2LOWords.get(j));
+				cmp.CmpType = "Paragraph";
+				cmp.ItemNumberDoc1 = i;
+				cmp.ItemNumberDoc2 = j;
+				cmp.CmpQuality = 1-cmp.CmpQuality;
+				this.DocumentComparison.add(cmp);
+			}
+		}
+		for(Comparisons Item : this.DocumentComparison){
+			System.out.println("The Quality for Comparison of Paragraphs "+(int)Item.ItemNumberDoc1+" to "+(int)Item.ItemNumberDoc2+" is "+Item.CmpQuality*100+"%");
+		}
+		//DocumentComparison.add(this.CmpLOWords(thing.elementAt(0), thing.elementAt(1)));
+		//System.out.println(100-(allowance.CmpQuality*100));
 		/*int count = 0;
 		int hashcount = 0;
 		HashMap<String, Object> test = new HashMap<String, Object>();
@@ -62,6 +89,29 @@ public class CompareDocuments {
 		System.out.print("Accuracy = ");
 		System.out.format("%.2f",(closeto50/50)*100);
 		System.out.println("%");*/
+	}
+	
+	private Comparisons CmpLOWords(Vector<String> LOWords1, Vector<String> LOWords2){
+		int count = 0;
+		int hashcount;
+		Comparisons cmp = new Comparisons();
+		HashMap<String, Object> test = new HashMap<String, Object>();
+		test.put("", null);
+		for(String item : LOWords1){
+			test.put(item, null);
+		}
+		hashcount = test.size() -1;
+		for(String item : LOWords2){
+			if(!test.containsKey(item)){
+				count++;
+			}
+		}
+		//count += hashcount;
+		//System.out.println(count);
+		//System.out.println(hashcount);
+		cmp.CmpQuality = (double)count/(double)hashcount;
+		//System.out.println(100-(cmp.CmpQuality*100));
+		return cmp;
 	}
 	private double LOWordComparison(Vector<Vector<String>> LOWords){
 		int count = 0,outercount=0;
