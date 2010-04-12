@@ -1,20 +1,9 @@
-23:37:53,962 TRACE MainApplication:306 - File Dialog: /home/samurai/workspace/projects/Concordance/Datafiles/8ethc10 - Copy.txt
-23:38:00,217 TRACE MainApplication:306 - File Dialog: /home/samurai/workspace/projects/Concordance/Datafiles/8ethc10 - Copy.txt
-23:38:08,210 TRACE MainApplication:306 - File Dialog: /home/samurai/workspace/projects/Concordance/Datafiles/1974.txt
-23:38:40,008 TRACE MainApplication:205 - Moving Thread Object 0
-23:38:40,246 TRACE MainApplication:209 - Doing Size(0)     Done Size(1)    Value(0)
-23:38:40,246 TRACE MainApplication:210 - Thread Object 0 Moved
-23:39:06,160 TRACE MainApplication:205 - Moving Thread Object 1
-23:39:06,841 TRACE MainApplication:209 - Doing Size(0)     Done Size(2)    Value(1)
-23:39:06,841 TRACE MainApplication:210 - Thread Object 1 Moved
-23:44:53,338 TRACE MainApplication:205 - Moving Thread Object 2
-23:44:53,339 TRACE MainApplication:209 - Doing Size(0)     Done Size(3)    Value(2)
-23:44:53,339 TRACE MainApplication:210 - Thread Object 2 Moved
-23:56:55,214 TRACE MainApplication:306 - File Dialog: /home/samurai/workspace/projects/Concordance/Datafiles/2412.txt
-23:57:05,917 TRACE MainApplication:306 - File Dialog: /home/samurai/workspace/projects/Concordance/Datafiles/8ethc10.txt
-00:00:39,048 TRACE MainApplication:205 - Moving Thread Object 3
-00:00:39,048 TRACE MainApplication:209 - Doing Size(0)     Done Size(4)    Value(3)
-00:00:39,049 TRACE MainApplication:210 - Thread Object 3 Moved
-00:03:34,409 TRACE MainApplication:205 - Moving Thread Object 4
-00:03:34,409 TRACE MainApplication:209 - Doing Size(0)     Done Size(5)    Value(4)
-00:03:34,409 TRACE MainApplication:210 - Thread Object 4 Moved
+17:55:45,781 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\1974.txt
+17:56:23,687 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+17:56:30,234 TRACE MainApplication:205 - Moving Thread Object 0
+17:56:30,234 TRACE MainApplication:209 - Doing Size(0)     Done Size(1)    Value(0)
+17:56:30,234 TRACE MainApplication:210 - Thread Object 0 Moved
+17:56:57,156 TRACE MainApplication:205 - Moving Thread Object 1
+17:56:57,156 TRACE MainApplication:209 - Doing Size(0)     Done Size(2)    Value(1)
+17:56:57,156 TRACE MainApplication:210 - Thread Object 1 Moved
+17:57:02,187 TRACE MainApplication:306 - File Dialog: nullnull

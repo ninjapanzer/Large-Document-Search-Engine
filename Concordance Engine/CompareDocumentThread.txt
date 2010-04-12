@@ -1,30 +1,3 @@
-23:54:30,337 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 1
-23:54:30,338 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 2
-23:54:30,610 TRACE CompareDocuments:25 - 2
-23:54:59,060 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
-23:54:59,061 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 1
-23:54:59,080 TRACE CompareDocuments:25 - 2
-23:55:24,895 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
-23:55:24,903 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 1
-23:55:24,909 TRACE CompareDocuments:25 - 2
-23:56:40,128 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
-23:56:40,133 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 1
-23:56:40,139 TRACE CompareDocuments:25 - 2
-00:02:57,160 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
-00:02:57,161 TRACE CompareDocuments:178 - File Added: 8ethc10.txt ID: 3
-00:02:57,213 TRACE CompareDocuments:25 - 2
-00:03:37,479 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 2
-00:03:37,482 TRACE CompareDocuments:178 - File Added: 8ethc10.txt ID: 3
-00:03:37,624 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 2
-00:03:37,624 TRACE CompareDocuments:178 - File Added: 8ethc10.txt ID: 3
-00:03:39,862 TRACE CompareDocuments:25 - 2
-00:03:39,971 TRACE CompareDocuments:25 - 2
-00:04:27,816 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 2
-00:04:27,820 TRACE CompareDocuments:178 - File Added: 2412.txt ID: 4
-00:04:32,589 TRACE CompareDocuments:25 - 2
-00:09:29,796 TRACE CompareDocuments:178 - File Added: 8ethc10.txt ID: 3
-00:09:29,798 TRACE CompareDocuments:178 - File Added: 2412.txt ID: 4
-00:09:31,028 TRACE CompareDocuments:25 - 2
-00:09:44,093 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 1
-00:09:44,094 TRACE CompareDocuments:178 - File Added: 2412.txt ID: 4
-00:09:44,137 TRACE CompareDocuments:25 - 2
+17:57:05,687 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
+17:57:05,687 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 1
+17:57:05,781 TRACE CompareDocuments:25 - 2
