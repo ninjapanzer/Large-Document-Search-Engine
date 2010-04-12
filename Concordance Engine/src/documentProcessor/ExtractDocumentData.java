@@ -19,6 +19,7 @@ public class ExtractDocumentData
 	private Document FinalDocument = new Document();
 	private String WholeDocument;
 	private WordManagement NounList = new WordManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
+	private WordManagement ConnectorList = new WordManagement(filename)
 	
 	public ExtractDocumentData(){}
 	
