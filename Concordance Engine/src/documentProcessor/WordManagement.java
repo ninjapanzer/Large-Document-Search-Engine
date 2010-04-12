@@ -4,19 +4,17 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public final class NounManagement
+public class WordManagement
 {
 	//private Vector<String> NounListVect = new Vector<String>();
-	private HashMap<String, Object> NounList = new HashMap<String, Object>();
+	private HashMap<String, Object> WordList = new HashMap<String, Object>();
 	private File file = null;
-	public NounManagement(String filename)
+	public WordManagement(String filename)
 	{
-		LoadNounList(filename);
+		LoadList(filename);
 	}
 	
-	private void LoadNounList(String filename)
-	{
-		
+	private void LoadList(String filename){
 		try{
 			if (file == null)
 			{
@@ -27,7 +25,7 @@ public final class NounManagement
 		scan.useDelimiter("\n");
 		while(scan.hasNext())
 		{
-			NounList.put(scan.next().replaceAll(" ", ""), null);
+			WordList.put(scan.next().replaceAll(" ", ""), null);
 		}
 		}catch (Exception e)
 		{
@@ -35,9 +33,9 @@ public final class NounManagement
 	    }
 	}
 	
-	public boolean isNoun(String noun)
+	public boolean isInList(String word)
 	{
-		if(this.NounList.containsKey(noun))
+		if(this.WordList.containsKey(word))
 		{
 			return true;
 		}

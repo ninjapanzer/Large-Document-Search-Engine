@@ -18,7 +18,7 @@ public class ExtractDocumentData
 	private Logger loggerSentence = Logger.getLogger("documentProcessor.ExtractDocumentData.Sentence");
 	private Document FinalDocument = new Document();
 	private String WholeDocument;
-	private NounManagement NounList = new NounManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
+	private WordManagement NounList = new WordManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
 	
 	public ExtractDocumentData(){}
 	
@@ -57,7 +57,7 @@ public class ExtractDocumentData
 					for(int k = 0; k < WordSplit.length; k++)
 					{
 						Words word = new Words();
-						if (NounList.isNoun(WordSplit[k]))
+						if (NounList.isInList(WordSplit[k]))
 						{
 							word.WordType = "noun";
 							try{
