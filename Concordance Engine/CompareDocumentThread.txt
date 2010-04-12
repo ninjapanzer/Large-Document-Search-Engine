@@ -1,3 +1,0 @@
-17:57:05,687 TRACE CompareDocuments:178 - File Added: 8ethc10 - Copy.txt ID: 0
-17:57:05,687 TRACE CompareDocuments:178 - File Added: 1974.txt ID: 1
-17:57:05,781 TRACE CompareDocuments:25 - 2

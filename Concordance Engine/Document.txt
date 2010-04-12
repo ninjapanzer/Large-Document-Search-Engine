@@ -1,10 +1,17 @@
-17:56:29,937 TRACE Document:119 - entrance
-17:56:29,937 TRACE Document:119 - in
-17:56:29,937 TRACE Document:119 - design
-17:56:29,937 TRACE Document:119 - review
-17:56:29,937 TRACE Document:119 - elevated
-17:56:56,750 TRACE Document:119 - opening
-17:56:56,750 TRACE Document:119 - design
-17:56:56,750 TRACE Document:119 - vair
-17:56:56,750 TRACE Document:119 - in
-17:56:56,750 TRACE Document:119 - entry
+23:29:56,640 TRACE Document:159 - Top LOWords for the Document
+23:29:56,640 TRACE Document:162 - entrance
+23:29:56,640 TRACE Document:162 - in
+23:29:56,640 TRACE Document:162 - low
+23:29:56,640 TRACE Document:162 - make
+23:29:56,640 TRACE Document:162 - elevated
+23:29:56,640 TRACE Document:164 - Top Keywords for the Document
+23:29:56,656 TRACE Document:167 - 
+23:29:56,656 TRACE Document:167 - temperature
+23:29:56,656 TRACE Document:167 - materials
+23:29:56,656 TRACE Document:167 - discovery
+23:29:56,656 TRACE Document:167 - jacek
+23:29:56,656 TRACE Document:167 - seems
+23:29:56,656 TRACE Document:167 - superconducting
+23:29:56,656 TRACE Document:167 - r
+23:29:56,656 TRACE Document:167 - chemistry
+23:29:56,656 TRACE Document:167 - p

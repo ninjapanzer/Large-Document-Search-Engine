@@ -74,13 +74,14 @@ public class App
 		this.file.NormalizeWhitespace(true);
 		this.file.ReadFile(Filename);
 		this.file.FlattenString();
-		ExtractDocumentData StripDocument = new ExtractDocumentData(this.file.GetWholeDocument());
+		this.EvaluateSets = new WordWorkingSets(this.file.GetWholeDocument());
+		double size = this.EvaluateSets.getDocumentSize();
+		ExtractDocumentData StripDocument = new ExtractDocumentData(this.file.GetWholeDocument(), size);
 		//System.out.println(file.GetWholeDocument());
 		this.ProcessedDocument = StripDocument.getFinalDocument();
 		SequenceDocument Sequence = new SequenceDocument(StripDocument.getFinalDocument());
 		this.SequencedDocument = Sequence.getSequencedDocument();
 		//DisplayGui display = new DisplayGui(SequencedDocument);
-		this.EvaluateSets = new WordWorkingSets(this.file.GetWholeDocument());
 		//@SuppressWarnings("unused")
 		//ThesaurusHandler thesarus = new ThesaurusHandler();
 		//thesarus.CorrelateThesaurusItems("zoom");

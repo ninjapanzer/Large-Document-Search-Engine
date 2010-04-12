@@ -7,6 +7,7 @@ public class WordWorkingSets{
 	private int uniquesize = 0;
 	@SuppressWarnings("unused")
 	private int start, stop;
+	private double WholeDocumentSize;
 	private String wholedoc;
 	private Vector<String> uniqueworkingSet = new Vector<String>();
 	private Vector<String> nounworkingSet = new Vector<String>();
@@ -22,6 +23,10 @@ public class WordWorkingSets{
 		this.uniqueworkingSet.addElement("the");
 		this.BuildUniqueWordWorkingSet();
 		this.BuildNounWorkingSet();
+		this.WholeDocumentSize = this.wholedoc.split(" ").length;
+	}
+	public double getDocumentSize(){
+		return this.WholeDocumentSize;
 	}
 	
 	public void BuildNounWorkingSet()
@@ -70,7 +75,7 @@ public class WordWorkingSets{
 	public String PrintUniqueWordStats()
 	{
 		//System.out.println("Out of the original "+this.wholedoc.split(" ").length+" words only "+this.uniqueworkingSet.size()+ " are unique words");
-		return "Out of the original "+this.wholedoc.split(" ").length+" words only "+this.uniqueworkingSet.size()+ " are unique words";
+		return "Out of the original "+this.WholeDocumentSize+" words only "+this.uniqueworkingSet.size()+ " are unique words";
 	}
 	
 }
