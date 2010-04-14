@@ -1,0 +1,3 @@
+21:07:10,609 TRACE CompareDocuments:175 - File Added: 31959.txt ID: 0
+21:07:10,609 TRACE CompareDocuments:175 - File Added: 154681879-Superconductivity_the_new_high_critical_temperature_superconductors.txt ID: 1
+21:07:10,640 TRACE CompareDocuments:25 - 2

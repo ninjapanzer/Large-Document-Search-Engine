@@ -60,9 +60,13 @@ public class CompareDocuments {
 				this.DocumentComparison.add(cmp);
 			}
 		}
+		double QualityScore = 0;
+		double TotalSize = this.DocumentComparison.size();
 		for(Comparisons Item : this.DocumentComparison){
 			System.out.println("The Quality for Comparison of Paragraphs "+(int)Item.ItemNumberDoc1+" to "+(int)Item.ItemNumberDoc2+" is "+Item.CmpQuality*100+"%");
+			QualityScore += Item.CmpQuality * 10;
 		}
+		System.out.println(QualityScore/(TotalSize*10));
 		//DocumentComparison.add(this.CmpLOWords(thing.elementAt(0), thing.elementAt(1)));
 		//System.out.println(100-(allowance.CmpQuality*100));
 		/*int count = 0;
@@ -106,11 +110,11 @@ public class CompareDocuments {
 				count++;
 			}
 		}
-		//count += hashcount;
-		//System.out.println(count);
-		//System.out.println(hashcount);
+		if(hashcount == 0){
+			cmp.CmpQuality = 0;
+		}else{
 		cmp.CmpQuality = (double)count/(double)hashcount;
-		//System.out.println(100-(cmp.CmpQuality*100));
+		}
 		return cmp;
 	}
 	private double LOWordComparison(Vector<Vector<String>> LOWords){
@@ -122,7 +126,6 @@ public class CompareDocuments {
 			for(String subitem : item){
 				if(!test.containsKey(subitem)){
 					test.put(subitem, null);
-					//System.out.println(subitem);
 					hashcount++;
 				}
 				count++;
@@ -130,12 +133,6 @@ public class CompareDocuments {
 			outercount++;
 		}
 		double closeto50 = ((double)hashcount/((double)count/2))*50;
-		/*System.out.println("hashcount "+hashcount);
-		System.out.println("outercount "+outercount);
-		System.out.println("Loop Count "+count);
-		System.out.println("Loop Count reduced "+(double)count/2);
-		System.out.println("Ratio "+closeto50);
-		System.out.println("Percentage of 50 "+(closeto50/50)*100);*/
 		return (closeto50/50)*100;
 	}
 	private Vector<Vector<String>> gatherParagraphsLOWords(){

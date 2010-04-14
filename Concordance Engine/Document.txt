@@ -1,17 +1,34 @@
-23:29:56,640 TRACE Document:159 - Top LOWords for the Document
-23:29:56,640 TRACE Document:162 - entrance
-23:29:56,640 TRACE Document:162 - in
-23:29:56,640 TRACE Document:162 - low
-23:29:56,640 TRACE Document:162 - make
-23:29:56,640 TRACE Document:162 - elevated
-23:29:56,640 TRACE Document:164 - Top Keywords for the Document
-23:29:56,656 TRACE Document:167 - 
-23:29:56,656 TRACE Document:167 - temperature
-23:29:56,656 TRACE Document:167 - materials
-23:29:56,656 TRACE Document:167 - discovery
-23:29:56,656 TRACE Document:167 - jacek
-23:29:56,656 TRACE Document:167 - seems
-23:29:56,656 TRACE Document:167 - superconducting
-23:29:56,656 TRACE Document:167 - r
-23:29:56,656 TRACE Document:167 - chemistry
-23:29:56,656 TRACE Document:167 - p
+21:06:53,687 TRACE Document:159 - Top LOWords for the Document
+21:06:53,687 TRACE Document:162 - pale
+21:06:53,687 TRACE Document:162 - saltire
+21:06:53,687 TRACE Document:162 - cut
+21:06:53,687 TRACE Document:162 - design
+21:06:53,687 TRACE Document:162 - vair
+21:06:53,687 TRACE Document:164 - Top Keywords for the Document
+21:06:53,687 TRACE Document:167 - 
+21:06:53,687 TRACE Document:167 - foundation
+21:06:53,687 TRACE Document:167 - e
+21:06:53,687 TRACE Document:167 - gutenberg-tm
+21:06:53,687 TRACE Document:167 - gutenberg
+21:06:53,687 TRACE Document:167 - upon
+21:06:53,687 TRACE Document:167 - pupil
+21:06:53,687 TRACE Document:167 - works
+21:06:53,687 TRACE Document:167 - terms
+21:06:53,687 TRACE Document:167 - donations
+21:07:08,375 TRACE Document:159 - Top LOWords for the Document
+21:07:08,375 TRACE Document:162 - entrance
+21:07:08,375 TRACE Document:162 - in
+21:07:08,375 TRACE Document:162 - entry
+21:07:08,375 TRACE Document:162 - opening
+21:07:08,375 TRACE Document:162 - make
+21:07:08,375 TRACE Document:164 - Top Keywords for the Document
+21:07:08,375 TRACE Document:167 - 
+21:07:08,375 TRACE Document:167 - temperature
+21:07:08,375 TRACE Document:167 - materials
+21:07:08,375 TRACE Document:167 - cuprates
+21:07:08,375 TRACE Document:167 - seems
+21:07:08,375 TRACE Document:167 - superconducting
+21:07:08,375 TRACE Document:167 - ”
+21:07:08,375 TRACE Document:167 - r
+21:07:08,375 TRACE Document:167 - p
+21:07:08,375 TRACE Document:167 - gga
