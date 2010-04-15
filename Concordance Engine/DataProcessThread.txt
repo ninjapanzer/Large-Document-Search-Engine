@@ -1,8 +1,10 @@
-21:06:19,421 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\My Documents\Downloads\31959.txt
-21:06:53,703 TRACE MainApplication:205 - Moving Thread Object 0
-21:06:53,703 TRACE MainApplication:209 - Doing Size(0)     Done Size(1)    Value(0)
-21:06:53,703 TRACE MainApplication:210 - Thread Object 0 Moved
-21:07:02,421 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\My Documents\Downloads\154681879-Superconductivity_the_new_high_critical_temperature_superconductors.txt
-21:07:08,375 TRACE MainApplication:205 - Moving Thread Object 1
-21:07:08,375 TRACE MainApplication:209 - Doing Size(0)     Done Size(2)    Value(1)
-21:07:08,375 TRACE MainApplication:210 - Thread Object 1 Moved
+22:53:44,126 TRACE MainApplication:306 - File Dialog: nullnull
+22:54:07,361 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+22:54:10,486 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+22:54:14,751 TRACE MainApplication:205 - Moving Thread Object 0
+22:54:14,751 TRACE MainApplication:209 - Doing Size(1)     Done Size(1)    Value(0)
+22:54:14,751 TRACE MainApplication:210 - Thread Object 0 Moved
+22:54:17,001 TRACE MainApplication:205 - Moving Thread Object 1
+22:54:17,001 TRACE MainApplication:209 - Doing Size(1)     Done Size(2)    Value(1)
+22:54:17,001 TRACE MainApplication:210 - Thread Object 1 Moved
+23:06:47,955 TRACE MainApplication:306 - File Dialog: nullnull
