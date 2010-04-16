@@ -1,1954 +1,789 @@
-22:54:11,439 TRACE Sentence:87 - null LOWord null
-22:54:11,439 TRACE Sentence:87 - null LOWord null
-22:54:11,470 TRACE Sentence:129 -  
-22:54:11,470 TRACE Sentence:130 - Sentence 0 Paragraph 0
-22:54:11,470 TRACE Sentence:131 -  
-22:54:11,470 TRACE Sentence:134 - exalted
-22:54:11,470 TRACE Sentence:134 - high
-22:54:11,470 TRACE Sentence:134 - low
-22:54:11,470 TRACE Sentence:134 - elevated
-22:54:11,470 TRACE Sentence:134 - strong
-22:54:11,470 TRACE Sentence:136 -  
-22:54:11,486 TRACE Sentence:87 - null LOWord null
-22:54:11,501 TRACE Sentence:87 - null LOWord null
-22:54:11,517 TRACE Sentence:87 - null LOWord null
-22:54:11,517 TRACE Sentence:87 - null LOWord null
-22:54:11,595 TRACE Sentence:87 - null LOWord null
-22:54:11,642 TRACE Sentence:87 - null LOWord null
-22:54:11,642 TRACE Sentence:129 -  
-22:54:11,642 TRACE Sentence:130 - Sentence 1 Paragraph 0
-22:54:11,642 TRACE Sentence:131 -  
-22:54:11,642 TRACE Sentence:134 - screed
-22:54:11,642 TRACE Sentence:134 - paper
-22:54:11,642 TRACE Sentence:134 - essay
-22:54:11,642 TRACE Sentence:134 - piece
-22:54:11,642 TRACE Sentence:134 - article
-22:54:11,642 TRACE Sentence:134 - access
-22:54:11,642 TRACE Sentence:134 - entry
-22:54:11,642 TRACE Sentence:134 - opening
-22:54:11,642 TRACE Sentence:134 - in
-22:54:11,642 TRACE Sentence:134 - entrance
-22:54:11,642 TRACE Sentence:134 - radical
-22:54:11,642 TRACE Sentence:134 - acid
-22:54:11,642 TRACE Sentence:134 - chemical
-22:54:11,642 TRACE Sentence:134 - nonacid
-22:54:11,642 TRACE Sentence:134 - biochemical
-22:54:11,642 TRACE Sentence:134 - cast
-22:54:11,642 TRACE Sentence:134 - team
-22:54:11,642 TRACE Sentence:134 - complement
-22:54:11,642 TRACE Sentence:134 - company
-22:54:11,642 TRACE Sentence:134 - band
-22:54:11,642 TRACE Sentence:134 - determination
-22:54:11,642 TRACE Sentence:134 - resolution
-22:54:11,642 TRACE Sentence:134 - desire
-22:54:11,642 TRACE Sentence:134 - mind
-22:54:11,642 TRACE Sentence:134 - will
-22:54:11,642 TRACE Sentence:134 - help
-22:54:11,642 TRACE Sentence:134 - support
-22:54:11,642 TRACE Sentence:134 - favor
-22:54:11,642 TRACE Sentence:134 - ease
-22:54:11,642 TRACE Sentence:134 - aid
-22:54:11,642 TRACE Sentence:134 - agreement
-22:54:11,642 TRACE Sentence:134 - concord
-22:54:11,642 TRACE Sentence:134 - esprit
-22:54:11,642 TRACE Sentence:134 - understanding
-22:54:11,642 TRACE Sentence:134 - accord
-22:54:11,642 TRACE Sentence:134 - access
-22:54:11,642 TRACE Sentence:134 - entry
-22:54:11,642 TRACE Sentence:134 - opening
-22:54:11,642 TRACE Sentence:134 - in
-22:54:11,642 TRACE Sentence:134 - entrance
-22:54:11,642 TRACE Sentence:134 - exalted
-22:54:11,642 TRACE Sentence:134 - high
-22:54:11,642 TRACE Sentence:134 - low
-22:54:11,642 TRACE Sentence:134 - elevated
-22:54:11,642 TRACE Sentence:134 - strong
-22:54:11,642 TRACE Sentence:136 -  
-22:54:11,673 TRACE Sentence:87 - null LOWord null
-22:54:11,720 TRACE Sentence:87 - null LOWord null
-22:54:11,767 TRACE Sentence:129 -  
-22:54:11,767 TRACE Sentence:130 - Sentence 0 Paragraph 1
-22:54:11,767 TRACE Sentence:131 -  
-22:54:11,767 TRACE Sentence:134 - practice
-22:54:11,767 TRACE Sentence:134 - lead
-22:54:11,767 TRACE Sentence:134 - action
-22:54:11,767 TRACE Sentence:134 - work
-22:54:11,767 TRACE Sentence:134 - conduct
-22:54:11,767 TRACE Sentence:134 - course
-22:54:11,767 TRACE Sentence:134 - run
-22:54:11,767 TRACE Sentence:134 - set
-22:54:11,767 TRACE Sentence:134 - current
-22:54:11,767 TRACE Sentence:134 - prevalent
-22:54:11,767 TRACE Sentence:134 - cipher
-22:54:11,767 TRACE Sentence:134 - zero
-22:54:11,767 TRACE Sentence:134 - nothing
-22:54:11,767 TRACE Sentence:134 - nullity
-22:54:11,767 TRACE Sentence:134 - thing of naught
-22:54:11,767 TRACE Sentence:134 - high
-22:54:11,767 TRACE Sentence:134 - low
-22:54:11,767 TRACE Sentence:134 - poor
-22:54:11,767 TRACE Sentence:134 - mean
-22:54:11,767 TRACE Sentence:134 - flat
-22:54:11,767 TRACE Sentence:136 -  
-22:54:11,767 TRACE Sentence:87 - null LOWord null
-22:54:11,830 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:129 -  
-22:54:11,876 TRACE Sentence:130 - Sentence 1 Paragraph 1
-22:54:11,876 TRACE Sentence:131 -  
-22:54:11,876 TRACE Sentence:134 - access
-22:54:11,876 TRACE Sentence:134 - entry
-22:54:11,876 TRACE Sentence:134 - opening
-22:54:11,876 TRACE Sentence:134 - in
-22:54:11,876 TRACE Sentence:134 - entrance
-22:54:11,876 TRACE Sentence:134 - access
-22:54:11,876 TRACE Sentence:134 - entry
-22:54:11,876 TRACE Sentence:134 - opening
-22:54:11,876 TRACE Sentence:134 - in
-22:54:11,876 TRACE Sentence:134 - entrance
-22:54:11,876 TRACE Sentence:134 - sound
-22:54:11,876 TRACE Sentence:134 - stable
-22:54:11,876 TRACE Sentence:134 - substantial
-22:54:11,876 TRACE Sentence:134 - solid
-22:54:11,876 TRACE Sentence:134 - firm
-22:54:11,876 TRACE Sentence:134 - state
-22:54:11,876 TRACE Sentence:134 - province
-22:54:11,876 TRACE Sentence:134 - express
-22:54:11,876 TRACE Sentence:134 - principality
-22:54:11,876 TRACE Sentence:134 - territory
-22:54:11,876 TRACE Sentence:134 - hold
-22:54:11,876 TRACE Sentence:134 - bear
-22:54:11,876 TRACE Sentence:134 - have
-22:54:11,876 TRACE Sentence:134 - take
-22:54:11,876 TRACE Sentence:134 - take in
-22:54:11,876 TRACE Sentence:134 - steady
-22:54:11,876 TRACE Sentence:134 - unqualified
-22:54:11,876 TRACE Sentence:134 - straight
-22:54:11,876 TRACE Sentence:134 - uniform
-22:54:11,876 TRACE Sentence:134 - regular
-22:54:11,876 TRACE Sentence:136 -  
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:129 -  
-22:54:11,876 TRACE Sentence:130 - Sentence 2 Paragraph 1
-22:54:11,876 TRACE Sentence:131 -  
-22:54:11,876 TRACE Sentence:136 -  
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:129 -  
-22:54:11,876 TRACE Sentence:130 - Sentence 3 Paragraph 1
-22:54:11,876 TRACE Sentence:131 -  
-22:54:11,876 TRACE Sentence:136 -  
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:129 -  
-22:54:11,876 TRACE Sentence:130 - Sentence 4 Paragraph 1
-22:54:11,876 TRACE Sentence:131 -  
-22:54:11,876 TRACE Sentence:136 -  
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:87 - null LOWord null
-22:54:11,876 TRACE Sentence:129 -  
-22:54:11,876 TRACE Sentence:130 - Sentence 5 Paragraph 1
-22:54:11,876 TRACE Sentence:131 -  
-22:54:11,876 TRACE Sentence:136 -  
-22:54:11,892 TRACE Sentence:87 - null LOWord null
-22:54:11,892 TRACE Sentence:87 - null LOWord null
-22:54:11,939 TRACE Sentence:87 - null LOWord null
-22:54:11,939 TRACE Sentence:129 -  
-22:54:11,939 TRACE Sentence:130 - Sentence 6 Paragraph 1
-22:54:11,939 TRACE Sentence:131 -  
-22:54:11,939 TRACE Sentence:134 - practice
-22:54:11,939 TRACE Sentence:134 - lead
-22:54:11,939 TRACE Sentence:134 - action
-22:54:11,939 TRACE Sentence:134 - work
-22:54:11,939 TRACE Sentence:134 - conduct
-22:54:11,939 TRACE Sentence:134 - course
-22:54:11,939 TRACE Sentence:134 - run
-22:54:11,939 TRACE Sentence:134 - set
-22:54:11,939 TRACE Sentence:134 - current
-22:54:11,939 TRACE Sentence:134 - prevalent
-22:54:11,939 TRACE Sentence:134 - cipher
-22:54:11,939 TRACE Sentence:134 - zero
-22:54:11,939 TRACE Sentence:134 - nothing
-22:54:11,939 TRACE Sentence:134 - nullity
-22:54:11,939 TRACE Sentence:134 - thing of naught
-22:54:11,939 TRACE Sentence:136 -  
-22:54:11,939 TRACE Sentence:87 - null LOWord null
-22:54:11,939 TRACE Sentence:129 -  
-22:54:11,939 TRACE Sentence:130 - Sentence 7 Paragraph 1
-22:54:11,939 TRACE Sentence:131 -  
-22:54:11,939 TRACE Sentence:136 -  
-22:54:11,939 TRACE Sentence:87 - null LOWord null
-22:54:11,939 TRACE Sentence:129 -  
-22:54:11,939 TRACE Sentence:130 - Sentence 8 Paragraph 1
-22:54:11,939 TRACE Sentence:131 -  
-22:54:11,939 TRACE Sentence:136 -  
-22:54:11,939 TRACE Sentence:87 - null LOWord null
-22:54:11,939 TRACE Sentence:129 -  
-22:54:11,939 TRACE Sentence:130 - Sentence 9 Paragraph 1
-22:54:11,939 TRACE Sentence:131 -  
-22:54:11,939 TRACE Sentence:136 -  
-22:54:12,017 TRACE Sentence:87 - null LOWord null
-22:54:12,033 TRACE Sentence:87 - null LOWord null
-22:54:12,033 TRACE Sentence:87 - null LOWord null
-22:54:12,392 TRACE Sentence:129 -  
-22:54:12,392 TRACE Sentence:130 - Sentence 10 Paragraph 1
-22:54:12,392 TRACE Sentence:131 -  
-22:54:12,392 TRACE Sentence:134 - do
-22:54:12,392 TRACE Sentence:134 - production
-22:54:12,392 TRACE Sentence:134 - play
-22:54:12,392 TRACE Sentence:134 - work
-22:54:12,392 TRACE Sentence:134 - piece
-22:54:12,392 TRACE Sentence:134 - ferruginous
-22:54:12,392 TRACE Sentence:134 - cupreous
-22:54:12,392 TRACE Sentence:134 - coppery
-22:54:12,392 TRACE Sentence:134 - copper
-22:54:12,392 TRACE Sentence:134 - nickel
-22:54:12,392 TRACE Sentence:134 - vair
-22:54:12,392 TRACE Sentence:134 - or
-22:54:12,392 TRACE Sentence:134 - pale
-22:54:12,392 TRACE Sentence:134 - saltire
-22:54:12,392 TRACE Sentence:134 - bend sinister
-22:54:12,392 TRACE Sentence:134 - above
-22:54:12,392 TRACE Sentence:134 - upper
-22:54:12,392 TRACE Sentence:134 - superior
-22:54:12,392 TRACE Sentence:134 - over
-22:54:12,392 TRACE Sentence:134 - ahead
-22:54:12,392 TRACE Sentence:134 - boil
-22:54:12,392 TRACE Sentence:134 - seething
-22:54:12,392 TRACE Sentence:134 - ebullition
-22:54:12,392 TRACE Sentence:134 - ferment
-22:54:12,392 TRACE Sentence:134 - boiling
-22:54:12,392 TRACE Sentence:134 - mark
-22:54:12,392 TRACE Sentence:134 - point
-22:54:12,392 TRACE Sentence:134 - cut
-22:54:12,392 TRACE Sentence:134 - spot
-22:54:12,392 TRACE Sentence:134 - line
-22:54:12,392 TRACE Sentence:134 - continuant
-22:54:12,392 TRACE Sentence:134 - labiovelar
-22:54:12,392 TRACE Sentence:134 - apico-alveolar
-22:54:12,392 TRACE Sentence:134 - cacuminal
-22:54:12,392 TRACE Sentence:134 - liquid
-22:54:12,392 TRACE Sentence:136 -  
-22:54:12,470 TRACE Sentence:87 - null LOWord null
-22:54:12,501 TRACE Sentence:87 - null LOWord null
-22:54:12,501 TRACE Sentence:87 - null LOWord null
-22:54:12,517 TRACE Sentence:129 -  
-22:54:12,517 TRACE Sentence:130 - Sentence 0 Paragraph 2
-22:54:12,517 TRACE Sentence:131 -  
-22:54:12,517 TRACE Sentence:134 - statement
-22:54:12,517 TRACE Sentence:134 - reckoning
-22:54:12,517 TRACE Sentence:134 - account
-22:54:12,517 TRACE Sentence:134 - report
-22:54:12,517 TRACE Sentence:134 - inventory
-22:54:12,517 TRACE Sentence:134 - exalted
-22:54:12,517 TRACE Sentence:134 - high
-22:54:12,517 TRACE Sentence:134 - low
-22:54:12,517 TRACE Sentence:134 - elevated
-22:54:12,517 TRACE Sentence:134 - strong
-22:54:12,517 TRACE Sentence:134 - alter
-22:54:12,517 TRACE Sentence:134 - subliminal self
-22:54:12,517 TRACE Sentence:134 - myself
-22:54:12,517 TRACE Sentence:134 - inner self
-22:54:12,517 TRACE Sentence:134 - himself
-22:54:12,517 TRACE Sentence:134 - hold
-22:54:12,517 TRACE Sentence:134 - support
-22:54:12,517 TRACE Sentence:134 - run
-22:54:12,517 TRACE Sentence:134 - bear
-22:54:12,517 TRACE Sentence:134 - work
-22:54:12,517 TRACE Sentence:134 - establish
-22:54:12,517 TRACE Sentence:134 - found
-22:54:12,517 TRACE Sentence:134 - inaugurate
-22:54:12,517 TRACE Sentence:134 - set up
-22:54:12,517 TRACE Sentence:134 - institute
-22:54:12,517 TRACE Sentence:136 -  
-22:54:12,517 TRACE Sentence:87 - null LOWord null
-22:54:12,564 TRACE Sentence:87 - null LOWord null
-22:54:12,564 TRACE Sentence:87 - null LOWord null
-22:54:12,611 TRACE Sentence:87 - null LOWord null
-22:54:12,611 TRACE Sentence:129 -  
-22:54:12,611 TRACE Sentence:130 - Sentence 0 Paragraph 3
-22:54:12,611 TRACE Sentence:131 -  
-22:54:12,611 TRACE Sentence:134 - access
-22:54:12,611 TRACE Sentence:134 - entry
-22:54:12,611 TRACE Sentence:134 - opening
-22:54:12,611 TRACE Sentence:134 - in
-22:54:12,611 TRACE Sentence:134 - entrance
-22:54:12,611 TRACE Sentence:134 - exalted
-22:54:12,611 TRACE Sentence:134 - high
-22:54:12,611 TRACE Sentence:134 - low
-22:54:12,611 TRACE Sentence:134 - elevated
-22:54:12,611 TRACE Sentence:134 - strong
-22:54:12,611 TRACE Sentence:134 - iron
-22:54:12,611 TRACE Sentence:134 - firm
-22:54:12,611 TRACE Sentence:134 - hard
-22:54:12,611 TRACE Sentence:134 - steely
-22:54:12,611 TRACE Sentence:134 - stiff
-22:54:12,611 TRACE Sentence:134 - advocate
-22:54:12,611 TRACE Sentence:134 - paranymph
-22:54:12,611 TRACE Sentence:134 - support
-22:54:12,611 TRACE Sentence:134 - second
-22:54:12,611 TRACE Sentence:134 - champion
-22:54:12,611 TRACE Sentence:134 - superior
-22:54:12,611 TRACE Sentence:134 - eminent
-22:54:12,611 TRACE Sentence:134 - major
-22:54:12,611 TRACE Sentence:134 - great
-22:54:12,611 TRACE Sentence:134 - outstanding
-22:54:12,611 TRACE Sentence:134 - access
-22:54:12,611 TRACE Sentence:134 - entry
-22:54:12,611 TRACE Sentence:134 - opening
-22:54:12,611 TRACE Sentence:134 - in
-22:54:12,611 TRACE Sentence:134 - entrance
-22:54:12,611 TRACE Sentence:134 - world
-22:54:12,611 TRACE Sentence:134 - everybody
-22:54:12,611 TRACE Sentence:134 - everyone
-22:54:12,611 TRACE Sentence:134 - everyman
-22:54:12,611 TRACE Sentence:134 - folks
-22:54:12,611 TRACE Sentence:136 -  
-22:54:12,642 TRACE Sentence:87 - null LOWord null
-22:54:12,673 TRACE Sentence:87 - null LOWord null
-22:54:12,673 TRACE Sentence:87 - null LOWord null
-22:54:12,783 TRACE Sentence:87 - null LOWord null
-22:54:12,783 TRACE Sentence:129 -  
-22:54:12,783 TRACE Sentence:130 - Sentence 1 Paragraph 3
-22:54:12,783 TRACE Sentence:131 -  
-22:54:12,783 TRACE Sentence:134 - do
-22:54:12,783 TRACE Sentence:134 - work out
-22:54:12,783 TRACE Sentence:134 - make
-22:54:12,783 TRACE Sentence:134 - work
-22:54:12,783 TRACE Sentence:134 - realize
-22:54:12,783 TRACE Sentence:134 - ferruginous
-22:54:12,783 TRACE Sentence:134 - cupreous
-22:54:12,783 TRACE Sentence:134 - coppery
-22:54:12,783 TRACE Sentence:134 - copper
-22:54:12,783 TRACE Sentence:134 - nickel
-22:54:12,783 TRACE Sentence:134 - hold
-22:54:12,783 TRACE Sentence:134 - bear
-22:54:12,783 TRACE Sentence:134 - have
-22:54:12,783 TRACE Sentence:134 - take
-22:54:12,783 TRACE Sentence:134 - take in
-22:54:12,783 TRACE Sentence:134 - vair
-22:54:12,783 TRACE Sentence:134 - or
-22:54:12,783 TRACE Sentence:134 - pale
-22:54:12,783 TRACE Sentence:134 - saltire
-22:54:12,783 TRACE Sentence:134 - bend sinister
-22:54:12,783 TRACE Sentence:134 - as
-22:54:12,783 TRACE Sentence:134 - cause
-22:54:12,783 TRACE Sentence:134 - as long as
-22:54:12,783 TRACE Sentence:134 - so
-22:54:12,783 TRACE Sentence:134 - for
-22:54:12,783 TRACE Sentence:134 - iron
-22:54:12,783 TRACE Sentence:134 - firm
-22:54:12,783 TRACE Sentence:134 - hard
-22:54:12,783 TRACE Sentence:134 - steely
-22:54:12,783 TRACE Sentence:134 - stiff
-22:54:12,783 TRACE Sentence:134 - determination
-22:54:12,783 TRACE Sentence:134 - resolution
-22:54:12,783 TRACE Sentence:134 - desire
-22:54:12,783 TRACE Sentence:134 - mind
-22:54:12,783 TRACE Sentence:134 - will
-22:54:12,783 TRACE Sentence:134 - help
-22:54:12,783 TRACE Sentence:134 - support
-22:54:12,783 TRACE Sentence:134 - favor
-22:54:12,783 TRACE Sentence:134 - ease
-22:54:12,783 TRACE Sentence:134 - aid
-22:54:12,783 TRACE Sentence:134 - access
-22:54:12,783 TRACE Sentence:134 - entry
-22:54:12,783 TRACE Sentence:134 - opening
-22:54:12,783 TRACE Sentence:134 - in
-22:54:12,783 TRACE Sentence:134 - entrance
-22:54:12,783 TRACE Sentence:134 - sound
-22:54:12,783 TRACE Sentence:134 - stable
-22:54:12,783 TRACE Sentence:134 - substantial
-22:54:12,783 TRACE Sentence:134 - solid
-22:54:12,783 TRACE Sentence:134 - firm
-22:54:12,783 TRACE Sentence:134 - state
-22:54:12,783 TRACE Sentence:134 - province
-22:54:12,783 TRACE Sentence:134 - express
-22:54:12,783 TRACE Sentence:134 - principality
-22:54:12,783 TRACE Sentence:134 - territory
-22:54:12,783 TRACE Sentence:136 -  
-22:54:12,783 TRACE Sentence:87 - null LOWord null
-22:54:12,814 TRACE Sentence:87 - null LOWord null
-22:54:12,939 TRACE Sentence:87 - null LOWord null
-22:54:12,955 TRACE Sentence:129 -  
-22:54:12,955 TRACE Sentence:130 - Sentence 0 Paragraph 4
-22:54:12,955 TRACE Sentence:131 -  
-22:54:12,955 TRACE Sentence:134 - match
-22:54:12,955 TRACE Sentence:134 - distich
-22:54:12,955 TRACE Sentence:134 - two
-22:54:12,955 TRACE Sentence:134 - pair
-22:54:12,955 TRACE Sentence:134 - twain
-22:54:12,955 TRACE Sentence:134 - exalted
-22:54:12,955 TRACE Sentence:134 - high
-22:54:12,955 TRACE Sentence:134 - low
-22:54:12,955 TRACE Sentence:134 - elevated
-22:54:12,955 TRACE Sentence:134 - strong
-22:54:12,955 TRACE Sentence:134 - just
-22:54:12,970 TRACE Sentence:134 - quite
-22:54:12,970 TRACE Sentence:134 - so
-22:54:12,970 TRACE Sentence:134 - right
-22:54:12,970 TRACE Sentence:134 - exceedingly
-22:54:12,970 TRACE Sentence:134 - primary
-22:54:12,970 TRACE Sentence:134 - main
-22:54:12,970 TRACE Sentence:134 - great
-22:54:12,970 TRACE Sentence:134 - leading
-22:54:12,970 TRACE Sentence:134 - dominant
-22:54:12,970 TRACE Sentence:134 - resolve
-22:54:12,970 TRACE Sentence:134 - resolution
-22:54:12,970 TRACE Sentence:134 - aim
-22:54:12,970 TRACE Sentence:134 - will
-22:54:12,970 TRACE Sentence:134 - purpose
-22:54:12,970 TRACE Sentence:134 - do
-22:54:12,970 TRACE Sentence:134 - production
-22:54:12,970 TRACE Sentence:134 - play
-22:54:12,970 TRACE Sentence:134 - work
-22:54:12,970 TRACE Sentence:134 - piece
-22:54:12,970 TRACE Sentence:134 - press
-22:54:12,970 TRACE Sentence:134 - accent
-22:54:12,970 TRACE Sentence:134 - pressure
-22:54:12,970 TRACE Sentence:134 - stress
-22:54:12,970 TRACE Sentence:134 - force
-22:54:12,970 TRACE Sentence:134 - as
-22:54:12,970 TRACE Sentence:134 - cause
-22:54:12,970 TRACE Sentence:134 - as long as
-22:54:12,970 TRACE Sentence:134 - so
-22:54:12,970 TRACE Sentence:134 - for
-22:54:12,970 TRACE Sentence:134 - as
-22:54:12,970 TRACE Sentence:134 - cause
-22:54:12,970 TRACE Sentence:134 - as long as
-22:54:12,970 TRACE Sentence:134 - so
-22:54:12,970 TRACE Sentence:134 - for
-22:54:12,970 TRACE Sentence:136 -  
-22:54:13,080 TRACE Sentence:87 - null LOWord null
-22:54:13,111 TRACE Sentence:129 -  
-22:54:13,111 TRACE Sentence:130 - Sentence 1 Paragraph 4
-22:54:13,111 TRACE Sentence:131 -  
-22:54:13,111 TRACE Sentence:134 - mark
-22:54:13,111 TRACE Sentence:134 - point
-22:54:13,111 TRACE Sentence:134 - cut
-22:54:13,111 TRACE Sentence:134 - spot
-22:54:13,111 TRACE Sentence:134 - line
-22:54:13,111 TRACE Sentence:134 - primary
-22:54:13,111 TRACE Sentence:134 - elementary
-22:54:13,111 TRACE Sentence:134 - primal
-22:54:13,111 TRACE Sentence:134 - fundamental
-22:54:13,111 TRACE Sentence:134 - essential
-22:54:13,111 TRACE Sentence:134 - come
-22:54:13,111 TRACE Sentence:134 - plan
-22:54:13,111 TRACE Sentence:134 - approach
-22:54:13,111 TRACE Sentence:134 - near
-22:54:13,111 TRACE Sentence:134 - way
-22:54:13,111 TRACE Sentence:134 - match
-22:54:13,111 TRACE Sentence:134 - distich
-22:54:13,111 TRACE Sentence:134 - two
-22:54:13,111 TRACE Sentence:134 - pair
-22:54:13,111 TRACE Sentence:134 - twain
-22:54:13,111 TRACE Sentence:136 -  
-22:54:13,126 TRACE Sentence:87 - null LOWord null
-22:54:13,126 TRACE Sentence:87 - null LOWord null
-22:54:13,126 TRACE Sentence:87 - null LOWord null
-22:54:13,142 TRACE Sentence:87 - null LOWord null
-22:54:13,236 TRACE Sentence:129 -  
-22:54:13,236 TRACE Sentence:130 - Sentence 2 Paragraph 4
-22:54:13,236 TRACE Sentence:131 -  
-22:54:13,236 TRACE Sentence:134 - match
-22:54:13,236 TRACE Sentence:134 - distich
-22:54:13,236 TRACE Sentence:134 - two
-22:54:13,236 TRACE Sentence:134 - pair
-22:54:13,236 TRACE Sentence:134 - twain
-22:54:13,236 TRACE Sentence:134 - dole
-22:54:13,236 TRACE Sentence:134 - portion
-22:54:13,236 TRACE Sentence:134 - segment
-22:54:13,236 TRACE Sentence:134 - part
-22:54:13,236 TRACE Sentence:134 - share
-22:54:13,236 TRACE Sentence:134 - as
-22:54:13,236 TRACE Sentence:134 - cause
-22:54:13,236 TRACE Sentence:134 - as long as
-22:54:13,236 TRACE Sentence:134 - so
-22:54:13,236 TRACE Sentence:134 - for
-22:54:13,236 TRACE Sentence:134 - exhibit
-22:54:13,236 TRACE Sentence:134 - display
-22:54:13,236 TRACE Sentence:134 - parade
-22:54:13,236 TRACE Sentence:134 - show
-22:54:13,236 TRACE Sentence:134 - evidence
-22:54:13,236 TRACE Sentence:134 - whirl
-22:54:13,236 TRACE Sentence:134 - turn
-22:54:13,236 TRACE Sentence:134 - roll
-22:54:13,236 TRACE Sentence:134 - spin
-22:54:13,236 TRACE Sentence:134 - circle
-22:54:13,236 TRACE Sentence:134 - produce
-22:54:13,236 TRACE Sentence:134 - make
-22:54:13,236 TRACE Sentence:134 - mold
-22:54:13,236 TRACE Sentence:134 - form
-22:54:13,236 TRACE Sentence:134 - cast
-22:54:13,236 TRACE Sentence:136 -  
-22:54:13,330 TRACE Sentence:129 -  
-22:54:13,330 TRACE Sentence:130 - Sentence 0 Paragraph 5
-22:54:13,330 TRACE Sentence:131 -  
-22:54:13,330 TRACE Sentence:134 - access
-22:54:13,330 TRACE Sentence:134 - entry
-22:54:13,330 TRACE Sentence:134 - opening
-22:54:13,330 TRACE Sentence:134 - in
-22:54:13,330 TRACE Sentence:134 - entrance
-22:54:13,330 TRACE Sentence:134 - screed
-22:54:13,330 TRACE Sentence:134 - paper
-22:54:13,330 TRACE Sentence:134 - essay
-22:54:13,330 TRACE Sentence:134 - piece
-22:54:13,330 TRACE Sentence:134 - article
-22:54:13,330 TRACE Sentence:134 - practice
-22:54:13,330 TRACE Sentence:134 - work
-22:54:13,330 TRACE Sentence:134 - use
-22:54:13,330 TRACE Sentence:134 - exercise
-22:54:13,330 TRACE Sentence:134 - employ
-22:54:13,330 TRACE Sentence:134 - as
-22:54:13,330 TRACE Sentence:134 - cause
-22:54:13,330 TRACE Sentence:134 - as long as
-22:54:13,330 TRACE Sentence:134 - so
-22:54:13,330 TRACE Sentence:134 - for
-22:54:13,330 TRACE Sentence:134 - half-breed
-22:54:13,330 TRACE Sentence:134 - hybrid
-22:54:13,330 TRACE Sentence:134 - cattalo
-22:54:13,330 TRACE Sentence:134 - cross
-22:54:13,330 TRACE Sentence:134 - half blood
-22:54:13,330 TRACE Sentence:134 - design
-22:54:13,330 TRACE Sentence:134 - survey
-22:54:13,330 TRACE Sentence:134 - study
-22:54:13,330 TRACE Sentence:134 - work
-22:54:13,330 TRACE Sentence:134 - review
-22:54:13,330 TRACE Sentence:134 - formation
-22:54:13,330 TRACE Sentence:134 - plan
-22:54:13,330 TRACE Sentence:134 - structure
-22:54:13,330 TRACE Sentence:134 - make
-22:54:13,330 TRACE Sentence:134 - form
-22:54:13,330 TRACE Sentence:136 -  
-22:54:13,330 TRACE Sentence:87 - null LOWord null
-22:54:13,408 TRACE Sentence:87 - null LOWord null
-22:54:13,470 TRACE Sentence:129 -  
-22:54:13,470 TRACE Sentence:130 - Sentence 1 Paragraph 5
-22:54:13,470 TRACE Sentence:131 -  
-22:54:13,470 TRACE Sentence:134 - standard
-22:54:13,470 TRACE Sentence:134 - rule
-22:54:13,470 TRACE Sentence:134 - normal
-22:54:13,470 TRACE Sentence:134 - regulation
-22:54:13,470 TRACE Sentence:134 - measure
-22:54:13,470 TRACE Sentence:134 - saloon
-22:54:13,470 TRACE Sentence:134 - express
-22:54:13,470 TRACE Sentence:134 - interurban
-22:54:13,470 TRACE Sentence:134 - local
-22:54:13,470 TRACE Sentence:134 - limited
-22:54:13,470 TRACE Sentence:134 - hold
-22:54:13,470 TRACE Sentence:134 - bear
-22:54:13,470 TRACE Sentence:134 - have
-22:54:13,470 TRACE Sentence:134 - take
-22:54:13,470 TRACE Sentence:134 - take in
-22:54:13,470 TRACE Sentence:134 - metallic
-22:54:13,470 TRACE Sentence:134 - squawking
-22:54:13,470 TRACE Sentence:134 - croaky
-22:54:13,470 TRACE Sentence:134 - raucid
-22:54:13,470 TRACE Sentence:134 - roupy
-22:54:13,470 TRACE Sentence:134 - stamp
-22:54:13,470 TRACE Sentence:134 - mark
-22:54:13,470 TRACE Sentence:134 - type
-22:54:13,470 TRACE Sentence:134 - cast
-22:54:13,470 TRACE Sentence:134 - character
-22:54:13,470 TRACE Sentence:136 -  
-22:54:13,486 TRACE Sentence:87 - null LOWord null
-22:54:13,533 TRACE Sentence:87 - null LOWord null
-22:54:13,533 TRACE Sentence:129 -  
-22:54:13,533 TRACE Sentence:130 - Sentence 2 Paragraph 5
-22:54:13,533 TRACE Sentence:131 -  
-22:54:13,533 TRACE Sentence:134 - parent
-22:54:13,533 TRACE Sentence:134 - mother
-22:54:13,533 TRACE Sentence:134 - father
-22:54:13,533 TRACE Sentence:134 - begetter
-22:54:13,533 TRACE Sentence:134 - originator
-22:54:13,533 TRACE Sentence:134 - hold
-22:54:13,533 TRACE Sentence:134 - bear
-22:54:13,533 TRACE Sentence:134 - have
-22:54:13,533 TRACE Sentence:134 - take
-22:54:13,533 TRACE Sentence:134 - take in
-22:54:13,533 TRACE Sentence:134 - hold
-22:54:13,533 TRACE Sentence:134 - bear
-22:54:13,533 TRACE Sentence:134 - have
-22:54:13,533 TRACE Sentence:134 - take
-22:54:13,533 TRACE Sentence:134 - take in
-22:54:13,533 TRACE Sentence:136 -  
-22:54:13,611 TRACE Sentence:87 - null LOWord null
-22:54:13,642 TRACE Sentence:129 -  
-22:54:13,642 TRACE Sentence:130 - Sentence 3 Paragraph 5
-22:54:13,642 TRACE Sentence:131 -  
-22:54:13,642 TRACE Sentence:134 - design
-22:54:13,642 TRACE Sentence:134 - survey
-22:54:13,642 TRACE Sentence:134 - study
-22:54:13,642 TRACE Sentence:134 - work
-22:54:13,642 TRACE Sentence:134 - review
-22:54:13,642 TRACE Sentence:134 - determination
-22:54:13,642 TRACE Sentence:134 - resolution
-22:54:13,642 TRACE Sentence:134 - desire
-22:54:13,642 TRACE Sentence:134 - mind
-22:54:13,642 TRACE Sentence:134 - will
-22:54:13,642 TRACE Sentence:134 - further
-22:54:13,642 TRACE Sentence:134 - more
-22:54:13,642 TRACE Sentence:134 - plus
-22:54:13,642 TRACE Sentence:134 - farther
-22:54:13,642 TRACE Sentence:134 - extra
-22:54:13,642 TRACE Sentence:134 - standard
-22:54:13,642 TRACE Sentence:134 - rule
-22:54:13,642 TRACE Sentence:134 - normal
-22:54:13,642 TRACE Sentence:134 - regulation
-22:54:13,642 TRACE Sentence:134 - measure
-22:54:13,642 TRACE Sentence:134 - formation
-22:54:13,642 TRACE Sentence:134 - plan
-22:54:13,658 TRACE Sentence:134 - structure
-22:54:13,658 TRACE Sentence:134 - make
-22:54:13,658 TRACE Sentence:134 - form
-22:54:13,658 TRACE Sentence:136 -  
-22:54:13,658 TRACE Sentence:87 - null LOWord null
-22:54:13,673 TRACE Sentence:87 - null LOWord null
-22:54:13,705 TRACE Sentence:129 -  
-22:54:13,705 TRACE Sentence:130 - Sentence 4 Paragraph 5
-22:54:13,705 TRACE Sentence:131 -  
-22:54:13,705 TRACE Sentence:134 - formation
-22:54:13,705 TRACE Sentence:134 - plan
-22:54:13,705 TRACE Sentence:134 - structure
-22:54:13,705 TRACE Sentence:134 - make
-22:54:13,705 TRACE Sentence:134 - form
-22:54:13,705 TRACE Sentence:134 - as
-22:54:13,705 TRACE Sentence:134 - cause
-22:54:13,705 TRACE Sentence:134 - as long as
-22:54:13,705 TRACE Sentence:134 - so
-22:54:13,705 TRACE Sentence:134 - for
-22:54:13,705 TRACE Sentence:134 - access
-22:54:13,705 TRACE Sentence:134 - entry
-22:54:13,705 TRACE Sentence:134 - opening
-22:54:13,705 TRACE Sentence:134 - in
-22:54:13,705 TRACE Sentence:134 - entrance
-22:54:13,705 TRACE Sentence:134 - type
-22:54:13,705 TRACE Sentence:134 - cover
-22:54:13,705 TRACE Sentence:134 - case
-22:54:13,705 TRACE Sentence:134 - point
-22:54:13,705 TRACE Sentence:134 - character
-22:54:13,705 TRACE Sentence:136 -  
-22:54:13,751 TRACE Sentence:87 - null LOWord null
-22:54:13,986 TRACE Sentence:129 -  
-22:54:13,986 TRACE Sentence:130 - Sentence 5 Paragraph 5
-22:54:13,986 TRACE Sentence:131 -  
-22:54:13,986 TRACE Sentence:134 - give
-22:54:13,986 TRACE Sentence:134 - yield
-22:54:13,986 TRACE Sentence:134 - present
-22:54:13,986 TRACE Sentence:134 - communicate
-22:54:13,986 TRACE Sentence:134 - impart
-22:54:13,986 TRACE Sentence:134 - just
-22:54:13,986 TRACE Sentence:134 - quite
-22:54:13,986 TRACE Sentence:134 - so
-22:54:13,986 TRACE Sentence:134 - right
-22:54:13,986 TRACE Sentence:134 - exceedingly
-22:54:13,986 TRACE Sentence:134 - hold
-22:54:13,986 TRACE Sentence:134 - bear
-22:54:13,986 TRACE Sentence:134 - have
-22:54:13,986 TRACE Sentence:134 - take
-22:54:13,986 TRACE Sentence:134 - take in
-22:54:13,986 TRACE Sentence:134 - access
-22:54:13,986 TRACE Sentence:134 - entry
-22:54:13,986 TRACE Sentence:134 - opening
-22:54:13,986 TRACE Sentence:134 - in
-22:54:13,986 TRACE Sentence:134 - entrance
-22:54:13,986 TRACE Sentence:136 -  
-22:54:14,001 TRACE Sentence:87 - null LOWord null
-22:54:14,017 TRACE Sentence:129 -  
-22:54:14,017 TRACE Sentence:130 - Sentence 6 Paragraph 5
-22:54:14,017 TRACE Sentence:131 -  
-22:54:14,017 TRACE Sentence:134 - further
-22:54:14,017 TRACE Sentence:134 - more
-22:54:14,017 TRACE Sentence:134 - plus
-22:54:14,017 TRACE Sentence:134 - farther
-22:54:14,017 TRACE Sentence:134 - extra
-22:54:14,017 TRACE Sentence:134 - sure
-22:54:14,017 TRACE Sentence:134 - necessary
-22:54:14,017 TRACE Sentence:134 - inevitable
-22:54:14,017 TRACE Sentence:134 - certain
-22:54:14,017 TRACE Sentence:134 - decisive
-22:54:14,017 TRACE Sentence:134 - formation
-22:54:14,017 TRACE Sentence:134 - plan
-22:54:14,017 TRACE Sentence:134 - structure
-22:54:14,017 TRACE Sentence:134 - make
-22:54:14,017 TRACE Sentence:134 - form
-22:54:14,017 TRACE Sentence:136 -  
-22:54:14,064 TRACE Sentence:87 - null LOWord null
-22:54:14,064 TRACE Sentence:87 - null LOWord null
-22:54:14,080 TRACE Sentence:129 -  
-22:54:14,080 TRACE Sentence:130 - Sentence 0 Paragraph 6
-22:54:14,080 TRACE Sentence:131 -  
-22:54:14,080 TRACE Sentence:134 - exalted
-22:54:14,080 TRACE Sentence:134 - high
-22:54:14,080 TRACE Sentence:134 - low
-22:54:14,080 TRACE Sentence:134 - elevated
-22:54:14,080 TRACE Sentence:134 - strong
-22:54:14,080 TRACE Sentence:134 - single
-22:54:14,080 TRACE Sentence:134 - unchanging
-22:54:14,080 TRACE Sentence:134 - fellow
-22:54:14,080 TRACE Sentence:134 - one
-22:54:14,080 TRACE Sentence:134 - individual
-22:54:14,080 TRACE Sentence:134 - access
-22:54:14,080 TRACE Sentence:134 - entry
-22:54:14,080 TRACE Sentence:134 - opening
-22:54:14,080 TRACE Sentence:134 - in
-22:54:14,080 TRACE Sentence:134 - entrance
-22:54:14,080 TRACE Sentence:134 - up-to-date
-22:54:14,080 TRACE Sentence:134 - contemporary
-22:54:14,080 TRACE Sentence:134 - present-day
-22:54:14,080 TRACE Sentence:134 - up-to-the-minute
-22:54:14,080 TRACE Sentence:134 - modern
-22:54:14,080 TRACE Sentence:136 -  
-22:54:14,080 TRACE Sentence:87 - null LOWord null
-22:54:14,095 TRACE Sentence:87 - null LOWord null
-22:54:14,142 TRACE Sentence:87 - null LOWord null
-22:54:14,142 TRACE Sentence:129 -  
-22:54:14,142 TRACE Sentence:130 - Sentence 1 Paragraph 6
-22:54:14,142 TRACE Sentence:131 -  
-22:54:14,142 TRACE Sentence:134 - alter
-22:54:14,142 TRACE Sentence:134 - subliminal self
-22:54:14,142 TRACE Sentence:134 - myself
-22:54:14,142 TRACE Sentence:134 - inner self
-22:54:14,142 TRACE Sentence:134 - himself
-22:54:14,142 TRACE Sentence:134 - superior
-22:54:14,142 TRACE Sentence:134 - eminent
-22:54:14,142 TRACE Sentence:134 - major
-22:54:14,142 TRACE Sentence:134 - great
-22:54:14,142 TRACE Sentence:134 - outstanding
-22:54:14,142 TRACE Sentence:134 - access
-22:54:14,142 TRACE Sentence:134 - entry
-22:54:14,142 TRACE Sentence:134 - opening
-22:54:14,142 TRACE Sentence:134 - in
-22:54:14,142 TRACE Sentence:134 - entrance
-22:54:14,142 TRACE Sentence:134 - access
-22:54:14,142 TRACE Sentence:134 - entry
-22:54:14,142 TRACE Sentence:134 - opening
-22:54:14,142 TRACE Sentence:134 - in
-22:54:14,142 TRACE Sentence:134 - entrance
-22:54:14,142 TRACE Sentence:134 - sound
-22:54:14,142 TRACE Sentence:134 - stable
-22:54:14,142 TRACE Sentence:134 - substantial
-22:54:14,142 TRACE Sentence:134 - solid
-22:54:14,142 TRACE Sentence:134 - firm
-22:54:14,142 TRACE Sentence:134 - state
-22:54:14,142 TRACE Sentence:134 - province
-22:54:14,142 TRACE Sentence:134 - express
-22:54:14,142 TRACE Sentence:134 - principality
-22:54:14,142 TRACE Sentence:134 - territory
-22:54:14,142 TRACE Sentence:136 -  
-22:54:14,142 TRACE Sentence:87 - null LOWord null
-22:54:14,158 TRACE Sentence:87 - null LOWord null
-22:54:14,283 TRACE Sentence:87 - null LOWord null
-22:54:14,283 TRACE Sentence:87 - null LOWord null
-22:54:14,283 TRACE Sentence:129 -  
-22:54:14,283 TRACE Sentence:130 - Sentence 2 Paragraph 6
-22:54:14,298 TRACE Sentence:131 -  
-22:54:14,298 TRACE Sentence:134 - daydream
-22:54:14,298 TRACE Sentence:134 - dream
-22:54:14,298 TRACE Sentence:134 - fancy
-22:54:14,298 TRACE Sentence:134 - pipe dream
-22:54:14,298 TRACE Sentence:134 - fantasy
-22:54:14,298 TRACE Sentence:134 - figure
-22:54:14,298 TRACE Sentence:134 - type
-22:54:14,298 TRACE Sentence:134 - cast
-22:54:14,298 TRACE Sentence:134 - model
-22:54:14,298 TRACE Sentence:134 - form
-22:54:14,298 TRACE Sentence:134 - formation
-22:54:14,298 TRACE Sentence:134 - plan
-22:54:14,298 TRACE Sentence:134 - structure
-22:54:14,298 TRACE Sentence:134 - make
-22:54:14,298 TRACE Sentence:134 - form
-22:54:14,298 TRACE Sentence:134 - access
-22:54:14,298 TRACE Sentence:134 - entry
-22:54:14,298 TRACE Sentence:134 - opening
-22:54:14,298 TRACE Sentence:134 - in
-22:54:14,298 TRACE Sentence:134 - entrance
-22:54:14,298 TRACE Sentence:134 - order
-22:54:14,298 TRACE Sentence:134 - form
-22:54:14,298 TRACE Sentence:134 - rank
-22:54:14,298 TRACE Sentence:134 - set
-22:54:14,298 TRACE Sentence:134 - class
-22:54:14,298 TRACE Sentence:134 - therewith
-22:54:14,298 TRACE Sentence:134 - early
-22:54:14,298 TRACE Sentence:134 - then
-22:54:14,298 TRACE Sentence:134 - and so
-22:54:14,298 TRACE Sentence:134 - yet
-22:54:14,298 TRACE Sentence:134 - stand
-22:54:14,298 TRACE Sentence:134 - subsist
-22:54:14,298 TRACE Sentence:134 - hold
-22:54:14,298 TRACE Sentence:134 - exist
-22:54:14,298 TRACE Sentence:134 - live
-22:54:14,298 TRACE Sentence:134 - space
-22:54:14,298 TRACE Sentence:134 - margin
-22:54:14,298 TRACE Sentence:134 - berth
-22:54:14,298 TRACE Sentence:134 - scope
-22:54:14,298 TRACE Sentence:134 - room
-22:54:14,298 TRACE Sentence:136 -  
-22:54:14,298 TRACE Sentence:87 - null LOWord null
-22:54:14,298 TRACE Sentence:87 - null LOWord null
-22:54:14,298 TRACE Sentence:129 -  
-22:54:14,298 TRACE Sentence:130 - Sentence 0 Paragraph 0
-22:54:14,298 TRACE Sentence:87 - null LOWord null
-22:54:14,298 TRACE Sentence:131 -  
-22:54:14,298 TRACE Sentence:134 - exalted
-22:54:14,298 TRACE Sentence:134 - high
-22:54:14,298 TRACE Sentence:134 - low
-22:54:14,298 TRACE Sentence:134 - elevated
-22:54:14,298 TRACE Sentence:134 - strong
-22:54:14,298 TRACE Sentence:136 -  
-22:54:14,314 TRACE Sentence:129 -  
-22:54:14,314 TRACE Sentence:130 - Sentence 3 Paragraph 6
-22:54:14,314 TRACE Sentence:131 -  
-22:54:14,314 TRACE Sentence:134 - dull
-22:54:14,314 TRACE Sentence:134 - cool
-22:54:14,314 TRACE Sentence:134 - heartless
-22:54:14,314 TRACE Sentence:134 - objective
-22:54:14,314 TRACE Sentence:134 - dispassionate
-22:54:14,314 TRACE Sentence:134 - access
-22:54:14,314 TRACE Sentence:134 - entry
-22:54:14,314 TRACE Sentence:134 - opening
-22:54:14,314 TRACE Sentence:134 - in
-22:54:14,314 TRACE Sentence:134 - entrance
-22:54:14,314 TRACE Sentence:134 - forthcoming
-22:54:14,314 TRACE Sentence:134 - to come
-22:54:14,314 TRACE Sentence:134 - imminent
-22:54:14,314 TRACE Sentence:134 - coming
-22:54:14,314 TRACE Sentence:134 - future
-22:54:14,314 TRACE Sentence:136 -  
-22:54:14,330 TRACE Sentence:87 - null LOWord null
-22:54:14,345 TRACE Sentence:87 - null LOWord null
-22:54:14,361 TRACE Sentence:87 - null LOWord null
-22:54:14,361 TRACE Sentence:87 - null LOWord null
-22:54:14,455 TRACE Sentence:87 - null LOWord null
-22:54:14,455 TRACE Sentence:87 - null LOWord null
-22:54:14,486 TRACE Sentence:87 - null LOWord null
-22:54:14,486 TRACE Sentence:129 -  
-22:54:14,486 TRACE Sentence:130 - Sentence 1 Paragraph 0
-22:54:14,486 TRACE Sentence:131 -  
-22:54:14,486 TRACE Sentence:134 - screed
-22:54:14,486 TRACE Sentence:134 - paper
-22:54:14,486 TRACE Sentence:134 - essay
-22:54:14,486 TRACE Sentence:134 - piece
-22:54:14,486 TRACE Sentence:134 - article
-22:54:14,486 TRACE Sentence:134 - access
-22:54:14,486 TRACE Sentence:134 - entry
-22:54:14,486 TRACE Sentence:134 - opening
-22:54:14,486 TRACE Sentence:134 - in
-22:54:14,486 TRACE Sentence:134 - entrance
-22:54:14,486 TRACE Sentence:134 - radical
-22:54:14,501 TRACE Sentence:134 - acid
-22:54:14,501 TRACE Sentence:134 - chemical
-22:54:14,501 TRACE Sentence:134 - nonacid
-22:54:14,501 TRACE Sentence:134 - biochemical
-22:54:14,501 TRACE Sentence:134 - cast
-22:54:14,501 TRACE Sentence:134 - team
-22:54:14,501 TRACE Sentence:134 - complement
-22:54:14,501 TRACE Sentence:134 - company
-22:54:14,501 TRACE Sentence:134 - band
-22:54:14,501 TRACE Sentence:134 - determination
-22:54:14,501 TRACE Sentence:134 - resolution
-22:54:14,501 TRACE Sentence:134 - desire
-22:54:14,501 TRACE Sentence:134 - mind
-22:54:14,501 TRACE Sentence:134 - will
-22:54:14,501 TRACE Sentence:134 - help
-22:54:14,501 TRACE Sentence:134 - support
-22:54:14,501 TRACE Sentence:134 - favor
-22:54:14,501 TRACE Sentence:134 - ease
-22:54:14,501 TRACE Sentence:134 - aid
-22:54:14,501 TRACE Sentence:134 - agreement
-22:54:14,501 TRACE Sentence:134 - concord
-22:54:14,501 TRACE Sentence:134 - esprit
-22:54:14,501 TRACE Sentence:134 - understanding
-22:54:14,501 TRACE Sentence:134 - accord
-22:54:14,501 TRACE Sentence:134 - access
-22:54:14,501 TRACE Sentence:134 - entry
-22:54:14,501 TRACE Sentence:134 - opening
-22:54:14,501 TRACE Sentence:134 - in
-22:54:14,501 TRACE Sentence:134 - entrance
-22:54:14,501 TRACE Sentence:134 - exalted
-22:54:14,501 TRACE Sentence:134 - high
-22:54:14,501 TRACE Sentence:134 - low
-22:54:14,501 TRACE Sentence:134 - elevated
-22:54:14,501 TRACE Sentence:134 - strong
-22:54:14,501 TRACE Sentence:136 -  
-22:54:14,501 TRACE Sentence:87 - null LOWord null
-22:54:14,517 TRACE Sentence:87 - null LOWord null
-22:54:14,517 TRACE Sentence:87 - null LOWord null
-22:54:14,517 TRACE Sentence:129 -  
-22:54:14,517 TRACE Sentence:130 - Sentence 4 Paragraph 6
-22:54:14,517 TRACE Sentence:131 -  
-22:54:14,517 TRACE Sentence:134 - turn
-22:54:14,517 TRACE Sentence:134 - time
-22:54:14,517 TRACE Sentence:134 - interval
-22:54:14,517 TRACE Sentence:134 - spell
-22:54:14,517 TRACE Sentence:134 - point
-22:54:14,517 TRACE Sentence:134 - come
-22:54:14,517 TRACE Sentence:134 - plan
-22:54:14,517 TRACE Sentence:134 - approach
-22:54:14,517 TRACE Sentence:134 - near
-22:54:14,517 TRACE Sentence:134 - way
-22:54:14,517 TRACE Sentence:134 - strain
-22:54:14,517 TRACE Sentence:134 - essay
-22:54:14,517 TRACE Sentence:134 - trial
-22:54:14,517 TRACE Sentence:134 - try
-22:54:14,517 TRACE Sentence:134 - assay
-22:54:14,517 TRACE Sentence:134 - parent
-22:54:14,517 TRACE Sentence:134 - mother
-22:54:14,517 TRACE Sentence:134 - father
-22:54:14,517 TRACE Sentence:134 - begetter
-22:54:14,517 TRACE Sentence:134 - originator
-22:54:14,517 TRACE Sentence:134 - effect
-22:54:14,517 TRACE Sentence:134 - make
-22:54:14,517 TRACE Sentence:134 - work
-22:54:14,517 TRACE Sentence:134 - force
-22:54:14,517 TRACE Sentence:134 - consequence
-22:54:14,517 TRACE Sentence:134 - access
-22:54:14,517 TRACE Sentence:134 - entry
-22:54:14,517 TRACE Sentence:134 - opening
-22:54:14,517 TRACE Sentence:134 - in
-22:54:14,517 TRACE Sentence:134 - entrance
-22:54:14,517 TRACE Sentence:134 - formation
-22:54:14,517 TRACE Sentence:134 - plan
-22:54:14,517 TRACE Sentence:134 - structure
-22:54:14,517 TRACE Sentence:134 - make
-22:54:14,517 TRACE Sentence:134 - form
-22:54:14,517 TRACE Sentence:134 - study
-22:54:14,517 TRACE Sentence:134 - probe
-22:54:14,517 TRACE Sentence:134 - test
-22:54:14,517 TRACE Sentence:134 - search
-22:54:14,517 TRACE Sentence:134 - research
-22:54:14,517 TRACE Sentence:134 - access
-22:54:14,517 TRACE Sentence:134 - entry
-22:54:14,517 TRACE Sentence:134 - opening
-22:54:14,517 TRACE Sentence:134 - in
-22:54:14,517 TRACE Sentence:134 - entrance
-22:54:14,517 TRACE Sentence:134 - body
-22:54:14,517 TRACE Sentence:134 - bunch
-22:54:14,517 TRACE Sentence:134 - set
-22:54:14,517 TRACE Sentence:134 - grouping
-22:54:14,517 TRACE Sentence:134 - group
-22:54:14,517 TRACE Sentence:134 - single
-22:54:14,517 TRACE Sentence:134 - unchanging
-22:54:14,517 TRACE Sentence:134 - fellow
-22:54:14,517 TRACE Sentence:134 - one
-22:54:14,517 TRACE Sentence:134 - individual
-22:54:14,517 TRACE Sentence:134 - access
-22:54:14,517 TRACE Sentence:134 - entry
-22:54:14,517 TRACE Sentence:134 - opening
-22:54:14,517 TRACE Sentence:134 - in
-22:54:14,517 TRACE Sentence:134 - entrance
-22:54:14,517 TRACE Sentence:136 -  
-22:54:14,548 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:129 -  
-22:54:14,564 TRACE Sentence:130 - Sentence 0 Paragraph 7
-22:54:14,564 TRACE Sentence:131 -  
-22:54:14,564 TRACE Sentence:134 - access
-22:54:14,564 TRACE Sentence:134 - entry
-22:54:14,564 TRACE Sentence:134 - opening
-22:54:14,564 TRACE Sentence:134 - in
-22:54:14,564 TRACE Sentence:134 - entrance
-22:54:14,564 TRACE Sentence:134 - design
-22:54:14,564 TRACE Sentence:134 - survey
-22:54:14,564 TRACE Sentence:134 - study
-22:54:14,564 TRACE Sentence:134 - work
-22:54:14,564 TRACE Sentence:134 - review
-22:54:14,564 TRACE Sentence:136 -  
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:129 -  
-22:54:14,564 TRACE Sentence:130 - Sentence 1 Paragraph 7
-22:54:14,564 TRACE Sentence:131 -  
-22:54:14,564 TRACE Sentence:136 -  
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:129 -  
-22:54:14,564 TRACE Sentence:130 - Sentence 2 Paragraph 7
-22:54:14,564 TRACE Sentence:131 -  
-22:54:14,564 TRACE Sentence:136 -  
-22:54:14,564 TRACE Sentence:87 - null LOWord null
-22:54:14,564 TRACE Sentence:129 -  
-22:54:14,564 TRACE Sentence:130 - Sentence 3 Paragraph 7
-22:54:14,564 TRACE Sentence:131 -  
-22:54:14,564 TRACE Sentence:136 -  
-22:54:14,595 TRACE Sentence:129 -  
-22:54:14,595 TRACE Sentence:130 - Sentence 0 Paragraph 1
-22:54:14,595 TRACE Sentence:131 -  
-22:54:14,595 TRACE Sentence:134 - practice
-22:54:14,611 TRACE Sentence:134 - lead
-22:54:14,611 TRACE Sentence:134 - action
-22:54:14,611 TRACE Sentence:134 - work
-22:54:14,611 TRACE Sentence:134 - conduct
-22:54:14,611 TRACE Sentence:134 - course
-22:54:14,611 TRACE Sentence:134 - run
-22:54:14,611 TRACE Sentence:134 - set
-22:54:14,611 TRACE Sentence:134 - current
-22:54:14,611 TRACE Sentence:134 - prevalent
-22:54:14,611 TRACE Sentence:134 - cipher
-22:54:14,611 TRACE Sentence:134 - zero
-22:54:14,611 TRACE Sentence:134 - nothing
-22:54:14,611 TRACE Sentence:134 - nullity
-22:54:14,611 TRACE Sentence:134 - thing of naught
-22:54:14,611 TRACE Sentence:134 - high
-22:54:14,611 TRACE Sentence:134 - low
-22:54:14,611 TRACE Sentence:134 - poor
-22:54:14,611 TRACE Sentence:134 - mean
-22:54:14,611 TRACE Sentence:134 - flat
-22:54:14,611 TRACE Sentence:136 -  
-22:54:14,611 TRACE Sentence:87 - null LOWord null
-22:54:14,611 TRACE Sentence:87 - null LOWord null
-22:54:14,626 TRACE Sentence:87 - null LOWord null
-22:54:14,626 TRACE Sentence:87 - null LOWord null
-22:54:14,626 TRACE Sentence:129 -  
-22:54:14,626 TRACE Sentence:130 - Sentence 4 Paragraph 7
-22:54:14,626 TRACE Sentence:131 -  
-22:54:14,626 TRACE Sentence:134 - design
-22:54:14,626 TRACE Sentence:134 - survey
-22:54:14,626 TRACE Sentence:134 - study
-22:54:14,626 TRACE Sentence:134 - work
-22:54:14,626 TRACE Sentence:134 - review
-22:54:14,626 TRACE Sentence:134 - deviant
-22:54:14,626 TRACE Sentence:134 - deviative
-22:54:14,626 TRACE Sentence:134 - off
-22:54:14,626 TRACE Sentence:134 - out
-22:54:14,626 TRACE Sentence:134 - unorthodox
-22:54:14,626 TRACE Sentence:134 - middle
-22:54:14,626 TRACE Sentence:134 - core
-22:54:14,626 TRACE Sentence:134 - kernel
-22:54:14,626 TRACE Sentence:134 - center
-22:54:14,626 TRACE Sentence:134 - heart
-22:54:14,626 TRACE Sentence:136 -  
-22:54:14,626 TRACE Sentence:87 - null LOWord null
-22:54:14,658 TRACE Sentence:87 - null LOWord null
-22:54:14,658 TRACE Sentence:129 -  
-22:54:14,658 TRACE Sentence:130 - Sentence 0 Paragraph 8
-22:54:14,658 TRACE Sentence:131 -  
-22:54:14,658 TRACE Sentence:134 - further
-22:54:14,658 TRACE Sentence:134 - more
-22:54:14,658 TRACE Sentence:134 - plus
-22:54:14,658 TRACE Sentence:134 - farther
-22:54:14,658 TRACE Sentence:134 - extra
-22:54:14,658 TRACE Sentence:134 - radical
-22:54:14,658 TRACE Sentence:134 - acid
-22:54:14,658 TRACE Sentence:134 - chemical
-22:54:14,658 TRACE Sentence:134 - nonacid
-22:54:14,658 TRACE Sentence:134 - biochemical
-22:54:14,658 TRACE Sentence:134 - formation
-22:54:14,658 TRACE Sentence:134 - plan
-22:54:14,658 TRACE Sentence:134 - structure
-22:54:14,658 TRACE Sentence:134 - make
-22:54:14,658 TRACE Sentence:134 - form
-22:54:14,658 TRACE Sentence:134 - access
-22:54:14,658 TRACE Sentence:134 - entry
-22:54:14,658 TRACE Sentence:134 - opening
-22:54:14,658 TRACE Sentence:134 - in
-22:54:14,658 TRACE Sentence:134 - entrance
-22:54:14,658 TRACE Sentence:136 -  
-22:54:14,658 TRACE Sentence:87 - null LOWord null
-22:54:14,658 TRACE Sentence:87 - null LOWord null
-22:54:14,658 TRACE Sentence:129 -  
-22:54:14,658 TRACE Sentence:130 - Sentence 1 Paragraph 8
-22:54:14,658 TRACE Sentence:131 -  
-22:54:14,658 TRACE Sentence:136 -  
-22:54:14,658 TRACE Sentence:87 - null LOWord null
-22:54:14,658 TRACE Sentence:129 -  
-22:54:14,658 TRACE Sentence:130 - Sentence 2 Paragraph 8
-22:54:14,658 TRACE Sentence:131 -  
-22:54:14,658 TRACE Sentence:136 -  
-22:54:14,658 TRACE Sentence:87 - null LOWord null
-22:54:14,673 TRACE Sentence:87 - null LOWord null
-22:54:14,673 TRACE Sentence:129 -  
-22:54:14,673 TRACE Sentence:130 - Sentence 3 Paragraph 8
-22:54:14,673 TRACE Sentence:131 -  
-22:54:14,673 TRACE Sentence:134 - radical
-22:54:14,673 TRACE Sentence:134 - acid
-22:54:14,673 TRACE Sentence:134 - chemical
-22:54:14,673 TRACE Sentence:134 - nonacid
-22:54:14,673 TRACE Sentence:134 - biochemical
-22:54:14,673 TRACE Sentence:136 -  
-22:54:14,673 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:129 -  
-22:54:14,720 TRACE Sentence:130 - Sentence 1 Paragraph 1
-22:54:14,720 TRACE Sentence:131 -  
-22:54:14,720 TRACE Sentence:134 - access
-22:54:14,720 TRACE Sentence:134 - entry
-22:54:14,720 TRACE Sentence:134 - opening
-22:54:14,720 TRACE Sentence:134 - in
-22:54:14,720 TRACE Sentence:134 - entrance
-22:54:14,720 TRACE Sentence:134 - access
-22:54:14,720 TRACE Sentence:134 - entry
-22:54:14,720 TRACE Sentence:134 - opening
-22:54:14,720 TRACE Sentence:134 - in
-22:54:14,720 TRACE Sentence:134 - entrance
-22:54:14,720 TRACE Sentence:134 - sound
-22:54:14,720 TRACE Sentence:134 - stable
-22:54:14,720 TRACE Sentence:134 - substantial
-22:54:14,720 TRACE Sentence:134 - solid
-22:54:14,720 TRACE Sentence:134 - firm
-22:54:14,720 TRACE Sentence:134 - state
-22:54:14,720 TRACE Sentence:134 - province
-22:54:14,720 TRACE Sentence:134 - express
-22:54:14,720 TRACE Sentence:134 - principality
-22:54:14,720 TRACE Sentence:134 - territory
-22:54:14,720 TRACE Sentence:134 - hold
-22:54:14,720 TRACE Sentence:134 - bear
-22:54:14,720 TRACE Sentence:134 - have
-22:54:14,720 TRACE Sentence:134 - take
-22:54:14,720 TRACE Sentence:134 - take in
-22:54:14,720 TRACE Sentence:134 - steady
-22:54:14,720 TRACE Sentence:134 - unqualified
-22:54:14,720 TRACE Sentence:134 - straight
-22:54:14,720 TRACE Sentence:134 - uniform
-22:54:14,720 TRACE Sentence:134 - regular
-22:54:14,720 TRACE Sentence:136 -  
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:129 -  
-22:54:14,720 TRACE Sentence:130 - Sentence 2 Paragraph 1
-22:54:14,720 TRACE Sentence:131 -  
-22:54:14,720 TRACE Sentence:136 -  
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:129 -  
-22:54:14,720 TRACE Sentence:130 - Sentence 3 Paragraph 1
-22:54:14,720 TRACE Sentence:131 -  
-22:54:14,720 TRACE Sentence:136 -  
-22:54:14,720 TRACE Sentence:87 - null LOWord null
-22:54:14,720 TRACE Sentence:129 -  
-22:54:14,720 TRACE Sentence:130 - Sentence 4 Paragraph 1
-22:54:14,736 TRACE Sentence:131 -  
-22:54:14,736 TRACE Sentence:136 -  
-22:54:14,736 TRACE Sentence:87 - null LOWord null
-22:54:14,736 TRACE Sentence:87 - null LOWord null
-22:54:14,736 TRACE Sentence:129 -  
-22:54:14,736 TRACE Sentence:130 - Sentence 5 Paragraph 1
-22:54:14,736 TRACE Sentence:131 -  
-22:54:14,736 TRACE Sentence:136 -  
-22:54:14,736 TRACE Sentence:87 - null LOWord null
-22:54:14,736 TRACE Sentence:87 - null LOWord null
-22:54:14,783 TRACE Sentence:87 - null LOWord null
-22:54:14,783 TRACE Sentence:129 -  
-22:54:14,783 TRACE Sentence:130 - Sentence 6 Paragraph 1
-22:54:14,783 TRACE Sentence:131 -  
-22:54:14,783 TRACE Sentence:134 - practice
-22:54:14,783 TRACE Sentence:134 - lead
-22:54:14,783 TRACE Sentence:134 - action
-22:54:14,783 TRACE Sentence:134 - work
-22:54:14,783 TRACE Sentence:134 - conduct
-22:54:14,783 TRACE Sentence:134 - course
-22:54:14,783 TRACE Sentence:134 - run
-22:54:14,783 TRACE Sentence:134 - set
-22:54:14,783 TRACE Sentence:134 - current
-22:54:14,783 TRACE Sentence:134 - prevalent
-22:54:14,783 TRACE Sentence:134 - cipher
-22:54:14,783 TRACE Sentence:134 - zero
-22:54:14,783 TRACE Sentence:134 - nothing
-22:54:14,783 TRACE Sentence:134 - nullity
-22:54:14,783 TRACE Sentence:134 - thing of naught
-22:54:14,783 TRACE Sentence:136 -  
-22:54:14,783 TRACE Sentence:87 - null LOWord null
-22:54:14,783 TRACE Sentence:129 -  
-22:54:14,783 TRACE Sentence:130 - Sentence 7 Paragraph 1
-22:54:14,783 TRACE Sentence:131 -  
-22:54:14,783 TRACE Sentence:136 -  
-22:54:14,783 TRACE Sentence:87 - null LOWord null
-22:54:14,783 TRACE Sentence:129 -  
-22:54:14,783 TRACE Sentence:130 - Sentence 8 Paragraph 1
-22:54:14,783 TRACE Sentence:131 -  
-22:54:14,783 TRACE Sentence:136 -  
-22:54:14,783 TRACE Sentence:87 - null LOWord null
-22:54:14,783 TRACE Sentence:129 -  
-22:54:14,783 TRACE Sentence:130 - Sentence 9 Paragraph 1
-22:54:14,783 TRACE Sentence:131 -  
-22:54:14,783 TRACE Sentence:136 -  
-22:54:14,861 TRACE Sentence:87 - null LOWord null
-22:54:14,861 TRACE Sentence:87 - null LOWord null
-22:54:14,876 TRACE Sentence:87 - null LOWord null
-22:54:14,986 TRACE Sentence:129 -  
-22:54:14,986 TRACE Sentence:130 - Sentence 10 Paragraph 1
-22:54:14,986 TRACE Sentence:131 -  
-22:54:14,986 TRACE Sentence:134 - do
-22:54:14,986 TRACE Sentence:134 - production
-22:54:14,986 TRACE Sentence:134 - play
-22:54:14,986 TRACE Sentence:134 - work
-22:54:14,986 TRACE Sentence:134 - piece
-22:54:14,986 TRACE Sentence:134 - ferruginous
-22:54:14,986 TRACE Sentence:134 - cupreous
-22:54:14,986 TRACE Sentence:134 - coppery
-22:54:14,986 TRACE Sentence:134 - copper
-22:54:14,986 TRACE Sentence:134 - nickel
-22:54:14,986 TRACE Sentence:134 - vair
-22:54:14,986 TRACE Sentence:134 - or
-22:54:14,986 TRACE Sentence:134 - pale
-22:54:14,986 TRACE Sentence:134 - saltire
-22:54:14,986 TRACE Sentence:134 - bend sinister
-22:54:14,986 TRACE Sentence:134 - above
-22:54:14,986 TRACE Sentence:134 - upper
-22:54:14,986 TRACE Sentence:134 - superior
-22:54:14,986 TRACE Sentence:134 - over
-22:54:14,986 TRACE Sentence:134 - ahead
-22:54:14,986 TRACE Sentence:134 - boil
-22:54:14,986 TRACE Sentence:134 - seething
-22:54:14,986 TRACE Sentence:134 - ebullition
-22:54:14,986 TRACE Sentence:134 - ferment
-22:54:14,986 TRACE Sentence:134 - boiling
-22:54:14,986 TRACE Sentence:134 - mark
-22:54:14,986 TRACE Sentence:134 - point
-22:54:14,986 TRACE Sentence:134 - cut
-22:54:14,986 TRACE Sentence:134 - spot
-22:54:14,986 TRACE Sentence:134 - line
-22:54:14,986 TRACE Sentence:134 - continuant
-22:54:14,986 TRACE Sentence:134 - labiovelar
-22:54:14,986 TRACE Sentence:134 - apico-alveolar
-22:54:14,986 TRACE Sentence:134 - cacuminal
-22:54:14,986 TRACE Sentence:134 - liquid
-22:54:14,986 TRACE Sentence:136 -  
-22:54:15,033 TRACE Sentence:87 - null LOWord null
-22:54:15,064 TRACE Sentence:87 - null LOWord null
-22:54:15,080 TRACE Sentence:87 - null LOWord null
-22:54:15,080 TRACE Sentence:129 -  
-22:54:15,080 TRACE Sentence:130 - Sentence 0 Paragraph 2
-22:54:15,080 TRACE Sentence:131 -  
-22:54:15,080 TRACE Sentence:134 - statement
-22:54:15,080 TRACE Sentence:134 - reckoning
-22:54:15,080 TRACE Sentence:134 - account
-22:54:15,080 TRACE Sentence:134 - report
-22:54:15,080 TRACE Sentence:134 - inventory
-22:54:15,080 TRACE Sentence:134 - exalted
-22:54:15,080 TRACE Sentence:134 - high
-22:54:15,080 TRACE Sentence:134 - low
-22:54:15,080 TRACE Sentence:134 - elevated
-22:54:15,080 TRACE Sentence:134 - strong
-22:54:15,080 TRACE Sentence:134 - alter
-22:54:15,080 TRACE Sentence:134 - subliminal self
-22:54:15,080 TRACE Sentence:134 - myself
-22:54:15,080 TRACE Sentence:134 - inner self
-22:54:15,080 TRACE Sentence:134 - himself
-22:54:15,080 TRACE Sentence:134 - hold
-22:54:15,080 TRACE Sentence:134 - support
-22:54:15,080 TRACE Sentence:134 - run
-22:54:15,080 TRACE Sentence:134 - bear
-22:54:15,080 TRACE Sentence:134 - work
-22:54:15,080 TRACE Sentence:134 - establish
-22:54:15,080 TRACE Sentence:134 - found
-22:54:15,080 TRACE Sentence:134 - inaugurate
-22:54:15,080 TRACE Sentence:134 - set up
-22:54:15,080 TRACE Sentence:134 - institute
-22:54:15,080 TRACE Sentence:136 -  
-22:54:15,095 TRACE Sentence:87 - null LOWord null
-22:54:15,126 TRACE Sentence:87 - null LOWord null
-22:54:15,142 TRACE Sentence:87 - null LOWord null
-22:54:15,173 TRACE Sentence:87 - null LOWord null
-22:54:15,173 TRACE Sentence:129 -  
-22:54:15,173 TRACE Sentence:130 - Sentence 0 Paragraph 3
-22:54:15,173 TRACE Sentence:131 -  
-22:54:15,173 TRACE Sentence:134 - access
-22:54:15,173 TRACE Sentence:134 - entry
-22:54:15,173 TRACE Sentence:134 - opening
-22:54:15,173 TRACE Sentence:134 - in
-22:54:15,173 TRACE Sentence:134 - entrance
-22:54:15,173 TRACE Sentence:134 - exalted
-22:54:15,173 TRACE Sentence:134 - high
-22:54:15,173 TRACE Sentence:134 - low
-22:54:15,173 TRACE Sentence:134 - elevated
-22:54:15,173 TRACE Sentence:134 - strong
-22:54:15,173 TRACE Sentence:134 - iron
-22:54:15,173 TRACE Sentence:134 - firm
-22:54:15,173 TRACE Sentence:134 - hard
-22:54:15,173 TRACE Sentence:134 - steely
-22:54:15,173 TRACE Sentence:134 - stiff
-22:54:15,173 TRACE Sentence:134 - advocate
-22:54:15,173 TRACE Sentence:134 - paranymph
-22:54:15,173 TRACE Sentence:134 - support
-22:54:15,173 TRACE Sentence:134 - second
-22:54:15,173 TRACE Sentence:134 - champion
-22:54:15,173 TRACE Sentence:134 - superior
-22:54:15,173 TRACE Sentence:134 - eminent
-22:54:15,173 TRACE Sentence:134 - major
-22:54:15,173 TRACE Sentence:134 - great
-22:54:15,173 TRACE Sentence:134 - outstanding
-22:54:15,173 TRACE Sentence:134 - access
-22:54:15,173 TRACE Sentence:134 - entry
-22:54:15,173 TRACE Sentence:134 - opening
-22:54:15,173 TRACE Sentence:134 - in
-22:54:15,173 TRACE Sentence:134 - entrance
-22:54:15,173 TRACE Sentence:134 - world
-22:54:15,173 TRACE Sentence:134 - everybody
-22:54:15,173 TRACE Sentence:134 - everyone
-22:54:15,173 TRACE Sentence:134 - everyman
-22:54:15,173 TRACE Sentence:134 - folks
-22:54:15,173 TRACE Sentence:136 -  
-22:54:15,205 TRACE Sentence:87 - null LOWord null
-22:54:15,236 TRACE Sentence:87 - null LOWord null
-22:54:15,236 TRACE Sentence:87 - null LOWord null
-22:54:15,330 TRACE Sentence:87 - null LOWord null
-22:54:15,330 TRACE Sentence:129 -  
-22:54:15,330 TRACE Sentence:130 - Sentence 1 Paragraph 3
-22:54:15,330 TRACE Sentence:131 -  
-22:54:15,330 TRACE Sentence:134 - do
-22:54:15,330 TRACE Sentence:134 - work out
-22:54:15,330 TRACE Sentence:134 - make
-22:54:15,330 TRACE Sentence:134 - work
-22:54:15,330 TRACE Sentence:134 - realize
-22:54:15,330 TRACE Sentence:134 - ferruginous
-22:54:15,330 TRACE Sentence:134 - cupreous
-22:54:15,330 TRACE Sentence:134 - coppery
-22:54:15,330 TRACE Sentence:134 - copper
-22:54:15,330 TRACE Sentence:134 - nickel
-22:54:15,330 TRACE Sentence:134 - hold
-22:54:15,330 TRACE Sentence:134 - bear
-22:54:15,330 TRACE Sentence:134 - have
-22:54:15,330 TRACE Sentence:134 - take
-22:54:15,330 TRACE Sentence:134 - take in
-22:54:15,330 TRACE Sentence:134 - vair
-22:54:15,330 TRACE Sentence:134 - or
-22:54:15,330 TRACE Sentence:134 - pale
-22:54:15,330 TRACE Sentence:134 - saltire
-22:54:15,330 TRACE Sentence:134 - bend sinister
-22:54:15,330 TRACE Sentence:134 - as
-22:54:15,330 TRACE Sentence:134 - cause
-22:54:15,330 TRACE Sentence:134 - as long as
-22:54:15,330 TRACE Sentence:134 - so
-22:54:15,330 TRACE Sentence:134 - for
-22:54:15,330 TRACE Sentence:134 - iron
-22:54:15,330 TRACE Sentence:134 - firm
-22:54:15,330 TRACE Sentence:134 - hard
-22:54:15,330 TRACE Sentence:134 - steely
-22:54:15,330 TRACE Sentence:134 - stiff
-22:54:15,330 TRACE Sentence:134 - determination
-22:54:15,330 TRACE Sentence:134 - resolution
-22:54:15,330 TRACE Sentence:134 - desire
-22:54:15,330 TRACE Sentence:134 - mind
-22:54:15,330 TRACE Sentence:134 - will
-22:54:15,330 TRACE Sentence:134 - help
-22:54:15,330 TRACE Sentence:134 - support
-22:54:15,330 TRACE Sentence:134 - favor
-22:54:15,330 TRACE Sentence:134 - ease
-22:54:15,330 TRACE Sentence:134 - aid
-22:54:15,330 TRACE Sentence:134 - access
-22:54:15,330 TRACE Sentence:134 - entry
-22:54:15,330 TRACE Sentence:134 - opening
-22:54:15,330 TRACE Sentence:134 - in
-22:54:15,330 TRACE Sentence:134 - entrance
-22:54:15,330 TRACE Sentence:134 - sound
-22:54:15,330 TRACE Sentence:134 - stable
-22:54:15,330 TRACE Sentence:134 - substantial
-22:54:15,330 TRACE Sentence:134 - solid
-22:54:15,330 TRACE Sentence:134 - firm
-22:54:15,330 TRACE Sentence:134 - state
-22:54:15,330 TRACE Sentence:134 - province
-22:54:15,330 TRACE Sentence:134 - express
-22:54:15,330 TRACE Sentence:134 - principality
-22:54:15,330 TRACE Sentence:134 - territory
-22:54:15,330 TRACE Sentence:136 -  
-22:54:15,345 TRACE Sentence:87 - null LOWord null
-22:54:15,376 TRACE Sentence:87 - null LOWord null
-22:54:15,486 TRACE Sentence:87 - null LOWord null
-22:54:15,501 TRACE Sentence:129 -  
-22:54:15,501 TRACE Sentence:130 - Sentence 0 Paragraph 4
-22:54:15,501 TRACE Sentence:131 -  
-22:54:15,501 TRACE Sentence:134 - match
-22:54:15,501 TRACE Sentence:134 - distich
-22:54:15,501 TRACE Sentence:134 - two
-22:54:15,501 TRACE Sentence:134 - pair
-22:54:15,501 TRACE Sentence:134 - twain
-22:54:15,501 TRACE Sentence:134 - exalted
-22:54:15,501 TRACE Sentence:134 - high
-22:54:15,501 TRACE Sentence:134 - low
-22:54:15,501 TRACE Sentence:134 - elevated
-22:54:15,501 TRACE Sentence:134 - strong
-22:54:15,501 TRACE Sentence:134 - just
-22:54:15,501 TRACE Sentence:134 - quite
-22:54:15,501 TRACE Sentence:134 - so
-22:54:15,501 TRACE Sentence:134 - right
-22:54:15,501 TRACE Sentence:134 - exceedingly
-22:54:15,501 TRACE Sentence:134 - primary
-22:54:15,501 TRACE Sentence:134 - main
-22:54:15,501 TRACE Sentence:134 - great
-22:54:15,501 TRACE Sentence:134 - leading
-22:54:15,501 TRACE Sentence:134 - dominant
-22:54:15,501 TRACE Sentence:134 - resolve
-22:54:15,501 TRACE Sentence:134 - resolution
-22:54:15,501 TRACE Sentence:134 - aim
-22:54:15,501 TRACE Sentence:134 - will
-22:54:15,501 TRACE Sentence:134 - purpose
-22:54:15,501 TRACE Sentence:134 - do
-22:54:15,501 TRACE Sentence:134 - production
-22:54:15,501 TRACE Sentence:134 - play
-22:54:15,501 TRACE Sentence:134 - work
-22:54:15,501 TRACE Sentence:134 - piece
-22:54:15,501 TRACE Sentence:134 - press
-22:54:15,501 TRACE Sentence:134 - accent
-22:54:15,501 TRACE Sentence:134 - pressure
-22:54:15,501 TRACE Sentence:134 - stress
-22:54:15,501 TRACE Sentence:134 - force
-22:54:15,501 TRACE Sentence:134 - as
-22:54:15,501 TRACE Sentence:134 - cause
-22:54:15,501 TRACE Sentence:134 - as long as
-22:54:15,501 TRACE Sentence:134 - so
-22:54:15,501 TRACE Sentence:134 - for
-22:54:15,501 TRACE Sentence:134 - as
-22:54:15,501 TRACE Sentence:134 - cause
-22:54:15,501 TRACE Sentence:134 - as long as
-22:54:15,517 TRACE Sentence:134 - so
-22:54:15,517 TRACE Sentence:134 - for
-22:54:15,517 TRACE Sentence:136 -  
-22:54:15,611 TRACE Sentence:87 - null LOWord null
-22:54:15,642 TRACE Sentence:129 -  
-22:54:15,642 TRACE Sentence:130 - Sentence 1 Paragraph 4
-22:54:15,642 TRACE Sentence:131 -  
-22:54:15,642 TRACE Sentence:134 - mark
-22:54:15,642 TRACE Sentence:134 - point
-22:54:15,642 TRACE Sentence:134 - cut
-22:54:15,642 TRACE Sentence:134 - spot
-22:54:15,642 TRACE Sentence:134 - line
-22:54:15,642 TRACE Sentence:134 - primary
-22:54:15,642 TRACE Sentence:134 - elementary
-22:54:15,642 TRACE Sentence:134 - primal
-22:54:15,642 TRACE Sentence:134 - fundamental
-22:54:15,642 TRACE Sentence:134 - essential
-22:54:15,642 TRACE Sentence:134 - come
-22:54:15,642 TRACE Sentence:134 - plan
-22:54:15,642 TRACE Sentence:134 - approach
-22:54:15,642 TRACE Sentence:134 - near
-22:54:15,642 TRACE Sentence:134 - way
-22:54:15,642 TRACE Sentence:134 - match
-22:54:15,642 TRACE Sentence:134 - distich
-22:54:15,642 TRACE Sentence:134 - two
-22:54:15,642 TRACE Sentence:134 - pair
-22:54:15,642 TRACE Sentence:134 - twain
-22:54:15,642 TRACE Sentence:136 -  
-22:54:15,658 TRACE Sentence:87 - null LOWord null
-22:54:15,658 TRACE Sentence:87 - null LOWord null
-22:54:15,658 TRACE Sentence:87 - null LOWord null
-22:54:15,673 TRACE Sentence:87 - null LOWord null
-22:54:15,767 TRACE Sentence:129 -  
-22:54:15,767 TRACE Sentence:130 - Sentence 2 Paragraph 4
-22:54:15,767 TRACE Sentence:131 -  
-22:54:15,767 TRACE Sentence:134 - match
-22:54:15,767 TRACE Sentence:134 - distich
-22:54:15,767 TRACE Sentence:134 - two
-22:54:15,767 TRACE Sentence:134 - pair
-22:54:15,767 TRACE Sentence:134 - twain
-22:54:15,767 TRACE Sentence:134 - dole
-22:54:15,767 TRACE Sentence:134 - portion
-22:54:15,767 TRACE Sentence:134 - segment
-22:54:15,767 TRACE Sentence:134 - part
-22:54:15,767 TRACE Sentence:134 - share
-22:54:15,767 TRACE Sentence:134 - as
-22:54:15,767 TRACE Sentence:134 - cause
-22:54:15,767 TRACE Sentence:134 - as long as
-22:54:15,767 TRACE Sentence:134 - so
-22:54:15,767 TRACE Sentence:134 - for
-22:54:15,767 TRACE Sentence:134 - exhibit
-22:54:15,767 TRACE Sentence:134 - display
-22:54:15,767 TRACE Sentence:134 - parade
-22:54:15,767 TRACE Sentence:134 - show
-22:54:15,767 TRACE Sentence:134 - evidence
-22:54:15,767 TRACE Sentence:134 - whirl
-22:54:15,767 TRACE Sentence:134 - turn
-22:54:15,767 TRACE Sentence:134 - roll
-22:54:15,767 TRACE Sentence:134 - spin
-22:54:15,767 TRACE Sentence:134 - circle
-22:54:15,767 TRACE Sentence:134 - produce
-22:54:15,767 TRACE Sentence:134 - make
-22:54:15,767 TRACE Sentence:134 - mold
-22:54:15,767 TRACE Sentence:134 - form
-22:54:15,767 TRACE Sentence:134 - cast
-22:54:15,767 TRACE Sentence:136 -  
-22:54:15,845 TRACE Sentence:129 -  
-22:54:15,845 TRACE Sentence:130 - Sentence 0 Paragraph 5
-22:54:15,845 TRACE Sentence:131 -  
-22:54:15,845 TRACE Sentence:134 - access
-22:54:15,845 TRACE Sentence:134 - entry
-22:54:15,845 TRACE Sentence:134 - opening
-22:54:15,845 TRACE Sentence:134 - in
-22:54:15,845 TRACE Sentence:134 - entrance
-22:54:15,845 TRACE Sentence:134 - screed
-22:54:15,845 TRACE Sentence:134 - paper
-22:54:15,845 TRACE Sentence:134 - essay
-22:54:15,845 TRACE Sentence:134 - piece
-22:54:15,845 TRACE Sentence:134 - article
-22:54:15,845 TRACE Sentence:134 - practice
-22:54:15,845 TRACE Sentence:134 - work
-22:54:15,845 TRACE Sentence:134 - use
-22:54:15,845 TRACE Sentence:134 - exercise
-22:54:15,845 TRACE Sentence:134 - employ
-22:54:15,845 TRACE Sentence:134 - as
-22:54:15,845 TRACE Sentence:134 - cause
-22:54:15,845 TRACE Sentence:134 - as long as
-22:54:15,845 TRACE Sentence:134 - so
-22:54:15,845 TRACE Sentence:134 - for
-22:54:15,845 TRACE Sentence:134 - half-breed
-22:54:15,845 TRACE Sentence:134 - hybrid
-22:54:15,845 TRACE Sentence:134 - cattalo
-22:54:15,845 TRACE Sentence:134 - cross
-22:54:15,845 TRACE Sentence:134 - half blood
-22:54:15,845 TRACE Sentence:134 - design
-22:54:15,845 TRACE Sentence:134 - survey
-22:54:15,845 TRACE Sentence:134 - study
-22:54:15,845 TRACE Sentence:134 - work
-22:54:15,845 TRACE Sentence:134 - review
-22:54:15,861 TRACE Sentence:134 - formation
-22:54:15,861 TRACE Sentence:134 - plan
-22:54:15,861 TRACE Sentence:134 - structure
-22:54:15,861 TRACE Sentence:134 - make
-22:54:15,861 TRACE Sentence:134 - form
-22:54:15,861 TRACE Sentence:136 -  
-22:54:15,861 TRACE Sentence:87 - null LOWord null
-22:54:15,923 TRACE Sentence:87 - null LOWord null
-22:54:15,986 TRACE Sentence:129 -  
-22:54:15,986 TRACE Sentence:130 - Sentence 1 Paragraph 5
-22:54:15,986 TRACE Sentence:131 -  
-22:54:15,986 TRACE Sentence:134 - standard
-22:54:15,986 TRACE Sentence:134 - rule
-22:54:15,986 TRACE Sentence:134 - normal
-22:54:15,986 TRACE Sentence:134 - regulation
-22:54:15,986 TRACE Sentence:134 - measure
-22:54:15,986 TRACE Sentence:134 - saloon
-22:54:15,986 TRACE Sentence:134 - express
-22:54:15,986 TRACE Sentence:134 - interurban
-22:54:15,986 TRACE Sentence:134 - local
-22:54:15,986 TRACE Sentence:134 - limited
-22:54:15,986 TRACE Sentence:134 - hold
-22:54:15,986 TRACE Sentence:134 - bear
-22:54:15,986 TRACE Sentence:134 - have
-22:54:15,986 TRACE Sentence:134 - take
-22:54:15,986 TRACE Sentence:134 - take in
-22:54:15,986 TRACE Sentence:134 - metallic
-22:54:15,986 TRACE Sentence:134 - squawking
-22:54:15,986 TRACE Sentence:134 - croaky
-22:54:15,986 TRACE Sentence:134 - raucid
-22:54:15,986 TRACE Sentence:134 - roupy
-22:54:15,986 TRACE Sentence:134 - stamp
-22:54:15,986 TRACE Sentence:134 - mark
-22:54:15,986 TRACE Sentence:134 - type
-22:54:15,986 TRACE Sentence:134 - cast
-22:54:15,986 TRACE Sentence:134 - character
-22:54:15,986 TRACE Sentence:136 -  
-22:54:15,986 TRACE Sentence:87 - null LOWord null
-22:54:16,033 TRACE Sentence:87 - null LOWord null
-22:54:16,033 TRACE Sentence:129 -  
-22:54:16,033 TRACE Sentence:130 - Sentence 2 Paragraph 5
-22:54:16,033 TRACE Sentence:131 -  
-22:54:16,033 TRACE Sentence:134 - parent
-22:54:16,033 TRACE Sentence:134 - mother
-22:54:16,033 TRACE Sentence:134 - father
-22:54:16,033 TRACE Sentence:134 - begetter
-22:54:16,033 TRACE Sentence:134 - originator
-22:54:16,033 TRACE Sentence:134 - hold
-22:54:16,033 TRACE Sentence:134 - bear
-22:54:16,033 TRACE Sentence:134 - have
-22:54:16,033 TRACE Sentence:134 - take
-22:54:16,033 TRACE Sentence:134 - take in
-22:54:16,033 TRACE Sentence:134 - hold
-22:54:16,033 TRACE Sentence:134 - bear
-22:54:16,033 TRACE Sentence:134 - have
-22:54:16,033 TRACE Sentence:134 - take
-22:54:16,033 TRACE Sentence:134 - take in
-22:54:16,033 TRACE Sentence:136 -  
-22:54:16,095 TRACE Sentence:87 - null LOWord null
-22:54:16,126 TRACE Sentence:129 -  
-22:54:16,126 TRACE Sentence:130 - Sentence 3 Paragraph 5
-22:54:16,126 TRACE Sentence:131 -  
-22:54:16,126 TRACE Sentence:134 - design
-22:54:16,126 TRACE Sentence:134 - survey
-22:54:16,126 TRACE Sentence:134 - study
-22:54:16,126 TRACE Sentence:134 - work
-22:54:16,126 TRACE Sentence:134 - review
-22:54:16,126 TRACE Sentence:134 - determination
-22:54:16,126 TRACE Sentence:134 - resolution
-22:54:16,126 TRACE Sentence:134 - desire
-22:54:16,126 TRACE Sentence:134 - mind
-22:54:16,126 TRACE Sentence:134 - will
-22:54:16,126 TRACE Sentence:134 - further
-22:54:16,126 TRACE Sentence:134 - more
-22:54:16,126 TRACE Sentence:134 - plus
-22:54:16,126 TRACE Sentence:134 - farther
-22:54:16,126 TRACE Sentence:134 - extra
-22:54:16,126 TRACE Sentence:134 - standard
-22:54:16,126 TRACE Sentence:134 - rule
-22:54:16,126 TRACE Sentence:134 - normal
-22:54:16,126 TRACE Sentence:134 - regulation
-22:54:16,126 TRACE Sentence:134 - measure
-22:54:16,126 TRACE Sentence:134 - formation
-22:54:16,126 TRACE Sentence:134 - plan
-22:54:16,126 TRACE Sentence:134 - structure
-22:54:16,126 TRACE Sentence:134 - make
-22:54:16,126 TRACE Sentence:134 - form
-22:54:16,126 TRACE Sentence:136 -  
-22:54:16,126 TRACE Sentence:87 - null LOWord null
-22:54:16,158 TRACE Sentence:87 - null LOWord null
-22:54:16,189 TRACE Sentence:129 -  
-22:54:16,189 TRACE Sentence:130 - Sentence 4 Paragraph 5
-22:54:16,189 TRACE Sentence:131 -  
-22:54:16,189 TRACE Sentence:134 - formation
-22:54:16,189 TRACE Sentence:134 - plan
-22:54:16,189 TRACE Sentence:134 - structure
-22:54:16,189 TRACE Sentence:134 - make
-22:54:16,189 TRACE Sentence:134 - form
-22:54:16,189 TRACE Sentence:134 - as
-22:54:16,189 TRACE Sentence:134 - cause
-22:54:16,189 TRACE Sentence:134 - as long as
-22:54:16,189 TRACE Sentence:134 - so
-22:54:16,189 TRACE Sentence:134 - for
-22:54:16,189 TRACE Sentence:134 - access
-22:54:16,189 TRACE Sentence:134 - entry
-22:54:16,189 TRACE Sentence:134 - opening
-22:54:16,189 TRACE Sentence:134 - in
-22:54:16,189 TRACE Sentence:134 - entrance
-22:54:16,189 TRACE Sentence:134 - type
-22:54:16,189 TRACE Sentence:134 - cover
-22:54:16,189 TRACE Sentence:134 - case
-22:54:16,189 TRACE Sentence:134 - point
-22:54:16,189 TRACE Sentence:134 - character
-22:54:16,189 TRACE Sentence:136 -  
-22:54:16,220 TRACE Sentence:87 - null LOWord null
-22:54:16,251 TRACE Sentence:129 -  
-22:54:16,251 TRACE Sentence:130 - Sentence 5 Paragraph 5
-22:54:16,251 TRACE Sentence:131 -  
-22:54:16,251 TRACE Sentence:134 - give
-22:54:16,251 TRACE Sentence:134 - yield
-22:54:16,251 TRACE Sentence:134 - present
-22:54:16,251 TRACE Sentence:134 - communicate
-22:54:16,251 TRACE Sentence:134 - impart
-22:54:16,251 TRACE Sentence:134 - just
-22:54:16,251 TRACE Sentence:134 - quite
-22:54:16,251 TRACE Sentence:134 - so
-22:54:16,251 TRACE Sentence:134 - right
-22:54:16,251 TRACE Sentence:134 - exceedingly
-22:54:16,251 TRACE Sentence:134 - hold
-22:54:16,251 TRACE Sentence:134 - bear
-22:54:16,251 TRACE Sentence:134 - have
-22:54:16,251 TRACE Sentence:134 - take
-22:54:16,251 TRACE Sentence:134 - take in
-22:54:16,251 TRACE Sentence:134 - access
-22:54:16,251 TRACE Sentence:134 - entry
-22:54:16,251 TRACE Sentence:134 - opening
-22:54:16,251 TRACE Sentence:134 - in
-22:54:16,251 TRACE Sentence:134 - entrance
-22:54:16,251 TRACE Sentence:136 -  
-22:54:16,267 TRACE Sentence:87 - null LOWord null
-22:54:16,283 TRACE Sentence:129 -  
-22:54:16,283 TRACE Sentence:130 - Sentence 6 Paragraph 5
-22:54:16,283 TRACE Sentence:131 -  
-22:54:16,283 TRACE Sentence:134 - further
-22:54:16,283 TRACE Sentence:134 - more
-22:54:16,283 TRACE Sentence:134 - plus
-22:54:16,283 TRACE Sentence:134 - farther
-22:54:16,283 TRACE Sentence:134 - extra
-22:54:16,283 TRACE Sentence:134 - sure
-22:54:16,392 TRACE Sentence:134 - necessary
-22:54:16,392 TRACE Sentence:134 - inevitable
-22:54:16,392 TRACE Sentence:134 - certain
-22:54:16,392 TRACE Sentence:134 - decisive
-22:54:16,392 TRACE Sentence:134 - formation
-22:54:16,392 TRACE Sentence:134 - plan
-22:54:16,392 TRACE Sentence:134 - structure
-22:54:16,392 TRACE Sentence:134 - make
-22:54:16,392 TRACE Sentence:134 - form
-22:54:16,392 TRACE Sentence:136 -  
-22:54:16,423 TRACE Sentence:87 - null LOWord null
-22:54:16,423 TRACE Sentence:87 - null LOWord null
-22:54:16,439 TRACE Sentence:129 -  
-22:54:16,439 TRACE Sentence:130 - Sentence 0 Paragraph 6
-22:54:16,439 TRACE Sentence:131 -  
-22:54:16,439 TRACE Sentence:134 - exalted
-22:54:16,439 TRACE Sentence:134 - high
-22:54:16,439 TRACE Sentence:134 - low
-22:54:16,439 TRACE Sentence:134 - elevated
-22:54:16,439 TRACE Sentence:134 - strong
-22:54:16,439 TRACE Sentence:134 - single
-22:54:16,439 TRACE Sentence:134 - unchanging
-22:54:16,439 TRACE Sentence:134 - fellow
-22:54:16,439 TRACE Sentence:134 - one
-22:54:16,439 TRACE Sentence:134 - individual
-22:54:16,439 TRACE Sentence:134 - access
-22:54:16,439 TRACE Sentence:134 - entry
-22:54:16,439 TRACE Sentence:134 - opening
-22:54:16,439 TRACE Sentence:134 - in
-22:54:16,439 TRACE Sentence:134 - entrance
-22:54:16,439 TRACE Sentence:134 - up-to-date
-22:54:16,439 TRACE Sentence:134 - contemporary
-22:54:16,439 TRACE Sentence:134 - present-day
-22:54:16,439 TRACE Sentence:134 - up-to-the-minute
-22:54:16,439 TRACE Sentence:134 - modern
-22:54:16,439 TRACE Sentence:136 -  
-22:54:16,439 TRACE Sentence:87 - null LOWord null
-22:54:16,455 TRACE Sentence:87 - null LOWord null
-22:54:16,501 TRACE Sentence:87 - null LOWord null
-22:54:16,501 TRACE Sentence:129 -  
-22:54:16,501 TRACE Sentence:130 - Sentence 1 Paragraph 6
-22:54:16,501 TRACE Sentence:131 -  
-22:54:16,501 TRACE Sentence:134 - alter
-22:54:16,501 TRACE Sentence:134 - subliminal self
-22:54:16,501 TRACE Sentence:134 - myself
-22:54:16,501 TRACE Sentence:134 - inner self
-22:54:16,501 TRACE Sentence:134 - himself
-22:54:16,501 TRACE Sentence:134 - superior
-22:54:16,501 TRACE Sentence:134 - eminent
-22:54:16,501 TRACE Sentence:134 - major
-22:54:16,501 TRACE Sentence:134 - great
-22:54:16,501 TRACE Sentence:134 - outstanding
-22:54:16,501 TRACE Sentence:134 - access
-22:54:16,501 TRACE Sentence:134 - entry
-22:54:16,501 TRACE Sentence:134 - opening
-22:54:16,501 TRACE Sentence:134 - in
-22:54:16,501 TRACE Sentence:134 - entrance
-22:54:16,501 TRACE Sentence:134 - access
-22:54:16,501 TRACE Sentence:134 - entry
-22:54:16,501 TRACE Sentence:134 - opening
-22:54:16,501 TRACE Sentence:134 - in
-22:54:16,501 TRACE Sentence:134 - entrance
-22:54:16,501 TRACE Sentence:134 - sound
-22:54:16,501 TRACE Sentence:134 - stable
-22:54:16,501 TRACE Sentence:134 - substantial
-22:54:16,501 TRACE Sentence:134 - solid
-22:54:16,501 TRACE Sentence:134 - firm
-22:54:16,501 TRACE Sentence:134 - state
-22:54:16,501 TRACE Sentence:134 - province
-22:54:16,501 TRACE Sentence:134 - express
-22:54:16,501 TRACE Sentence:134 - principality
-22:54:16,501 TRACE Sentence:134 - territory
-22:54:16,501 TRACE Sentence:136 -  
-22:54:16,501 TRACE Sentence:87 - null LOWord null
-22:54:16,517 TRACE Sentence:87 - null LOWord null
-22:54:16,642 TRACE Sentence:87 - null LOWord null
-22:54:16,642 TRACE Sentence:87 - null LOWord null
-22:54:16,642 TRACE Sentence:129 -  
-22:54:16,642 TRACE Sentence:130 - Sentence 2 Paragraph 6
-22:54:16,642 TRACE Sentence:131 -  
-22:54:16,642 TRACE Sentence:134 - daydream
-22:54:16,642 TRACE Sentence:134 - dream
-22:54:16,642 TRACE Sentence:134 - fancy
-22:54:16,642 TRACE Sentence:134 - pipe dream
-22:54:16,642 TRACE Sentence:134 - fantasy
-22:54:16,642 TRACE Sentence:134 - figure
-22:54:16,642 TRACE Sentence:134 - type
-22:54:16,642 TRACE Sentence:134 - cast
-22:54:16,642 TRACE Sentence:134 - model
-22:54:16,642 TRACE Sentence:134 - form
-22:54:16,642 TRACE Sentence:134 - formation
-22:54:16,642 TRACE Sentence:134 - plan
-22:54:16,642 TRACE Sentence:134 - structure
-22:54:16,642 TRACE Sentence:134 - make
-22:54:16,642 TRACE Sentence:134 - form
-22:54:16,642 TRACE Sentence:134 - access
-22:54:16,642 TRACE Sentence:134 - entry
-22:54:16,642 TRACE Sentence:134 - opening
-22:54:16,642 TRACE Sentence:134 - in
-22:54:16,658 TRACE Sentence:134 - entrance
-22:54:16,658 TRACE Sentence:134 - order
-22:54:16,658 TRACE Sentence:134 - form
-22:54:16,658 TRACE Sentence:134 - rank
-22:54:16,658 TRACE Sentence:134 - set
-22:54:16,658 TRACE Sentence:134 - class
-22:54:16,658 TRACE Sentence:134 - therewith
-22:54:16,658 TRACE Sentence:134 - early
-22:54:16,658 TRACE Sentence:134 - then
-22:54:16,658 TRACE Sentence:134 - and so
-22:54:16,658 TRACE Sentence:134 - yet
-22:54:16,658 TRACE Sentence:134 - stand
-22:54:16,658 TRACE Sentence:134 - subsist
-22:54:16,658 TRACE Sentence:134 - hold
-22:54:16,658 TRACE Sentence:134 - exist
-22:54:16,658 TRACE Sentence:134 - live
-22:54:16,658 TRACE Sentence:134 - space
-22:54:16,658 TRACE Sentence:134 - margin
-22:54:16,658 TRACE Sentence:134 - berth
-22:54:16,658 TRACE Sentence:134 - scope
-22:54:16,658 TRACE Sentence:134 - room
-22:54:16,658 TRACE Sentence:136 -  
-22:54:16,658 TRACE Sentence:87 - null LOWord null
-22:54:16,673 TRACE Sentence:129 -  
-22:54:16,673 TRACE Sentence:130 - Sentence 3 Paragraph 6
-22:54:16,673 TRACE Sentence:131 -  
-22:54:16,673 TRACE Sentence:134 - dull
-22:54:16,673 TRACE Sentence:134 - cool
-22:54:16,673 TRACE Sentence:134 - heartless
-22:54:16,673 TRACE Sentence:134 - objective
-22:54:16,673 TRACE Sentence:134 - dispassionate
-22:54:16,673 TRACE Sentence:134 - access
-22:54:16,673 TRACE Sentence:134 - entry
-22:54:16,673 TRACE Sentence:134 - opening
-22:54:16,673 TRACE Sentence:134 - in
-22:54:16,673 TRACE Sentence:134 - entrance
-22:54:16,673 TRACE Sentence:134 - forthcoming
-22:54:16,673 TRACE Sentence:134 - to come
-22:54:16,673 TRACE Sentence:134 - imminent
-22:54:16,673 TRACE Sentence:134 - coming
-22:54:16,673 TRACE Sentence:134 - future
-22:54:16,673 TRACE Sentence:136 -  
-22:54:16,783 TRACE Sentence:87 - null LOWord null
-22:54:16,845 TRACE Sentence:87 - null LOWord null
-22:54:16,845 TRACE Sentence:87 - null LOWord null
-22:54:16,845 TRACE Sentence:129 -  
-22:54:16,845 TRACE Sentence:130 - Sentence 4 Paragraph 6
-22:54:16,845 TRACE Sentence:131 -  
-22:54:16,845 TRACE Sentence:134 - turn
-22:54:16,845 TRACE Sentence:134 - time
-22:54:16,845 TRACE Sentence:134 - interval
-22:54:16,845 TRACE Sentence:134 - spell
-22:54:16,845 TRACE Sentence:134 - point
-22:54:16,845 TRACE Sentence:134 - come
-22:54:16,845 TRACE Sentence:134 - plan
-22:54:16,845 TRACE Sentence:134 - approach
-22:54:16,845 TRACE Sentence:134 - near
-22:54:16,845 TRACE Sentence:134 - way
-22:54:16,845 TRACE Sentence:134 - strain
-22:54:16,845 TRACE Sentence:134 - essay
-22:54:16,845 TRACE Sentence:134 - trial
-22:54:16,845 TRACE Sentence:134 - try
-22:54:16,845 TRACE Sentence:134 - assay
-22:54:16,845 TRACE Sentence:134 - parent
-22:54:16,845 TRACE Sentence:134 - mother
-22:54:16,845 TRACE Sentence:134 - father
-22:54:16,845 TRACE Sentence:134 - begetter
-22:54:16,845 TRACE Sentence:134 - originator
-22:54:16,845 TRACE Sentence:134 - effect
-22:54:16,845 TRACE Sentence:134 - make
-22:54:16,845 TRACE Sentence:134 - work
-22:54:16,845 TRACE Sentence:134 - force
-22:54:16,845 TRACE Sentence:134 - consequence
-22:54:16,845 TRACE Sentence:134 - access
-22:54:16,845 TRACE Sentence:134 - entry
-22:54:16,845 TRACE Sentence:134 - opening
-22:54:16,845 TRACE Sentence:134 - in
-22:54:16,845 TRACE Sentence:134 - entrance
-22:54:16,845 TRACE Sentence:134 - formation
-22:54:16,845 TRACE Sentence:134 - plan
-22:54:16,845 TRACE Sentence:134 - structure
-22:54:16,845 TRACE Sentence:134 - make
-22:54:16,845 TRACE Sentence:134 - form
-22:54:16,845 TRACE Sentence:134 - study
-22:54:16,845 TRACE Sentence:134 - probe
-22:54:16,845 TRACE Sentence:134 - test
-22:54:16,845 TRACE Sentence:134 - search
-22:54:16,845 TRACE Sentence:134 - research
-22:54:16,845 TRACE Sentence:134 - access
-22:54:16,845 TRACE Sentence:134 - entry
-22:54:16,845 TRACE Sentence:134 - opening
-22:54:16,845 TRACE Sentence:134 - in
-22:54:16,845 TRACE Sentence:134 - entrance
-22:54:16,845 TRACE Sentence:134 - body
-22:54:16,845 TRACE Sentence:134 - bunch
-22:54:16,845 TRACE Sentence:134 - set
-22:54:16,845 TRACE Sentence:134 - grouping
-22:54:16,845 TRACE Sentence:134 - group
-22:54:16,845 TRACE Sentence:134 - single
-22:54:16,845 TRACE Sentence:134 - unchanging
-22:54:16,845 TRACE Sentence:134 - fellow
-22:54:16,845 TRACE Sentence:134 - one
-22:54:16,845 TRACE Sentence:134 - individual
-22:54:16,845 TRACE Sentence:134 - access
-22:54:16,845 TRACE Sentence:134 - entry
-22:54:16,845 TRACE Sentence:134 - opening
-22:54:16,845 TRACE Sentence:134 - in
-22:54:16,845 TRACE Sentence:134 - entrance
-22:54:16,845 TRACE Sentence:136 -  
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:129 -  
-22:54:16,876 TRACE Sentence:130 - Sentence 0 Paragraph 7
-22:54:16,876 TRACE Sentence:131 -  
-22:54:16,876 TRACE Sentence:134 - access
-22:54:16,876 TRACE Sentence:134 - entry
-22:54:16,876 TRACE Sentence:134 - opening
-22:54:16,876 TRACE Sentence:134 - in
-22:54:16,876 TRACE Sentence:134 - entrance
-22:54:16,876 TRACE Sentence:134 - design
-22:54:16,876 TRACE Sentence:134 - survey
-22:54:16,876 TRACE Sentence:134 - study
-22:54:16,876 TRACE Sentence:134 - work
-22:54:16,876 TRACE Sentence:134 - review
-22:54:16,876 TRACE Sentence:136 -  
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:129 -  
-22:54:16,876 TRACE Sentence:130 - Sentence 1 Paragraph 7
-22:54:16,876 TRACE Sentence:131 -  
-22:54:16,876 TRACE Sentence:136 -  
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:129 -  
-22:54:16,876 TRACE Sentence:130 - Sentence 2 Paragraph 7
-22:54:16,876 TRACE Sentence:131 -  
-22:54:16,876 TRACE Sentence:136 -  
-22:54:16,876 TRACE Sentence:87 - null LOWord null
-22:54:16,876 TRACE Sentence:129 -  
-22:54:16,876 TRACE Sentence:130 - Sentence 3 Paragraph 7
-22:54:16,876 TRACE Sentence:131 -  
-22:54:16,876 TRACE Sentence:136 -  
-22:54:16,923 TRACE Sentence:87 - null LOWord null
-22:54:16,939 TRACE Sentence:87 - null LOWord null
-22:54:16,939 TRACE Sentence:87 - null LOWord null
-22:54:16,939 TRACE Sentence:129 -  
-22:54:16,939 TRACE Sentence:130 - Sentence 4 Paragraph 7
-22:54:16,939 TRACE Sentence:131 -  
-22:54:16,939 TRACE Sentence:134 - design
-22:54:16,939 TRACE Sentence:134 - survey
-22:54:16,939 TRACE Sentence:134 - study
-22:54:16,939 TRACE Sentence:134 - work
-22:54:16,939 TRACE Sentence:134 - review
-22:54:16,939 TRACE Sentence:134 - deviant
-22:54:16,939 TRACE Sentence:134 - deviative
-22:54:16,939 TRACE Sentence:134 - off
-22:54:16,939 TRACE Sentence:134 - out
-22:54:16,939 TRACE Sentence:134 - unorthodox
-22:54:16,939 TRACE Sentence:134 - middle
-22:54:16,939 TRACE Sentence:134 - core
-22:54:16,939 TRACE Sentence:134 - kernel
-22:54:16,939 TRACE Sentence:134 - center
-22:54:16,939 TRACE Sentence:134 - heart
-22:54:16,939 TRACE Sentence:136 -  
-22:54:16,939 TRACE Sentence:87 - null LOWord null
-22:54:16,970 TRACE Sentence:87 - null LOWord null
-22:54:16,970 TRACE Sentence:129 -  
-22:54:16,970 TRACE Sentence:130 - Sentence 0 Paragraph 8
-22:54:16,970 TRACE Sentence:131 -  
-22:54:16,970 TRACE Sentence:134 - further
-22:54:16,970 TRACE Sentence:134 - more
-22:54:16,970 TRACE Sentence:134 - plus
-22:54:16,970 TRACE Sentence:134 - farther
-22:54:16,970 TRACE Sentence:134 - extra
-22:54:16,970 TRACE Sentence:134 - radical
-22:54:16,970 TRACE Sentence:134 - acid
-22:54:16,970 TRACE Sentence:134 - chemical
-22:54:16,970 TRACE Sentence:134 - nonacid
-22:54:16,970 TRACE Sentence:134 - biochemical
-22:54:16,970 TRACE Sentence:134 - formation
-22:54:16,970 TRACE Sentence:134 - plan
-22:54:16,970 TRACE Sentence:134 - structure
-22:54:16,970 TRACE Sentence:134 - make
-22:54:16,970 TRACE Sentence:134 - form
-22:54:16,970 TRACE Sentence:134 - access
-22:54:16,970 TRACE Sentence:134 - entry
-22:54:16,970 TRACE Sentence:134 - opening
-22:54:16,970 TRACE Sentence:134 - in
-22:54:16,970 TRACE Sentence:134 - entrance
-22:54:16,970 TRACE Sentence:136 -  
-22:54:16,970 TRACE Sentence:87 - null LOWord null
-22:54:16,970 TRACE Sentence:87 - null LOWord null
-22:54:16,970 TRACE Sentence:129 -  
-22:54:16,970 TRACE Sentence:130 - Sentence 1 Paragraph 8
-22:54:16,970 TRACE Sentence:131 -  
-22:54:16,970 TRACE Sentence:136 -  
-22:54:16,970 TRACE Sentence:87 - null LOWord null
-22:54:16,970 TRACE Sentence:129 -  
-22:54:16,970 TRACE Sentence:130 - Sentence 2 Paragraph 8
-22:54:16,970 TRACE Sentence:131 -  
-22:54:16,970 TRACE Sentence:136 -  
-22:54:16,970 TRACE Sentence:87 - null LOWord null
-22:54:16,986 TRACE Sentence:87 - null LOWord null
-22:54:16,986 TRACE Sentence:129 -  
-22:54:16,986 TRACE Sentence:130 - Sentence 3 Paragraph 8
-22:54:16,986 TRACE Sentence:131 -  
-22:54:16,986 TRACE Sentence:134 - radical
-22:54:16,986 TRACE Sentence:134 - acid
-22:54:16,986 TRACE Sentence:134 - chemical
-22:54:16,986 TRACE Sentence:134 - nonacid
-22:54:16,986 TRACE Sentence:134 - biochemical
-22:54:16,986 TRACE Sentence:136 -  
+16:11:42,515 TRACE Sentence:87 - null LOWord null
+16:11:42,515 TRACE Sentence:87 - null LOWord null
+16:11:42,562 TRACE Sentence:129 -  
+16:11:42,562 TRACE Sentence:130 - Sentence 0 Paragraph 0
+16:11:42,562 TRACE Sentence:131 -  
+16:11:42,562 TRACE Sentence:134 - exalted
+16:11:42,562 TRACE Sentence:134 - high
+16:11:42,562 TRACE Sentence:134 - low
+16:11:42,562 TRACE Sentence:134 - elevated
+16:11:42,562 TRACE Sentence:134 - strong
+16:11:42,562 TRACE Sentence:136 -  
+16:11:42,593 TRACE Sentence:87 - null LOWord null
+16:11:42,609 TRACE Sentence:87 - null LOWord null
+16:11:42,609 TRACE Sentence:87 - null LOWord null
+16:11:42,609 TRACE Sentence:87 - null LOWord null
+16:11:42,703 TRACE Sentence:87 - null LOWord null
+16:11:42,796 TRACE Sentence:87 - null LOWord null
+16:11:42,796 TRACE Sentence:129 -  
+16:11:42,796 TRACE Sentence:130 - Sentence 1 Paragraph 0
+16:11:42,796 TRACE Sentence:131 -  
+16:11:42,796 TRACE Sentence:134 - screed
+16:11:42,796 TRACE Sentence:134 - paper
+16:11:42,796 TRACE Sentence:134 - essay
+16:11:42,796 TRACE Sentence:134 - piece
+16:11:42,796 TRACE Sentence:134 - article
+16:11:42,796 TRACE Sentence:134 - access
+16:11:42,796 TRACE Sentence:134 - entry
+16:11:42,796 TRACE Sentence:134 - opening
+16:11:42,796 TRACE Sentence:134 - in
+16:11:42,796 TRACE Sentence:134 - entrance
+16:11:42,796 TRACE Sentence:134 - radical
+16:11:42,796 TRACE Sentence:134 - acid
+16:11:42,796 TRACE Sentence:134 - chemical
+16:11:42,796 TRACE Sentence:134 - nonacid
+16:11:42,796 TRACE Sentence:134 - biochemical
+16:11:42,796 TRACE Sentence:134 - cast
+16:11:42,796 TRACE Sentence:134 - team
+16:11:42,796 TRACE Sentence:134 - complement
+16:11:42,796 TRACE Sentence:134 - company
+16:11:42,796 TRACE Sentence:134 - band
+16:11:42,796 TRACE Sentence:134 - determination
+16:11:42,796 TRACE Sentence:134 - resolution
+16:11:42,796 TRACE Sentence:134 - desire
+16:11:42,796 TRACE Sentence:134 - mind
+16:11:42,796 TRACE Sentence:134 - will
+16:11:42,796 TRACE Sentence:134 - help
+16:11:42,796 TRACE Sentence:134 - support
+16:11:42,796 TRACE Sentence:134 - favor
+16:11:42,796 TRACE Sentence:134 - ease
+16:11:42,796 TRACE Sentence:134 - aid
+16:11:42,796 TRACE Sentence:134 - agreement
+16:11:42,796 TRACE Sentence:134 - concord
+16:11:42,796 TRACE Sentence:134 - esprit
+16:11:42,796 TRACE Sentence:134 - understanding
+16:11:42,796 TRACE Sentence:134 - accord
+16:11:42,796 TRACE Sentence:134 - access
+16:11:42,796 TRACE Sentence:134 - entry
+16:11:42,796 TRACE Sentence:134 - opening
+16:11:42,796 TRACE Sentence:134 - in
+16:11:42,796 TRACE Sentence:134 - entrance
+16:11:42,796 TRACE Sentence:134 - exalted
+16:11:42,796 TRACE Sentence:134 - high
+16:11:42,796 TRACE Sentence:134 - low
+16:11:42,796 TRACE Sentence:134 - elevated
+16:11:42,796 TRACE Sentence:134 - strong
+16:11:42,796 TRACE Sentence:136 -  
+16:11:42,812 TRACE Sentence:87 - null LOWord null
+16:11:42,859 TRACE Sentence:87 - null LOWord null
+16:11:42,906 TRACE Sentence:129 -  
+16:11:42,906 TRACE Sentence:130 - Sentence 0 Paragraph 1
+16:11:42,906 TRACE Sentence:131 -  
+16:11:42,906 TRACE Sentence:134 - practice
+16:11:42,906 TRACE Sentence:134 - lead
+16:11:42,906 TRACE Sentence:134 - action
+16:11:42,906 TRACE Sentence:134 - work
+16:11:42,906 TRACE Sentence:134 - conduct
+16:11:42,906 TRACE Sentence:134 - course
+16:11:42,906 TRACE Sentence:134 - run
+16:11:42,906 TRACE Sentence:134 - set
+16:11:42,906 TRACE Sentence:134 - current
+16:11:42,906 TRACE Sentence:134 - prevalent
+16:11:42,906 TRACE Sentence:134 - cipher
+16:11:42,906 TRACE Sentence:134 - zero
+16:11:42,906 TRACE Sentence:134 - nothing
+16:11:42,906 TRACE Sentence:134 - nullity
+16:11:42,906 TRACE Sentence:134 - thing of naught
+16:11:42,906 TRACE Sentence:134 - high
+16:11:42,906 TRACE Sentence:134 - low
+16:11:42,906 TRACE Sentence:134 - poor
+16:11:42,906 TRACE Sentence:134 - mean
+16:11:42,906 TRACE Sentence:134 - flat
+16:11:42,906 TRACE Sentence:136 -  
+16:11:42,906 TRACE Sentence:87 - null LOWord null
+16:11:42,984 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:129 -  
+16:11:43,031 TRACE Sentence:130 - Sentence 1 Paragraph 1
+16:11:43,031 TRACE Sentence:131 -  
+16:11:43,031 TRACE Sentence:134 - access
+16:11:43,031 TRACE Sentence:134 - entry
+16:11:43,031 TRACE Sentence:134 - opening
+16:11:43,031 TRACE Sentence:134 - in
+16:11:43,031 TRACE Sentence:134 - entrance
+16:11:43,031 TRACE Sentence:134 - access
+16:11:43,031 TRACE Sentence:134 - entry
+16:11:43,031 TRACE Sentence:134 - opening
+16:11:43,031 TRACE Sentence:134 - in
+16:11:43,031 TRACE Sentence:134 - entrance
+16:11:43,031 TRACE Sentence:134 - sound
+16:11:43,031 TRACE Sentence:134 - stable
+16:11:43,031 TRACE Sentence:134 - substantial
+16:11:43,031 TRACE Sentence:134 - solid
+16:11:43,031 TRACE Sentence:134 - firm
+16:11:43,031 TRACE Sentence:134 - state
+16:11:43,031 TRACE Sentence:134 - province
+16:11:43,031 TRACE Sentence:134 - express
+16:11:43,031 TRACE Sentence:134 - principality
+16:11:43,031 TRACE Sentence:134 - territory
+16:11:43,031 TRACE Sentence:134 - hold
+16:11:43,031 TRACE Sentence:134 - bear
+16:11:43,031 TRACE Sentence:134 - have
+16:11:43,031 TRACE Sentence:134 - take
+16:11:43,031 TRACE Sentence:134 - take in
+16:11:43,031 TRACE Sentence:134 - steady
+16:11:43,031 TRACE Sentence:134 - unqualified
+16:11:43,031 TRACE Sentence:134 - straight
+16:11:43,031 TRACE Sentence:134 - uniform
+16:11:43,031 TRACE Sentence:134 - regular
+16:11:43,031 TRACE Sentence:136 -  
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:129 -  
+16:11:43,031 TRACE Sentence:130 - Sentence 2 Paragraph 1
+16:11:43,031 TRACE Sentence:131 -  
+16:11:43,031 TRACE Sentence:136 -  
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:129 -  
+16:11:43,031 TRACE Sentence:130 - Sentence 3 Paragraph 1
+16:11:43,031 TRACE Sentence:131 -  
+16:11:43,031 TRACE Sentence:136 -  
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:129 -  
+16:11:43,031 TRACE Sentence:130 - Sentence 4 Paragraph 1
+16:11:43,031 TRACE Sentence:131 -  
+16:11:43,031 TRACE Sentence:136 -  
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,031 TRACE Sentence:129 -  
+16:11:43,031 TRACE Sentence:130 - Sentence 5 Paragraph 1
+16:11:43,031 TRACE Sentence:131 -  
+16:11:43,031 TRACE Sentence:136 -  
+16:11:43,031 TRACE Sentence:87 - null LOWord null
+16:11:43,046 TRACE Sentence:87 - null LOWord null
+16:11:43,078 TRACE Sentence:87 - null LOWord null
+16:11:43,078 TRACE Sentence:129 -  
+16:11:43,078 TRACE Sentence:130 - Sentence 6 Paragraph 1
+16:11:43,078 TRACE Sentence:131 -  
+16:11:43,078 TRACE Sentence:134 - practice
+16:11:43,078 TRACE Sentence:134 - lead
+16:11:43,078 TRACE Sentence:134 - action
+16:11:43,078 TRACE Sentence:134 - work
+16:11:43,078 TRACE Sentence:134 - conduct
+16:11:43,078 TRACE Sentence:134 - course
+16:11:43,078 TRACE Sentence:134 - run
+16:11:43,078 TRACE Sentence:134 - set
+16:11:43,078 TRACE Sentence:134 - current
+16:11:43,078 TRACE Sentence:134 - prevalent
+16:11:43,078 TRACE Sentence:134 - cipher
+16:11:43,078 TRACE Sentence:134 - zero
+16:11:43,078 TRACE Sentence:134 - nothing
+16:11:43,078 TRACE Sentence:134 - nullity
+16:11:43,078 TRACE Sentence:134 - thing of naught
+16:11:43,078 TRACE Sentence:136 -  
+16:11:43,078 TRACE Sentence:87 - null LOWord null
+16:11:43,078 TRACE Sentence:129 -  
+16:11:43,078 TRACE Sentence:130 - Sentence 7 Paragraph 1
+16:11:43,078 TRACE Sentence:131 -  
+16:11:43,078 TRACE Sentence:136 -  
+16:11:43,078 TRACE Sentence:87 - null LOWord null
+16:11:43,078 TRACE Sentence:129 -  
+16:11:43,078 TRACE Sentence:130 - Sentence 8 Paragraph 1
+16:11:43,078 TRACE Sentence:131 -  
+16:11:43,078 TRACE Sentence:136 -  
+16:11:43,078 TRACE Sentence:87 - null LOWord null
+16:11:43,078 TRACE Sentence:129 -  
+16:11:43,078 TRACE Sentence:130 - Sentence 9 Paragraph 1
+16:11:43,078 TRACE Sentence:131 -  
+16:11:43,078 TRACE Sentence:136 -  
+16:11:43,171 TRACE Sentence:87 - null LOWord null
+16:11:43,234 TRACE Sentence:87 - null LOWord null
+16:11:43,234 TRACE Sentence:87 - null LOWord null
+16:11:43,343 TRACE Sentence:129 -  
+16:11:43,343 TRACE Sentence:130 - Sentence 10 Paragraph 1
+16:11:43,343 TRACE Sentence:131 -  
+16:11:43,343 TRACE Sentence:134 - do
+16:11:43,343 TRACE Sentence:134 - production
+16:11:43,343 TRACE Sentence:134 - play
+16:11:43,343 TRACE Sentence:134 - work
+16:11:43,343 TRACE Sentence:134 - piece
+16:11:43,343 TRACE Sentence:134 - ferruginous
+16:11:43,343 TRACE Sentence:134 - cupreous
+16:11:43,343 TRACE Sentence:134 - coppery
+16:11:43,343 TRACE Sentence:134 - copper
+16:11:43,343 TRACE Sentence:134 - nickel
+16:11:43,343 TRACE Sentence:134 - vair
+16:11:43,343 TRACE Sentence:134 - or
+16:11:43,343 TRACE Sentence:134 - pale
+16:11:43,343 TRACE Sentence:134 - saltire
+16:11:43,343 TRACE Sentence:134 - bend sinister
+16:11:43,343 TRACE Sentence:134 - above
+16:11:43,343 TRACE Sentence:134 - upper
+16:11:43,343 TRACE Sentence:134 - superior
+16:11:43,343 TRACE Sentence:134 - over
+16:11:43,343 TRACE Sentence:134 - ahead
+16:11:43,343 TRACE Sentence:134 - boil
+16:11:43,343 TRACE Sentence:134 - seething
+16:11:43,343 TRACE Sentence:134 - ebullition
+16:11:43,343 TRACE Sentence:134 - ferment
+16:11:43,343 TRACE Sentence:134 - boiling
+16:11:43,343 TRACE Sentence:134 - mark
+16:11:43,343 TRACE Sentence:134 - point
+16:11:43,343 TRACE Sentence:134 - cut
+16:11:43,343 TRACE Sentence:134 - spot
+16:11:43,343 TRACE Sentence:134 - line
+16:11:43,343 TRACE Sentence:134 - continuant
+16:11:43,343 TRACE Sentence:134 - labiovelar
+16:11:43,343 TRACE Sentence:134 - apico-alveolar
+16:11:43,343 TRACE Sentence:134 - cacuminal
+16:11:43,343 TRACE Sentence:134 - liquid
+16:11:43,343 TRACE Sentence:136 -  
+16:11:43,390 TRACE Sentence:87 - null LOWord null
+16:11:43,437 TRACE Sentence:87 - null LOWord null
+16:11:43,437 TRACE Sentence:87 - null LOWord null
+16:11:43,453 TRACE Sentence:129 -  
+16:11:43,453 TRACE Sentence:130 - Sentence 0 Paragraph 2
+16:11:43,453 TRACE Sentence:131 -  
+16:11:43,453 TRACE Sentence:134 - statement
+16:11:43,453 TRACE Sentence:134 - reckoning
+16:11:43,453 TRACE Sentence:134 - account
+16:11:43,453 TRACE Sentence:134 - report
+16:11:43,453 TRACE Sentence:134 - inventory
+16:11:43,453 TRACE Sentence:134 - exalted
+16:11:43,453 TRACE Sentence:134 - high
+16:11:43,453 TRACE Sentence:134 - low
+16:11:43,453 TRACE Sentence:134 - elevated
+16:11:43,453 TRACE Sentence:134 - strong
+16:11:43,453 TRACE Sentence:134 - alter
+16:11:43,453 TRACE Sentence:134 - subliminal self
+16:11:43,453 TRACE Sentence:134 - myself
+16:11:43,453 TRACE Sentence:134 - inner self
+16:11:43,453 TRACE Sentence:134 - himself
+16:11:43,453 TRACE Sentence:134 - hold
+16:11:43,453 TRACE Sentence:134 - support
+16:11:43,453 TRACE Sentence:134 - run
+16:11:43,453 TRACE Sentence:134 - bear
+16:11:43,453 TRACE Sentence:134 - work
+16:11:43,453 TRACE Sentence:134 - establish
+16:11:43,453 TRACE Sentence:134 - found
+16:11:43,453 TRACE Sentence:134 - inaugurate
+16:11:43,453 TRACE Sentence:134 - set up
+16:11:43,453 TRACE Sentence:134 - institute
+16:11:43,453 TRACE Sentence:136 -  
+16:11:43,453 TRACE Sentence:87 - null LOWord null
+16:11:43,500 TRACE Sentence:87 - null LOWord null
+16:11:43,500 TRACE Sentence:87 - null LOWord null
+16:11:43,546 TRACE Sentence:87 - null LOWord null
+16:11:43,546 TRACE Sentence:129 -  
+16:11:43,546 TRACE Sentence:130 - Sentence 0 Paragraph 3
+16:11:43,546 TRACE Sentence:131 -  
+16:11:43,546 TRACE Sentence:134 - access
+16:11:43,546 TRACE Sentence:134 - entry
+16:11:43,546 TRACE Sentence:134 - opening
+16:11:43,546 TRACE Sentence:134 - in
+16:11:43,546 TRACE Sentence:134 - entrance
+16:11:43,546 TRACE Sentence:134 - exalted
+16:11:43,546 TRACE Sentence:134 - high
+16:11:43,546 TRACE Sentence:134 - low
+16:11:43,546 TRACE Sentence:134 - elevated
+16:11:43,546 TRACE Sentence:134 - strong
+16:11:43,546 TRACE Sentence:134 - iron
+16:11:43,546 TRACE Sentence:134 - firm
+16:11:43,546 TRACE Sentence:134 - hard
+16:11:43,546 TRACE Sentence:134 - steely
+16:11:43,546 TRACE Sentence:134 - stiff
+16:11:43,546 TRACE Sentence:134 - advocate
+16:11:43,546 TRACE Sentence:134 - paranymph
+16:11:43,546 TRACE Sentence:134 - support
+16:11:43,546 TRACE Sentence:134 - second
+16:11:43,546 TRACE Sentence:134 - champion
+16:11:43,546 TRACE Sentence:134 - superior
+16:11:43,546 TRACE Sentence:134 - eminent
+16:11:43,546 TRACE Sentence:134 - major
+16:11:43,546 TRACE Sentence:134 - great
+16:11:43,546 TRACE Sentence:134 - outstanding
+16:11:43,546 TRACE Sentence:134 - access
+16:11:43,546 TRACE Sentence:134 - entry
+16:11:43,546 TRACE Sentence:134 - opening
+16:11:43,546 TRACE Sentence:134 - in
+16:11:43,546 TRACE Sentence:134 - entrance
+16:11:43,546 TRACE Sentence:134 - world
+16:11:43,546 TRACE Sentence:134 - everybody
+16:11:43,546 TRACE Sentence:134 - everyone
+16:11:43,546 TRACE Sentence:134 - everyman
+16:11:43,546 TRACE Sentence:134 - folks
+16:11:43,546 TRACE Sentence:136 -  
+16:11:43,625 TRACE Sentence:87 - null LOWord null
+16:11:43,656 TRACE Sentence:87 - null LOWord null
+16:11:43,656 TRACE Sentence:87 - null LOWord null
+16:11:43,750 TRACE Sentence:87 - null LOWord null
+16:11:43,750 TRACE Sentence:129 -  
+16:11:43,750 TRACE Sentence:130 - Sentence 1 Paragraph 3
+16:11:43,750 TRACE Sentence:131 -  
+16:11:43,750 TRACE Sentence:134 - do
+16:11:43,750 TRACE Sentence:134 - work out
+16:11:43,750 TRACE Sentence:134 - make
+16:11:43,750 TRACE Sentence:134 - work
+16:11:43,750 TRACE Sentence:134 - realize
+16:11:43,750 TRACE Sentence:134 - ferruginous
+16:11:43,750 TRACE Sentence:134 - cupreous
+16:11:43,750 TRACE Sentence:134 - coppery
+16:11:43,750 TRACE Sentence:134 - copper
+16:11:43,750 TRACE Sentence:134 - nickel
+16:11:43,750 TRACE Sentence:134 - hold
+16:11:43,750 TRACE Sentence:134 - bear
+16:11:43,750 TRACE Sentence:134 - have
+16:11:43,750 TRACE Sentence:134 - take
+16:11:43,750 TRACE Sentence:134 - take in
+16:11:43,750 TRACE Sentence:134 - vair
+16:11:43,750 TRACE Sentence:134 - or
+16:11:43,750 TRACE Sentence:134 - pale
+16:11:43,750 TRACE Sentence:134 - saltire
+16:11:43,750 TRACE Sentence:134 - bend sinister
+16:11:43,750 TRACE Sentence:134 - as
+16:11:43,750 TRACE Sentence:134 - cause
+16:11:43,750 TRACE Sentence:134 - as long as
+16:11:43,750 TRACE Sentence:134 - so
+16:11:43,750 TRACE Sentence:134 - for
+16:11:43,750 TRACE Sentence:134 - iron
+16:11:43,750 TRACE Sentence:134 - firm
+16:11:43,750 TRACE Sentence:134 - hard
+16:11:43,750 TRACE Sentence:134 - steely
+16:11:43,750 TRACE Sentence:134 - stiff
+16:11:43,750 TRACE Sentence:134 - determination
+16:11:43,750 TRACE Sentence:134 - resolution
+16:11:43,750 TRACE Sentence:134 - desire
+16:11:43,750 TRACE Sentence:134 - mind
+16:11:43,750 TRACE Sentence:134 - will
+16:11:43,750 TRACE Sentence:134 - help
+16:11:43,750 TRACE Sentence:134 - support
+16:11:43,750 TRACE Sentence:134 - favor
+16:11:43,750 TRACE Sentence:134 - ease
+16:11:43,750 TRACE Sentence:134 - aid
+16:11:43,750 TRACE Sentence:134 - access
+16:11:43,765 TRACE Sentence:134 - entry
+16:11:43,765 TRACE Sentence:134 - opening
+16:11:43,765 TRACE Sentence:134 - in
+16:11:43,765 TRACE Sentence:134 - entrance
+16:11:43,765 TRACE Sentence:134 - sound
+16:11:43,765 TRACE Sentence:134 - stable
+16:11:43,765 TRACE Sentence:134 - substantial
+16:11:43,765 TRACE Sentence:134 - solid
+16:11:43,765 TRACE Sentence:134 - firm
+16:11:43,765 TRACE Sentence:134 - state
+16:11:43,765 TRACE Sentence:134 - province
+16:11:43,765 TRACE Sentence:134 - express
+16:11:43,765 TRACE Sentence:134 - principality
+16:11:43,765 TRACE Sentence:134 - territory
+16:11:43,765 TRACE Sentence:136 -  
+16:11:43,765 TRACE Sentence:87 - null LOWord null
+16:11:43,796 TRACE Sentence:87 - null LOWord null
+16:11:43,921 TRACE Sentence:87 - null LOWord null
+16:11:43,937 TRACE Sentence:129 -  
+16:11:43,937 TRACE Sentence:130 - Sentence 0 Paragraph 4
+16:11:43,937 TRACE Sentence:131 -  
+16:11:43,937 TRACE Sentence:134 - match
+16:11:43,937 TRACE Sentence:134 - distich
+16:11:43,937 TRACE Sentence:134 - two
+16:11:43,937 TRACE Sentence:134 - pair
+16:11:43,937 TRACE Sentence:134 - twain
+16:11:43,937 TRACE Sentence:134 - exalted
+16:11:43,937 TRACE Sentence:134 - high
+16:11:43,937 TRACE Sentence:134 - low
+16:11:43,937 TRACE Sentence:134 - elevated
+16:11:43,937 TRACE Sentence:134 - strong
+16:11:43,937 TRACE Sentence:134 - just
+16:11:43,937 TRACE Sentence:134 - quite
+16:11:43,937 TRACE Sentence:134 - so
+16:11:43,937 TRACE Sentence:134 - right
+16:11:43,937 TRACE Sentence:134 - exceedingly
+16:11:43,937 TRACE Sentence:134 - primary
+16:11:43,937 TRACE Sentence:134 - main
+16:11:43,937 TRACE Sentence:134 - great
+16:11:43,937 TRACE Sentence:134 - leading
+16:11:43,937 TRACE Sentence:134 - dominant
+16:11:43,937 TRACE Sentence:134 - resolve
+16:11:43,937 TRACE Sentence:134 - resolution
+16:11:43,937 TRACE Sentence:134 - aim
+16:11:43,937 TRACE Sentence:134 - will
+16:11:43,937 TRACE Sentence:134 - purpose
+16:11:43,937 TRACE Sentence:134 - do
+16:11:43,937 TRACE Sentence:134 - production
+16:11:43,937 TRACE Sentence:134 - play
+16:11:43,937 TRACE Sentence:134 - work
+16:11:43,937 TRACE Sentence:134 - piece
+16:11:43,937 TRACE Sentence:134 - press
+16:11:43,937 TRACE Sentence:134 - accent
+16:11:43,937 TRACE Sentence:134 - pressure
+16:11:43,937 TRACE Sentence:134 - stress
+16:11:43,937 TRACE Sentence:134 - force
+16:11:43,937 TRACE Sentence:134 - as
+16:11:43,937 TRACE Sentence:134 - cause
+16:11:43,937 TRACE Sentence:134 - as long as
+16:11:43,937 TRACE Sentence:134 - so
+16:11:43,937 TRACE Sentence:134 - for
+16:11:43,937 TRACE Sentence:134 - as
+16:11:43,937 TRACE Sentence:134 - cause
+16:11:43,937 TRACE Sentence:134 - as long as
+16:11:43,937 TRACE Sentence:134 - so
+16:11:43,937 TRACE Sentence:134 - for
+16:11:43,937 TRACE Sentence:136 -  
+16:11:44,343 TRACE Sentence:87 - null LOWord null
+16:11:44,375 TRACE Sentence:129 -  
+16:11:44,375 TRACE Sentence:130 - Sentence 1 Paragraph 4
+16:11:44,375 TRACE Sentence:131 -  
+16:11:44,375 TRACE Sentence:134 - mark
+16:11:44,375 TRACE Sentence:134 - point
+16:11:44,375 TRACE Sentence:134 - cut
+16:11:44,375 TRACE Sentence:134 - spot
+16:11:44,375 TRACE Sentence:134 - line
+16:11:44,375 TRACE Sentence:134 - primary
+16:11:44,375 TRACE Sentence:134 - elementary
+16:11:44,375 TRACE Sentence:134 - primal
+16:11:44,375 TRACE Sentence:134 - fundamental
+16:11:44,375 TRACE Sentence:134 - essential
+16:11:44,375 TRACE Sentence:134 - come
+16:11:44,375 TRACE Sentence:134 - plan
+16:11:44,375 TRACE Sentence:134 - approach
+16:11:44,375 TRACE Sentence:134 - near
+16:11:44,375 TRACE Sentence:134 - way
+16:11:44,375 TRACE Sentence:134 - match
+16:11:44,375 TRACE Sentence:134 - distich
+16:11:44,375 TRACE Sentence:134 - two
+16:11:44,375 TRACE Sentence:134 - pair
+16:11:44,375 TRACE Sentence:134 - twain
+16:11:44,375 TRACE Sentence:136 -  
+16:11:44,390 TRACE Sentence:87 - null LOWord null
+16:11:44,390 TRACE Sentence:87 - null LOWord null
+16:11:44,390 TRACE Sentence:87 - null LOWord null
+16:11:44,390 TRACE Sentence:87 - null LOWord null
+16:11:44,500 TRACE Sentence:129 -  
+16:11:44,500 TRACE Sentence:130 - Sentence 2 Paragraph 4
+16:11:44,500 TRACE Sentence:131 -  
+16:11:44,500 TRACE Sentence:134 - match
+16:11:44,500 TRACE Sentence:134 - distich
+16:11:44,500 TRACE Sentence:134 - two
+16:11:44,500 TRACE Sentence:134 - pair
+16:11:44,500 TRACE Sentence:134 - twain
+16:11:44,500 TRACE Sentence:134 - dole
+16:11:44,500 TRACE Sentence:134 - portion
+16:11:44,500 TRACE Sentence:134 - segment
+16:11:44,500 TRACE Sentence:134 - part
+16:11:44,500 TRACE Sentence:134 - share
+16:11:44,500 TRACE Sentence:134 - as
+16:11:44,500 TRACE Sentence:134 - cause
+16:11:44,500 TRACE Sentence:134 - as long as
+16:11:44,500 TRACE Sentence:134 - so
+16:11:44,500 TRACE Sentence:134 - for
+16:11:44,500 TRACE Sentence:134 - exhibit
+16:11:44,500 TRACE Sentence:134 - display
+16:11:44,500 TRACE Sentence:134 - parade
+16:11:44,500 TRACE Sentence:134 - show
+16:11:44,500 TRACE Sentence:134 - evidence
+16:11:44,500 TRACE Sentence:134 - whirl
+16:11:44,500 TRACE Sentence:134 - turn
+16:11:44,500 TRACE Sentence:134 - roll
+16:11:44,500 TRACE Sentence:134 - spin
+16:11:44,500 TRACE Sentence:134 - circle
+16:11:44,500 TRACE Sentence:134 - produce
+16:11:44,500 TRACE Sentence:134 - make
+16:11:44,500 TRACE Sentence:134 - mold
+16:11:44,500 TRACE Sentence:134 - form
+16:11:44,500 TRACE Sentence:134 - cast
+16:11:44,500 TRACE Sentence:136 -  
+16:11:45,046 TRACE Sentence:129 -  
+16:11:45,046 TRACE Sentence:130 - Sentence 0 Paragraph 5
+16:11:45,046 TRACE Sentence:131 -  
+16:11:45,046 TRACE Sentence:134 - access
+16:11:45,046 TRACE Sentence:134 - entry
+16:11:45,046 TRACE Sentence:134 - opening
+16:11:45,046 TRACE Sentence:134 - in
+16:11:45,046 TRACE Sentence:134 - entrance
+16:11:45,046 TRACE Sentence:134 - screed
+16:11:45,046 TRACE Sentence:134 - paper
+16:11:45,046 TRACE Sentence:134 - essay
+16:11:45,046 TRACE Sentence:134 - piece
+16:11:45,046 TRACE Sentence:134 - article
+16:11:45,046 TRACE Sentence:134 - practice
+16:11:45,046 TRACE Sentence:134 - work
+16:11:45,046 TRACE Sentence:134 - use
+16:11:45,046 TRACE Sentence:134 - exercise
+16:11:45,046 TRACE Sentence:134 - employ
+16:11:45,046 TRACE Sentence:134 - as
+16:11:45,046 TRACE Sentence:134 - cause
+16:11:45,046 TRACE Sentence:134 - as long as
+16:11:45,046 TRACE Sentence:134 - so
+16:11:45,046 TRACE Sentence:134 - for
+16:11:45,046 TRACE Sentence:134 - half-breed
+16:11:45,046 TRACE Sentence:134 - hybrid
+16:11:45,046 TRACE Sentence:134 - cattalo
+16:11:45,046 TRACE Sentence:134 - cross
+16:11:45,046 TRACE Sentence:134 - half blood
+16:11:45,046 TRACE Sentence:134 - design
+16:11:45,046 TRACE Sentence:134 - survey
+16:11:45,046 TRACE Sentence:134 - study
+16:11:45,046 TRACE Sentence:134 - work
+16:11:45,046 TRACE Sentence:134 - review
+16:11:45,046 TRACE Sentence:134 - formation
+16:11:45,046 TRACE Sentence:134 - plan
+16:11:45,046 TRACE Sentence:134 - structure
+16:11:45,046 TRACE Sentence:134 - make
+16:11:45,046 TRACE Sentence:134 - form
+16:11:45,046 TRACE Sentence:136 -  
+16:11:45,046 TRACE Sentence:87 - null LOWord null
+16:11:45,109 TRACE Sentence:87 - null LOWord null
+16:11:45,515 TRACE Sentence:129 -  
+16:11:45,515 TRACE Sentence:130 - Sentence 1 Paragraph 5
+16:11:45,515 TRACE Sentence:131 -  
+16:11:45,515 TRACE Sentence:134 - standard
+16:11:45,515 TRACE Sentence:134 - rule
+16:11:45,531 TRACE Sentence:134 - normal
+16:11:45,531 TRACE Sentence:134 - regulation
+16:11:45,531 TRACE Sentence:134 - measure
+16:11:45,531 TRACE Sentence:134 - saloon
+16:11:45,531 TRACE Sentence:134 - express
+16:11:45,531 TRACE Sentence:134 - interurban
+16:11:45,531 TRACE Sentence:134 - local
+16:11:45,531 TRACE Sentence:134 - limited
+16:11:45,531 TRACE Sentence:134 - hold
+16:11:45,531 TRACE Sentence:134 - bear
+16:11:45,531 TRACE Sentence:134 - have
+16:11:45,531 TRACE Sentence:134 - take
+16:11:45,531 TRACE Sentence:134 - take in
+16:11:45,531 TRACE Sentence:134 - metallic
+16:11:45,531 TRACE Sentence:134 - squawking
+16:11:45,531 TRACE Sentence:134 - croaky
+16:11:45,531 TRACE Sentence:134 - raucid
+16:11:45,531 TRACE Sentence:134 - roupy
+16:11:45,531 TRACE Sentence:134 - stamp
+16:11:45,531 TRACE Sentence:134 - mark
+16:11:45,531 TRACE Sentence:134 - type
+16:11:45,531 TRACE Sentence:134 - cast
+16:11:45,531 TRACE Sentence:134 - character
+16:11:45,531 TRACE Sentence:136 -  
+16:11:45,531 TRACE Sentence:87 - null LOWord null
+16:11:45,703 TRACE Sentence:87 - null LOWord null
+16:11:45,703 TRACE Sentence:129 -  
+16:11:45,703 TRACE Sentence:130 - Sentence 2 Paragraph 5
+16:11:45,703 TRACE Sentence:131 -  
+16:11:45,703 TRACE Sentence:134 - parent
+16:11:45,703 TRACE Sentence:134 - mother
+16:11:45,703 TRACE Sentence:134 - father
+16:11:45,703 TRACE Sentence:134 - begetter
+16:11:45,703 TRACE Sentence:134 - originator
+16:11:45,703 TRACE Sentence:134 - hold
+16:11:45,703 TRACE Sentence:134 - bear
+16:11:45,703 TRACE Sentence:134 - have
+16:11:45,703 TRACE Sentence:134 - take
+16:11:45,703 TRACE Sentence:134 - take in
+16:11:45,703 TRACE Sentence:134 - hold
+16:11:45,703 TRACE Sentence:134 - bear
+16:11:45,703 TRACE Sentence:134 - have
+16:11:45,703 TRACE Sentence:134 - take
+16:11:45,703 TRACE Sentence:134 - take in
+16:11:45,703 TRACE Sentence:136 -  
+16:11:45,765 TRACE Sentence:87 - null LOWord null
+16:11:45,812 TRACE Sentence:129 -  
+16:11:45,812 TRACE Sentence:130 - Sentence 3 Paragraph 5
+16:11:45,812 TRACE Sentence:131 -  
+16:11:45,812 TRACE Sentence:134 - design
+16:11:45,812 TRACE Sentence:134 - survey
+16:11:45,812 TRACE Sentence:134 - study
+16:11:45,812 TRACE Sentence:134 - work
+16:11:45,812 TRACE Sentence:134 - review
+16:11:45,812 TRACE Sentence:134 - determination
+16:11:45,812 TRACE Sentence:134 - resolution
+16:11:45,812 TRACE Sentence:134 - desire
+16:11:45,812 TRACE Sentence:134 - mind
+16:11:45,812 TRACE Sentence:134 - will
+16:11:45,812 TRACE Sentence:134 - further
+16:11:45,812 TRACE Sentence:134 - more
+16:11:45,812 TRACE Sentence:134 - plus
+16:11:45,812 TRACE Sentence:134 - farther
+16:11:45,812 TRACE Sentence:134 - extra
+16:11:45,812 TRACE Sentence:134 - standard
+16:11:45,812 TRACE Sentence:134 - rule
+16:11:45,812 TRACE Sentence:134 - normal
+16:11:45,812 TRACE Sentence:134 - regulation
+16:11:45,812 TRACE Sentence:134 - measure
+16:11:45,812 TRACE Sentence:134 - formation
+16:11:45,812 TRACE Sentence:134 - plan
+16:11:45,812 TRACE Sentence:134 - structure
+16:11:45,812 TRACE Sentence:134 - make
+16:11:45,812 TRACE Sentence:134 - form
+16:11:45,812 TRACE Sentence:136 -  
+16:11:45,812 TRACE Sentence:87 - null LOWord null
+16:11:45,859 TRACE Sentence:87 - null LOWord null
+16:11:46,234 TRACE Sentence:129 -  
+16:11:46,234 TRACE Sentence:130 - Sentence 4 Paragraph 5
+16:11:46,234 TRACE Sentence:131 -  
+16:11:46,234 TRACE Sentence:134 - formation
+16:11:46,234 TRACE Sentence:134 - plan
+16:11:46,234 TRACE Sentence:134 - structure
+16:11:46,234 TRACE Sentence:134 - make
+16:11:46,234 TRACE Sentence:134 - form
+16:11:46,234 TRACE Sentence:134 - as
+16:11:46,234 TRACE Sentence:134 - cause
+16:11:46,234 TRACE Sentence:134 - as long as
+16:11:46,234 TRACE Sentence:134 - so
+16:11:46,234 TRACE Sentence:134 - for
+16:11:46,234 TRACE Sentence:134 - access
+16:11:46,234 TRACE Sentence:134 - entry
+16:11:46,234 TRACE Sentence:134 - opening
+16:11:46,234 TRACE Sentence:134 - in
+16:11:46,234 TRACE Sentence:134 - entrance
+16:11:46,234 TRACE Sentence:134 - type
+16:11:46,234 TRACE Sentence:134 - cover
+16:11:46,234 TRACE Sentence:134 - case
+16:11:46,234 TRACE Sentence:134 - point
+16:11:46,234 TRACE Sentence:134 - character
+16:11:46,234 TRACE Sentence:136 -  
+16:11:46,281 TRACE Sentence:87 - null LOWord null
+16:11:46,671 TRACE Sentence:129 -  
+16:11:46,671 TRACE Sentence:130 - Sentence 5 Paragraph 5
+16:11:46,671 TRACE Sentence:131 -  
+16:11:46,671 TRACE Sentence:134 - give
+16:11:46,671 TRACE Sentence:134 - yield
+16:11:46,671 TRACE Sentence:134 - present
+16:11:46,671 TRACE Sentence:134 - communicate
+16:11:46,671 TRACE Sentence:134 - impart
+16:11:46,671 TRACE Sentence:134 - just
+16:11:46,671 TRACE Sentence:134 - quite
+16:11:46,671 TRACE Sentence:134 - so
+16:11:46,671 TRACE Sentence:134 - right
+16:11:46,671 TRACE Sentence:134 - exceedingly
+16:11:46,671 TRACE Sentence:134 - hold
+16:11:46,671 TRACE Sentence:134 - bear
+16:11:46,671 TRACE Sentence:134 - have
+16:11:46,671 TRACE Sentence:134 - take
+16:11:46,671 TRACE Sentence:134 - take in
+16:11:46,671 TRACE Sentence:134 - access
+16:11:46,671 TRACE Sentence:134 - entry
+16:11:46,671 TRACE Sentence:134 - opening
+16:11:46,671 TRACE Sentence:134 - in
+16:11:46,671 TRACE Sentence:134 - entrance
+16:11:46,687 TRACE Sentence:136 -  
+16:11:46,687 TRACE Sentence:87 - null LOWord null
+16:11:46,734 TRACE Sentence:129 -  
+16:11:46,734 TRACE Sentence:130 - Sentence 6 Paragraph 5
+16:11:46,734 TRACE Sentence:131 -  
+16:11:46,734 TRACE Sentence:134 - further
+16:11:46,734 TRACE Sentence:134 - more
+16:11:46,734 TRACE Sentence:134 - plus
+16:11:46,734 TRACE Sentence:134 - farther
+16:11:46,734 TRACE Sentence:134 - extra
+16:11:46,734 TRACE Sentence:134 - sure
+16:11:46,734 TRACE Sentence:134 - necessary
+16:11:46,734 TRACE Sentence:134 - inevitable
+16:11:46,734 TRACE Sentence:134 - certain
+16:11:46,734 TRACE Sentence:134 - decisive
+16:11:46,734 TRACE Sentence:134 - formation
+16:11:46,734 TRACE Sentence:134 - plan
+16:11:46,734 TRACE Sentence:134 - structure
+16:11:46,734 TRACE Sentence:134 - make
+16:11:46,734 TRACE Sentence:134 - form
+16:11:46,734 TRACE Sentence:136 -  
+16:11:47,156 TRACE Sentence:87 - null LOWord null
+16:11:47,156 TRACE Sentence:87 - null LOWord null
+16:11:47,187 TRACE Sentence:129 -  
+16:11:47,187 TRACE Sentence:130 - Sentence 0 Paragraph 6
+16:11:47,187 TRACE Sentence:131 -  
+16:11:47,187 TRACE Sentence:134 - exalted
+16:11:47,187 TRACE Sentence:134 - high
+16:11:47,187 TRACE Sentence:134 - low
+16:11:47,187 TRACE Sentence:134 - elevated
+16:11:47,187 TRACE Sentence:134 - strong
+16:11:47,187 TRACE Sentence:134 - single
+16:11:47,187 TRACE Sentence:134 - unchanging
+16:11:47,187 TRACE Sentence:134 - fellow
+16:11:47,187 TRACE Sentence:134 - one
+16:11:47,187 TRACE Sentence:134 - individual
+16:11:47,187 TRACE Sentence:134 - access
+16:11:47,187 TRACE Sentence:134 - entry
+16:11:47,187 TRACE Sentence:134 - opening
+16:11:47,187 TRACE Sentence:134 - in
+16:11:47,187 TRACE Sentence:134 - entrance
+16:11:47,187 TRACE Sentence:134 - up-to-date
+16:11:47,187 TRACE Sentence:134 - contemporary
+16:11:47,187 TRACE Sentence:134 - present-day
+16:11:47,187 TRACE Sentence:134 - up-to-the-minute
+16:11:47,187 TRACE Sentence:134 - modern
+16:11:47,187 TRACE Sentence:136 -  
+16:11:47,187 TRACE Sentence:87 - null LOWord null
+16:11:47,218 TRACE Sentence:87 - null LOWord null
+16:11:47,625 TRACE Sentence:87 - null LOWord null
+16:11:47,640 TRACE Sentence:129 -  
+16:11:47,640 TRACE Sentence:130 - Sentence 1 Paragraph 6
+16:11:47,640 TRACE Sentence:131 -  
+16:11:47,640 TRACE Sentence:134 - alter
+16:11:47,640 TRACE Sentence:134 - subliminal self
+16:11:47,640 TRACE Sentence:134 - myself
+16:11:47,640 TRACE Sentence:134 - inner self
+16:11:47,640 TRACE Sentence:134 - himself
+16:11:47,640 TRACE Sentence:134 - superior
+16:11:47,640 TRACE Sentence:134 - eminent
+16:11:47,640 TRACE Sentence:134 - major
+16:11:47,640 TRACE Sentence:134 - great
+16:11:47,640 TRACE Sentence:134 - outstanding
+16:11:47,640 TRACE Sentence:134 - access
+16:11:47,640 TRACE Sentence:134 - entry
+16:11:47,640 TRACE Sentence:134 - opening
+16:11:47,640 TRACE Sentence:134 - in
+16:11:47,640 TRACE Sentence:134 - entrance
+16:11:47,640 TRACE Sentence:134 - access
+16:11:47,640 TRACE Sentence:134 - entry
+16:11:47,640 TRACE Sentence:134 - opening
+16:11:47,640 TRACE Sentence:134 - in
+16:11:47,640 TRACE Sentence:134 - entrance
+16:11:47,640 TRACE Sentence:134 - sound
+16:11:47,640 TRACE Sentence:134 - stable
+16:11:47,640 TRACE Sentence:134 - substantial
+16:11:47,640 TRACE Sentence:134 - solid
+16:11:47,640 TRACE Sentence:134 - firm
+16:11:47,640 TRACE Sentence:134 - state
+16:11:47,640 TRACE Sentence:134 - province
+16:11:47,640 TRACE Sentence:134 - express
+16:11:47,640 TRACE Sentence:134 - principality
+16:11:47,640 TRACE Sentence:134 - territory
+16:11:47,640 TRACE Sentence:136 -  
+16:11:47,640 TRACE Sentence:87 - null LOWord null
+16:11:47,656 TRACE Sentence:87 - null LOWord null
+16:11:49,984 TRACE Sentence:87 - null LOWord null
+16:11:50,421 TRACE Sentence:87 - null LOWord null
+16:11:50,421 TRACE Sentence:129 -  
+16:11:50,421 TRACE Sentence:130 - Sentence 2 Paragraph 6
+16:11:50,421 TRACE Sentence:131 -  
+16:11:50,421 TRACE Sentence:134 - daydream
+16:11:50,421 TRACE Sentence:134 - dream
+16:11:50,421 TRACE Sentence:134 - fancy
+16:11:50,421 TRACE Sentence:134 - pipe dream
+16:11:50,421 TRACE Sentence:134 - fantasy
+16:11:50,421 TRACE Sentence:134 - figure
+16:11:50,421 TRACE Sentence:134 - type
+16:11:50,421 TRACE Sentence:134 - cast
+16:11:50,750 TRACE Sentence:134 - model
+16:11:50,750 TRACE Sentence:134 - form
+16:11:50,750 TRACE Sentence:134 - formation
+16:11:50,750 TRACE Sentence:134 - plan
+16:11:50,750 TRACE Sentence:134 - structure
+16:11:50,750 TRACE Sentence:134 - make
+16:11:50,750 TRACE Sentence:134 - form
+16:11:50,750 TRACE Sentence:134 - access
+16:11:50,750 TRACE Sentence:134 - entry
+16:11:50,750 TRACE Sentence:134 - opening
+16:11:50,750 TRACE Sentence:134 - in
+16:11:50,750 TRACE Sentence:134 - entrance
+16:11:50,750 TRACE Sentence:134 - order
+16:11:50,750 TRACE Sentence:134 - form
+16:11:50,750 TRACE Sentence:134 - rank
+16:11:50,750 TRACE Sentence:134 - set
+16:11:50,750 TRACE Sentence:134 - class
+16:11:50,750 TRACE Sentence:134 - therewith
+16:11:50,765 TRACE Sentence:134 - early
+16:11:50,765 TRACE Sentence:134 - then
+16:11:50,765 TRACE Sentence:134 - and so
+16:11:50,765 TRACE Sentence:134 - yet
+16:11:50,765 TRACE Sentence:134 - stand
+16:11:50,765 TRACE Sentence:134 - subsist
+16:11:50,765 TRACE Sentence:134 - hold
+16:11:50,765 TRACE Sentence:134 - exist
+16:11:50,765 TRACE Sentence:134 - live
+16:11:50,765 TRACE Sentence:134 - space
+16:11:50,765 TRACE Sentence:134 - margin
+16:11:50,765 TRACE Sentence:134 - berth
+16:11:50,765 TRACE Sentence:134 - scope
+16:11:50,765 TRACE Sentence:134 - room
+16:11:50,765 TRACE Sentence:136 -  
+16:11:52,765 TRACE Sentence:87 - null LOWord null
