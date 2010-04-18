@@ -47,6 +47,7 @@ public class AnalysisLoader {
 		while(aIIter.hasNext()) {
 			String analysisItem = aIIter.next();
 			String analysisItemConfig = aICIter.next();
+			logger.trace(analysisItem);
 			ComponentIface comp =  (ComponentIface) Class.forName(analysisItem).newInstance();
 			comp.init(this.Comparables, analysisItemConfig.split("\\|"));
 			int weight = Integer.parseInt(aIWIter.next());

@@ -1,29 +1,65 @@
-12:33:33,218 TRACE Document:159 - Top LOWords for the Document
-12:33:33,218 TRACE Document:162 - subliminal self
-12:33:33,218 TRACE Document:162 - inner self
-12:33:33,218 TRACE Document:162 - myself
-12:33:33,218 TRACE Document:162 - himself
-12:33:33,218 TRACE Document:162 - alter
-12:33:33,218 TRACE Document:164 - Top Keywords for the Document
-12:33:33,218 TRACE Document:167 - hast
-12:33:33,218 TRACE Document:167 - thy
-12:33:33,218 TRACE Document:167 - unto
-12:33:33,218 TRACE Document:167 - thou
-12:33:33,218 TRACE Document:167 - shalt
-12:34:54,843 TRACE Document:159 - Top LOWords for the Document
-12:34:54,843 TRACE Document:162 - entrance
-12:34:54,843 TRACE Document:162 - in
-12:34:54,843 TRACE Document:162 - low
-12:34:54,843 TRACE Document:162 - make
-12:34:54,843 TRACE Document:162 - elevated
-12:34:54,843 TRACE Document:164 - Top Keywords for the Document
-12:34:54,843 TRACE Document:167 - 
-12:34:54,843 TRACE Document:167 - temperature
-12:34:54,843 TRACE Document:167 - materials
-12:34:54,843 TRACE Document:167 - discovery
-12:34:54,843 TRACE Document:167 - jacek
-12:34:54,843 TRACE Document:167 - seems
-12:34:54,843 TRACE Document:167 - superconducting
-12:34:54,843 TRACE Document:167 - r
-12:34:54,843 TRACE Document:167 - chemistry
-12:34:54,843 TRACE Document:167 - p
+12:39:07,750 TRACE Document:159 - Top LOWords for the Document
+12:39:07,750 TRACE Document:162 - subliminal self
+12:39:07,750 TRACE Document:162 - inner self
+12:39:07,750 TRACE Document:162 - myself
+12:39:07,750 TRACE Document:162 - himself
+12:39:07,750 TRACE Document:162 - alter
+12:39:07,750 TRACE Document:164 - Top Keywords for the Document
+12:39:07,750 TRACE Document:167 - hast
+12:39:07,750 TRACE Document:167 - thy
+12:39:07,750 TRACE Document:167 - unto
+12:39:07,750 TRACE Document:167 - thou
+12:39:07,750 TRACE Document:167 - shalt
+12:39:13,546 TRACE Document:159 - Top LOWords for the Document
+12:39:13,546 TRACE Document:162 - entrance
+12:39:13,546 TRACE Document:162 - in
+12:39:13,546 TRACE Document:162 - low
+12:39:13,546 TRACE Document:162 - make
+12:39:13,546 TRACE Document:162 - elevated
+12:39:13,546 TRACE Document:164 - Top Keywords for the Document
+12:39:13,546 TRACE Document:167 - 
+12:39:13,546 TRACE Document:167 - temperature
+12:39:13,546 TRACE Document:167 - materials
+12:39:13,546 TRACE Document:167 - discovery
+12:39:13,546 TRACE Document:167 - jacek
+12:39:13,546 TRACE Document:167 - seems
+12:39:13,546 TRACE Document:167 - superconducting
+12:39:13,546 TRACE Document:167 - r
+12:39:13,546 TRACE Document:167 - chemistry
+12:39:13,546 TRACE Document:167 - p
+12:49:31,250 TRACE Document:159 - Top LOWords for the Document
+12:49:31,250 TRACE Document:162 - subliminal self
+12:49:31,250 TRACE Document:162 - inner self
+12:49:31,250 TRACE Document:162 - myself
+12:49:31,250 TRACE Document:162 - himself
+12:49:31,250 TRACE Document:162 - alter
+12:49:31,250 TRACE Document:164 - Top Keywords for the Document
+12:49:31,250 TRACE Document:167 - hast
+12:49:31,250 TRACE Document:167 - thy
+12:49:31,250 TRACE Document:167 - unto
+12:49:31,250 TRACE Document:167 - thou
+12:49:31,250 TRACE Document:167 - shalt
+12:49:39,078 TRACE Document:159 - Top LOWords for the Document
+12:49:39,078 TRACE Document:162 - subliminal self
+12:49:39,078 TRACE Document:162 - inner self
+12:49:39,078 TRACE Document:162 - myself
+12:49:39,078 TRACE Document:162 - himself
+12:49:39,078 TRACE Document:162 - alter
+12:49:39,078 TRACE Document:164 - Top Keywords for the Document
+12:49:39,078 TRACE Document:167 - hast
+12:49:39,078 TRACE Document:167 - thy
+12:49:39,078 TRACE Document:167 - unto
+12:49:39,078 TRACE Document:167 - thou
+12:49:39,078 TRACE Document:167 - shalt
+12:49:56,906 TRACE Document:159 - Top LOWords for the Document
+12:49:56,906 TRACE Document:162 - subliminal self
+12:49:56,906 TRACE Document:162 - inner self
+12:49:56,906 TRACE Document:162 - myself
+12:49:56,906 TRACE Document:162 - himself
+12:49:56,906 TRACE Document:162 - alter
+12:49:56,906 TRACE Document:164 - Top Keywords for the Document
+12:49:56,906 TRACE Document:167 - hast
+12:49:56,906 TRACE Document:167 - thy
+12:49:56,906 TRACE Document:167 - unto
+12:49:56,906 TRACE Document:167 - thou
+12:49:56,906 TRACE Document:167 - shalt
