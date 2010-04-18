@@ -21,6 +21,9 @@ public class SequenceDocument
 					Temp.SentenceID = j;
 					Temp.paragraphID = i;
 					Temp.wordLength = Temp.wordcontent.length();
+					Temp.LOWords = wholedocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).LOWords;
+					Temp.isKeyword = wholedocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).isKeyword;
+					Temp.WordType = wholedocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType;
 					SequencedDocument.add(Temp);
 					//System.out.println(Temp.wordcontent+" "+Temp.paragraphID+"|"+Temp.SentenceID+"|"+Temp.wordID);
 				}

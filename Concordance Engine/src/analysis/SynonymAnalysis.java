@@ -17,7 +17,6 @@ public class SynonymAnalysis implements ComponentIface {
 	@Override
 	public double runAnalysis() {
 		// TODO Auto-generated method stub
-		System.out.println("no your mom");
 		return 0;
 	}
 }

@@ -75,9 +75,8 @@ public class ExtractDocumentData
 					{
 						boolean hasID = false;
 						Words word = new Words();
-						if (NounList.isInList(WordSplit[k]))
-						{
-							word.WordType = "noun";
+						if (NounList.isInList(WordSplit[k]) && hasID == false){
+							word.WordType = "Noun";
 							try{
 								word.LOWords.addAll(Thesaurus.CorrelateThesaurusItems(WordSplit[k]));
 								}
@@ -88,23 +87,24 @@ public class ExtractDocumentData
 									//e.printStackTrace();
 									//word.LOWords = null;
 								}
-						}if (ConnectivesList.isInList(WordSplit[k]) && hasID == false){
+								hasID = true;
+						}else if (ConnectivesList.isInList(WordSplit[k]) && hasID == false){
 							//System.out.println(k+" a Connective "+WordSplit[k]);
 							word.WordType = "Connective";
 							hasID = true;
-						}if(AdverbList.isInList(WordSplit[k]) && hasID == false){
+						}else if(AdverbList.isInList(WordSplit[k]) && hasID == false){
 							//System.out.println(k+" a Adverb "+WordSplit[k]);
 							word.WordType = "Adverb";
 							hasID = true;
-						}if(AdjectiveList.isInList(WordSplit[k]) && hasID == false){
+						}else if(AdjectiveList.isInList(WordSplit[k]) && hasID == false){
 							//System.out.println(k+" a Adjective "+WordSplit[k]);
 							word.WordType = "Adjective";
 							hasID = true;
-						}if(VerbList.isInList(WordSplit[k]) && hasID == false){
+						}else if(VerbList.isInList(WordSplit[k]) && hasID == false){
 							//System.out.println(k+" a Verb "+WordSplit[k]);
 							word.WordType = "Verb";
 							hasID = true;
-						}if(hasID == false){
+						}else if(hasID == false){
 							//System.out.println(k+" a Keyword "+WordSplit[k]);
 							word.WordType = "Keyword";
 							KeywordList.add(WordSplit[k]);
