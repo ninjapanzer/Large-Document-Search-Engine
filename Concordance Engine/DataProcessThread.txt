@@ -1,2 +1,8 @@
-16:11:38,109 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_2\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
-16:11:42,140 TRACE MainApplication:306 - File Dialog: C:\Documents and Settings\Intern_2\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+12:33:29,375 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\3.17
+12:33:33,343 TRACE MainApplication:212 - Moving Thread Object 0
+12:33:33,343 TRACE MainApplication:216 - Doing Size(0)     Done Size(1)    Value(0)
+12:33:33,343 TRACE MainApplication:217 - Thread Object 0 Moved
+12:34:48,921 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\8ethc10 - Copy.txt
+12:34:54,921 TRACE MainApplication:212 - Moving Thread Object 1
+12:34:54,921 TRACE MainApplication:216 - Doing Size(0)     Done Size(2)    Value(1)
+12:34:54,921 TRACE MainApplication:217 - Thread Object 1 Moved

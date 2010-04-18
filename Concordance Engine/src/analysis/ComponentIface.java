@@ -2,7 +2,11 @@ package analysis;
 
 import java.util.ArrayList;
 
+import structs.Document;
+
 public interface ComponentIface {
-	public void init(ArrayList<String> l1, ArrayList<String> l2, String[] configVals) throws Exception;
+	ArrayList<Document> TestList = null;
+	String[] config = null;
+	public void init(ArrayList<Document> Comparables, String[] configVals) throws Exception;
 	public double runAnalysis();
 }

@@ -1,119 +1,185 @@
-16:11:42,796 TRACE Paragraph:144 -  
-16:11:42,796 TRACE Paragraph:145 - Paragraph 0
-16:11:42,796 TRACE Paragraph:146 -  
-16:11:42,796 TRACE Paragraph:149 - strong
-16:11:42,796 TRACE Paragraph:149 - high
-16:11:42,796 TRACE Paragraph:149 - low
-16:11:42,796 TRACE Paragraph:149 - elevated
-16:11:42,796 TRACE Paragraph:149 - exalted
-16:11:42,796 TRACE Paragraph:149 - entrance
-16:11:42,796 TRACE Paragraph:149 - access
-16:11:42,796 TRACE Paragraph:149 - in
-16:11:42,796 TRACE Paragraph:149 - entry
-16:11:42,796 TRACE Paragraph:149 - opening
-16:11:42,796 TRACE Paragraph:151 -  
-16:11:43,343 TRACE Paragraph:144 -  
-16:11:43,343 TRACE Paragraph:145 - Paragraph 1
-16:11:43,343 TRACE Paragraph:146 -  
-16:11:43,343 TRACE Paragraph:149 - nothing
-16:11:43,343 TRACE Paragraph:149 - mean
-16:11:43,343 TRACE Paragraph:149 - cipher
-16:11:43,343 TRACE Paragraph:149 - high
-16:11:43,343 TRACE Paragraph:149 - low
-16:11:43,343 TRACE Paragraph:149 - entrance
-16:11:43,343 TRACE Paragraph:149 - access
-16:11:43,343 TRACE Paragraph:149 - in
-16:11:43,343 TRACE Paragraph:149 - entry
-16:11:43,343 TRACE Paragraph:149 - opening
-16:11:43,343 TRACE Paragraph:149 - practice
-16:11:43,343 TRACE Paragraph:149 - action
-16:11:43,343 TRACE Paragraph:149 - current
-16:11:43,343 TRACE Paragraph:149 - nothing
-16:11:43,343 TRACE Paragraph:149 - cipher
-16:11:43,343 TRACE Paragraph:149 - nickel
-16:11:43,343 TRACE Paragraph:149 - ferment
-16:11:43,343 TRACE Paragraph:149 - seething
-16:11:43,343 TRACE Paragraph:149 - cut
-16:11:43,343 TRACE Paragraph:149 - vair
-16:11:43,343 TRACE Paragraph:151 -  
-16:11:43,453 TRACE Paragraph:144 -  
-16:11:43,453 TRACE Paragraph:145 - Paragraph 2
-16:11:43,453 TRACE Paragraph:146 -  
-16:11:43,453 TRACE Paragraph:149 - account
-16:11:43,453 TRACE Paragraph:149 - high
-16:11:43,453 TRACE Paragraph:149 - low
-16:11:43,453 TRACE Paragraph:149 - elevated
-16:11:43,453 TRACE Paragraph:149 - found
-16:11:43,453 TRACE Paragraph:151 -  
-16:11:43,765 TRACE Paragraph:144 -  
-16:11:43,765 TRACE Paragraph:145 - Paragraph 3
-16:11:43,765 TRACE Paragraph:146 -  
-16:11:43,765 TRACE Paragraph:149 - entrance
-16:11:43,765 TRACE Paragraph:149 - access
-16:11:43,765 TRACE Paragraph:149 - in
-16:11:43,765 TRACE Paragraph:149 - entry
-16:11:43,765 TRACE Paragraph:149 - opening
-16:11:43,765 TRACE Paragraph:149 - firm
-16:11:43,765 TRACE Paragraph:149 - in
-16:11:43,765 TRACE Paragraph:149 - take
-16:11:43,765 TRACE Paragraph:149 - entry
-16:11:43,765 TRACE Paragraph:149 - nickel
-16:11:43,765 TRACE Paragraph:151 -  
-16:11:44,500 TRACE Paragraph:144 -  
-16:11:44,500 TRACE Paragraph:145 - Paragraph 4
-16:11:44,500 TRACE Paragraph:146 -  
-16:11:44,500 TRACE Paragraph:149 - cause
-16:11:44,500 TRACE Paragraph:149 - for
-16:11:44,500 TRACE Paragraph:149 - as long as
-16:11:44,500 TRACE Paragraph:149 - so
-16:11:44,500 TRACE Paragraph:149 - as
-16:11:44,500 TRACE Paragraph:149 - approach
-16:11:44,500 TRACE Paragraph:149 - match
-16:11:44,500 TRACE Paragraph:149 - cut
-16:11:44,500 TRACE Paragraph:149 - fundamental
-16:11:44,500 TRACE Paragraph:149 - elementary
-16:11:44,500 TRACE Paragraph:149 - twain
-16:11:44,500 TRACE Paragraph:149 - match
-16:11:44,500 TRACE Paragraph:149 - part
-16:11:44,500 TRACE Paragraph:149 - make
-16:11:44,500 TRACE Paragraph:149 - produce
-16:11:44,500 TRACE Paragraph:151 -  
-16:11:46,734 TRACE Paragraph:144 -  
-16:11:46,734 TRACE Paragraph:145 - Paragraph 5
-16:11:46,734 TRACE Paragraph:146 -  
-16:11:46,734 TRACE Paragraph:149 - work
-16:11:46,734 TRACE Paragraph:149 - make
-16:11:46,734 TRACE Paragraph:149 - review
-16:11:46,734 TRACE Paragraph:149 - design
-16:11:46,734 TRACE Paragraph:149 - cross
-16:11:46,734 TRACE Paragraph:149 - croaky
-16:11:46,734 TRACE Paragraph:149 - cast
-16:11:46,734 TRACE Paragraph:149 - take
-16:11:46,734 TRACE Paragraph:149 - regulation
-16:11:46,734 TRACE Paragraph:149 - local
-16:11:46,734 TRACE Paragraph:149 - bear
-16:11:46,734 TRACE Paragraph:149 - have
-16:11:46,734 TRACE Paragraph:149 - take
-16:11:46,734 TRACE Paragraph:149 - hold
-16:11:46,734 TRACE Paragraph:149 - take in
-16:11:46,734 TRACE Paragraph:149 - will
-16:11:46,734 TRACE Paragraph:149 - regulation
-16:11:46,734 TRACE Paragraph:149 - make
-16:11:46,734 TRACE Paragraph:149 - review
-16:11:46,734 TRACE Paragraph:149 - design
-16:11:46,734 TRACE Paragraph:149 - entry
-16:11:46,734 TRACE Paragraph:149 - opening
-16:11:46,734 TRACE Paragraph:149 - case
-16:11:46,734 TRACE Paragraph:149 - make
-16:11:46,734 TRACE Paragraph:149 - formation
-16:11:46,750 TRACE Paragraph:149 - entry
-16:11:46,750 TRACE Paragraph:149 - opening
-16:11:46,750 TRACE Paragraph:149 - take in
-16:11:46,750 TRACE Paragraph:149 - right
-16:11:46,750 TRACE Paragraph:149 - impart
-16:11:46,750 TRACE Paragraph:149 - necessary
-16:11:46,750 TRACE Paragraph:149 - certain
-16:11:46,750 TRACE Paragraph:149 - make
-16:11:46,750 TRACE Paragraph:149 - sure
-16:11:46,750 TRACE Paragraph:149 - formation
-16:11:46,750 TRACE Paragraph:151 -  
+12:33:33,187 TRACE Paragraph:144 -  
+12:33:33,187 TRACE Paragraph:145 - Paragraph 0
+12:33:33,187 TRACE Paragraph:146 -  
+12:33:33,187 TRACE Paragraph:149 - subliminal self
+12:33:33,187 TRACE Paragraph:149 - himself
+12:33:33,187 TRACE Paragraph:149 - myself
+12:33:33,187 TRACE Paragraph:149 - inner self
+12:33:33,187 TRACE Paragraph:149 - alter
+12:33:33,187 TRACE Paragraph:151 -  
+12:34:52,218 TRACE Paragraph:144 -  
+12:34:52,218 TRACE Paragraph:145 - Paragraph 0
+12:34:52,218 TRACE Paragraph:146 -  
+12:34:52,218 TRACE Paragraph:149 - strong
+12:34:52,218 TRACE Paragraph:149 - high
+12:34:52,218 TRACE Paragraph:149 - low
+12:34:52,218 TRACE Paragraph:149 - elevated
+12:34:52,218 TRACE Paragraph:149 - exalted
+12:34:52,218 TRACE Paragraph:149 - entrance
+12:34:52,218 TRACE Paragraph:149 - access
+12:34:52,218 TRACE Paragraph:149 - in
+12:34:52,218 TRACE Paragraph:149 - entry
+12:34:52,218 TRACE Paragraph:149 - opening
+12:34:52,218 TRACE Paragraph:151 -  
+12:34:52,687 TRACE Paragraph:144 -  
+12:34:52,687 TRACE Paragraph:145 - Paragraph 1
+12:34:52,687 TRACE Paragraph:146 -  
+12:34:52,687 TRACE Paragraph:149 - nothing
+12:34:52,687 TRACE Paragraph:149 - mean
+12:34:52,687 TRACE Paragraph:149 - cipher
+12:34:52,687 TRACE Paragraph:149 - high
+12:34:52,687 TRACE Paragraph:149 - low
+12:34:52,687 TRACE Paragraph:149 - entrance
+12:34:52,687 TRACE Paragraph:149 - access
+12:34:52,687 TRACE Paragraph:149 - in
+12:34:52,687 TRACE Paragraph:149 - entry
+12:34:52,687 TRACE Paragraph:149 - opening
+12:34:52,687 TRACE Paragraph:149 - practice
+12:34:52,687 TRACE Paragraph:149 - action
+12:34:52,687 TRACE Paragraph:149 - current
+12:34:52,687 TRACE Paragraph:149 - nothing
+12:34:52,687 TRACE Paragraph:149 - cipher
+12:34:52,687 TRACE Paragraph:149 - nickel
+12:34:52,687 TRACE Paragraph:149 - ferment
+12:34:52,687 TRACE Paragraph:149 - seething
+12:34:52,687 TRACE Paragraph:149 - cut
+12:34:52,687 TRACE Paragraph:149 - vair
+12:34:52,687 TRACE Paragraph:151 -  
+12:34:52,796 TRACE Paragraph:144 -  
+12:34:52,796 TRACE Paragraph:145 - Paragraph 2
+12:34:52,796 TRACE Paragraph:146 -  
+12:34:52,796 TRACE Paragraph:149 - account
+12:34:52,796 TRACE Paragraph:149 - high
+12:34:52,796 TRACE Paragraph:149 - low
+12:34:52,796 TRACE Paragraph:149 - elevated
+12:34:52,796 TRACE Paragraph:149 - found
+12:34:52,796 TRACE Paragraph:151 -  
+12:34:53,046 TRACE Paragraph:144 -  
+12:34:53,046 TRACE Paragraph:145 - Paragraph 3
+12:34:53,046 TRACE Paragraph:146 -  
+12:34:53,046 TRACE Paragraph:149 - entrance
+12:34:53,046 TRACE Paragraph:149 - access
+12:34:53,046 TRACE Paragraph:149 - in
+12:34:53,046 TRACE Paragraph:149 - entry
+12:34:53,046 TRACE Paragraph:149 - opening
+12:34:53,046 TRACE Paragraph:149 - firm
+12:34:53,046 TRACE Paragraph:149 - in
+12:34:53,046 TRACE Paragraph:149 - take
+12:34:53,046 TRACE Paragraph:149 - entry
+12:34:53,046 TRACE Paragraph:149 - nickel
+12:34:53,046 TRACE Paragraph:151 -  
+12:34:53,484 TRACE Paragraph:144 -  
+12:34:53,484 TRACE Paragraph:145 - Paragraph 4
+12:34:53,500 TRACE Paragraph:146 -  
+12:34:53,500 TRACE Paragraph:149 - cause
+12:34:53,500 TRACE Paragraph:149 - for
+12:34:53,500 TRACE Paragraph:149 - as long as
+12:34:53,500 TRACE Paragraph:149 - so
+12:34:53,500 TRACE Paragraph:149 - as
+12:34:53,500 TRACE Paragraph:149 - approach
+12:34:53,500 TRACE Paragraph:149 - match
+12:34:53,500 TRACE Paragraph:149 - cut
+12:34:53,500 TRACE Paragraph:149 - fundamental
+12:34:53,500 TRACE Paragraph:149 - elementary
+12:34:53,500 TRACE Paragraph:149 - twain
+12:34:53,500 TRACE Paragraph:149 - match
+12:34:53,500 TRACE Paragraph:149 - part
+12:34:53,500 TRACE Paragraph:149 - make
+12:34:53,500 TRACE Paragraph:149 - produce
+12:34:53,500 TRACE Paragraph:151 -  
+12:34:54,250 TRACE Paragraph:144 -  
+12:34:54,250 TRACE Paragraph:145 - Paragraph 5
+12:34:54,250 TRACE Paragraph:146 -  
+12:34:54,250 TRACE Paragraph:149 - work
+12:34:54,250 TRACE Paragraph:149 - make
+12:34:54,250 TRACE Paragraph:149 - review
+12:34:54,250 TRACE Paragraph:149 - design
+12:34:54,250 TRACE Paragraph:149 - cross
+12:34:54,250 TRACE Paragraph:149 - croaky
+12:34:54,250 TRACE Paragraph:149 - cast
+12:34:54,250 TRACE Paragraph:149 - take
+12:34:54,250 TRACE Paragraph:149 - regulation
+12:34:54,250 TRACE Paragraph:149 - local
+12:34:54,250 TRACE Paragraph:149 - bear
+12:34:54,250 TRACE Paragraph:149 - have
+12:34:54,250 TRACE Paragraph:149 - take
+12:34:54,250 TRACE Paragraph:149 - hold
+12:34:54,250 TRACE Paragraph:149 - take in
+12:34:54,250 TRACE Paragraph:149 - will
+12:34:54,250 TRACE Paragraph:149 - regulation
+12:34:54,250 TRACE Paragraph:149 - make
+12:34:54,250 TRACE Paragraph:149 - review
+12:34:54,250 TRACE Paragraph:149 - design
+12:34:54,250 TRACE Paragraph:149 - entry
+12:34:54,250 TRACE Paragraph:149 - opening
+12:34:54,250 TRACE Paragraph:149 - case
+12:34:54,250 TRACE Paragraph:149 - make
+12:34:54,250 TRACE Paragraph:149 - formation
+12:34:54,250 TRACE Paragraph:149 - entry
+12:34:54,250 TRACE Paragraph:149 - opening
+12:34:54,250 TRACE Paragraph:149 - take in
+12:34:54,250 TRACE Paragraph:149 - right
+12:34:54,250 TRACE Paragraph:149 - impart
+12:34:54,250 TRACE Paragraph:149 - necessary
+12:34:54,250 TRACE Paragraph:149 - certain
+12:34:54,250 TRACE Paragraph:149 - make
+12:34:54,250 TRACE Paragraph:149 - sure
+12:34:54,250 TRACE Paragraph:149 - formation
+12:34:54,250 TRACE Paragraph:151 -  
+12:34:54,703 TRACE Paragraph:144 -  
+12:34:54,703 TRACE Paragraph:145 - Paragraph 6
+12:34:54,703 TRACE Paragraph:146 -  
+12:34:54,703 TRACE Paragraph:149 - opening
+12:34:54,703 TRACE Paragraph:149 - high
+12:34:54,703 TRACE Paragraph:149 - fellow
+12:34:54,703 TRACE Paragraph:149 - low
+12:34:54,703 TRACE Paragraph:149 - elevated
+12:34:54,703 TRACE Paragraph:149 - entrance
+12:34:54,703 TRACE Paragraph:149 - access
+12:34:54,703 TRACE Paragraph:149 - in
+12:34:54,703 TRACE Paragraph:149 - entry
+12:34:54,703 TRACE Paragraph:149 - opening
+12:34:54,703 TRACE Paragraph:149 - form
+12:34:54,703 TRACE Paragraph:149 - make
+12:34:54,703 TRACE Paragraph:149 - early
+12:34:54,703 TRACE Paragraph:149 - room
+12:34:54,703 TRACE Paragraph:149 - yet
+12:34:54,703 TRACE Paragraph:149 - entry
+12:34:54,703 TRACE Paragraph:149 - coming
+12:34:54,703 TRACE Paragraph:149 - opening
+12:34:54,703 TRACE Paragraph:149 - dispassionate
+12:34:54,703 TRACE Paragraph:149 - to come
+12:34:54,703 TRACE Paragraph:149 - entrance
+12:34:54,703 TRACE Paragraph:149 - access
+12:34:54,703 TRACE Paragraph:149 - in
+12:34:54,703 TRACE Paragraph:149 - entry
+12:34:54,703 TRACE Paragraph:149 - opening
+12:34:54,703 TRACE Paragraph:151 -  
+12:34:54,781 TRACE Paragraph:144 -  
+12:34:54,781 TRACE Paragraph:145 - Paragraph 7
+12:34:54,781 TRACE Paragraph:146 -  
+12:34:54,781 TRACE Paragraph:149 - access
+12:34:54,781 TRACE Paragraph:149 - in
+12:34:54,781 TRACE Paragraph:149 - review
+12:34:54,781 TRACE Paragraph:149 - design
+12:34:54,781 TRACE Paragraph:149 - entrance
+12:34:54,781 TRACE Paragraph:149 - survey
+12:34:54,781 TRACE Paragraph:149 - core
+12:34:54,781 TRACE Paragraph:149 - design
+12:34:54,781 TRACE Paragraph:149 - review
+12:34:54,781 TRACE Paragraph:149 - out
+12:34:54,781 TRACE Paragraph:151 -  
+12:34:54,843 TRACE Paragraph:144 -  
+12:34:54,843 TRACE Paragraph:145 - Paragraph 8
+12:34:54,843 TRACE Paragraph:146 -  
+12:34:54,843 TRACE Paragraph:149 - nonacid
+12:34:54,843 TRACE Paragraph:149 - biochemical
+12:34:54,843 TRACE Paragraph:149 - make
+12:34:54,843 TRACE Paragraph:149 - radical
+12:34:54,843 TRACE Paragraph:149 - formation
+12:34:54,843 TRACE Paragraph:149 - acid
+12:34:54,843 TRACE Paragraph:149 - chemical
+12:34:54,843 TRACE Paragraph:149 - nonacid
+12:34:54,843 TRACE Paragraph:149 - biochemical
+12:34:54,843 TRACE Paragraph:149 - radical
+12:34:54,843 TRACE Paragraph:151 -  

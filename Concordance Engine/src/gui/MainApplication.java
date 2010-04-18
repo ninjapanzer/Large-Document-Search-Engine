@@ -23,6 +23,7 @@ import javax.swing.JDialog;
 import java.awt.Dimension;
 import javax.swing.JTextPane;
 
+import analysis.AnalysisLoader;
 import app.App;
 
 import java.lang.String;
@@ -175,8 +176,14 @@ public class MainApplication {
 								Selection.add(SelItems);
 								filename = "";
 							}
-							@SuppressWarnings("unused")
-							CompareDocuments Comparison = new CompareDocuments(Selection, analyzedObjects);
+							try {
+								AnalysisLoader Comparison = new AnalysisLoader(Selection, analyzedObjects);
+							} catch (Exception e) {
+								// TODO Auto-generated catch block
+								e.printStackTrace();
+							}
+							//@SuppressWarnings("unused")
+							//CompareDocuments Comparison = new CompareDocuments(Selection, analyzedObjects);
 						}
 					}).start();	
 				}
