@@ -1,8 +1,12 @@
-13:36:08,031 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\3.17
-13:36:10,328 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\3.17
-13:36:11,937 TRACE MainApplication:212 - Moving Thread Object 0
-13:36:11,937 TRACE MainApplication:216 - Doing Size(0)     Done Size(1)    Value(0)
-13:36:11,937 TRACE MainApplication:217 - Thread Object 0 Moved
-13:36:14,187 TRACE MainApplication:212 - Moving Thread Object 1
-13:36:14,187 TRACE MainApplication:216 - Doing Size(0)     Done Size(2)    Value(1)
-13:36:14,187 TRACE MainApplication:217 - Thread Object 1 Moved
+16:49:18,484 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\DeusCaritasEst3
+16:49:20,812 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\DeusCaritasEst4.5
+16:49:23,312 TRACE MainApplication:212 - Moving Thread Object 0
+16:49:23,312 TRACE MainApplication:216 - Doing Size(0)     Done Size(1)    Value(0)
+16:49:23,312 TRACE MainApplication:217 - Thread Object 0 Moved
+16:49:24,812 TRACE MainApplication:212 - Moving Thread Object 1
+16:49:24,812 TRACE MainApplication:216 - Doing Size(0)     Done Size(2)    Value(1)
+16:49:24,812 TRACE MainApplication:217 - Thread Object 1 Moved
+16:49:51,234 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\DeusCaritasEst3
+16:49:55,296 TRACE MainApplication:212 - Moving Thread Object 2
+16:49:55,296 TRACE MainApplication:216 - Doing Size(0)     Done Size(3)    Value(2)
+16:49:55,296 TRACE MainApplication:217 - Thread Object 2 Moved

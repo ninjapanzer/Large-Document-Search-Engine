@@ -2,11 +2,7 @@ package analysis;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
-
-
 import structs.Comparables;
-import structs.Document;
 import structs.PhraseAnaysisResults;
 import structs.ReconstructDocument;
 
@@ -23,19 +19,44 @@ public class PhraseAnalysis implements ComponentIface {
 		this.TestResults = new ArrayList<PhraseAnaysisResults>();
 	}
 	@Override
-	
 	public double runAnalysis() {
 		// TODO Auto-generated method stub
 		for(Comparables item : this.TestList){
 			PhraseAnaysisResults result = new PhraseAnaysisResults();
 			result.ID = item.ID;
 			result.Filename = item.Filename;
-			//result.BiWords = this.generateBiWords(item.SequencedDocument);
-			result.BiWords = this.generateNounBiWords(item.SequencedDocument);
+			result.BiWords = this.generateBiWords(item.SequencedDocument);
+			//result.BiWords = this.generateNounBiWords(item.SequencedDocument);
 			result.TriWords = this.generateTriWords(item.SequencedDocument);
 			this.TestResults.add(result);
 		}
 		long hashcount = 0;
+		this.compareBiWords();
+		this.compareTriWords();
+		for(PhraseAnaysisResults item : this.TestResults){
+			
+		}
+		return 0;
+	}
+	private ArrayList<String> compareTriWords(){
+		ArrayList<String> ConfirmedBiWords = new ArrayList<String>();
+		for(int i = 0; i<this.TestResults.size()-1;i++){
+			HashMap<String, Object> testmap = new HashMap<String, Object>();
+			for(String BiWordItem : this.TestResults.get(i).TriWords){
+				testmap.put(BiWordItem, null);
+			}
+			for(String BiWordItem : this.TestResults.get(i+1).BiWords){
+				if(testmap.containsKey(BiWordItem)){
+					//System.out.println("Confirmed "+ BiWordItem);
+					ConfirmedBiWords.add(BiWordItem);
+				}
+			}
+			System.out.println("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
+		}
+		return ConfirmedBiWords;
+	}
+	private ArrayList<String> compareBiWords(){
+		ArrayList<String> ConfirmedBiWords = new ArrayList<String>();
 		for(int i = 0; i<this.TestResults.size()-1;i++){
 			HashMap<String, Object> testmap = new HashMap<String, Object>();
 			for(String BiWordItem : this.TestResults.get(i).BiWords){
@@ -43,15 +64,15 @@ public class PhraseAnalysis implements ComponentIface {
 			}
 			for(String BiWordItem : this.TestResults.get(i+1).BiWords){
 				if(testmap.containsKey(BiWordItem)){
-					System.out.println("Confirmed "+ BiWordItem);
+					//System.out.println("Confirmed "+ BiWordItem);
+					ConfirmedBiWords.add(BiWordItem);
 				}
 			}
+			System.out.println("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
 		}
-		for(PhraseAnaysisResults item : this.TestResults){
-			
-		}
-		return 0;
+		return ConfirmedBiWords;
 	}
+	
 	private ArrayList<String> generateBiWords(ArrayList<ReconstructDocument> Source){
 		long count = Source.size();
 		ArrayList<String> biwords = new ArrayList<String>();
@@ -64,6 +85,7 @@ public class PhraseAnalysis implements ComponentIface {
 		}
 		return biwords;
 	}
+	//testing noun identification
 	private ArrayList<String> generateNounBiWords(ArrayList<ReconstructDocument> Source){
 		long count = Source.size();
 		ArrayList<String> biwords = new ArrayList<String>();

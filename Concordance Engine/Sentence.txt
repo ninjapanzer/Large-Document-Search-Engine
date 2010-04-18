@@ -1,212 +1,942 @@
-13:36:11,578 TRACE Sentence:87 - null LOWord null
-13:36:11,578 TRACE Sentence:87 - null LOWord null
-13:36:11,609 TRACE Sentence:87 - null LOWord null
-13:36:11,609 TRACE Sentence:87 - null LOWord null
-13:36:11,656 TRACE Sentence:87 - null LOWord null
-13:36:11,656 TRACE Sentence:87 - null LOWord null
-13:36:11,656 TRACE Sentence:87 - null LOWord null
-13:36:11,734 TRACE Sentence:87 - null LOWord null
-13:36:11,750 TRACE Sentence:87 - null LOWord null
-13:36:11,765 TRACE Sentence:87 - null LOWord null
-13:36:11,781 TRACE Sentence:87 - null LOWord null
-13:36:11,796 TRACE Sentence:87 - null LOWord null
-13:36:11,812 TRACE Sentence:129 -  
-13:36:11,812 TRACE Sentence:130 - Sentence 0 Paragraph 0
-13:36:11,812 TRACE Sentence:131 -  
-13:36:11,812 TRACE Sentence:134 - him
-13:36:11,812 TRACE Sentence:134 - he
-13:36:11,812 TRACE Sentence:134 - subconscious self
-13:36:11,828 TRACE Sentence:134 - inner self
-13:36:11,828 TRACE Sentence:134 - himself
-13:36:11,828 TRACE Sentence:134 - say
-13:36:11,828 TRACE Sentence:134 - chorus
-13:36:11,828 TRACE Sentence:134 - voice
-13:36:11,828 TRACE Sentence:134 - word
-13:36:11,828 TRACE Sentence:134 - phrase
-13:36:11,828 TRACE Sentence:134 - basis
-13:36:11,828 TRACE Sentence:134 - ground
-13:36:11,828 TRACE Sentence:134 - terrain
-13:36:11,828 TRACE Sentence:134 - place
-13:36:11,828 TRACE Sentence:134 - floor
-13:36:11,828 TRACE Sentence:134 - access
-13:36:11,828 TRACE Sentence:134 - entry
-13:36:11,828 TRACE Sentence:134 - opening
-13:36:11,828 TRACE Sentence:134 - in
-13:36:11,828 TRACE Sentence:134 - entrance
-13:36:11,828 TRACE Sentence:134 - distress
-13:36:11,828 TRACE Sentence:134 - anguish
-13:36:11,828 TRACE Sentence:134 - woe
-13:36:11,828 TRACE Sentence:134 - sorrow
-13:36:11,828 TRACE Sentence:134 - grieve
-13:36:11,828 TRACE Sentence:134 - alter
-13:36:11,828 TRACE Sentence:134 - subliminal self
-13:36:11,828 TRACE Sentence:134 - myself
-13:36:11,828 TRACE Sentence:134 - inner self
-13:36:11,828 TRACE Sentence:134 - himself
-13:36:11,828 TRACE Sentence:134 - alter
-13:36:11,828 TRACE Sentence:134 - subliminal self
-13:36:11,828 TRACE Sentence:134 - myself
-13:36:11,828 TRACE Sentence:134 - inner self
-13:36:11,828 TRACE Sentence:134 - himself
-13:36:11,828 TRACE Sentence:134 - forwards
-13:36:11,828 TRACE Sentence:134 - onwards
-13:36:11,828 TRACE Sentence:134 - out
-13:36:11,828 TRACE Sentence:134 - forth
-13:36:11,828 TRACE Sentence:134 - for
-13:36:11,828 TRACE Sentence:134 - access
-13:36:11,828 TRACE Sentence:134 - entry
-13:36:11,828 TRACE Sentence:134 - opening
-13:36:11,828 TRACE Sentence:134 - in
-13:36:11,828 TRACE Sentence:134 - entrance
-13:36:11,828 TRACE Sentence:134 - stew
-13:36:11,828 TRACE Sentence:134 - sweat
-13:36:11,828 TRACE Sentence:134 - seethe
-13:36:11,828 TRACE Sentence:134 - flurry
-13:36:11,828 TRACE Sentence:134 - flutter
-13:36:11,828 TRACE Sentence:134 - front
-13:36:11,828 TRACE Sentence:134 - gloss
-13:36:11,828 TRACE Sentence:134 - facade
-13:36:11,828 TRACE Sentence:134 - color
-13:36:11,828 TRACE Sentence:134 - face
-13:36:11,828 TRACE Sentence:134 - pork barrel
-13:36:11,828 TRACE Sentence:134 - work
-13:36:11,828 TRACE Sentence:134 - till
-13:36:11,828 TRACE Sentence:134 - public trough
-13:36:11,828 TRACE Sentence:134 - public till
-13:36:11,828 TRACE Sentence:134 - turn
-13:36:11,828 TRACE Sentence:134 - lapse
-13:36:11,828 TRACE Sentence:134 - return
-13:36:11,828 TRACE Sentence:134 - echo
-13:36:11,828 TRACE Sentence:134 - restitution
-13:36:11,828 TRACE Sentence:134 - deviant
-13:36:11,828 TRACE Sentence:134 - deviative
-13:36:11,828 TRACE Sentence:134 - off
-13:36:11,828 TRACE Sentence:134 - out
-13:36:11,828 TRACE Sentence:134 - unorthodox
-13:36:11,828 TRACE Sentence:134 - alter
-13:36:11,828 TRACE Sentence:134 - subliminal self
-13:36:11,828 TRACE Sentence:134 - myself
-13:36:11,828 TRACE Sentence:134 - inner self
-13:36:11,828 TRACE Sentence:134 - himself
-13:36:11,828 TRACE Sentence:134 - dust
-13:36:11,828 TRACE Sentence:134 - clay
-13:36:11,828 TRACE Sentence:134 - filings
-13:36:11,828 TRACE Sentence:134 - chaff
-13:36:11,828 TRACE Sentence:134 - scum
-13:36:11,828 TRACE Sentence:134 - dust
-13:36:11,828 TRACE Sentence:134 - clay
-13:36:11,828 TRACE Sentence:134 - filings
-13:36:11,828 TRACE Sentence:134 - chaff
-13:36:11,828 TRACE Sentence:134 - scum
-13:36:11,828 TRACE Sentence:134 - turn
-13:36:11,828 TRACE Sentence:134 - lapse
-13:36:11,828 TRACE Sentence:134 - return
-13:36:11,828 TRACE Sentence:134 - echo
-13:36:11,828 TRACE Sentence:134 - restitution
-13:36:11,828 TRACE Sentence:136 -  
-13:36:13,843 TRACE Sentence:87 - null LOWord null
-13:36:13,843 TRACE Sentence:87 - null LOWord null
-13:36:13,859 TRACE Sentence:87 - null LOWord null
-13:36:13,859 TRACE Sentence:87 - null LOWord null
-13:36:13,921 TRACE Sentence:87 - null LOWord null
-13:36:13,921 TRACE Sentence:87 - null LOWord null
-13:36:13,921 TRACE Sentence:87 - null LOWord null
-13:36:13,984 TRACE Sentence:87 - null LOWord null
-13:36:14,000 TRACE Sentence:87 - null LOWord null
-13:36:14,031 TRACE Sentence:87 - null LOWord null
-13:36:14,031 TRACE Sentence:87 - null LOWord null
-13:36:14,046 TRACE Sentence:87 - null LOWord null
-13:36:14,062 TRACE Sentence:129 -  
-13:36:14,062 TRACE Sentence:130 - Sentence 0 Paragraph 0
-13:36:14,062 TRACE Sentence:131 -  
-13:36:14,062 TRACE Sentence:134 - him
-13:36:14,062 TRACE Sentence:134 - he
-13:36:14,062 TRACE Sentence:134 - subconscious self
-13:36:14,062 TRACE Sentence:134 - inner self
-13:36:14,062 TRACE Sentence:134 - himself
-13:36:14,062 TRACE Sentence:134 - say
-13:36:14,062 TRACE Sentence:134 - chorus
-13:36:14,062 TRACE Sentence:134 - voice
-13:36:14,062 TRACE Sentence:134 - word
-13:36:14,062 TRACE Sentence:134 - phrase
-13:36:14,062 TRACE Sentence:134 - basis
-13:36:14,062 TRACE Sentence:134 - ground
-13:36:14,062 TRACE Sentence:134 - terrain
-13:36:14,062 TRACE Sentence:134 - place
-13:36:14,062 TRACE Sentence:134 - floor
-13:36:14,062 TRACE Sentence:134 - access
-13:36:14,062 TRACE Sentence:134 - entry
-13:36:14,062 TRACE Sentence:134 - opening
-13:36:14,062 TRACE Sentence:134 - in
-13:36:14,062 TRACE Sentence:134 - entrance
-13:36:14,062 TRACE Sentence:134 - distress
-13:36:14,062 TRACE Sentence:134 - anguish
-13:36:14,062 TRACE Sentence:134 - woe
-13:36:14,062 TRACE Sentence:134 - sorrow
-13:36:14,062 TRACE Sentence:134 - grieve
-13:36:14,062 TRACE Sentence:134 - alter
-13:36:14,062 TRACE Sentence:134 - subliminal self
-13:36:14,062 TRACE Sentence:134 - myself
-13:36:14,062 TRACE Sentence:134 - inner self
-13:36:14,062 TRACE Sentence:134 - himself
-13:36:14,062 TRACE Sentence:134 - alter
-13:36:14,078 TRACE Sentence:134 - subliminal self
-13:36:14,078 TRACE Sentence:134 - myself
-13:36:14,078 TRACE Sentence:134 - inner self
-13:36:14,078 TRACE Sentence:134 - himself
-13:36:14,078 TRACE Sentence:134 - forwards
-13:36:14,078 TRACE Sentence:134 - onwards
-13:36:14,078 TRACE Sentence:134 - out
-13:36:14,078 TRACE Sentence:134 - forth
-13:36:14,078 TRACE Sentence:134 - for
-13:36:14,078 TRACE Sentence:134 - access
-13:36:14,078 TRACE Sentence:134 - entry
-13:36:14,078 TRACE Sentence:134 - opening
-13:36:14,078 TRACE Sentence:134 - in
-13:36:14,078 TRACE Sentence:134 - entrance
-13:36:14,078 TRACE Sentence:134 - stew
-13:36:14,078 TRACE Sentence:134 - sweat
-13:36:14,078 TRACE Sentence:134 - seethe
-13:36:14,078 TRACE Sentence:134 - flurry
-13:36:14,078 TRACE Sentence:134 - flutter
-13:36:14,078 TRACE Sentence:134 - front
-13:36:14,078 TRACE Sentence:134 - gloss
-13:36:14,078 TRACE Sentence:134 - facade
-13:36:14,078 TRACE Sentence:134 - color
-13:36:14,078 TRACE Sentence:134 - face
-13:36:14,078 TRACE Sentence:134 - pork barrel
-13:36:14,078 TRACE Sentence:134 - work
-13:36:14,078 TRACE Sentence:134 - till
-13:36:14,078 TRACE Sentence:134 - public trough
-13:36:14,078 TRACE Sentence:134 - public till
-13:36:14,078 TRACE Sentence:134 - turn
-13:36:14,078 TRACE Sentence:134 - lapse
-13:36:14,078 TRACE Sentence:134 - return
-13:36:14,078 TRACE Sentence:134 - echo
-13:36:14,078 TRACE Sentence:134 - restitution
-13:36:14,078 TRACE Sentence:134 - deviant
-13:36:14,078 TRACE Sentence:134 - deviative
-13:36:14,078 TRACE Sentence:134 - off
-13:36:14,078 TRACE Sentence:134 - out
-13:36:14,078 TRACE Sentence:134 - unorthodox
-13:36:14,078 TRACE Sentence:134 - alter
-13:36:14,078 TRACE Sentence:134 - subliminal self
-13:36:14,078 TRACE Sentence:134 - myself
-13:36:14,078 TRACE Sentence:134 - inner self
-13:36:14,078 TRACE Sentence:134 - himself
-13:36:14,078 TRACE Sentence:134 - dust
-13:36:14,078 TRACE Sentence:134 - clay
-13:36:14,078 TRACE Sentence:134 - filings
-13:36:14,078 TRACE Sentence:134 - chaff
-13:36:14,078 TRACE Sentence:134 - scum
-13:36:14,078 TRACE Sentence:134 - dust
-13:36:14,078 TRACE Sentence:134 - clay
-13:36:14,078 TRACE Sentence:134 - filings
-13:36:14,078 TRACE Sentence:134 - chaff
-13:36:14,078 TRACE Sentence:134 - scum
-13:36:14,078 TRACE Sentence:134 - turn
-13:36:14,078 TRACE Sentence:134 - lapse
-13:36:14,078 TRACE Sentence:134 - return
-13:36:14,078 TRACE Sentence:134 - echo
-13:36:14,078 TRACE Sentence:134 - restitution
-13:36:14,078 TRACE Sentence:136 -  
+16:49:22,046 TRACE Sentence:86 - null LOWord null
+16:49:22,046 TRACE Sentence:129 -  
+16:49:22,046 TRACE Sentence:130 - Sentence 0 Paragraph 0
+16:49:22,046 TRACE Sentence:131 -  
+16:49:22,046 TRACE Sentence:134 - love
+16:49:22,046 TRACE Sentence:134 - agape
+16:49:22,046 TRACE Sentence:134 - charity
+16:49:22,046 TRACE Sentence:134 - caritas
+16:49:22,046 TRACE Sentence:134 - brotherly love
+16:49:22,046 TRACE Sentence:134 - guy
+16:49:22,046 TRACE Sentence:134 - creature
+16:49:22,046 TRACE Sentence:134 - hand
+16:49:22,046 TRACE Sentence:134 - man
+16:49:22,046 TRACE Sentence:134 - fellow
+16:49:22,046 TRACE Sentence:134 - matron
+16:49:22,046 TRACE Sentence:134 - squaw
+16:49:22,046 TRACE Sentence:134 - old lady
+16:49:22,062 TRACE Sentence:134 - woman
+16:49:22,062 TRACE Sentence:134 - lady
+16:49:22,062 TRACE Sentence:134 - human
+16:49:22,062 TRACE Sentence:134 - humane
+16:49:22,062 TRACE Sentence:134 - tender
+16:49:22,062 TRACE Sentence:134 - Adamite
+16:49:22,062 TRACE Sentence:134 - kind
+16:49:22,062 TRACE Sentence:134 - aged
+16:49:22,062 TRACE Sentence:134 - ancient
+16:49:22,062 TRACE Sentence:134 - antique
+16:49:22,062 TRACE Sentence:134 - old
+16:49:22,062 TRACE Sentence:134 - primitive
+16:49:22,062 TRACE Sentence:136 -  
+16:49:22,062 TRACE Sentence:86 - null LOWord null
+16:49:22,140 TRACE Sentence:86 - null LOWord null
+16:49:22,156 TRACE Sentence:86 - null LOWord null
+16:49:22,171 TRACE Sentence:86 - null LOWord null
+16:49:22,171 TRACE Sentence:86 - null LOWord null
+16:49:22,187 TRACE Sentence:86 - null LOWord null
+16:49:22,187 TRACE Sentence:86 - null LOWord null
+16:49:22,187 TRACE Sentence:86 - null LOWord null
+16:49:22,187 TRACE Sentence:86 - null LOWord null
+16:49:22,187 TRACE Sentence:86 - null LOWord null
+16:49:22,218 TRACE Sentence:86 - null LOWord null
+16:49:22,218 TRACE Sentence:86 - null LOWord null
+16:49:22,218 TRACE Sentence:129 -  
+16:49:22,218 TRACE Sentence:130 - Sentence 1 Paragraph 0
+16:49:22,218 TRACE Sentence:131 -  
+16:49:22,218 TRACE Sentence:134 - grant
+16:49:22,218 TRACE Sentence:134 - consider
+16:49:22,218 TRACE Sentence:134 - assume
+16:49:22,218 TRACE Sentence:134 - take
+16:49:22,218 TRACE Sentence:134 - let
+16:49:22,218 TRACE Sentence:134 - index
+16:49:22,218 TRACE Sentence:134 - mark
+16:49:22,218 TRACE Sentence:134 - remark
+16:49:22,218 TRACE Sentence:134 - measure
+16:49:22,218 TRACE Sentence:134 - note
+16:49:22,218 TRACE Sentence:134 - absolute
+16:49:22,218 TRACE Sentence:134 - downright
+16:49:22,218 TRACE Sentence:134 - straight
+16:49:22,218 TRACE Sentence:134 - direct
+16:49:22,218 TRACE Sentence:134 - clear
+16:49:22,218 TRACE Sentence:134 - ancient
+16:49:22,218 TRACE Sentence:134 - immemorial
+16:49:22,218 TRACE Sentence:134 - antique
+16:49:22,218 TRACE Sentence:134 - old
+16:49:22,218 TRACE Sentence:134 - olden
+16:49:22,218 TRACE Sentence:134 - statement
+16:49:22,218 TRACE Sentence:134 - say
+16:49:22,218 TRACE Sentence:134 - dictum
+16:49:22,218 TRACE Sentence:134 - word
+16:49:22,218 TRACE Sentence:134 - phrase
+16:49:22,218 TRACE Sentence:134 - space
+16:49:22,218 TRACE Sentence:134 - while
+16:49:22,218 TRACE Sentence:134 - spell
+16:49:22,218 TRACE Sentence:134 - time
+16:49:22,218 TRACE Sentence:134 - period
+16:49:22,218 TRACE Sentence:134 - practice
+16:49:22,234 TRACE Sentence:134 - work
+16:49:22,234 TRACE Sentence:134 - use
+16:49:22,234 TRACE Sentence:134 - exercise
+16:49:22,234 TRACE Sentence:134 - employ
+16:49:22,234 TRACE Sentence:134 - alter
+16:49:22,234 TRACE Sentence:134 - subliminal self
+16:49:22,234 TRACE Sentence:134 - myself
+16:49:22,234 TRACE Sentence:134 - inner self
+16:49:22,234 TRACE Sentence:134 - himself
+16:49:22,234 TRACE Sentence:134 - love
+16:49:22,234 TRACE Sentence:134 - agape
+16:49:22,234 TRACE Sentence:134 - charity
+16:49:22,234 TRACE Sentence:134 - caritas
+16:49:22,234 TRACE Sentence:134 - brotherly love
+16:49:22,234 TRACE Sentence:134 - affinity
+16:49:22,234 TRACE Sentence:134 - union
+16:49:22,234 TRACE Sentence:134 - sympathy
+16:49:22,234 TRACE Sentence:134 - agreement
+16:49:22,234 TRACE Sentence:134 - fellowship
+16:49:22,234 TRACE Sentence:134 - access
+16:49:22,234 TRACE Sentence:134 - entry
+16:49:22,234 TRACE Sentence:134 - opening
+16:49:22,234 TRACE Sentence:134 - in
+16:49:22,234 TRACE Sentence:134 - entrance
+16:49:22,234 TRACE Sentence:134 - way
+16:49:22,234 TRACE Sentence:134 - use
+16:49:22,234 TRACE Sentence:134 - practice
+16:49:22,234 TRACE Sentence:134 - locution
+16:49:22,234 TRACE Sentence:134 - usage
+16:49:22,234 TRACE Sentence:136 -  
+16:49:22,406 TRACE Sentence:86 - null LOWord null
+16:49:22,406 TRACE Sentence:129 -  
+16:49:22,406 TRACE Sentence:130 - Sentence 2 Paragraph 0
+16:49:22,406 TRACE Sentence:131 -  
+16:49:22,406 TRACE Sentence:134 - as
+16:49:22,406 TRACE Sentence:134 - cause
+16:49:22,406 TRACE Sentence:134 - as long as
+16:49:22,406 TRACE Sentence:134 - so
+16:49:22,406 TRACE Sentence:134 - for
+16:49:22,406 TRACE Sentence:134 - end
+16:49:22,406 TRACE Sentence:134 - period
+16:49:22,406 TRACE Sentence:134 - term
+16:49:22,406 TRACE Sentence:134 - finish
+16:49:22,406 TRACE Sentence:134 - terminus
+16:49:22,406 TRACE Sentence:134 - love
+16:49:22,406 TRACE Sentence:134 - agape
+16:49:22,406 TRACE Sentence:134 - charity
+16:49:22,406 TRACE Sentence:134 - caritas
+16:49:22,406 TRACE Sentence:134 - brotherly love
+16:49:22,406 TRACE Sentence:134 - alter
+16:49:22,406 TRACE Sentence:134 - subliminal self
+16:49:22,406 TRACE Sentence:134 - myself
+16:49:22,406 TRACE Sentence:134 - inner self
+16:49:22,406 TRACE Sentence:134 - himself
+16:49:22,406 TRACE Sentence:134 - scope
+16:49:22,406 TRACE Sentence:134 - measure
+16:49:22,406 TRACE Sentence:134 - height
+16:49:22,406 TRACE Sentence:134 - range
+16:49:22,406 TRACE Sentence:134 - depth
+16:49:22,406 TRACE Sentence:134 - idea
+16:49:22,406 TRACE Sentence:134 - suggestion
+16:49:22,406 TRACE Sentence:134 - effect
+16:49:22,406 TRACE Sentence:134 - meaning
+16:49:22,406 TRACE Sentence:134 - point
+16:49:22,406 TRACE Sentence:134 - access
+16:49:22,406 TRACE Sentence:134 - entry
+16:49:22,406 TRACE Sentence:134 - opening
+16:49:22,406 TRACE Sentence:134 - in
+16:49:22,406 TRACE Sentence:134 - entrance
+16:49:22,406 TRACE Sentence:134 - canonize
+16:49:22,406 TRACE Sentence:134 - glorify
+16:49:22,406 TRACE Sentence:134 - saint
+16:49:22,406 TRACE Sentence:134 - beatify
+16:49:22,406 TRACE Sentence:134 - enshrine
+16:49:22,406 TRACE Sentence:134 - gospel
+16:49:22,406 TRACE Sentence:134 - motet
+16:49:22,406 TRACE Sentence:134 - gospel music
+16:49:22,406 TRACE Sentence:134 - white spiritual
+16:49:22,406 TRACE Sentence:134 - offertory sentence
+16:49:22,406 TRACE Sentence:134 - access
+16:49:22,406 TRACE Sentence:134 - entry
+16:49:22,406 TRACE Sentence:134 - opening
+16:49:22,406 TRACE Sentence:134 - in
+16:49:22,406 TRACE Sentence:134 - entrance
+16:49:22,406 TRACE Sentence:134 - order
+16:49:22,406 TRACE Sentence:134 - form
+16:49:22,406 TRACE Sentence:134 - rank
+16:49:22,406 TRACE Sentence:134 - set
+16:49:22,406 TRACE Sentence:134 - class
+16:49:22,406 TRACE Sentence:134 - set forth
+16:49:22,406 TRACE Sentence:134 - manifest
+16:49:22,406 TRACE Sentence:134 - express
+16:49:22,406 TRACE Sentence:134 - disclose
+16:49:22,406 TRACE Sentence:134 - clear
+16:49:22,406 TRACE Sentence:134 - affiliation
+16:49:22,406 TRACE Sentence:134 - alliance
+16:49:22,406 TRACE Sentence:134 - filiation
+16:49:22,406 TRACE Sentence:134 - connection
+16:49:22,406 TRACE Sentence:134 - relationship
+16:49:22,406 TRACE Sentence:136 -  
+16:49:22,578 TRACE Sentence:86 - null LOWord null
+16:49:22,625 TRACE Sentence:129 -  
+16:49:22,625 TRACE Sentence:130 - Sentence 3 Paragraph 0
+16:49:22,625 TRACE Sentence:131 -  
+16:49:22,625 TRACE Sentence:134 - type
+16:49:22,625 TRACE Sentence:134 - inclination
+16:49:22,625 TRACE Sentence:134 - bent
+16:49:22,625 TRACE Sentence:134 - tendency
+16:49:22,625 TRACE Sentence:134 - cast
+16:49:22,625 TRACE Sentence:134 - statement
+16:49:22,625 TRACE Sentence:134 - say
+16:49:22,625 TRACE Sentence:134 - dictum
+16:49:22,625 TRACE Sentence:134 - word
+16:49:22,625 TRACE Sentence:134 - phrase
+16:49:22,625 TRACE Sentence:134 - phantom
+16:49:22,625 TRACE Sentence:134 - vision
+16:49:22,625 TRACE Sentence:134 - eidolon
+16:49:22,625 TRACE Sentence:134 - apparition
+16:49:22,625 TRACE Sentence:134 - phantasm
+16:49:22,625 TRACE Sentence:134 - love
+16:49:22,625 TRACE Sentence:134 - agape
+16:49:22,625 TRACE Sentence:134 - charity
+16:49:22,625 TRACE Sentence:134 - caritas
+16:49:22,625 TRACE Sentence:134 - brotherly love
+16:49:22,625 TRACE Sentence:134 - statement
+16:49:22,625 TRACE Sentence:134 - say
+16:49:22,625 TRACE Sentence:134 - dictum
+16:49:22,625 TRACE Sentence:134 - word
+16:49:22,625 TRACE Sentence:134 - phrase
+16:49:22,625 TRACE Sentence:134 - mark
+16:49:22,625 TRACE Sentence:134 - point
+16:49:22,625 TRACE Sentence:134 - cut
+16:49:22,625 TRACE Sentence:134 - spot
+16:49:22,625 TRACE Sentence:134 - line
+16:49:22,625 TRACE Sentence:134 - agreement
+16:49:22,625 TRACE Sentence:134 - concord
+16:49:22,625 TRACE Sentence:134 - esprit
+16:49:22,625 TRACE Sentence:134 - understanding
+16:49:22,625 TRACE Sentence:134 - accord
+16:49:22,625 TRACE Sentence:134 - love
+16:49:22,625 TRACE Sentence:134 - agape
+16:49:22,625 TRACE Sentence:134 - charity
+16:49:22,625 TRACE Sentence:134 - caritas
+16:49:22,859 TRACE Sentence:134 - brotherly love
+16:49:22,859 TRACE Sentence:136 -  
+16:49:22,875 TRACE Sentence:86 - null LOWord null
+16:49:22,906 TRACE Sentence:129 -  
+16:49:22,906 TRACE Sentence:130 - Sentence 4 Paragraph 0
+16:49:22,906 TRACE Sentence:131 -  
+16:49:22,906 TRACE Sentence:134 - access
+16:49:22,906 TRACE Sentence:134 - entry
+16:49:22,906 TRACE Sentence:134 - opening
+16:49:22,906 TRACE Sentence:134 - in
+16:49:22,906 TRACE Sentence:134 - entrance
+16:49:22,906 TRACE Sentence:134 - restatement
+16:49:22,906 TRACE Sentence:134 - copy
+16:49:22,906 TRACE Sentence:134 - critique
+16:49:22,906 TRACE Sentence:134 - review
+16:49:22,906 TRACE Sentence:134 - retelling
+16:49:22,906 TRACE Sentence:134 - light
+16:49:22,906 TRACE Sentence:134 - enlightenment
+16:49:22,906 TRACE Sentence:134 - knowledge
+16:49:22,906 TRACE Sentence:134 - information
+16:49:22,906 TRACE Sentence:134 - instruction
+16:49:22,906 TRACE Sentence:134 - further
+16:49:22,906 TRACE Sentence:134 - more
+16:49:22,906 TRACE Sentence:134 - plus
+16:49:22,906 TRACE Sentence:134 - farther
+16:49:22,906 TRACE Sentence:134 - extra
+16:49:22,906 TRACE Sentence:134 - matter
+16:49:22,906 TRACE Sentence:134 - element
+16:49:22,906 TRACE Sentence:134 - atom
+16:49:22,906 TRACE Sentence:134 - factor
+16:49:22,906 TRACE Sentence:134 - constituent
+16:49:22,906 TRACE Sentence:134 - as
+16:49:22,906 TRACE Sentence:134 - cause
+16:49:22,906 TRACE Sentence:134 - as long as
+16:49:22,906 TRACE Sentence:134 - so
+16:49:22,906 TRACE Sentence:134 - for
+16:49:22,906 TRACE Sentence:134 - contrary
+16:49:22,906 TRACE Sentence:134 - cross
+16:49:22,906 TRACE Sentence:134 - counter
+16:49:22,906 TRACE Sentence:134 - clashing
+16:49:22,906 TRACE Sentence:134 - negative
+16:49:22,906 TRACE Sentence:136 -  
+16:49:22,906 TRACE Sentence:86 - null LOWord null
+16:49:22,921 TRACE Sentence:129 -  
+16:49:22,921 TRACE Sentence:130 - Sentence 5 Paragraph 0
+16:49:22,921 TRACE Sentence:131 -  
+16:49:22,921 TRACE Sentence:134 - space
+16:49:22,921 TRACE Sentence:134 - while
+16:49:22,921 TRACE Sentence:134 - spell
+16:49:22,921 TRACE Sentence:134 - time
+16:49:22,921 TRACE Sentence:134 - period
+16:49:22,921 TRACE Sentence:134 - vice
+16:49:22,921 TRACE Sentence:134 - fault
+16:49:22,921 TRACE Sentence:134 - stand-in
+16:49:22,921 TRACE Sentence:134 - failure
+16:49:22,921 TRACE Sentence:134 - impropriety
+16:49:22,921 TRACE Sentence:136 -  
+16:49:22,921 TRACE Sentence:86 - null LOWord null
+16:49:22,921 TRACE Sentence:86 - null LOWord null
+16:49:22,921 TRACE Sentence:86 - null LOWord null
+16:49:23,140 TRACE Sentence:86 - null LOWord null
+16:49:23,140 TRACE Sentence:86 - null LOWord null
+16:49:23,140 TRACE Sentence:86 - null LOWord null
+16:49:23,156 TRACE Sentence:129 -  
+16:49:23,156 TRACE Sentence:130 - Sentence 6 Paragraph 0
+16:49:23,156 TRACE Sentence:131 -  
+16:49:23,156 TRACE Sentence:134 - hereat
+16:49:23,156 TRACE Sentence:134 - on the spot
+16:49:23,156 TRACE Sentence:134 - here
+16:49:23,156 TRACE Sentence:134 - in these days
+16:49:23,156 TRACE Sentence:134 - as of now
+16:49:23,156 TRACE Sentence:134 - philosopher
+16:49:23,156 TRACE Sentence:134 - pundit
+16:49:23,156 TRACE Sentence:134 - savant
+16:49:23,156 TRACE Sentence:134 - scholar
+16:49:23,156 TRACE Sentence:134 - mastermind
+16:49:23,156 TRACE Sentence:134 - shift
+16:49:23,156 TRACE Sentence:134 - turn
+16:49:23,156 TRACE Sentence:134 - warp
+16:49:23,156 TRACE Sentence:134 - twist
+16:49:23,156 TRACE Sentence:134 - cast
+16:49:23,156 TRACE Sentence:134 - acrimony
+16:49:23,156 TRACE Sentence:134 - causticity
+16:49:23,156 TRACE Sentence:134 - sharpness
+16:49:23,156 TRACE Sentence:134 - bitterness
+16:49:23,156 TRACE Sentence:134 - virulence
+16:49:23,156 TRACE Sentence:134 - turn
+16:49:23,156 TRACE Sentence:134 - action
+16:49:23,156 TRACE Sentence:134 - style
+16:49:23,156 TRACE Sentence:134 - work
+16:49:23,156 TRACE Sentence:134 - thing
+16:49:23,156 TRACE Sentence:134 - access
+16:49:23,156 TRACE Sentence:134 - entry
+16:49:23,156 TRACE Sentence:134 - opening
+16:49:23,156 TRACE Sentence:134 - in
+16:49:23,156 TRACE Sentence:134 - entrance
+16:49:23,156 TRACE Sentence:134 - animation
+16:49:23,156 TRACE Sentence:134 - vivacity
+16:49:23,156 TRACE Sentence:134 - spirit
+16:49:23,156 TRACE Sentence:134 - life
+16:49:23,156 TRACE Sentence:134 - liveliness
+16:49:23,156 TRACE Sentence:134 - puff
+16:49:23,156 TRACE Sentence:134 - smash
+16:49:23,156 TRACE Sentence:134 - blow
+16:49:23,156 TRACE Sentence:134 - cut
+16:49:23,156 TRACE Sentence:134 - stroke
+16:49:23,156 TRACE Sentence:134 - chirp
+16:49:23,156 TRACE Sentence:134 - whistle
+16:49:23,156 TRACE Sentence:134 - lilt
+16:49:23,156 TRACE Sentence:134 - pipe
+16:49:23,156 TRACE Sentence:134 - sing
+16:49:23,156 TRACE Sentence:134 - joy
+16:49:23,156 TRACE Sentence:134 - joyfulness
+16:49:23,156 TRACE Sentence:134 - gaiety
+16:49:23,156 TRACE Sentence:134 - delight
+16:49:23,156 TRACE Sentence:134 - glee
+16:49:23,156 TRACE Sentence:134 - gift
+16:49:23,156 TRACE Sentence:134 - present
+16:49:23,156 TRACE Sentence:134 - flair
+16:49:23,156 TRACE Sentence:134 - grant
+16:49:23,156 TRACE Sentence:134 - award
+16:49:23,156 TRACE Sentence:134 - cheer
+16:49:23,156 TRACE Sentence:134 - delight
+16:49:23,156 TRACE Sentence:134 - gladness
+16:49:23,156 TRACE Sentence:134 - happiness
+16:49:23,156 TRACE Sentence:134 - felicity
+16:49:23,156 TRACE Sentence:134 - foreglimpse
+16:49:23,156 TRACE Sentence:134 - anticipate
+16:49:23,156 TRACE Sentence:134 - foresee
+16:49:23,156 TRACE Sentence:134 - foretaste
+16:49:23,156 TRACE Sentence:134 - look forward to
+16:49:23,156 TRACE Sentence:134 - guess
+16:49:23,156 TRACE Sentence:134 - heavenly
+16:49:23,156 TRACE Sentence:134 - glorious
+16:49:23,156 TRACE Sentence:134 - divine
+16:49:23,156 TRACE Sentence:134 - prefigure
+16:49:23,156 TRACE Sentence:136 -  
+16:49:24,312 TRACE Sentence:86 - null LOWord null
+16:49:24,390 TRACE Sentence:86 - null LOWord null
+16:49:24,390 TRACE Sentence:86 - null LOWord null
+16:49:24,390 TRACE Sentence:86 - null LOWord null
+16:49:24,390 TRACE Sentence:129 -  
+16:49:24,390 TRACE Sentence:130 - Sentence 0 Paragraph 0
+16:49:24,390 TRACE Sentence:131 -  
+16:49:24,390 TRACE Sentence:134 - ancient
+16:49:24,390 TRACE Sentence:134 - immemorial
+16:49:24,390 TRACE Sentence:134 - antique
+16:49:24,390 TRACE Sentence:134 - old
+16:49:24,406 TRACE Sentence:134 - olden
+16:49:24,406 TRACE Sentence:134 - make
+16:49:24,406 TRACE Sentence:134 - mold
+16:49:24,406 TRACE Sentence:134 - form
+16:49:24,406 TRACE Sentence:134 - shape
+16:49:24,406 TRACE Sentence:134 - fashion
+16:49:24,406 TRACE Sentence:134 - forbidden fruit
+16:49:24,406 TRACE Sentence:134 - allure
+16:49:24,406 TRACE Sentence:134 - allurement
+16:49:24,406 TRACE Sentence:134 - charm
+16:49:24,406 TRACE Sentence:134 - temptation
+16:49:24,406 TRACE Sentence:134 - alter
+16:49:24,406 TRACE Sentence:134 - subliminal self
+16:49:24,406 TRACE Sentence:134 - myself
+16:49:24,406 TRACE Sentence:134 - inner self
+16:49:24,406 TRACE Sentence:134 - himself
+16:49:24,406 TRACE Sentence:134 - as
+16:49:24,406 TRACE Sentence:134 - cause
+16:49:24,406 TRACE Sentence:134 - as long as
+16:49:24,406 TRACE Sentence:134 - so
+16:49:24,406 TRACE Sentence:134 - for
+16:49:24,406 TRACE Sentence:134 - perversion
+16:49:24,406 TRACE Sentence:134 - misconstruction
+16:49:24,406 TRACE Sentence:134 - misfeasance
+16:49:24,406 TRACE Sentence:134 - misapplication
+16:49:24,406 TRACE Sentence:134 - distortion
+16:49:24,406 TRACE Sentence:136 -  
+16:49:24,453 TRACE Sentence:86 - null LOWord null
+16:49:24,468 TRACE Sentence:86 - null LOWord null
+16:49:24,562 TRACE Sentence:86 - null LOWord null
+16:49:24,562 TRACE Sentence:129 -  
+16:49:24,562 TRACE Sentence:130 - Sentence 1 Paragraph 0
+16:49:24,562 TRACE Sentence:131 -  
+16:49:24,562 TRACE Sentence:134 - alter
+16:49:24,562 TRACE Sentence:134 - subliminal self
+16:49:24,562 TRACE Sentence:134 - myself
+16:49:24,562 TRACE Sentence:134 - inner self
+16:49:24,562 TRACE Sentence:134 - himself
+16:49:24,562 TRACE Sentence:134 - access
+16:49:24,562 TRACE Sentence:134 - entry
+16:49:24,562 TRACE Sentence:134 - opening
+16:49:24,562 TRACE Sentence:134 - in
+16:49:24,562 TRACE Sentence:134 - entrance
+16:49:24,562 TRACE Sentence:134 - dissent
+16:49:24,562 TRACE Sentence:134 - no
+16:49:24,562 TRACE Sentence:134 - negative
+16:49:24,562 TRACE Sentence:134 - nay
+16:49:24,562 TRACE Sentence:134 - disclamation
+16:49:24,562 TRACE Sentence:134 - manner
+16:49:24,562 TRACE Sentence:134 - disposition
+16:49:24,562 TRACE Sentence:134 - style
+16:49:24,562 TRACE Sentence:134 - way
+16:49:24,562 TRACE Sentence:134 - line
+16:49:24,562 TRACE Sentence:134 - as
+16:49:24,562 TRACE Sentence:134 - cause
+16:49:24,562 TRACE Sentence:134 - as long as
+16:49:24,562 TRACE Sentence:134 - so
+16:49:24,562 TRACE Sentence:134 - for
+16:49:24,562 TRACE Sentence:134 - alter
+16:49:24,562 TRACE Sentence:134 - subliminal self
+16:49:24,562 TRACE Sentence:134 - myself
+16:49:24,562 TRACE Sentence:134 - inner self
+16:49:24,562 TRACE Sentence:134 - himself
+16:49:24,562 TRACE Sentence:134 - combat
+16:49:24,562 TRACE Sentence:134 - war
+16:49:24,562 TRACE Sentence:134 - struggle
+16:49:24,562 TRACE Sentence:134 - cut and thrust
+16:49:24,562 TRACE Sentence:134 - contest
+16:49:24,562 TRACE Sentence:134 - make
+16:49:24,562 TRACE Sentence:134 - mold
+16:49:24,562 TRACE Sentence:134 - form
+16:49:24,562 TRACE Sentence:134 - shape
+16:49:24,562 TRACE Sentence:134 - fashion
+16:49:24,562 TRACE Sentence:134 - imitation
+16:49:24,562 TRACE Sentence:134 - counterfeit
+16:49:24,562 TRACE Sentence:134 - phony
+16:49:24,562 TRACE Sentence:134 - ersatz
+16:49:24,562 TRACE Sentence:134 - fake
+16:49:24,562 TRACE Sentence:134 - alter
+16:49:24,562 TRACE Sentence:134 - subliminal self
+16:49:24,562 TRACE Sentence:134 - myself
+16:49:24,562 TRACE Sentence:134 - inner self
+16:49:24,562 TRACE Sentence:134 - himself
+16:49:24,562 TRACE Sentence:134 - dignity
+16:49:24,562 TRACE Sentence:134 - distinction
+16:49:24,562 TRACE Sentence:134 - notability
+16:49:24,562 TRACE Sentence:134 - celebrity
+16:49:24,562 TRACE Sentence:134 - power
+16:49:24,562 TRACE Sentence:134 - alter
+16:49:24,562 TRACE Sentence:134 - subliminal self
+16:49:24,578 TRACE Sentence:134 - myself
+16:49:24,578 TRACE Sentence:134 - inner self
+16:49:24,578 TRACE Sentence:134 - himself
+16:49:24,578 TRACE Sentence:136 -  
+16:49:24,578 TRACE Sentence:86 - null LOWord null
+16:49:24,593 TRACE Sentence:86 - null LOWord null
+16:49:24,625 TRACE Sentence:129 -  
+16:49:24,625 TRACE Sentence:130 - Sentence 2 Paragraph 0
+16:49:24,625 TRACE Sentence:131 -  
+16:49:24,625 TRACE Sentence:134 - access
+16:49:24,625 TRACE Sentence:134 - entry
+16:49:24,625 TRACE Sentence:134 - opening
+16:49:24,625 TRACE Sentence:134 - in
+16:49:24,625 TRACE Sentence:134 - entrance
+16:49:24,625 TRACE Sentence:134 - guess
+16:49:24,625 TRACE Sentence:134 - heavenly
+16:49:24,625 TRACE Sentence:134 - glorious
+16:49:24,625 TRACE Sentence:134 - divine
+16:49:24,625 TRACE Sentence:134 - prefigure
+16:49:24,625 TRACE Sentence:134 - as
+16:49:24,625 TRACE Sentence:134 - cause
+16:49:24,625 TRACE Sentence:134 - as long as
+16:49:24,625 TRACE Sentence:134 - so
+16:49:24,625 TRACE Sentence:134 - for
+16:49:24,625 TRACE Sentence:134 - human
+16:49:24,625 TRACE Sentence:134 - humane
+16:49:24,625 TRACE Sentence:134 - tender
+16:49:24,625 TRACE Sentence:134 - Adamite
+16:49:24,625 TRACE Sentence:134 - kind
+16:49:24,625 TRACE Sentence:134 - as
+16:49:24,625 TRACE Sentence:134 - cause
+16:49:24,625 TRACE Sentence:134 - as long as
+16:49:24,625 TRACE Sentence:134 - so
+16:49:24,625 TRACE Sentence:134 - for
+16:49:24,625 TRACE Sentence:134 - device
+16:49:24,625 TRACE Sentence:134 - measure
+16:49:24,625 TRACE Sentence:134 - means
+16:49:24,625 TRACE Sentence:134 - resource
+16:49:24,625 TRACE Sentence:134 - contrivance
+16:49:24,625 TRACE Sentence:134 - far
+16:49:24,625 TRACE Sentence:134 - far off
+16:49:24,625 TRACE Sentence:134 - faraway
+16:49:24,625 TRACE Sentence:134 - long-distance
+16:49:24,625 TRACE Sentence:134 - distal
+16:49:24,625 TRACE Sentence:134 - soul
+16:49:24,625 TRACE Sentence:134 - life
+16:49:24,625 TRACE Sentence:134 - creature
+16:49:24,625 TRACE Sentence:134 - individual
+16:49:24,625 TRACE Sentence:134 - being
+16:49:24,625 TRACE Sentence:134 - human
+16:49:24,625 TRACE Sentence:134 - humane
+16:49:24,625 TRACE Sentence:134 - tender
+16:49:24,625 TRACE Sentence:134 - Adamite
+16:49:24,625 TRACE Sentence:134 - kind
+16:49:24,625 TRACE Sentence:134 - soul
+16:49:24,625 TRACE Sentence:134 - life
+16:49:24,625 TRACE Sentence:134 - creature
+16:49:24,625 TRACE Sentence:134 - individual
+16:49:24,625 TRACE Sentence:134 - being
+16:49:24,625 TRACE Sentence:136 -  
+16:49:24,625 TRACE Sentence:86 - null LOWord null
+16:49:24,625 TRACE Sentence:86 - null LOWord null
+16:49:24,640 TRACE Sentence:86 - null LOWord null
+16:49:24,640 TRACE Sentence:86 - null LOWord null
+16:49:24,656 TRACE Sentence:129 -  
+16:49:24,656 TRACE Sentence:130 - Sentence 3 Paragraph 0
+16:49:24,656 TRACE Sentence:131 -  
+16:49:24,656 TRACE Sentence:134 - advance
+16:49:24,656 TRACE Sentence:134 - rise
+16:49:24,656 TRACE Sentence:134 - mounting
+16:49:24,656 TRACE Sentence:134 - ascent
+16:49:24,656 TRACE Sentence:134 - upping
+16:49:24,656 TRACE Sentence:134 - access
+16:49:24,656 TRACE Sentence:134 - entry
+16:49:24,656 TRACE Sentence:134 - opening
+16:49:24,656 TRACE Sentence:134 - in
+16:49:24,656 TRACE Sentence:134 - entrance
+16:49:24,656 TRACE Sentence:134 - debasement
+16:49:24,656 TRACE Sentence:134 - demotion
+16:49:24,656 TRACE Sentence:134 - depreciation
+16:49:24,656 TRACE Sentence:134 - descent
+16:49:24,656 TRACE Sentence:134 - degradation
+16:49:24,656 TRACE Sentence:134 - guy
+16:49:24,656 TRACE Sentence:134 - creature
+16:49:24,656 TRACE Sentence:134 - hand
+16:49:24,656 TRACE Sentence:134 - man
+16:49:24,656 TRACE Sentence:134 - fellow
+16:49:24,656 TRACE Sentence:136 -  
+16:49:24,656 TRACE Sentence:86 - null LOWord null
+16:49:24,671 TRACE Sentence:86 - null LOWord null
+16:49:24,703 TRACE Sentence:129 -  
+16:49:24,703 TRACE Sentence:130 - Sentence 4 Paragraph 0
+16:49:24,703 TRACE Sentence:131 -  
+16:49:24,703 TRACE Sentence:134 - stand
+16:49:24,703 TRACE Sentence:134 - subsist
+16:49:24,703 TRACE Sentence:134 - hold
+16:49:24,703 TRACE Sentence:134 - exist
+16:49:24,703 TRACE Sentence:134 - live
+16:49:24,703 TRACE Sentence:134 - alter
+16:49:24,703 TRACE Sentence:134 - subliminal self
+16:49:24,703 TRACE Sentence:134 - myself
+16:49:24,703 TRACE Sentence:134 - inner self
+16:49:24,703 TRACE Sentence:134 - himself
+16:49:24,703 TRACE Sentence:134 - foreglimpse
+16:49:24,703 TRACE Sentence:134 - anticipate
+16:49:24,703 TRACE Sentence:134 - foresee
+16:49:24,703 TRACE Sentence:134 - foretaste
+16:49:24,703 TRACE Sentence:134 - look forward to
+16:49:24,703 TRACE Sentence:134 - pinnacle
+16:49:24,703 TRACE Sentence:134 - peak
+16:49:24,703 TRACE Sentence:134 - summit
+16:49:24,703 TRACE Sentence:134 - pole
+16:49:24,703 TRACE Sentence:134 - spire
+16:49:24,703 TRACE Sentence:134 - beatification
+16:49:24,703 TRACE Sentence:134 - blessedness
+16:49:24,703 TRACE Sentence:134 - exaltation
+16:49:24,703 TRACE Sentence:134 - beatitude
+16:49:24,703 TRACE Sentence:134 - felicity
+16:49:24,703 TRACE Sentence:134 - entire
+16:49:24,703 TRACE Sentence:134 - whole
+16:49:24,703 TRACE Sentence:134 - complete
+16:49:24,703 TRACE Sentence:134 - total
+16:49:24,703 TRACE Sentence:134 - perfect
+16:49:24,703 TRACE Sentence:134 - soul
+16:49:24,703 TRACE Sentence:134 - life
+16:49:24,703 TRACE Sentence:134 - creature
+16:49:24,703 TRACE Sentence:134 - individual
+16:49:24,703 TRACE Sentence:134 - being
+16:49:24,703 TRACE Sentence:136 -  
+16:49:54,390 TRACE Sentence:86 - null LOWord null
+16:49:54,406 TRACE Sentence:129 -  
+16:49:54,406 TRACE Sentence:130 - Sentence 0 Paragraph 0
+16:49:54,406 TRACE Sentence:131 -  
+16:49:54,406 TRACE Sentence:134 - love
+16:49:54,406 TRACE Sentence:134 - agape
+16:49:54,406 TRACE Sentence:134 - charity
+16:49:54,406 TRACE Sentence:134 - caritas
+16:49:54,406 TRACE Sentence:134 - brotherly love
+16:49:54,406 TRACE Sentence:134 - guy
+16:49:54,406 TRACE Sentence:134 - creature
+16:49:54,406 TRACE Sentence:134 - hand
+16:49:54,406 TRACE Sentence:134 - man
+16:49:54,406 TRACE Sentence:134 - fellow
+16:49:54,406 TRACE Sentence:134 - matron
+16:49:54,406 TRACE Sentence:134 - squaw
+16:49:54,406 TRACE Sentence:134 - old lady
+16:49:54,406 TRACE Sentence:134 - woman
+16:49:54,406 TRACE Sentence:134 - lady
+16:49:54,406 TRACE Sentence:134 - human
+16:49:54,406 TRACE Sentence:134 - humane
+16:49:54,406 TRACE Sentence:134 - tender
+16:49:54,406 TRACE Sentence:134 - Adamite
+16:49:54,406 TRACE Sentence:134 - kind
+16:49:54,406 TRACE Sentence:134 - aged
+16:49:54,406 TRACE Sentence:134 - ancient
+16:49:54,406 TRACE Sentence:134 - antique
+16:49:54,406 TRACE Sentence:134 - old
+16:49:54,406 TRACE Sentence:134 - primitive
+16:49:54,406 TRACE Sentence:136 -  
+16:49:54,406 TRACE Sentence:86 - null LOWord null
+16:49:54,484 TRACE Sentence:86 - null LOWord null
+16:49:54,484 TRACE Sentence:86 - null LOWord null
+16:49:54,515 TRACE Sentence:86 - null LOWord null
+16:49:54,515 TRACE Sentence:86 - null LOWord null
+16:49:54,531 TRACE Sentence:86 - null LOWord null
+16:49:54,531 TRACE Sentence:86 - null LOWord null
+16:49:54,531 TRACE Sentence:86 - null LOWord null
+16:49:54,531 TRACE Sentence:86 - null LOWord null
+16:49:54,531 TRACE Sentence:86 - null LOWord null
+16:49:54,546 TRACE Sentence:86 - null LOWord null
+16:49:54,546 TRACE Sentence:86 - null LOWord null
+16:49:54,562 TRACE Sentence:129 -  
+16:49:54,562 TRACE Sentence:130 - Sentence 1 Paragraph 0
+16:49:54,562 TRACE Sentence:131 -  
+16:49:54,562 TRACE Sentence:134 - grant
+16:49:54,562 TRACE Sentence:134 - consider
+16:49:54,562 TRACE Sentence:134 - assume
+16:49:54,562 TRACE Sentence:134 - take
+16:49:54,562 TRACE Sentence:134 - let
+16:49:54,562 TRACE Sentence:134 - index
+16:49:54,562 TRACE Sentence:134 - mark
+16:49:54,562 TRACE Sentence:134 - remark
+16:49:54,562 TRACE Sentence:134 - measure
+16:49:54,562 TRACE Sentence:134 - note
+16:49:54,562 TRACE Sentence:134 - absolute
+16:49:54,562 TRACE Sentence:134 - downright
+16:49:54,562 TRACE Sentence:134 - straight
+16:49:54,562 TRACE Sentence:134 - direct
+16:49:54,562 TRACE Sentence:134 - clear
+16:49:54,562 TRACE Sentence:134 - ancient
+16:49:54,562 TRACE Sentence:134 - immemorial
+16:49:54,562 TRACE Sentence:134 - antique
+16:49:54,562 TRACE Sentence:134 - old
+16:49:54,562 TRACE Sentence:134 - olden
+16:49:54,562 TRACE Sentence:134 - statement
+16:49:54,562 TRACE Sentence:134 - say
+16:49:54,562 TRACE Sentence:134 - dictum
+16:49:54,562 TRACE Sentence:134 - word
+16:49:54,562 TRACE Sentence:134 - phrase
+16:49:54,562 TRACE Sentence:134 - space
+16:49:54,562 TRACE Sentence:134 - while
+16:49:54,562 TRACE Sentence:134 - spell
+16:49:54,562 TRACE Sentence:134 - time
+16:49:54,562 TRACE Sentence:134 - period
+16:49:54,562 TRACE Sentence:134 - practice
+16:49:54,562 TRACE Sentence:134 - work
+16:49:54,562 TRACE Sentence:134 - use
+16:49:54,562 TRACE Sentence:134 - exercise
+16:49:54,562 TRACE Sentence:134 - employ
+16:49:54,562 TRACE Sentence:134 - alter
+16:49:54,562 TRACE Sentence:134 - subliminal self
+16:49:54,562 TRACE Sentence:134 - myself
+16:49:54,562 TRACE Sentence:134 - inner self
+16:49:54,562 TRACE Sentence:134 - himself
+16:49:54,562 TRACE Sentence:134 - love
+16:49:54,562 TRACE Sentence:134 - agape
+16:49:54,562 TRACE Sentence:134 - charity
+16:49:54,562 TRACE Sentence:134 - caritas
+16:49:54,562 TRACE Sentence:134 - brotherly love
+16:49:54,562 TRACE Sentence:134 - affinity
+16:49:54,562 TRACE Sentence:134 - union
+16:49:54,562 TRACE Sentence:134 - sympathy
+16:49:54,562 TRACE Sentence:134 - agreement
+16:49:54,562 TRACE Sentence:134 - fellowship
+16:49:54,562 TRACE Sentence:134 - access
+16:49:54,562 TRACE Sentence:134 - entry
+16:49:54,562 TRACE Sentence:134 - opening
+16:49:54,562 TRACE Sentence:134 - in
+16:49:54,562 TRACE Sentence:134 - entrance
+16:49:54,562 TRACE Sentence:134 - way
+16:49:54,562 TRACE Sentence:134 - use
+16:49:54,562 TRACE Sentence:134 - practice
+16:49:54,562 TRACE Sentence:134 - locution
+16:49:54,562 TRACE Sentence:134 - usage
+16:49:54,562 TRACE Sentence:136 -  
+16:49:54,718 TRACE Sentence:86 - null LOWord null
+16:49:54,718 TRACE Sentence:129 -  
+16:49:54,718 TRACE Sentence:130 - Sentence 2 Paragraph 0
+16:49:54,718 TRACE Sentence:131 -  
+16:49:54,718 TRACE Sentence:134 - as
+16:49:54,718 TRACE Sentence:134 - cause
+16:49:54,718 TRACE Sentence:134 - as long as
+16:49:54,718 TRACE Sentence:134 - so
+16:49:54,718 TRACE Sentence:134 - for
+16:49:54,718 TRACE Sentence:134 - end
+16:49:54,718 TRACE Sentence:134 - period
+16:49:54,718 TRACE Sentence:134 - term
+16:49:54,718 TRACE Sentence:134 - finish
+16:49:54,718 TRACE Sentence:134 - terminus
+16:49:54,718 TRACE Sentence:134 - love
+16:49:54,718 TRACE Sentence:134 - agape
+16:49:54,718 TRACE Sentence:134 - charity
+16:49:54,718 TRACE Sentence:134 - caritas
+16:49:54,718 TRACE Sentence:134 - brotherly love
+16:49:54,718 TRACE Sentence:134 - alter
+16:49:54,718 TRACE Sentence:134 - subliminal self
+16:49:54,718 TRACE Sentence:134 - myself
+16:49:54,718 TRACE Sentence:134 - inner self
+16:49:54,718 TRACE Sentence:134 - himself
+16:49:54,718 TRACE Sentence:134 - scope
+16:49:54,718 TRACE Sentence:134 - measure
+16:49:54,718 TRACE Sentence:134 - height
+16:49:54,718 TRACE Sentence:134 - range
+16:49:54,718 TRACE Sentence:134 - depth
+16:49:54,718 TRACE Sentence:134 - idea
+16:49:54,718 TRACE Sentence:134 - suggestion
+16:49:54,718 TRACE Sentence:134 - effect
+16:49:54,718 TRACE Sentence:134 - meaning
+16:49:54,718 TRACE Sentence:134 - point
+16:49:54,718 TRACE Sentence:134 - access
+16:49:54,718 TRACE Sentence:134 - entry
+16:49:54,718 TRACE Sentence:134 - opening
+16:49:54,718 TRACE Sentence:134 - in
+16:49:54,718 TRACE Sentence:134 - entrance
+16:49:54,718 TRACE Sentence:134 - canonize
+16:49:54,718 TRACE Sentence:134 - glorify
+16:49:54,718 TRACE Sentence:134 - saint
+16:49:54,718 TRACE Sentence:134 - beatify
+16:49:54,718 TRACE Sentence:134 - enshrine
+16:49:54,718 TRACE Sentence:134 - gospel
+16:49:54,718 TRACE Sentence:134 - motet
+16:49:54,718 TRACE Sentence:134 - gospel music
+16:49:54,718 TRACE Sentence:134 - white spiritual
+16:49:54,718 TRACE Sentence:134 - offertory sentence
+16:49:54,718 TRACE Sentence:134 - access
+16:49:54,718 TRACE Sentence:134 - entry
+16:49:54,718 TRACE Sentence:134 - opening
+16:49:54,718 TRACE Sentence:134 - in
+16:49:54,718 TRACE Sentence:134 - entrance
+16:49:54,718 TRACE Sentence:134 - order
+16:49:54,718 TRACE Sentence:134 - form
+16:49:54,718 TRACE Sentence:134 - rank
+16:49:54,718 TRACE Sentence:134 - set
+16:49:54,718 TRACE Sentence:134 - class
+16:49:54,718 TRACE Sentence:134 - set forth
+16:49:54,718 TRACE Sentence:134 - manifest
+16:49:54,718 TRACE Sentence:134 - express
+16:49:54,718 TRACE Sentence:134 - disclose
+16:49:54,718 TRACE Sentence:134 - clear
+16:49:54,718 TRACE Sentence:134 - affiliation
+16:49:54,718 TRACE Sentence:134 - alliance
+16:49:54,718 TRACE Sentence:134 - filiation
+16:49:54,718 TRACE Sentence:134 - connection
+16:49:54,718 TRACE Sentence:134 - relationship
+16:49:54,718 TRACE Sentence:136 -  
+16:49:54,890 TRACE Sentence:86 - null LOWord null
+16:49:54,921 TRACE Sentence:129 -  
+16:49:54,921 TRACE Sentence:130 - Sentence 3 Paragraph 0
+16:49:54,921 TRACE Sentence:131 -  
+16:49:54,921 TRACE Sentence:134 - type
+16:49:54,921 TRACE Sentence:134 - inclination
+16:49:54,921 TRACE Sentence:134 - bent
+16:49:54,921 TRACE Sentence:134 - tendency
+16:49:54,921 TRACE Sentence:134 - cast
+16:49:54,921 TRACE Sentence:134 - statement
+16:49:54,921 TRACE Sentence:134 - say
+16:49:54,921 TRACE Sentence:134 - dictum
+16:49:54,921 TRACE Sentence:134 - word
+16:49:54,921 TRACE Sentence:134 - phrase
+16:49:54,921 TRACE Sentence:134 - phantom
+16:49:54,921 TRACE Sentence:134 - vision
+16:49:54,921 TRACE Sentence:134 - eidolon
+16:49:54,921 TRACE Sentence:134 - apparition
+16:49:54,921 TRACE Sentence:134 - phantasm
+16:49:54,921 TRACE Sentence:134 - love
+16:49:54,921 TRACE Sentence:134 - agape
+16:49:54,921 TRACE Sentence:134 - charity
+16:49:54,921 TRACE Sentence:134 - caritas
+16:49:54,921 TRACE Sentence:134 - brotherly love
+16:49:54,921 TRACE Sentence:134 - statement
+16:49:54,921 TRACE Sentence:134 - say
+16:49:54,921 TRACE Sentence:134 - dictum
+16:49:54,921 TRACE Sentence:134 - word
+16:49:54,921 TRACE Sentence:134 - phrase
+16:49:54,921 TRACE Sentence:134 - mark
+16:49:54,921 TRACE Sentence:134 - point
+16:49:54,921 TRACE Sentence:134 - cut
+16:49:54,921 TRACE Sentence:134 - spot
+16:49:54,921 TRACE Sentence:134 - line
+16:49:54,921 TRACE Sentence:134 - agreement
+16:49:54,921 TRACE Sentence:134 - concord
+16:49:54,921 TRACE Sentence:134 - esprit
+16:49:54,921 TRACE Sentence:134 - understanding
+16:49:54,921 TRACE Sentence:134 - accord
+16:49:54,921 TRACE Sentence:134 - love
+16:49:54,921 TRACE Sentence:134 - agape
+16:49:54,921 TRACE Sentence:134 - charity
+16:49:54,921 TRACE Sentence:134 - caritas
+16:49:54,921 TRACE Sentence:134 - brotherly love
+16:49:54,921 TRACE Sentence:136 -  
+16:49:54,921 TRACE Sentence:86 - null LOWord null
+16:49:54,968 TRACE Sentence:129 -  
+16:49:54,968 TRACE Sentence:130 - Sentence 4 Paragraph 0
+16:49:54,968 TRACE Sentence:131 -  
+16:49:54,968 TRACE Sentence:134 - access
+16:49:54,968 TRACE Sentence:134 - entry
+16:49:54,968 TRACE Sentence:134 - opening
+16:49:54,968 TRACE Sentence:134 - in
+16:49:54,968 TRACE Sentence:134 - entrance
+16:49:54,968 TRACE Sentence:134 - restatement
+16:49:54,968 TRACE Sentence:134 - copy
+16:49:54,968 TRACE Sentence:134 - critique
+16:49:54,968 TRACE Sentence:134 - review
+16:49:54,968 TRACE Sentence:134 - retelling
+16:49:54,968 TRACE Sentence:134 - light
+16:49:54,968 TRACE Sentence:134 - enlightenment
+16:49:54,968 TRACE Sentence:134 - knowledge
+16:49:54,968 TRACE Sentence:134 - information
+16:49:54,968 TRACE Sentence:134 - instruction
+16:49:54,968 TRACE Sentence:134 - further
+16:49:54,968 TRACE Sentence:134 - more
+16:49:54,968 TRACE Sentence:134 - plus
+16:49:54,968 TRACE Sentence:134 - farther
+16:49:54,968 TRACE Sentence:134 - extra
+16:49:54,968 TRACE Sentence:134 - matter
+16:49:54,968 TRACE Sentence:134 - element
+16:49:54,968 TRACE Sentence:134 - atom
+16:49:54,968 TRACE Sentence:134 - factor
+16:49:54,968 TRACE Sentence:134 - constituent
+16:49:54,968 TRACE Sentence:134 - as
+16:49:54,968 TRACE Sentence:134 - cause
+16:49:54,968 TRACE Sentence:134 - as long as
+16:49:54,968 TRACE Sentence:134 - so
+16:49:54,968 TRACE Sentence:134 - for
+16:49:54,968 TRACE Sentence:134 - contrary
+16:49:54,968 TRACE Sentence:134 - cross
+16:49:54,968 TRACE Sentence:134 - counter
+16:49:54,968 TRACE Sentence:134 - clashing
+16:49:54,968 TRACE Sentence:134 - negative
+16:49:54,968 TRACE Sentence:136 -  
+16:49:54,968 TRACE Sentence:86 - null LOWord null
+16:49:54,968 TRACE Sentence:129 -  
+16:49:54,968 TRACE Sentence:130 - Sentence 5 Paragraph 0
+16:49:54,968 TRACE Sentence:131 -  
+16:49:54,968 TRACE Sentence:134 - space
+16:49:54,968 TRACE Sentence:134 - while
+16:49:54,968 TRACE Sentence:134 - spell
+16:49:54,968 TRACE Sentence:134 - time
+16:49:54,968 TRACE Sentence:134 - period
+16:49:54,968 TRACE Sentence:134 - vice
+16:49:54,968 TRACE Sentence:134 - fault
+16:49:54,968 TRACE Sentence:134 - stand-in
+16:49:54,968 TRACE Sentence:134 - failure
+16:49:54,968 TRACE Sentence:134 - impropriety
+16:49:54,968 TRACE Sentence:136 -  
+16:49:54,968 TRACE Sentence:86 - null LOWord null
+16:49:54,968 TRACE Sentence:86 - null LOWord null
+16:49:54,984 TRACE Sentence:86 - null LOWord null
+16:49:55,187 TRACE Sentence:86 - null LOWord null
+16:49:55,187 TRACE Sentence:86 - null LOWord null
+16:49:55,187 TRACE Sentence:86 - null LOWord null
+16:49:55,203 TRACE Sentence:129 -  
+16:49:55,203 TRACE Sentence:130 - Sentence 6 Paragraph 0
+16:49:55,203 TRACE Sentence:131 -  
+16:49:55,203 TRACE Sentence:134 - hereat
+16:49:55,203 TRACE Sentence:134 - on the spot
+16:49:55,203 TRACE Sentence:134 - here
+16:49:55,203 TRACE Sentence:134 - in these days
+16:49:55,203 TRACE Sentence:134 - as of now
+16:49:55,203 TRACE Sentence:134 - philosopher
+16:49:55,203 TRACE Sentence:134 - pundit
+16:49:55,203 TRACE Sentence:134 - savant
+16:49:55,203 TRACE Sentence:134 - scholar
+16:49:55,203 TRACE Sentence:134 - mastermind
+16:49:55,203 TRACE Sentence:134 - shift
+16:49:55,203 TRACE Sentence:134 - turn
+16:49:55,203 TRACE Sentence:134 - warp
+16:49:55,203 TRACE Sentence:134 - twist
+16:49:55,203 TRACE Sentence:134 - cast
+16:49:55,203 TRACE Sentence:134 - acrimony
+16:49:55,203 TRACE Sentence:134 - causticity
+16:49:55,203 TRACE Sentence:134 - sharpness
+16:49:55,203 TRACE Sentence:134 - bitterness
+16:49:55,203 TRACE Sentence:134 - virulence
+16:49:55,203 TRACE Sentence:134 - turn
+16:49:55,203 TRACE Sentence:134 - action
+16:49:55,203 TRACE Sentence:134 - style
+16:49:55,203 TRACE Sentence:134 - work
+16:49:55,203 TRACE Sentence:134 - thing
+16:49:55,203 TRACE Sentence:134 - access
+16:49:55,203 TRACE Sentence:134 - entry
+16:49:55,203 TRACE Sentence:134 - opening
+16:49:55,203 TRACE Sentence:134 - in
+16:49:55,203 TRACE Sentence:134 - entrance
+16:49:55,203 TRACE Sentence:134 - animation
+16:49:55,203 TRACE Sentence:134 - vivacity
+16:49:55,203 TRACE Sentence:134 - spirit
+16:49:55,203 TRACE Sentence:134 - life
+16:49:55,203 TRACE Sentence:134 - liveliness
+16:49:55,203 TRACE Sentence:134 - puff
+16:49:55,203 TRACE Sentence:134 - smash
+16:49:55,203 TRACE Sentence:134 - blow
+16:49:55,203 TRACE Sentence:134 - cut
+16:49:55,203 TRACE Sentence:134 - stroke
+16:49:55,203 TRACE Sentence:134 - chirp
+16:49:55,203 TRACE Sentence:134 - whistle
+16:49:55,203 TRACE Sentence:134 - lilt
+16:49:55,203 TRACE Sentence:134 - pipe
+16:49:55,203 TRACE Sentence:134 - sing
+16:49:55,203 TRACE Sentence:134 - joy
+16:49:55,203 TRACE Sentence:134 - joyfulness
+16:49:55,203 TRACE Sentence:134 - gaiety
+16:49:55,203 TRACE Sentence:134 - delight
+16:49:55,203 TRACE Sentence:134 - glee
+16:49:55,203 TRACE Sentence:134 - gift
+16:49:55,203 TRACE Sentence:134 - present
+16:49:55,203 TRACE Sentence:134 - flair
+16:49:55,203 TRACE Sentence:134 - grant
+16:49:55,203 TRACE Sentence:134 - award
+16:49:55,203 TRACE Sentence:134 - cheer
+16:49:55,203 TRACE Sentence:134 - delight
+16:49:55,203 TRACE Sentence:134 - gladness
+16:49:55,203 TRACE Sentence:134 - happiness
+16:49:55,203 TRACE Sentence:134 - felicity
+16:49:55,203 TRACE Sentence:134 - foreglimpse
+16:49:55,203 TRACE Sentence:134 - anticipate
+16:49:55,203 TRACE Sentence:134 - foresee
+16:49:55,203 TRACE Sentence:134 - foretaste
+16:49:55,203 TRACE Sentence:134 - look forward to
+16:49:55,203 TRACE Sentence:134 - guess
+16:49:55,203 TRACE Sentence:134 - heavenly
+16:49:55,203 TRACE Sentence:134 - glorious
+16:49:55,203 TRACE Sentence:134 - divine
+16:49:55,203 TRACE Sentence:134 - prefigure
+16:49:55,203 TRACE Sentence:136 -  

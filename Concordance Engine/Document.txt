@@ -1,24 +1,51 @@
-13:36:11,828 TRACE Document:159 - Top LOWords for the Document
-13:36:11,828 TRACE Document:162 - subliminal self
-13:36:11,828 TRACE Document:162 - inner self
-13:36:11,828 TRACE Document:162 - myself
-13:36:11,828 TRACE Document:162 - himself
-13:36:11,828 TRACE Document:162 - alter
-13:36:11,828 TRACE Document:164 - Top Keywords for the Document
-13:36:11,828 TRACE Document:167 - hast
-13:36:11,828 TRACE Document:167 - thy
-13:36:11,828 TRACE Document:167 - unto
-13:36:11,828 TRACE Document:167 - thou
-13:36:11,828 TRACE Document:167 - shalt
-13:36:14,078 TRACE Document:159 - Top LOWords for the Document
-13:36:14,078 TRACE Document:162 - subliminal self
-13:36:14,078 TRACE Document:162 - inner self
-13:36:14,078 TRACE Document:162 - myself
-13:36:14,078 TRACE Document:162 - himself
-13:36:14,078 TRACE Document:162 - alter
-13:36:14,078 TRACE Document:164 - Top Keywords for the Document
-13:36:14,078 TRACE Document:167 - hast
-13:36:14,078 TRACE Document:167 - thy
-13:36:14,078 TRACE Document:167 - unto
-13:36:14,078 TRACE Document:167 - thou
-13:36:14,078 TRACE Document:167 - shalt
+16:49:23,156 TRACE Document:159 - Top LOWords for the Document
+16:49:23,156 TRACE Document:162 - entry
+16:49:23,156 TRACE Document:162 - opening
+16:49:23,156 TRACE Document:162 - review
+16:49:23,156 TRACE Document:162 - scholar
+16:49:23,156 TRACE Document:162 - cross
+16:49:23,156 TRACE Document:164 - Top Keywords for the Document
+16:49:23,156 TRACE Document:167 - radical,
+16:49:23,156 TRACE Document:167 - philia,
+16:49:23,156 TRACE Document:167 - writers
+16:49:23,156 TRACE Document:167 - uses
+16:49:23,156 TRACE Document:167 - agape,
+16:49:23,156 TRACE Document:167 - something
+16:49:23,156 TRACE Document:167 - love,
+16:49:23,156 TRACE Document:167 - itself
+16:49:23,156 TRACE Document:167 - upon
+16:49:23,156 TRACE Document:167 - widely-held
+16:49:24,703 TRACE Document:159 - Top LOWords for the Document
+16:49:24,703 TRACE Document:162 - myself
+16:49:24,703 TRACE Document:162 - man
+16:49:24,703 TRACE Document:162 - advance
+16:49:24,703 TRACE Document:162 - upping
+16:49:24,703 TRACE Document:162 - himself
+16:49:24,703 TRACE Document:164 - Top Keywords for the Document
+16:49:24,703 TRACE Document:167 - 
+16:49:24,703 TRACE Document:167 - represents
+16:49:24,703 TRACE Document:167 - existence,
+16:49:24,703 TRACE Document:167 - rather,
+16:49:24,703 TRACE Document:167 - strips
+16:49:24,703 TRACE Document:167 - fall,
+16:49:24,703 TRACE Document:167 - faith,
+16:49:24,703 TRACE Document:167 - purified
+16:49:24,703 TRACE Document:167 - arousing
+16:49:24,703 TRACE Document:167 - indeed,
+16:49:55,203 TRACE Document:159 - Top LOWords for the Document
+16:49:55,203 TRACE Document:162 - entry
+16:49:55,203 TRACE Document:162 - opening
+16:49:55,203 TRACE Document:162 - review
+16:49:55,203 TRACE Document:162 - scholar
+16:49:55,203 TRACE Document:162 - cross
+16:49:55,203 TRACE Document:164 - Top Keywords for the Document
+16:49:55,203 TRACE Document:167 - radical,
+16:49:55,203 TRACE Document:167 - philia,
+16:49:55,203 TRACE Document:167 - writers
+16:49:55,203 TRACE Document:167 - uses
+16:49:55,203 TRACE Document:167 - agape,
+16:49:55,203 TRACE Document:167 - something
+16:49:55,203 TRACE Document:167 - love,
+16:49:55,203 TRACE Document:167 - itself
+16:49:55,203 TRACE Document:167 - upon
+16:49:55,203 TRACE Document:167 - widely-held
