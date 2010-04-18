@@ -2,30 +2,44 @@ package analysis;
 
 import java.util.ArrayList;
 
+import javax.swing.text.html.HTMLDocument.Iterator;
+
+import structs.Comparables;
 import structs.Document;
+import structs.PhraseAnaysisResults;
+import structs.ReconstructDocument;
 
 public class PhraseAnalysis implements ComponentIface {
-	ArrayList<Document> TestList = null;
+	ArrayList<Comparables> TestList = null;
 	String[] config = null;
-	ArrayList<ArrayList<String>> TestResults = null;
+	ArrayList<PhraseAnaysisResults> TestResults = null;
+	
 	@Override
-	public void init(ArrayList<Document> Comparables, String[] configVals)
+	public void init(ArrayList<Comparables> comparables, String[] configVals)
 			throws Exception {
-		this.TestList = Comparables;
+		this.TestList = comparables;
 		this.config = configVals;
-		this.TestResults = new ArrayList<ArrayList<String>>();
-		// TODO Auto-generated method stub
+		this.TestResults = new ArrayList<PhraseAnaysisResults>();
 	}
 	@Override
+	
 	public double runAnalysis() {
 		// TODO Auto-generated method stub
-		for(Document item : this.TestList){
-			TestResults.add(this.findwordPairs(item));
+		for(Comparables item : this.TestList){
+			PhraseAnaysisResults result = new PhraseAnaysisResults();
+			//result.BiWords.addAll(this.generateBiWords(item.SequencedDocument));
+			//result.TriWords.addAll(this.generateTriWords(item.SequencedDocument));
+			this.TestResults.add(result);
 		}
 		return 0;
 	}
-	private ArrayList<String> findwordPairs(Document Source){
+	private ArrayList<String> generateBiWords(ArrayList<ReconstructDocument> Source){
 		System.out.println("your mom");
+		//while()
+		return null;
+	}
+	private ArrayList<String> generateTriWords(ArrayList<ReconstructDocument> Source){
+		
 		return null;
 	}
 }

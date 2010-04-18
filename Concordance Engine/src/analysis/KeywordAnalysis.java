@@ -2,15 +2,15 @@ package analysis;
 
 import java.util.ArrayList;
 
+import structs.Comparables;
 import structs.Document;
 
 public class KeywordAnalysis implements ComponentIface {
 
 	@Override
-	public void init(ArrayList<Document> Comparables, String[] configVals)
+	public void init(ArrayList<Comparables> comparables, String[] configVals)
 			throws Exception {
-		// TODO Auto-generated method stub
-
+		// TODO Auto-generated method stub		
 	}
 
 	@Override
@@ -18,5 +18,4 @@ public class KeywordAnalysis implements ComponentIface {
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
 }
