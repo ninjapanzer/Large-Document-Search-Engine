@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import structs.Document;
 
-public class WordPairing implements ComponentIface {
+public class PhraseAnalysis implements ComponentIface {
 	ArrayList<Document> TestList = null;
 	String[] config = null;
 	ArrayList<ArrayList<String>> TestResults = null;
