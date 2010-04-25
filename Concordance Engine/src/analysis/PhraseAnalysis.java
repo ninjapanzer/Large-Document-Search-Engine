@@ -37,6 +37,7 @@ public class PhraseAnalysis implements ComponentIface {
 			
 		}
 		return 0;
+		
 	}
 	private ArrayList<String> compareTriWords(){
 		ArrayList<String> ConfirmedBiWords = new ArrayList<String>();
