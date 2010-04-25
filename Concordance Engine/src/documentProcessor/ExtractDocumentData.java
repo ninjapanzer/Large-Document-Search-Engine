@@ -124,7 +124,7 @@ public class ExtractDocumentData
 						//System.out.println(word.Word + "\t" + i+ "|"+j+"|"+k + "\t" + "****"+this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).Word.toString()+"****"+ " " + this.FinalDocument.Block.elementAt(i).Paragraph.elementAt(j).Sentence.elementAt(k).WordType.toString());
 					}
 					sent.topLOWords = Thesaurus.ReduceSynonyms(SentenceLOWords);
-					sent.topKeywords = WordListTools.TopItems(KeywordList, 5);
+					sent.topKeywords = (Vector<String>) WordListTools.TopItems(KeywordList, 5);
 					ParaTopKeywords.addAll(sent.topKeywords);
 					loggerSentence.trace(" ");
 					loggerSentence.trace("Sentence "+j+" Paragraph "+i);
@@ -139,7 +139,7 @@ public class ExtractDocumentData
 					SentenceLOWords.clear();
 				}
 				para.topLOWords = Thesaurus.ReduceSynonyms(ParagraphLOWords);
-				para.topKeywords = WordListTools.TopItems(ParaTopKeywords, 10);
+				para.topKeywords = (Vector<String>) WordListTools.TopItems(ParaTopKeywords, 10);
 				DocTopKeywords.addAll(para.topKeywords);
 				loggerParagraph.trace(" ");
 				loggerParagraph.trace("Paragraph "+i);
@@ -155,7 +155,7 @@ public class ExtractDocumentData
 				System.out.println(((this.CurrentWord/this.DocSize)*100)+"% Completed");
 			}
 			this.FinalDocument.topLOWords = Thesaurus.ReduceSynonyms(DocumentLOWords);
-			this.FinalDocument.topKeywords = WordListTools.TopItems(DocTopKeywords, 10);
+			this.FinalDocument.topKeywords = (Vector<String>) WordListTools.TopItems(DocTopKeywords, 10);
 			loggerDocument.trace("Top LOWords for the Document");
 			for(String lovelytest : this.FinalDocument.topLOWords)
 			{

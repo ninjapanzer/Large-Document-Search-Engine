@@ -1,5 +1,6 @@
 package comparison;
 
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Vector;
 
@@ -10,7 +11,7 @@ public final class WordListTools {
 	public WordListTools(int Limit){
 		this.ListLimit = Limit;
 	}
-	public static Vector<String> TopItems(Vector<String> SubItems, int Limit)
+	public static Collection<String> TopItems(Vector<String> SubItems, int Limit)
 	{
 		HashMap<String, WordFrequency> frequency = new HashMap<String, WordFrequency>();
 		WordFrequency updateentry = new WordFrequency();
@@ -56,7 +57,7 @@ public final class WordListTools {
 		}
 		return TopItems;
 	}
-	public Vector<String> TopItems(Vector<String> SubItems)
+	public Collection<String> TopItems(Vector<String> SubItems)
 	{
 		HashMap<String, WordFrequency> frequency = new HashMap<String, WordFrequency>();
 		WordFrequency updateentry = new WordFrequency();

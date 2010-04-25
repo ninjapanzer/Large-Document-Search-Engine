@@ -5,6 +5,8 @@ import java.util.HashMap;
 
 import org.apache.log4j.Logger;
 
+import comparison.WordListTools;
+
 import structs.Comparables;
 import structs.PhraseAnaysisResults;
 import structs.ReconstructDocument;
@@ -45,6 +47,16 @@ public class PhraseAnalysis implements ComponentIface {
 		logger.trace("Common TriWords");
 		for(String item : ConfTriWords){
 			logger.trace(item);
+		}
+		for(int i = 0; i< this.TestResults.size()-1; i++){
+			logger.trace("Analysis for "+this.TestResults.get(i).Filename +" vs "+this.TestResults.get(i+1).Filename+":");
+			double totalBiWordPhrases = this.TestResults.get(i).BiWords.size() + this.TestResults.get(i+1).BiWords.size();
+			double totalTriWordPhrases = this.TestResults.get(i).TriWords.size() + this.TestResults.get(i).TriWords.size();
+			logger.trace("BiWord Quality "+(double)((ConfBiWords.size()/totalBiWordPhrases)*100));
+			logger.trace("TriWord Quality "+(double)((ConfTriWords.size()/totalTriWordPhrases)*100));
+		}
+		for(int i = 0; i< this.TestResults.size()-1; i++){
+			//WordListTools.TopItems(SubItems, Limit)
 		}
 		/*for(PhraseAnaysisResults item : this.TestResults){
 			logger.trace(item.Filename +" Common BiWords");

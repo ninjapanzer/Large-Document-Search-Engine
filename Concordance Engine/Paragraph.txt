@@ -1,68 +1,68 @@
-15:19:30,637 TRACE Paragraph:144 -  
-15:19:30,637 TRACE Paragraph:145 - Paragraph 0
-15:19:30,638 TRACE Paragraph:146 -  
-15:19:30,638 TRACE Paragraph:149 - Adamite
-15:19:30,638 TRACE Paragraph:149 - tender
-15:19:30,638 TRACE Paragraph:149 - lady
-15:19:30,638 TRACE Paragraph:149 - fellow
-15:19:30,638 TRACE Paragraph:149 - antique
-15:19:30,638 TRACE Paragraph:149 - use
-15:19:30,638 TRACE Paragraph:149 - practice
-15:19:30,638 TRACE Paragraph:149 - entry
-15:19:30,638 TRACE Paragraph:149 - usage
-15:19:30,639 TRACE Paragraph:149 - assume
-15:19:30,639 TRACE Paragraph:149 - opening
-15:19:30,639 TRACE Paragraph:149 - entrance
-15:19:30,639 TRACE Paragraph:149 - access
-15:19:30,639 TRACE Paragraph:149 - in
-15:19:30,639 TRACE Paragraph:149 - entry
-15:19:30,639 TRACE Paragraph:149 - dictum
-15:19:30,639 TRACE Paragraph:149 - caritas
-15:19:30,639 TRACE Paragraph:149 - statement
-15:19:30,639 TRACE Paragraph:149 - say
-15:19:30,639 TRACE Paragraph:149 - word
-15:19:30,640 TRACE Paragraph:149 - entry
-15:19:30,640 TRACE Paragraph:149 - opening
-15:19:30,640 TRACE Paragraph:149 - negative
-15:19:30,640 TRACE Paragraph:149 - review
-15:19:30,640 TRACE Paragraph:149 - cross
-15:19:30,640 TRACE Paragraph:149 - fault
-15:19:30,640 TRACE Paragraph:149 - period
-15:19:30,640 TRACE Paragraph:149 - space
-15:19:30,640 TRACE Paragraph:149 - spell
-15:19:30,640 TRACE Paragraph:149 - while
-15:19:30,640 TRACE Paragraph:149 - turn
-15:19:30,641 TRACE Paragraph:149 - delight
-15:19:30,641 TRACE Paragraph:149 - puff
-15:19:30,641 TRACE Paragraph:149 - scholar
-15:19:30,641 TRACE Paragraph:149 - shift
-15:19:30,641 TRACE Paragraph:151 -  
-15:19:35,003 TRACE Paragraph:144 -  
-15:19:35,003 TRACE Paragraph:145 - Paragraph 0
-15:19:35,003 TRACE Paragraph:146 -  
-15:19:35,003 TRACE Paragraph:149 - himself
-15:19:35,003 TRACE Paragraph:149 - charm
-15:19:35,004 TRACE Paragraph:149 - myself
-15:19:35,004 TRACE Paragraph:149 - make
-15:19:35,004 TRACE Paragraph:149 - antique
-15:19:35,004 TRACE Paragraph:149 - subliminal self
-15:19:35,004 TRACE Paragraph:149 - inner self
-15:19:35,004 TRACE Paragraph:149 - himself
-15:19:35,004 TRACE Paragraph:149 - alter
-15:19:35,004 TRACE Paragraph:149 - myself
-15:19:35,004 TRACE Paragraph:149 - soul
-15:19:35,004 TRACE Paragraph:149 - as
-15:19:35,004 TRACE Paragraph:149 - human
-15:19:35,004 TRACE Paragraph:149 - Adamite
-15:19:35,004 TRACE Paragraph:149 - tender
-15:19:35,004 TRACE Paragraph:149 - opening
-15:19:35,004 TRACE Paragraph:149 - fellow
-15:19:35,004 TRACE Paragraph:149 - man
-15:19:35,004 TRACE Paragraph:149 - advance
-15:19:35,005 TRACE Paragraph:149 - upping
-15:19:35,005 TRACE Paragraph:149 - stand
-15:19:35,005 TRACE Paragraph:149 - whole
-15:19:35,005 TRACE Paragraph:149 - myself
-15:19:35,005 TRACE Paragraph:149 - summit
-15:19:35,005 TRACE Paragraph:149 - exaltation
-15:19:35,005 TRACE Paragraph:151 -  
+17:31:10,343 TRACE Paragraph:144 -  
+17:31:10,343 TRACE Paragraph:145 - Paragraph 0
+17:31:10,343 TRACE Paragraph:146 -  
+17:31:10,343 TRACE Paragraph:149 - Adamite
+17:31:10,343 TRACE Paragraph:149 - tender
+17:31:10,343 TRACE Paragraph:149 - lady
+17:31:10,343 TRACE Paragraph:149 - fellow
+17:31:10,343 TRACE Paragraph:149 - antique
+17:31:10,343 TRACE Paragraph:149 - use
+17:31:10,343 TRACE Paragraph:149 - practice
+17:31:10,343 TRACE Paragraph:149 - entry
+17:31:10,343 TRACE Paragraph:149 - usage
+17:31:10,343 TRACE Paragraph:149 - assume
+17:31:10,343 TRACE Paragraph:149 - opening
+17:31:10,343 TRACE Paragraph:149 - entrance
+17:31:10,343 TRACE Paragraph:149 - access
+17:31:10,343 TRACE Paragraph:149 - in
+17:31:10,343 TRACE Paragraph:149 - entry
+17:31:10,343 TRACE Paragraph:149 - dictum
+17:31:10,343 TRACE Paragraph:149 - caritas
+17:31:10,343 TRACE Paragraph:149 - statement
+17:31:10,343 TRACE Paragraph:149 - say
+17:31:10,343 TRACE Paragraph:149 - word
+17:31:10,343 TRACE Paragraph:149 - entry
+17:31:10,343 TRACE Paragraph:149 - opening
+17:31:10,343 TRACE Paragraph:149 - negative
+17:31:10,343 TRACE Paragraph:149 - review
+17:31:10,343 TRACE Paragraph:149 - cross
+17:31:10,343 TRACE Paragraph:149 - fault
+17:31:10,343 TRACE Paragraph:149 - period
+17:31:10,343 TRACE Paragraph:149 - space
+17:31:10,343 TRACE Paragraph:149 - spell
+17:31:10,343 TRACE Paragraph:149 - while
+17:31:10,343 TRACE Paragraph:149 - turn
+17:31:10,343 TRACE Paragraph:149 - delight
+17:31:10,343 TRACE Paragraph:149 - puff
+17:31:10,343 TRACE Paragraph:149 - scholar
+17:31:10,343 TRACE Paragraph:149 - shift
+17:31:10,343 TRACE Paragraph:151 -  
+17:31:12,015 TRACE Paragraph:144 -  
+17:31:12,015 TRACE Paragraph:145 - Paragraph 0
+17:31:12,015 TRACE Paragraph:146 -  
+17:31:12,015 TRACE Paragraph:149 - himself
+17:31:12,015 TRACE Paragraph:149 - charm
+17:31:12,015 TRACE Paragraph:149 - myself
+17:31:12,015 TRACE Paragraph:149 - make
+17:31:12,015 TRACE Paragraph:149 - antique
+17:31:12,015 TRACE Paragraph:149 - subliminal self
+17:31:12,015 TRACE Paragraph:149 - inner self
+17:31:12,015 TRACE Paragraph:149 - himself
+17:31:12,015 TRACE Paragraph:149 - alter
+17:31:12,015 TRACE Paragraph:149 - myself
+17:31:12,015 TRACE Paragraph:149 - soul
+17:31:12,015 TRACE Paragraph:149 - as
+17:31:12,015 TRACE Paragraph:149 - human
+17:31:12,015 TRACE Paragraph:149 - Adamite
+17:31:12,015 TRACE Paragraph:149 - tender
+17:31:12,015 TRACE Paragraph:149 - opening
+17:31:12,015 TRACE Paragraph:149 - fellow
+17:31:12,015 TRACE Paragraph:149 - man
+17:31:12,015 TRACE Paragraph:149 - advance
+17:31:12,015 TRACE Paragraph:149 - upping
+17:31:12,015 TRACE Paragraph:149 - stand
+17:31:12,015 TRACE Paragraph:149 - whole
+17:31:12,015 TRACE Paragraph:149 - myself
+17:31:12,015 TRACE Paragraph:149 - summit
+17:31:12,015 TRACE Paragraph:149 - exaltation
+17:31:12,015 TRACE Paragraph:151 -  
