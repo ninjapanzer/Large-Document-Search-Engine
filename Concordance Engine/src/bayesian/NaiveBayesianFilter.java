@@ -3,6 +3,7 @@ package bayesian;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Vector;
 
 public class NaiveBayesianFilter extends BayesianFilter {
 
@@ -44,7 +45,7 @@ public class NaiveBayesianFilter extends BayesianFilter {
 		return (((double)docInDetermined) / uniqueDeterminedVocabulary.size()) * (((double) docInVocabulary) / uniqueVocabulary.size()) / (((double) detInVocabulary) / uniqueVocabulary.size() );
 	}
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		SimpleBayesianListStorageEngine engine = new SimpleBayesianListStorageEngine();
 		
 		class StupidClass implements StringContainer {
@@ -82,5 +83,5 @@ public class NaiveBayesianFilter extends BayesianFilter {
 		
 		NaiveBayesianFilter filter = new NaiveBayesianFilter(engine);
 		System.out.println(filter.performFilter());
-	}
+	}*/
 }

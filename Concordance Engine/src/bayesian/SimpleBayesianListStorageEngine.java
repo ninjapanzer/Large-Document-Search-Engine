@@ -15,9 +15,9 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 		return _vocabulary;
 	}
 	
-	public void addItemsToVocabulary(Collection<StringContainer> strC) {
-		for(StringContainer con : strC) {
-			_vocabulary.add(con.getStringContent());
+	public void addItemsToVocabulary(Collection<String> strC) {
+		for(String con : strC) {
+			_vocabulary.add(con.toString());
 		}
 	}
 	
@@ -25,9 +25,9 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 		return _document;
 	}
 	
-	public void addItemsToDocument(Collection<StringContainer> strC) {
-		for(StringContainer con : strC) {
-			_document.add(con.getStringContent());
+	public void addItemsToDocument(Collection<String> strC) {
+		for(String con : strC) {
+			_document.add(con);
 		}
 	}
 
@@ -35,9 +35,9 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 		return _determinedVocabulary;
 	}
 	
-	public void addItemsToDeterminedVocabulary(Collection<StringContainer> strC) {
-		for(StringContainer con : strC) {
-			_determinedVocabulary.add(con.getStringContent());
+	public void addItemsToDeterminedVocabulary(Collection<String> document) {
+		for(String con : document) {
+			_determinedVocabulary.add(con);
 		}
 	}
 

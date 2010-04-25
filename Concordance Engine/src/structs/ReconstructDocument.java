@@ -1,8 +1,9 @@
 package structs;
 
 import java.util.Vector;
+import bayesian.StringContainer;
 
-public class ReconstructDocument
+public class ReconstructDocument implements StringContainer 
 {
 	public String wordcontent;
 	public int paragraphID;
@@ -12,4 +13,10 @@ public class ReconstructDocument
 	public boolean isKeyword;
 	public String WordType;
 	public Vector<String> LOWords;
+	
+	@Override
+	public String getStringContent() {
+		return wordcontent;
+	}
+	
 }

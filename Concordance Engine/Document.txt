@@ -1,51 +1,51 @@
-16:49:23,156 TRACE Document:159 - Top LOWords for the Document
-16:49:23,156 TRACE Document:162 - entry
-16:49:23,156 TRACE Document:162 - opening
-16:49:23,156 TRACE Document:162 - review
-16:49:23,156 TRACE Document:162 - scholar
-16:49:23,156 TRACE Document:162 - cross
-16:49:23,156 TRACE Document:164 - Top Keywords for the Document
-16:49:23,156 TRACE Document:167 - radical,
-16:49:23,156 TRACE Document:167 - philia,
-16:49:23,156 TRACE Document:167 - writers
-16:49:23,156 TRACE Document:167 - uses
-16:49:23,156 TRACE Document:167 - agape,
-16:49:23,156 TRACE Document:167 - something
-16:49:23,156 TRACE Document:167 - love,
-16:49:23,156 TRACE Document:167 - itself
-16:49:23,156 TRACE Document:167 - upon
-16:49:23,156 TRACE Document:167 - widely-held
-16:49:24,703 TRACE Document:159 - Top LOWords for the Document
-16:49:24,703 TRACE Document:162 - myself
-16:49:24,703 TRACE Document:162 - man
-16:49:24,703 TRACE Document:162 - advance
-16:49:24,703 TRACE Document:162 - upping
-16:49:24,703 TRACE Document:162 - himself
-16:49:24,703 TRACE Document:164 - Top Keywords for the Document
-16:49:24,703 TRACE Document:167 - 
-16:49:24,703 TRACE Document:167 - represents
-16:49:24,703 TRACE Document:167 - existence,
-16:49:24,703 TRACE Document:167 - rather,
-16:49:24,703 TRACE Document:167 - strips
-16:49:24,703 TRACE Document:167 - fall,
-16:49:24,703 TRACE Document:167 - faith,
-16:49:24,703 TRACE Document:167 - purified
-16:49:24,703 TRACE Document:167 - arousing
-16:49:24,703 TRACE Document:167 - indeed,
-16:49:55,203 TRACE Document:159 - Top LOWords for the Document
-16:49:55,203 TRACE Document:162 - entry
-16:49:55,203 TRACE Document:162 - opening
-16:49:55,203 TRACE Document:162 - review
-16:49:55,203 TRACE Document:162 - scholar
-16:49:55,203 TRACE Document:162 - cross
-16:49:55,203 TRACE Document:164 - Top Keywords for the Document
-16:49:55,203 TRACE Document:167 - radical,
-16:49:55,203 TRACE Document:167 - philia,
-16:49:55,203 TRACE Document:167 - writers
-16:49:55,203 TRACE Document:167 - uses
-16:49:55,203 TRACE Document:167 - agape,
-16:49:55,203 TRACE Document:167 - something
-16:49:55,203 TRACE Document:167 - love,
-16:49:55,203 TRACE Document:167 - itself
-16:49:55,203 TRACE Document:167 - upon
-16:49:55,203 TRACE Document:167 - widely-held
+04:41:32,681 TRACE Document:159 - Top LOWords for the Document
+04:41:32,681 TRACE Document:162 - opening
+04:41:32,681 TRACE Document:162 - in
+04:41:32,681 TRACE Document:162 - access
+04:41:32,681 TRACE Document:162 - himself
+04:41:32,681 TRACE Document:162 - entry
+04:41:32,681 TRACE Document:164 - Top Keywords for the Document
+04:41:32,681 TRACE Document:167 - 
+04:41:32,681 TRACE Document:167 - upon
+04:41:32,681 TRACE Document:167 - pleasures
+04:41:32,681 TRACE Document:167 - sidenote:
+04:41:32,681 TRACE Document:167 - actions
+04:41:32,682 TRACE Document:167 - having
+04:41:32,682 TRACE Document:167 - man,
+04:41:32,682 TRACE Document:167 - again,
+04:41:32,682 TRACE Document:167 - themselves
+04:41:32,682 TRACE Document:167 - greek:
+04:42:19,708 TRACE Document:159 - Top LOWords for the Document
+04:42:19,708 TRACE Document:162 - entrance
+04:42:19,708 TRACE Document:162 - in
+04:42:19,708 TRACE Document:162 - design
+04:42:19,708 TRACE Document:162 - review
+04:42:19,708 TRACE Document:162 - elevated
+04:42:19,709 TRACE Document:164 - Top Keywords for the Document
+04:42:19,709 TRACE Document:167 - 
+04:42:19,709 TRACE Document:167 - materials
+04:42:19,709 TRACE Document:167 - cuprates
+04:42:19,709 TRACE Document:167 - superconductors
+04:42:19,709 TRACE Document:167 - properties
+04:42:19,709 TRACE Document:167 - jacek
+04:42:19,709 TRACE Document:167 - francesc
+04:42:19,709 TRACE Document:167 - superconducting
+04:42:19,709 TRACE Document:167 - wojdel,
+04:42:19,709 TRACE Document:167 - gga
+04:48:38,853 TRACE Document:159 - Top LOWords for the Document
+04:48:38,853 TRACE Document:162 - opening
+04:48:38,853 TRACE Document:162 - design
+04:48:38,853 TRACE Document:162 - vair
+04:48:38,853 TRACE Document:162 - in
+04:48:38,853 TRACE Document:162 - entry
+04:48:38,853 TRACE Document:164 - Top Keywords for the Document
+04:48:38,853 TRACE Document:167 - 
+04:48:38,853 TRACE Document:167 - '
+04:48:38,853 TRACE Document:167 - itself
+04:48:38,853 TRACE Document:167 - gutenberg-tm
+04:48:38,853 TRACE Document:167 - upon
+04:48:38,853 TRACE Document:167 - is,
+04:48:38,853 TRACE Document:167 - poets
+04:48:38,853 TRACE Document:167 - again,
+04:48:38,853 TRACE Document:167 - actions
+04:48:38,853 TRACE Document:167 - without
