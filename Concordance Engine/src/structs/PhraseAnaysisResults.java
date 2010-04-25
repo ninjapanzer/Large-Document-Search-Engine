@@ -8,4 +8,4 @@ public class PhraseAnaysisResults {
 	//public ArrayList<String> UniWords;
 	public ArrayList<String> BiWords;
 	public ArrayList<String> TriWords;
-}
+	}

@@ -2,6 +2,9 @@ package analysis;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+
+import org.apache.log4j.Logger;
+
 import structs.Comparables;
 import structs.PhraseAnaysisResults;
 import structs.ReconstructDocument;
@@ -10,6 +13,7 @@ public class PhraseAnalysis implements ComponentIface {
 	ArrayList<Comparables> TestList = null;
 	String[] config = null;
 	ArrayList<PhraseAnaysisResults> TestResults = null;
+	Logger logger = Logger.getLogger(PhraseAnalysis.class);
 	
 	@Override
 	public void init(ArrayList<Comparables> comparables, String[] configVals)
@@ -31,30 +35,46 @@ public class PhraseAnalysis implements ComponentIface {
 			this.TestResults.add(result);
 		}
 		long hashcount = 0;
-		this.compareBiWords();
-		this.compareTriWords();
-		for(PhraseAnaysisResults item : this.TestResults){
-			
+		ArrayList<String> ConfBiWords = this.compareBiWords();
+		ArrayList<String> ConfTriWords = this.compareTriWords();
+		//logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
+		logger.trace("Common BiWords");
+		for(String item : ConfBiWords){
+			logger.trace(item);
 		}
+		logger.trace("Common TriWords");
+		for(String item : ConfTriWords){
+			logger.trace(item);
+		}
+		/*for(PhraseAnaysisResults item : this.TestResults){
+			logger.trace(item.Filename +" Common BiWords");
+			for(String subitem : item.BiWords){
+				logger.trace(subitem);
+			}
+			logger.trace(item.Filename +" Common TriWords");
+			for(String subitem : item.TriWords){
+				logger.trace(subitem);
+			}
+		}*/
 		return 0;
 		
 	}
 	private ArrayList<String> compareTriWords(){
-		ArrayList<String> ConfirmedBiWords = new ArrayList<String>();
+		ArrayList<String> ConfirmedTriWords = new ArrayList<String>();
 		for(int i = 0; i<this.TestResults.size()-1;i++){
 			HashMap<String, Object> testmap = new HashMap<String, Object>();
-			for(String BiWordItem : this.TestResults.get(i).TriWords){
-				testmap.put(BiWordItem, null);
+			for(String TriWordItem : this.TestResults.get(i).TriWords){
+				testmap.put(TriWordItem, null);
 			}
-			for(String BiWordItem : this.TestResults.get(i+1).BiWords){
-				if(testmap.containsKey(BiWordItem)){
+			for(String TriWordItem : this.TestResults.get(i+1).BiWords){
+				if(testmap.containsKey(TriWordItem)){
 					//System.out.println("Confirmed "+ BiWordItem);
-					ConfirmedBiWords.add(BiWordItem);
+					ConfirmedTriWords.add(TriWordItem);
 				}
 			}
-			System.out.println("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
+			logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
 		}
-		return ConfirmedBiWords;
+		return ConfirmedTriWords;
 	}
 	private ArrayList<String> compareBiWords(){
 		ArrayList<String> ConfirmedBiWords = new ArrayList<String>();
@@ -69,7 +89,7 @@ public class PhraseAnalysis implements ComponentIface {
 					ConfirmedBiWords.add(BiWordItem);
 				}
 			}
-			System.out.println("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
+			logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
 		}
 		return ConfirmedBiWords;
 	}

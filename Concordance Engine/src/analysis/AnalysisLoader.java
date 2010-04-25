@@ -12,7 +12,6 @@ import org.apache.log4j.Logger;
 
 import structs.Comparables;
 import structs.Comparisons;
-import structs.Document;
 import structs.SelectionItems;
 
 import com.codingcatholic.util.CustomProperties;
