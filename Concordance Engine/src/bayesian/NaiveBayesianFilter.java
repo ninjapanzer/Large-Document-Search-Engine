@@ -1,9 +1,7 @@
 // This is really rough...
 package bayesian;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Vector;
 
 public class NaiveBayesianFilter extends BayesianFilter {
 
@@ -41,6 +39,13 @@ public class NaiveBayesianFilter extends BayesianFilter {
 				detInVocabulary++;
 			}
 		}
+		
+		System.out.println(docInDetermined);
+		System.out.println(uniqueDeterminedVocabulary.size());
+		System.out.println(docInVocabulary);
+		System.out.println(uniqueVocabulary.size());
+		System.out.println(detInVocabulary);
+		
 		
 		return (((double)docInDetermined) / uniqueDeterminedVocabulary.size()) * (((double) docInVocabulary) / uniqueVocabulary.size()) / (((double) detInVocabulary) / uniqueVocabulary.size() );
 	}

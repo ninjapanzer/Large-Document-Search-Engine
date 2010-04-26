@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 
+import comparison.WordListTools;
+
 public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 	private ArrayList<String> _vocabulary = new ArrayList<String>();
 	private ArrayList<String> _document = new ArrayList<String>();
@@ -13,6 +15,10 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 	
 	public ArrayList<String> getVocabulary() {
 		return _vocabulary;
+	}
+	
+	public void addItemToVocabulary(String strC) {
+		_vocabulary.add(strC);
 	}
 	
 	public void addItemsToVocabulary(Collection<String> strC) {
@@ -30,7 +36,9 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 			_document.add(con);
 		}
 	}
-
+	public void addItemToDocument(String strC) {
+		_document.add(strC);
+	}
 	public ArrayList<String> getDeterminedVocabulary() {
 		return _determinedVocabulary;
 	}
@@ -40,7 +48,9 @@ public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 			_determinedVocabulary.add(con);
 		}
 	}
-
+	public void addItemToDeterminedVocabulary(String strC) {
+		_determinedVocabulary.add(strC);
+	}
 	// Put into collections utils
 	public HashMap<String,Object> getUniqueDeterminedVocabulary() {
 		HashMap<String,Object> map = new HashMap<String, Object>();

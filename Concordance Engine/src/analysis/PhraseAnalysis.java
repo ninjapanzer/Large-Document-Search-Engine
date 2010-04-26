@@ -1,6 +1,7 @@
 package analysis;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 
 import org.apache.log4j.Logger;
@@ -40,23 +41,39 @@ public class PhraseAnalysis implements ComponentIface {
 		ArrayList<String> ConfBiWords = this.compareBiWords();
 		ArrayList<String> ConfTriWords = this.compareTriWords();
 		//logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
-		logger.trace("Common BiWords");
+		logger.trace("------------Common BiWords");
 		for(String item : ConfBiWords){
 			logger.trace(item);
 		}
-		logger.trace("Common TriWords");
+		logger.trace("------------Common TriWords");
 		for(String item : ConfTriWords){
 			logger.trace(item);
 		}
+		//Return top phrases using wordlisttools
+		//then compare the phrases to the total common phrases
+		for(int i = 0; i< this.TestResults.size()-1; i++){
+			Collection<String> topBiWords = WordListTools.TopItems(ConfBiWords, 10);
+			logger.trace("------------Top BiWords");
+			for(String item : topBiWords){
+				logger.trace(item);
+			}
+			logger.trace("------------Score");
+			logger.trace(topBiWords.size()/ConfBiWords.size());
+			Collection<String> topTriWords = WordListTools.TopItems(ConfTriWords, 10);
+			logger.trace("------------Top TriWords");
+			for(String item : topTriWords){
+				logger.trace(item);
+			}
+			logger.trace("------------Score");
+			logger.trace(topTriWords.size()/ConfTriWords.size());
+		}
+		//Calculate the Common Vs Total phrases
 		for(int i = 0; i< this.TestResults.size()-1; i++){
 			logger.trace("Analysis for "+this.TestResults.get(i).Filename +" vs "+this.TestResults.get(i+1).Filename+":");
 			double totalBiWordPhrases = this.TestResults.get(i).BiWords.size() + this.TestResults.get(i+1).BiWords.size();
 			double totalTriWordPhrases = this.TestResults.get(i).TriWords.size() + this.TestResults.get(i).TriWords.size();
 			logger.trace("BiWord Quality "+(double)((ConfBiWords.size()/totalBiWordPhrases)*100));
 			logger.trace("TriWord Quality "+(double)((ConfTriWords.size()/totalTriWordPhrases)*100));
-		}
-		for(int i = 0; i< this.TestResults.size()-1; i++){
-			//WordListTools.TopItems(SubItems, Limit)
 		}
 		/*for(PhraseAnaysisResults item : this.TestResults){
 			logger.trace(item.Filename +" Common BiWords");

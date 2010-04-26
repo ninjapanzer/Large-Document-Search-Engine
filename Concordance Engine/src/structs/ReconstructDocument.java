@@ -12,7 +12,7 @@ public class ReconstructDocument implements StringContainer
 	public int wordLength;
 	public boolean isKeyword;
 	public String WordType;
-	public Vector<String> LOWords;
+	public Vector<String> LOWords = new Vector<String>();
 	
 	@Override
 	public String getStringContent() {

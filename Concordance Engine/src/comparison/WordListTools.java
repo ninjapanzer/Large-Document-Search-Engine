@@ -11,7 +11,16 @@ public final class WordListTools {
 	public WordListTools(int Limit){
 		this.ListLimit = Limit;
 	}
-	public static Collection<String> TopItems(Vector<String> SubItems, int Limit)
+	
+	public static Collection<String> NormalizeCollection(Collection<String> list) {
+		HashMap<String,Object> map = new HashMap<String,Object>();
+		for(String str : list) {
+			map.put(str, null);
+		}
+		return map.keySet();
+	}
+	
+	public static Collection<String> TopItems(Collection<String> SubItems, int Limit)
 	{
 		HashMap<String, WordFrequency> frequency = new HashMap<String, WordFrequency>();
 		WordFrequency updateentry = new WordFrequency();
@@ -57,7 +66,7 @@ public final class WordListTools {
 		}
 		return TopItems;
 	}
-	public Collection<String> TopItems(Vector<String> SubItems)
+	public Collection<String> TopItems(Collection<String> SubItems)
 	{
 		HashMap<String, WordFrequency> frequency = new HashMap<String, WordFrequency>();
 		WordFrequency updateentry = new WordFrequency();

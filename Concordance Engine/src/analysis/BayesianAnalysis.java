@@ -28,6 +28,20 @@ public class BayesianAnalysis implements ComponentIface {
 		
 	}
 
+	private NaiveBayesianFilter doStuff(Comparables document1, Comparables document2) {
+		SimpleBayesianListStorageEngine thing = new SimpleBayesianListStorageEngine();
+		NaiveBayesianFilter filter = new NaiveBayesianFilter(thing);
+		for(ReconstructDocument subitem : document1.SequencedDocument) {
+			thing.addItemToVocabulary(subitem.wordcontent);
+			thing.addItemToDocument(subitem.wordcontent);
+		}
+		for(ReconstructDocument subitem : document2.SequencedDocument) {
+			thing.addItemToVocabulary(subitem.wordcontent);
+			thing.addItemToDeterminedVocabulary(subitem.wordcontent);
+			thing.addItemsToVocabulary(subitem.LOWords);
+		}
+		return filter;
+	}
 	@Override
 	public double runAnalysis() {
 		// TODO Auto-generated method stub
@@ -35,6 +49,15 @@ public class BayesianAnalysis implements ComponentIface {
 		ArrayList<String> Document = new ArrayList<String>();
 		ArrayList<ArrayList<String>> DividedDocument = new ArrayList<ArrayList<String>>();
 		ArrayList<ArrayList<String>> DividedLOWords = new ArrayList<ArrayList<String>>();
+		Comparables document1 = this.TestList.get(0);
+		Comparables document2 = this.TestList.get(1);
+		
+		
+		
+		
+		//thing.normalizeAllContents();
+		/*
+		
 		for(Comparables item : this.TestList){
 			ArrayList<String> DocumentObject = new ArrayList<String>();
 			ArrayList<String> LOWordsObject = new ArrayList<String>();
@@ -56,16 +79,26 @@ public class BayesianAnalysis implements ComponentIface {
 		}
 		logger.trace("Total Vocabulary "+(long)(AllLOWords.size()+Document.size()));
 		logger.trace("Element Extraction Complete Starting Analysis");
-		SimpleBayesianListStorageEngine thing = new SimpleBayesianListStorageEngine();
 		
 		thing.addItemsToVocabulary(Document);
 		thing.addItemsToVocabulary(AllLOWords);
 		thing.addItemsToDeterminedVocabulary(DividedDocument.get(1));
 		thing.addItemsToDeterminedVocabulary(DividedLOWords.get(1));
 		thing.addItemsToDocument(DividedDocument.get(0));
-		NaiveBayesianFilter filter = new NaiveBayesianFilter(thing);
-		logger.trace("Analysis Completed with Value "+ filter.performFilter());
+		*/
+		//logger.trace("Total Vocabulary "+thing.getVocabulary().size());
+		//logger.trace("Total Document Vocabulary "+thing.getDocument().size());
+		//logger.trace("Total Determined Vocabulary "+thing.getDeterminedVocabulary().size());
+		//logger.trace("Element Extraction Complete Starting Analysis");
+		
+	
+		
+//		logger.trace("Analysis Completed with Value "+ filter.performFilter());
+		logger.trace("Analysis Completed with Value "+ doStuff(document1,document2).performFilter());
+		logger.trace("Analysis Completed with Value "+ doStuff(document2,document1).performFilter());
+
 		return 0;
+		
 	}
 
 }

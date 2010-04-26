@@ -1,34 +1,34 @@
-17:31:10,343 TRACE Document:159 - Top LOWords for the Document
-17:31:10,343 TRACE Document:162 - entry
-17:31:10,343 TRACE Document:162 - opening
-17:31:10,343 TRACE Document:162 - review
-17:31:10,343 TRACE Document:162 - scholar
-17:31:10,343 TRACE Document:162 - cross
-17:31:10,343 TRACE Document:164 - Top Keywords for the Document
-17:31:10,343 TRACE Document:167 - radical,
-17:31:10,343 TRACE Document:167 - philia,
-17:31:10,343 TRACE Document:167 - writers
-17:31:10,343 TRACE Document:167 - uses
-17:31:10,343 TRACE Document:167 - agape,
-17:31:10,343 TRACE Document:167 - something
-17:31:10,343 TRACE Document:167 - love,
-17:31:10,343 TRACE Document:167 - itself
-17:31:10,343 TRACE Document:167 - upon
-17:31:10,343 TRACE Document:167 - widely-held
-17:31:12,015 TRACE Document:159 - Top LOWords for the Document
-17:31:12,015 TRACE Document:162 - myself
-17:31:12,015 TRACE Document:162 - man
-17:31:12,015 TRACE Document:162 - advance
-17:31:12,015 TRACE Document:162 - upping
-17:31:12,015 TRACE Document:162 - himself
-17:31:12,015 TRACE Document:164 - Top Keywords for the Document
-17:31:12,015 TRACE Document:167 - 
-17:31:12,015 TRACE Document:167 - represents
-17:31:12,015 TRACE Document:167 - existence,
-17:31:12,015 TRACE Document:167 - rather,
-17:31:12,015 TRACE Document:167 - strips
-17:31:12,015 TRACE Document:167 - fall,
-17:31:12,015 TRACE Document:167 - faith,
-17:31:12,015 TRACE Document:167 - purified
-17:31:12,015 TRACE Document:167 - arousing
-17:31:12,015 TRACE Document:167 - indeed,
+20:10:02,718 TRACE Document:159 - Top LOWords for the Document
+20:10:02,718 TRACE Document:162 - opening
+20:10:02,718 TRACE Document:162 - myself
+20:10:02,718 TRACE Document:162 - access
+20:10:02,718 TRACE Document:162 - in
+20:10:02,718 TRACE Document:162 - entry
+20:10:02,718 TRACE Document:164 - Top Keywords for the Document
+20:10:02,718 TRACE Document:167 - 
+20:10:02,718 TRACE Document:167 - love,
+20:10:02,718 TRACE Document:167 - themselves
+20:10:02,718 TRACE Document:167 - cannot
+20:10:02,718 TRACE Document:167 - whom
+20:10:02,718 TRACE Document:167 - god's
+20:10:02,718 TRACE Document:167 - god,
+20:10:02,718 TRACE Document:167 - church's
+20:10:02,718 TRACE Document:167 - faith,
+20:10:02,718 TRACE Document:167 - man,
+20:10:19,031 TRACE Document:159 - Top LOWords for the Document
+20:10:19,031 TRACE Document:162 - opening
+20:10:19,031 TRACE Document:162 - myself
+20:10:19,031 TRACE Document:162 - entry
+20:10:19,031 TRACE Document:162 - advance
+20:10:19,031 TRACE Document:162 - growth
+20:10:19,031 TRACE Document:164 - Top Keywords for the Document
+20:10:19,031 TRACE Document:167 - 
+20:10:19,031 TRACE Document:167 - upon
+20:10:19,031 TRACE Document:167 - called
+20:10:19,031 TRACE Document:167 - causes
+20:10:19,031 TRACE Document:167 - themselves
+20:10:19,031 TRACE Document:167 - countries
+20:10:19,031 TRACE Document:167 - —
+20:10:19,031 TRACE Document:167 - cannot
+20:10:19,031 TRACE Document:167 - without
+20:10:19,031 TRACE Document:167 - forms
