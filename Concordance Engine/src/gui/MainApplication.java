@@ -29,6 +29,7 @@ import app.App;
 import java.io.File;
 import java.lang.String;
 import java.util.ArrayList;
+import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.Vector;
 
@@ -227,9 +228,22 @@ public class MainApplication {
 		new Thread(new Runnable() {
 			@Override
 			public void run() {
+				App obj = null;
 				do {
 					for(Iterator<App> iter = analyzingObjects.iterator(); iter.hasNext();){
-						App obj = iter.next();
+						try{
+						obj = iter.next();
+						}
+						catch(ConcurrentModificationException e){
+							try {
+								
+								Thread.sleep(500);
+							} catch (InterruptedException e1) {
+								// TODO Auto-generated catch block
+								e1.printStackTrace();
+							}
+							obj = iter.next();
+						}
 						if(obj.isDone()) {
 							logger.trace("Moving Thread Object "+analyzedObjects.size());
 							obj.setThreadID(analyzedObjects.size());

@@ -37,10 +37,8 @@ public class StripCase
 			while(scan.hasNext())
 			{
 				wholedoc = scan.next();
-				String puncregex = ".*?(\").*?(\').*?(\\?).*?(\\*).*?(\\().*?(\\)).*?(\\_).*?(\\[).*?(\\]).*?(\\{).*?(\\}).*?(\\^).*?(\\&).*?(\\%).*?(\\$).*?(\\#).*?(\\@).*?(\\!).*?(\\,).*?(\\/).*?(\\).*?(\\|).*?(\\-).*?(\\+).*?(=)";
-				Pattern p = Pattern.compile(puncregex,Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
-				//wholedoc = wholedoc.replaceAll("[\\?\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
-				wholedoc = wholedoc.replaceAll(p.toString(), "");
+				String puncregex = ".*?(\").*?(\').*?(\\?).*?(\\*).*?(\\().*?(\\)).*?(\\_).*?(\\[).*?(\\]).*?(\\{).*?(\\}).*?(\\^).*?(\\&).*?(\\%).*?(\\$).*?(\\#).*?(\\@).*?(\\!).*?(\\,).*?(\\/).*?(\\\\).*?(\\|).*?(-).*?(\\+).*?(=)";
+				wholedoc = wholedoc.replaceAll(puncregex, "");
 				//logger.debug(wholedoc.split(" ").length);
 				//logger.debug(this.WholeDocument.split(" ").length);
 				whitespacetemp = wholedoc.toCharArray();

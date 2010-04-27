@@ -1,136 +1,68 @@
-14:23:22,953 TRACE Document:165 - Top LOWords for the Document
-14:23:22,953 TRACE Document:168 - entry
-14:23:22,953 TRACE Document:168 - opening
-14:23:22,953 TRACE Document:168 - review
-14:23:22,953 TRACE Document:168 - scholar
-14:23:22,953 TRACE Document:168 - cross
-14:23:22,953 TRACE Document:170 - Top Keywords for the Document
-14:23:22,953 TRACE Document:173 - radical,
-14:23:22,953 TRACE Document:173 - philia,
-14:23:22,953 TRACE Document:173 - imposes
-14:23:22,953 TRACE Document:173 - uses
-14:23:22,953 TRACE Document:173 - writers
-14:23:22,953 TRACE Document:173 - something
-14:23:22,953 TRACE Document:173 - love,
-14:23:22,953 TRACE Document:173 - itself
-14:23:22,953 TRACE Document:173 - upon
-14:23:22,953 TRACE Document:173 - widely-held
-14:23:25,312 TRACE Document:165 - Top LOWords for the Document
-14:23:25,312 TRACE Document:168 - entry
-14:23:25,312 TRACE Document:168 - opening
-14:23:25,312 TRACE Document:168 - access
-14:23:25,312 TRACE Document:168 - in
-14:23:25,312 TRACE Document:168 - entrance
-14:23:25,312 TRACE Document:170 - Top Keywords for the Document
-14:23:25,312 TRACE Document:173 - 
-14:23:25,312 TRACE Document:173 - uses
-14:23:25,312 TRACE Document:173 - writers
-14:23:25,312 TRACE Document:173 - power,
-14:23:25,312 TRACE Document:173 - something
-14:23:25,312 TRACE Document:173 - love,
-14:23:25,312 TRACE Document:173 - itself
-14:23:25,312 TRACE Document:173 - upon
-14:23:25,312 TRACE Document:173 - widely-held
-14:23:25,312 TRACE Document:173 - cultures—considered
-14:23:25,640 TRACE Document:165 - Top LOWords for the Document
-14:23:25,640 TRACE Document:168 - entry
-14:23:25,640 TRACE Document:168 - opening
-14:23:25,640 TRACE Document:168 - review
-14:23:25,640 TRACE Document:168 - scholar
-14:23:25,640 TRACE Document:168 - cross
-14:23:25,640 TRACE Document:170 - Top Keywords for the Document
-14:23:25,640 TRACE Document:173 - radical,
-14:23:25,640 TRACE Document:173 - philia,
-14:23:25,640 TRACE Document:173 - imposes
-14:23:25,640 TRACE Document:173 - uses
-14:23:25,640 TRACE Document:173 - writers
-14:23:25,640 TRACE Document:173 - something
-14:23:25,640 TRACE Document:173 - love,
-14:23:25,640 TRACE Document:173 - itself
-14:23:25,640 TRACE Document:173 - upon
-14:23:25,640 TRACE Document:173 - widely-held
-14:23:27,671 TRACE Document:165 - Top LOWords for the Document
-14:23:27,671 TRACE Document:168 - himself
-14:23:27,671 TRACE Document:168 - myself
-14:23:27,671 TRACE Document:168 - group
-14:23:27,671 TRACE Document:168 - straight
-14:23:27,671 TRACE Document:168 - bent
-14:23:27,671 TRACE Document:170 - Top Keywords for the Document
-14:23:27,671 TRACE Document:173 - 
-14:23:27,671 TRACE Document:173 - faith,
-14:23:27,671 TRACE Document:173 - love,
-14:23:27,671 TRACE Document:173 - “poisoning”
-14:23:27,671 TRACE Document:173 - united;
-14:23:27,671 TRACE Document:173 - —eros—able
-14:23:27,671 TRACE Document:173 - upon
-14:23:27,671 TRACE Document:173 - widely-held
-14:23:27,671 TRACE Document:173 - cultures—considered
-14:23:27,671 TRACE Document:173 - indeed,
-14:24:16,828 TRACE Document:165 - Top LOWords for the Document
-14:24:16,828 TRACE Document:168 - entry
-14:24:16,828 TRACE Document:168 - opening
-14:24:16,828 TRACE Document:168 - review
-14:24:16,828 TRACE Document:168 - scholar
-14:24:16,828 TRACE Document:168 - cross
-14:24:16,828 TRACE Document:170 - Top Keywords for the Document
-14:24:16,828 TRACE Document:173 - radical,
-14:24:16,828 TRACE Document:173 - philia,
-14:24:16,828 TRACE Document:173 - imposes
-14:24:16,828 TRACE Document:173 - uses
-14:24:16,828 TRACE Document:173 - writers
-14:24:16,828 TRACE Document:173 - something
-14:24:16,828 TRACE Document:173 - love,
-14:24:16,828 TRACE Document:173 - itself
-14:24:16,828 TRACE Document:173 - upon
-14:24:16,828 TRACE Document:173 - widely-held
-14:24:19,437 TRACE Document:165 - Top LOWords for the Document
-14:24:19,437 TRACE Document:168 - entry
-14:24:19,437 TRACE Document:168 - opening
-14:24:19,437 TRACE Document:168 - access
-14:24:19,437 TRACE Document:168 - in
-14:24:19,437 TRACE Document:168 - entrance
-14:24:19,437 TRACE Document:170 - Top Keywords for the Document
-14:24:19,437 TRACE Document:173 - 
-14:24:19,437 TRACE Document:173 - uses
-14:24:19,437 TRACE Document:173 - writers
-14:24:19,437 TRACE Document:173 - power,
-14:24:19,437 TRACE Document:173 - something
-14:24:19,437 TRACE Document:173 - love,
-14:24:19,437 TRACE Document:173 - itself
-14:24:19,437 TRACE Document:173 - upon
-14:24:19,437 TRACE Document:173 - widely-held
-14:24:19,437 TRACE Document:173 - cultures—considered
-14:24:19,546 TRACE Document:165 - Top LOWords for the Document
-14:24:19,546 TRACE Document:168 - entry
-14:24:19,546 TRACE Document:168 - opening
-14:24:19,546 TRACE Document:168 - review
-14:24:19,546 TRACE Document:168 - scholar
-14:24:19,546 TRACE Document:168 - cross
-14:24:19,546 TRACE Document:170 - Top Keywords for the Document
-14:24:19,546 TRACE Document:173 - radical,
-14:24:19,546 TRACE Document:173 - philia,
-14:24:19,546 TRACE Document:173 - imposes
-14:24:19,546 TRACE Document:173 - uses
-14:24:19,546 TRACE Document:173 - writers
-14:24:19,546 TRACE Document:173 - something
-14:24:19,546 TRACE Document:173 - love,
-14:24:19,546 TRACE Document:173 - itself
-14:24:19,546 TRACE Document:173 - upon
-14:24:19,546 TRACE Document:173 - widely-held
-14:24:21,296 TRACE Document:165 - Top LOWords for the Document
-14:24:21,296 TRACE Document:168 - himself
-14:24:21,296 TRACE Document:168 - myself
-14:24:21,296 TRACE Document:168 - group
-14:24:21,296 TRACE Document:168 - straight
-14:24:21,296 TRACE Document:168 - bent
-14:24:21,296 TRACE Document:170 - Top Keywords for the Document
-14:24:21,296 TRACE Document:173 - 
-14:24:21,296 TRACE Document:173 - faith,
-14:24:21,296 TRACE Document:173 - love,
-14:24:21,296 TRACE Document:173 - “poisoning”
-14:24:21,296 TRACE Document:173 - united;
-14:24:21,296 TRACE Document:173 - —eros—able
-14:24:21,296 TRACE Document:173 - upon
-14:24:21,296 TRACE Document:173 - widely-held
-14:24:21,296 TRACE Document:173 - cultures—considered
-14:24:21,296 TRACE Document:173 - indeed,
+15:21:29,953 TRACE Document:166 - Top LOWords for the Document
+15:21:29,953 TRACE Document:169 - entry
+15:21:29,953 TRACE Document:169 - opening
+15:21:29,953 TRACE Document:169 - review
+15:21:29,953 TRACE Document:169 - scholar
+15:21:29,953 TRACE Document:169 - cross
+15:21:29,953 TRACE Document:171 - Top Keywords for the Document
+15:21:29,953 TRACE Document:174 - radical,
+15:21:29,953 TRACE Document:174 - philia,
+15:21:29,953 TRACE Document:174 - imposes
+15:21:29,953 TRACE Document:174 - uses
+15:21:29,953 TRACE Document:174 - writers
+15:21:29,953 TRACE Document:174 - something
+15:21:29,953 TRACE Document:174 - love,
+15:21:29,953 TRACE Document:174 - itself
+15:21:29,953 TRACE Document:174 - upon
+15:21:29,953 TRACE Document:174 - widely-held
+15:21:32,015 TRACE Document:166 - Top LOWords for the Document
+15:21:32,015 TRACE Document:169 - entry
+15:21:32,015 TRACE Document:169 - opening
+15:21:32,015 TRACE Document:169 - access
+15:21:32,015 TRACE Document:169 - in
+15:21:32,015 TRACE Document:169 - entrance
+15:21:32,015 TRACE Document:171 - Top Keywords for the Document
+15:21:32,015 TRACE Document:174 - 
+15:21:32,015 TRACE Document:174 - uses
+15:21:32,015 TRACE Document:174 - writers
+15:21:32,015 TRACE Document:174 - power,
+15:21:32,015 TRACE Document:174 - something
+15:21:32,015 TRACE Document:174 - love,
+15:21:32,015 TRACE Document:174 - itself
+15:21:32,015 TRACE Document:174 - upon
+15:21:32,015 TRACE Document:174 - widely-held
+15:21:32,015 TRACE Document:174 - cultures—considered
+15:21:32,625 TRACE Document:166 - Top LOWords for the Document
+15:21:32,625 TRACE Document:169 - entry
+15:21:32,625 TRACE Document:169 - opening
+15:21:32,625 TRACE Document:169 - review
+15:21:32,625 TRACE Document:169 - scholar
+15:21:32,625 TRACE Document:169 - cross
+15:21:32,625 TRACE Document:171 - Top Keywords for the Document
+15:21:32,625 TRACE Document:174 - radical,
+15:21:32,625 TRACE Document:174 - philia,
+15:21:32,625 TRACE Document:174 - imposes
+15:21:32,625 TRACE Document:174 - uses
+15:21:32,625 TRACE Document:174 - writers
+15:21:32,625 TRACE Document:174 - something
+15:21:32,625 TRACE Document:174 - love,
+15:21:32,625 TRACE Document:174 - itself
+15:21:32,625 TRACE Document:174 - upon
+15:21:32,625 TRACE Document:174 - widely-held
+15:21:34,687 TRACE Document:166 - Top LOWords for the Document
+15:21:34,687 TRACE Document:169 - himself
+15:21:34,687 TRACE Document:169 - myself
+15:21:34,687 TRACE Document:169 - group
+15:21:34,687 TRACE Document:169 - straight
+15:21:34,687 TRACE Document:169 - bent
+15:21:34,687 TRACE Document:171 - Top Keywords for the Document
+15:21:34,687 TRACE Document:174 - 
+15:21:34,687 TRACE Document:174 - faith,
+15:21:34,687 TRACE Document:174 - love,
+15:21:34,687 TRACE Document:174 - “poisoning”
+15:21:34,687 TRACE Document:174 - united;
+15:21:34,687 TRACE Document:174 - —eros—able
+15:21:34,687 TRACE Document:174 - upon
+15:21:34,687 TRACE Document:174 - widely-held
+15:21:34,687 TRACE Document:174 - cultures—considered
+15:21:34,687 TRACE Document:174 - indeed,

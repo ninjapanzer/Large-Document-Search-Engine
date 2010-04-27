@@ -41,16 +41,17 @@ public class PhraseAnalysis implements ComponentIface {
 		ArrayList<String> ConfBiWords = this.compareBiWords();
 		ArrayList<String> ConfTriWords = this.compareTriWords();
 		//logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
-		logger.trace("------------Common BiWords");
+		/*logger.trace("------------Common BiWords");
 		for(String item : ConfBiWords){
 			logger.trace(item);
 		}
 		logger.trace("------------Common TriWords");
 		for(String item : ConfTriWords){
 			logger.trace(item);
-		}
+		}*/
 		//Return top phrases using wordlisttools
 		//then compare the phrases to the total common phrases
+		double finalscore = 0;
 		for(int i = 0; i< this.TestResults.size()-1; i++){
 			Collection<String> topBiWords = WordListTools.TopItems(ConfBiWords, 10);
 			logger.trace("------------Top BiWords");
@@ -58,14 +59,17 @@ public class PhraseAnalysis implements ComponentIface {
 				logger.trace(item);
 			}
 			logger.trace("------------Score");
-			logger.trace(topBiWords.size()/ConfBiWords.size());
+			double biwordscore = (double)topBiWords.size()/(double)ConfBiWords.size();
+			logger.trace(biwordscore);
 			Collection<String> topTriWords = WordListTools.TopItems(ConfTriWords, 10);
 			logger.trace("------------Top TriWords");
 			for(String item : topTriWords){
 				logger.trace(item);
 			}
 			logger.trace("------------Score");
-			logger.trace(topTriWords.size()/ConfTriWords.size());
+			double triwordscore = (double)topTriWords.size()/(double)ConfTriWords.size();
+			logger.trace(triwordscore);
+			finalscore += (biwordscore+triwordscore)/(double)2;
 		}
 		//Calculate the Common Vs Total phrases
 		for(int i = 0; i< this.TestResults.size()-1; i++){
@@ -85,7 +89,8 @@ public class PhraseAnalysis implements ComponentIface {
 				logger.trace(subitem);
 			}
 		}*/
-		return 0;
+		
+		return finalscore/(double)this.TestResults.size();
 		
 	}
 	private ArrayList<String> compareTriWords(){
@@ -95,7 +100,7 @@ public class PhraseAnalysis implements ComponentIface {
 			for(String TriWordItem : this.TestResults.get(i).TriWords){
 				testmap.put(TriWordItem, null);
 			}
-			for(String TriWordItem : this.TestResults.get(i+1).BiWords){
+			for(String TriWordItem : this.TestResults.get(i+1).TriWords){
 				if(testmap.containsKey(TriWordItem)){
 					//System.out.println("Confirmed "+ BiWordItem);
 					ConfirmedTriWords.add(TriWordItem);
