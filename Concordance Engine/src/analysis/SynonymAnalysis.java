@@ -1,6 +1,7 @@
 package analysis;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Vector;
 
@@ -15,15 +16,19 @@ import structs.Paragraphs;
 import structs.SelectionItems;
 import structs.Sentences;
 
-public class SynonymAnalysis implements ComponentIface {
-	private ArrayList<SelectionItems> Selection = null;
+public class SynonymAnalysis implements ComponentIface{
 	private Logger logger = Logger.getLogger(comparison.CompareDocuments.class);
-	private Vector<App> AnaylzedDocuments = null;
-	private ArrayList<Document> Comparables = null;
+	private ArrayList<Comparables> TestDocuments = null;
 	private ArrayList<Comparisons> DocumentComparison = null;
 	@Override
 	public void init(ArrayList<Comparables> comparables, String[] configVals)
 			throws Exception {
+		this.TestDocuments = comparables;
+		
+		//this.Selection = election;
+		//this.AnaylzedDocuments = AnaylzedDocuments;
+		this.DocumentComparison = new ArrayList<Comparisons>();
+		//this.extractComparisonList();
 		// TODO Auto-generated method stub
 		
 	}
@@ -31,8 +36,8 @@ public class SynonymAnalysis implements ComponentIface {
 	@Override
 	public double runAnalysis() {
 		Vector<Vector<String>> thing = new Vector<Vector<String>>();
-		for(Document item : this.Comparables) {
-			thing.addElement(this.retrieveDocumentLOWords(item));
+		for(Comparables item : this.TestDocuments){
+			thing.addElement(this.retrieveDocumentLOWords(item.NestedDocument));
 		}
 		System.out.print("Document Comparison = ");
 		System.out.format("%.2f",LOWordComparison(thing));
@@ -47,10 +52,10 @@ public class SynonymAnalysis implements ComponentIface {
 		System.out.println("%");
 		ArrayList<Vector<String>> Doc1LOWords = new ArrayList<Vector<String>>();
 		ArrayList<Vector<String>> Doc2LOWords = new ArrayList<Vector<String>>();
-		for(Paragraphs item : this.Comparables.get(0).Block){
+		for(Paragraphs item : this.TestDocuments.get(0).NestedDocument.Block){
 			Doc1LOWords.add(item.topLOWords);
 		}
-		for(Paragraphs item : this.Comparables.get(1).Block){
+		for(Paragraphs item : this.TestDocuments.get(1).NestedDocument.Block){
 			Doc2LOWords.add(item.topLOWords);
 		}
 		System.out.println("Paragraph Flat Comparison");
@@ -117,8 +122,9 @@ public class SynonymAnalysis implements ComponentIface {
 	}
 	private Vector<Vector<String>> gatherParagraphsLOWords(){
 		Vector<Vector<String>> ParagraphLOWords = new Vector<Vector<String>>();
-		for(Document item : this.Comparables) {
-			for(Paragraphs pitem : item.Block){
+		for(Comparables item : this.TestDocuments){
+			
+			for(Paragraphs pitem : item.NestedDocument.Block){
 				ParagraphLOWords.addElement(retrieveParagraphLOWords(pitem));
 			}
 		}
@@ -126,8 +132,8 @@ public class SynonymAnalysis implements ComponentIface {
 	}
 	private Vector<Vector<String>> gatherSentencesLOWords(){
 		Vector<Vector<String>> SentenceLOWords = new Vector<Vector<String>>();
-		for(Document item : this.Comparables) {
-			for(Paragraphs pitem : item.Block){
+		for(Comparables item : this.TestDocuments) {
+			for(Paragraphs pitem : item.NestedDocument.Block){
 				for(Sentences sitem : pitem.Paragraph){
 					SentenceLOWords.addElement(retrieveSentenceLOWords(sitem));
 				}
@@ -148,4 +154,5 @@ public class SynonymAnalysis implements ComponentIface {
 	private Vector<String> retrieveWordLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber, int WordNumber){
 		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).Sentence.elementAt(WordNumber).LOWords;
 	}
+	
 }

@@ -1,34 +1,68 @@
-20:10:02,718 TRACE Document:159 - Top LOWords for the Document
-20:10:02,718 TRACE Document:162 - opening
-20:10:02,718 TRACE Document:162 - myself
-20:10:02,718 TRACE Document:162 - access
-20:10:02,718 TRACE Document:162 - in
-20:10:02,718 TRACE Document:162 - entry
-20:10:02,718 TRACE Document:164 - Top Keywords for the Document
-20:10:02,718 TRACE Document:167 - 
-20:10:02,718 TRACE Document:167 - love,
-20:10:02,718 TRACE Document:167 - themselves
-20:10:02,718 TRACE Document:167 - cannot
-20:10:02,718 TRACE Document:167 - whom
-20:10:02,718 TRACE Document:167 - god's
-20:10:02,718 TRACE Document:167 - god,
-20:10:02,718 TRACE Document:167 - church's
-20:10:02,718 TRACE Document:167 - faith,
-20:10:02,718 TRACE Document:167 - man,
-20:10:19,031 TRACE Document:159 - Top LOWords for the Document
-20:10:19,031 TRACE Document:162 - opening
-20:10:19,031 TRACE Document:162 - myself
-20:10:19,031 TRACE Document:162 - entry
-20:10:19,031 TRACE Document:162 - advance
-20:10:19,031 TRACE Document:162 - growth
-20:10:19,031 TRACE Document:164 - Top Keywords for the Document
-20:10:19,031 TRACE Document:167 - 
-20:10:19,031 TRACE Document:167 - upon
-20:10:19,031 TRACE Document:167 - called
-20:10:19,031 TRACE Document:167 - causes
-20:10:19,031 TRACE Document:167 - themselves
-20:10:19,031 TRACE Document:167 - countries
-20:10:19,031 TRACE Document:167 - —
-20:10:19,031 TRACE Document:167 - cannot
-20:10:19,031 TRACE Document:167 - without
-20:10:19,031 TRACE Document:167 - forms
+02:18:21,818 TRACE Document:165 - Top LOWords for the Document
+02:18:21,818 TRACE Document:168 - entry
+02:18:21,818 TRACE Document:168 - opening
+02:18:21,818 TRACE Document:168 - review
+02:18:21,818 TRACE Document:168 - scholar
+02:18:21,819 TRACE Document:168 - cross
+02:18:21,819 TRACE Document:170 - Top Keywords for the Document
+02:18:21,819 TRACE Document:173 - radical,
+02:18:21,819 TRACE Document:173 - philia,
+02:18:21,819 TRACE Document:173 - writers
+02:18:21,819 TRACE Document:173 - uses
+02:18:21,819 TRACE Document:173 - agape,
+02:18:21,820 TRACE Document:173 - something
+02:18:21,820 TRACE Document:173 - love,
+02:18:21,820 TRACE Document:173 - itself
+02:18:21,820 TRACE Document:173 - upon
+02:18:21,820 TRACE Document:173 - widely-held
+02:18:26,879 TRACE Document:165 - Top LOWords for the Document
+02:18:26,879 TRACE Document:168 - entry
+02:18:26,879 TRACE Document:168 - opening
+02:18:26,879 TRACE Document:168 - access
+02:18:26,879 TRACE Document:168 - in
+02:18:26,879 TRACE Document:168 - entrance
+02:18:26,879 TRACE Document:170 - Top Keywords for the Document
+02:18:26,879 TRACE Document:173 - 
+02:18:26,879 TRACE Document:173 - writers
+02:18:26,879 TRACE Document:173 - uses
+02:18:26,879 TRACE Document:173 - agape,
+02:18:26,879 TRACE Document:173 - power,
+02:18:26,879 TRACE Document:173 - something
+02:18:26,879 TRACE Document:173 - love,
+02:18:26,879 TRACE Document:173 - itself
+02:18:26,879 TRACE Document:173 - upon
+02:18:26,879 TRACE Document:173 - widely-held
+02:18:35,423 TRACE Document:165 - Top LOWords for the Document
+02:18:35,423 TRACE Document:168 - himself
+02:18:35,423 TRACE Document:168 - myself
+02:18:35,423 TRACE Document:168 - group
+02:18:35,423 TRACE Document:168 - straight
+02:18:35,424 TRACE Document:168 - bent
+02:18:35,424 TRACE Document:170 - Top Keywords for the Document
+02:18:35,424 TRACE Document:173 - 
+02:18:35,424 TRACE Document:173 - faith,
+02:18:35,424 TRACE Document:173 - being,
+02:18:35,424 TRACE Document:173 - existed
+02:18:35,424 TRACE Document:173 - commodity,
+02:18:35,424 TRACE Document:173 - love,
+02:18:35,424 TRACE Document:173 - united;
+02:18:35,424 TRACE Document:173 - upon
+02:18:35,424 TRACE Document:173 - widely-held
+02:18:35,424 TRACE Document:173 - indeed,
+02:18:36,392 TRACE Document:165 - Top LOWords for the Document
+02:18:36,392 TRACE Document:168 - entry
+02:18:36,392 TRACE Document:168 - opening
+02:18:36,392 TRACE Document:168 - review
+02:18:36,392 TRACE Document:168 - scholar
+02:18:36,392 TRACE Document:168 - cross
+02:18:36,392 TRACE Document:170 - Top Keywords for the Document
+02:18:36,392 TRACE Document:173 - radical,
+02:18:36,392 TRACE Document:173 - writers
+02:18:36,392 TRACE Document:173 - uses
+02:18:36,392 TRACE Document:173 - agape,
+02:18:36,392 TRACE Document:173 - something
+02:18:36,393 TRACE Document:173 - love,
+02:18:36,393 TRACE Document:173 - itself
+02:18:36,393 TRACE Document:173 - upon
+02:18:36,393 TRACE Document:173 - –
+02:18:36,393 TRACE Document:173 - widely-held

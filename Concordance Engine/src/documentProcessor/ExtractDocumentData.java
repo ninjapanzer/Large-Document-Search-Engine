@@ -73,6 +73,12 @@ public class ExtractDocumentData
 					WordSplit = SentenceSplit[j].split(" ");
 					for(int k = 0; k < WordSplit.length; k++)
 					{
+						/*String[] eliminateperiod = WordSplit[k].split(".");
+						for (String item : eliminateperiod){
+							if(item != ""){
+								WordSplit[k] = item;
+							}
+						}*/
 						boolean hasID = false;
 						Words word = new Words();
 						if (NounList.isInList(WordSplit[k]) && hasID == false){

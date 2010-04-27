@@ -1,9 +1,12 @@
-20:07:04,406 TRACE MainApplication:313 - File Dialog: nullnull
-20:08:33,125 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\caritasinveritate.txt
-20:09:02,218 TRACE MainApplication:313 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\deuscaritasestall.txt
-20:10:02,781 TRACE MainApplication:212 - Moving Thread Object 0
-20:10:02,781 TRACE MainApplication:216 - Doing Size(1)     Done Size(1)    Value(0)
-20:10:02,781 TRACE MainApplication:217 - Thread Object 0 Moved
-20:10:19,171 TRACE MainApplication:212 - Moving Thread Object 1
-20:10:19,171 TRACE MainApplication:216 - Doing Size(1)     Done Size(2)    Value(1)
-20:10:19,171 TRACE MainApplication:217 - Thread Object 1 Moved
+02:18:21,830 TRACE MainApplication:264 - Moving Thread Object 0
+02:18:21,831 TRACE MainApplication:268 - Doing Size(0)     Done Size(1)    Value(0)
+02:18:21,832 TRACE MainApplication:269 - Thread Object 0 Moved
+02:18:26,981 TRACE MainApplication:264 - Moving Thread Object 1
+02:18:26,981 TRACE MainApplication:268 - Doing Size(0)     Done Size(2)    Value(1)
+02:18:26,982 TRACE MainApplication:269 - Thread Object 1 Moved
+02:18:35,562 TRACE MainApplication:264 - Moving Thread Object 2
+02:18:35,562 TRACE MainApplication:268 - Doing Size(0)     Done Size(3)    Value(2)
+02:18:35,562 TRACE MainApplication:269 - Thread Object 2 Moved
+02:18:36,463 TRACE MainApplication:264 - Moving Thread Object 3
+02:18:36,463 TRACE MainApplication:268 - Doing Size(0)     Done Size(4)    Value(3)
+02:18:36,463 TRACE MainApplication:269 - Thread Object 3 Moved

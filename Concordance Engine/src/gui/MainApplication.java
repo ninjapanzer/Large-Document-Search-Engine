@@ -26,6 +26,7 @@ import javax.swing.JTextPane;
 import analysis.AnalysisLoader;
 import app.App;
 
+import java.io.File;
 import java.lang.String;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -34,8 +35,6 @@ import java.util.Vector;
 import org.apache.log4j.Logger;
 
 import structs.SelectionItems;
-
-import comparison.CompareDocuments;
 
 import javax.swing.JList;
 import javax.swing.event.ListSelectionEvent;
@@ -72,11 +71,64 @@ public class MainApplication {
 	final static Vector<App> analyzedObjects = new Vector<App>();  //  @jve:decl-index=0:
 	private static JList jList = null;
 	private JButton jButton = null;
+	private JButton Auto = null;
 	/**
 	 * This method initializes jTextPane	
 	 * 	
 	 * @return javax.swing.JTextPane	
 	 */
+	private JButton getAutoButton(){
+		if (Auto == null) {
+			Auto = new JButton();
+			Auto.setSize(113, 25);
+			Auto.setLocation(new Point(207, 45));
+			Auto.setText("Auto");
+			Auto.setEnabled(true);
+			Auto.addActionListener(new ActionListener() {
+				
+				@Override
+				public void actionPerformed(ActionEvent e) {					// TODO Auto-generated method stub
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3")).start();
+					try {
+						Thread.sleep(5000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Start_4")).start();
+					try {
+						Thread.sleep(5000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Through_5.txt")).start();
+					try {
+						Thread.sleep(5000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_With_Intro")).start();
+					try {
+						Thread.sleep(5000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"deuscaritasestall.txt")).start();
+					try {
+						Thread.sleep(5000);
+					} catch (InterruptedException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"caritasinveritate.txt")).start();
+				}
+			});
+		}
+		return Auto;
+	}
 	private JTextPane getJTextPane() {
 		if (jTextPane == null) {
 			jTextPane = new JTextPane();
@@ -261,6 +313,7 @@ public class MainApplication {
 			jContentPane.add(jLabel, null);
 			jContentPane.add(getJList(), null);
 			jContentPane.add(getJButton(), null);
+			jContentPane.add(getAutoButton(), null);
 		}
 		return jContentPane;
 	}
@@ -499,5 +552,20 @@ public class MainApplication {
 		}
 		return saveMenuItem;
 	}
+	private class AutoProcessTestFiles implements Runnable{
+	private String FileToProcess = null;	
+	public AutoProcessTestFiles(String File){
+		this.FileToProcess = File;
+	}
+	@Override
+	public void run() {		// TODO Auto-generated method stub
+		try {
+			App element = new App(this.FileToProcess);
+			analyzingObjects.add(element);
+			}catch (Exception e) {
+				logger.trace("Cannot Create New Thread");
+			}
+	}
 
+}
 }

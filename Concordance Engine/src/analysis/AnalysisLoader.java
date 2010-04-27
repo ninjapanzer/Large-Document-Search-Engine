@@ -50,6 +50,7 @@ public class AnalysisLoader {
 			int weight = Integer.parseInt(aIWIter.next());
 			totalWeight += weight;
 			successValue += weight * comp.runAnalysis();
+			System.out.println(successValue);
 		}
 	}
 	private void extractComparisonList() {
