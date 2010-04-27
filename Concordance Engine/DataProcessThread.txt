@@ -1,12 +1,12 @@
-02:18:21,830 TRACE MainApplication:264 - Moving Thread Object 0
-02:18:21,831 TRACE MainApplication:268 - Doing Size(0)     Done Size(1)    Value(0)
-02:18:21,832 TRACE MainApplication:269 - Thread Object 0 Moved
-02:18:26,981 TRACE MainApplication:264 - Moving Thread Object 1
-02:18:26,981 TRACE MainApplication:268 - Doing Size(0)     Done Size(2)    Value(1)
-02:18:26,982 TRACE MainApplication:269 - Thread Object 1 Moved
-02:18:35,562 TRACE MainApplication:264 - Moving Thread Object 2
-02:18:35,562 TRACE MainApplication:268 - Doing Size(0)     Done Size(3)    Value(2)
-02:18:35,562 TRACE MainApplication:269 - Thread Object 2 Moved
-02:18:36,463 TRACE MainApplication:264 - Moving Thread Object 3
-02:18:36,463 TRACE MainApplication:268 - Doing Size(0)     Done Size(4)    Value(3)
-02:18:36,463 TRACE MainApplication:269 - Thread Object 3 Moved
+12:44:26,187 TRACE MainApplication:264 - Moving Thread Object 0
+12:44:26,187 TRACE MainApplication:268 - Doing Size(0)     Done Size(1)    Value(0)
+12:44:26,187 TRACE MainApplication:269 - Thread Object 0 Moved
+12:44:31,484 TRACE MainApplication:264 - Moving Thread Object 1
+12:44:31,484 TRACE MainApplication:268 - Doing Size(0)     Done Size(2)    Value(1)
+12:44:31,484 TRACE MainApplication:269 - Thread Object 1 Moved
+12:44:39,046 TRACE MainApplication:264 - Moving Thread Object 2
+12:44:39,046 TRACE MainApplication:268 - Doing Size(0)     Done Size(3)    Value(2)
+12:44:39,046 TRACE MainApplication:269 - Thread Object 2 Moved
+12:44:41,000 TRACE MainApplication:264 - Moving Thread Object 3
+12:44:41,000 TRACE MainApplication:268 - Doing Size(0)     Done Size(4)    Value(3)
+12:44:41,000 TRACE MainApplication:269 - Thread Object 3 Moved

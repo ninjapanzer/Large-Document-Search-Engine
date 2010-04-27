@@ -128,7 +128,8 @@ public class PhraseAnalysis implements ComponentIface {
 		ArrayList<String> biwords = new ArrayList<String>();
 		for(long i = 0; i<count-1; i++){
 			try{
-			biwords.add(Source.get((int)i).wordcontent+Source.get((int)(i+1)).wordcontent);
+				String biword = Source.get((int)i).wordcontent+Source.get((int)(i+1)).wordcontent;
+			biwords.add(biword.replaceAll("\\.", ""));
 			}catch(Exception e){
 				System.out.println(Source.get((int)i).wordcontent+" or "+Source.get((int)(i+1)).wordcontent+" Not a biWord Skipping");
 			}
@@ -155,7 +156,8 @@ public class PhraseAnalysis implements ComponentIface {
 		ArrayList<String> triwords = new ArrayList<String>();
 		for(long i = 0; i<count-2; i++){
 			try{
-				triwords.add(Source.get((int)i).wordcontent+Source.get((int)(i+1)).wordcontent+Source.get((int)(i+2)).wordcontent);
+				String triword = Source.get((int)i).wordcontent+Source.get((int)(i+1)).wordcontent+Source.get((int)(i+2)).wordcontent;
+				triwords.add(triword.replaceAll("\\.", ""));
 			}catch(Exception e){
 				System.out.println(Source.get((int)i).wordcontent+" | "+Source.get((int)(i+1)).wordcontent+" | "+Source.get((int)(i+2)).wordcontent+" Not a biWord Skipping");
 			}
