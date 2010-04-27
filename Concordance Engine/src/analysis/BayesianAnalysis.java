@@ -16,7 +16,7 @@ public class BayesianAnalysis implements ComponentIface {
 	ArrayList<Comparables> TestList = null;
 	String[] config = null;
 	ArrayList<PhraseAnaysisResults> TestResults = null;
-	private static Logger logger = Logger.getLogger(BayesianAnalysis.class);
+	private static Logger logger = Logger.getLogger("analysis.AnalysisLoader.CompareDocumentThread");
 	
 	@Override
 	public void init(ArrayList<Comparables> comparables, String[] configVals)

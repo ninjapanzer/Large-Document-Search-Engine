@@ -16,7 +16,7 @@ public class PhraseAnalysis implements ComponentIface {
 	ArrayList<Comparables> TestList = null;
 	String[] config = null;
 	ArrayList<PhraseAnaysisResults> TestResults = null;
-	Logger logger = Logger.getLogger(PhraseAnalysis.class);
+	Logger logger = Logger.getLogger("analysis.AnalysisLoader.CompareDocumentThread");
 	
 	@Override
 	public void init(ArrayList<Comparables> comparables, String[] configVals)

@@ -16,6 +16,7 @@ public class ThesaurusHandler
 	private int LOWordSize = 5;
 	public ThesaurusHandler()
 	{
+		String puncregex = ".*?(\").*?(\').*?(\\?).*?(\\*).*?(\\().*?(\\)).*?(\\_).*?(\\[).*?(\\]).*?(\\{).*?(\\}).*?(\\^).*?(\\&).*?(\\%).*?(\\$).*?(\\#).*?(\\@).*?(\\!).*?(\\,).*?(\\/).*?(\\\\).*?(\\|).*?(-).*?(\\+).*?(=)";
 		if(file == null){
 			file = new File(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"mthesaur.txt");
 		}
@@ -32,7 +33,7 @@ public class ThesaurusHandler
 				for(int i = 1; i < thesarusstr.length; i++)
 				{
 					try{
-						syn.add(thesarusstr[i]);
+						syn.add(thesarusstr[i].replaceAll(puncregex, ""));
 					}catch (Exception e)
 					{
 					      System.err.println("out of Memory at index " + i);

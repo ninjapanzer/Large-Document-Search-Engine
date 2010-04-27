@@ -21,7 +21,7 @@ public class AnalysisLoader {
 	private Vector<App> AnaylzedDocuments = null;
 	private ArrayList<Comparables> Comparables = null;
 	private ArrayList<Comparisons> DocumentComparison = null;
-	private static Logger logger = Logger.getLogger(AnalysisLoader.class);
+	private static Logger logger = Logger.getLogger("analysis.AnalysisLoader.CompareDocumentThread");
 	// The overall architecture does not take much optimization into account
 	//		We can deal with that later
 	

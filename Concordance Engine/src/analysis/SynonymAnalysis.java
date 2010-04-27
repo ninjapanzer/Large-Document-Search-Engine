@@ -17,7 +17,7 @@ import structs.SelectionItems;
 import structs.Sentences;
 
 public class SynonymAnalysis implements ComponentIface{
-	private Logger logger = Logger.getLogger(comparison.CompareDocuments.class);
+	private Logger logger = Logger.getLogger("analysis.AnalysisLoader.CompareDocumentThread");
 	private ArrayList<Comparables> TestDocuments = null;
 	private ArrayList<Comparisons> DocumentComparison = null;
 	@Override
