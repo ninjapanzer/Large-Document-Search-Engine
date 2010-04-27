@@ -1,68 +1,68 @@
-12:44:26,046 TRACE Document:165 - Top LOWords for the Document
-12:44:26,046 TRACE Document:168 - entry
-12:44:26,046 TRACE Document:168 - opening
-12:44:26,046 TRACE Document:168 - review
-12:44:26,046 TRACE Document:168 - scholar
-12:44:26,046 TRACE Document:168 - cross
-12:44:26,046 TRACE Document:170 - Top Keywords for the Document
-12:44:26,046 TRACE Document:173 - radical,
-12:44:26,046 TRACE Document:173 - philia,
-12:44:26,046 TRACE Document:173 - writers
-12:44:26,046 TRACE Document:173 - uses
-12:44:26,046 TRACE Document:173 - agape,
-12:44:26,046 TRACE Document:173 - something
-12:44:26,046 TRACE Document:173 - love,
-12:44:26,046 TRACE Document:173 - itself
-12:44:26,046 TRACE Document:173 - upon
-12:44:26,046 TRACE Document:173 - widely-held
-12:44:31,359 TRACE Document:165 - Top LOWords for the Document
-12:44:31,359 TRACE Document:168 - entry
-12:44:31,359 TRACE Document:168 - opening
-12:44:31,359 TRACE Document:168 - access
-12:44:31,359 TRACE Document:168 - in
-12:44:31,359 TRACE Document:168 - entrance
-12:44:31,359 TRACE Document:170 - Top Keywords for the Document
-12:44:31,359 TRACE Document:173 - 
-12:44:31,359 TRACE Document:173 - writers
-12:44:31,359 TRACE Document:173 - agape,
-12:44:31,359 TRACE Document:173 - power,
-12:44:31,359 TRACE Document:173 - something
-12:44:31,359 TRACE Document:173 - love,
-12:44:31,359 TRACE Document:173 - itself
-12:44:31,359 TRACE Document:173 - upon
-12:44:31,359 TRACE Document:173 - widely-held
-12:44:31,359 TRACE Document:173 - cultures—considered
-12:44:38,968 TRACE Document:165 - Top LOWords for the Document
-12:44:38,968 TRACE Document:168 - himself
-12:44:38,968 TRACE Document:168 - myself
-12:44:38,968 TRACE Document:168 - group
-12:44:38,968 TRACE Document:168 - straight
-12:44:38,968 TRACE Document:168 - bent
-12:44:38,968 TRACE Document:170 - Top Keywords for the Document
-12:44:38,968 TRACE Document:173 - 
-12:44:38,968 TRACE Document:173 - faith,
-12:44:38,968 TRACE Document:173 - love,
-12:44:38,968 TRACE Document:173 - “poisoning”
-12:44:38,968 TRACE Document:173 - united;
-12:44:38,968 TRACE Document:173 - —eros—able
-12:44:38,968 TRACE Document:173 - upon
-12:44:38,968 TRACE Document:173 - widely-held
-12:44:38,968 TRACE Document:173 - cultures—considered
-12:44:38,968 TRACE Document:173 - indeed,
-12:44:40,859 TRACE Document:165 - Top LOWords for the Document
-12:44:40,859 TRACE Document:168 - entry
-12:44:40,859 TRACE Document:168 - opening
-12:44:40,859 TRACE Document:168 - review
-12:44:40,859 TRACE Document:168 - scholar
-12:44:40,859 TRACE Document:168 - cross
-12:44:40,859 TRACE Document:170 - Top Keywords for the Document
-12:44:40,859 TRACE Document:173 - radical,
-12:44:40,859 TRACE Document:173 - philia,
-12:44:40,859 TRACE Document:173 - writers
-12:44:40,859 TRACE Document:173 - uses
-12:44:40,859 TRACE Document:173 - agape,
-12:44:40,859 TRACE Document:173 - something
-12:44:40,859 TRACE Document:173 - love,
-12:44:40,859 TRACE Document:173 - itself
-12:44:40,859 TRACE Document:173 - upon
-12:44:40,859 TRACE Document:173 - widely-held
+13:09:32,974 TRACE Document:165 - Top LOWords for the Document
+13:09:32,974 TRACE Document:168 - entry
+13:09:32,974 TRACE Document:168 - opening
+13:09:32,974 TRACE Document:168 - review
+13:09:32,975 TRACE Document:168 - scholar
+13:09:32,975 TRACE Document:168 - cross
+13:09:32,975 TRACE Document:170 - Top Keywords for the Document
+13:09:32,976 TRACE Document:173 - radical,
+13:09:32,976 TRACE Document:173 - philia,
+13:09:32,976 TRACE Document:173 - writers
+13:09:32,976 TRACE Document:173 - uses
+13:09:32,976 TRACE Document:173 - agape,
+13:09:32,976 TRACE Document:173 - something
+13:09:32,976 TRACE Document:173 - love,
+13:09:32,976 TRACE Document:173 - itself
+13:09:32,976 TRACE Document:173 - upon
+13:09:32,976 TRACE Document:173 - widely-held
+13:09:32,997 TRACE Document:165 - Top LOWords for the Document
+13:09:32,997 TRACE Document:168 - entry
+13:09:32,997 TRACE Document:168 - opening
+13:09:32,997 TRACE Document:168 - review
+13:09:32,997 TRACE Document:168 - scholar
+13:09:32,997 TRACE Document:168 - cross
+13:09:32,997 TRACE Document:170 - Top Keywords for the Document
+13:09:32,997 TRACE Document:173 - radical,
+13:09:32,997 TRACE Document:173 - writers
+13:09:32,997 TRACE Document:173 - uses
+13:09:32,997 TRACE Document:173 - agape,
+13:09:32,997 TRACE Document:173 - something
+13:09:32,998 TRACE Document:173 - love,
+13:09:32,998 TRACE Document:173 - itself
+13:09:32,998 TRACE Document:173 - upon
+13:09:32,998 TRACE Document:173 - –
+13:09:32,998 TRACE Document:173 - widely-held
+13:09:33,695 TRACE Document:165 - Top LOWords for the Document
+13:09:33,695 TRACE Document:168 - entry
+13:09:33,695 TRACE Document:168 - opening
+13:09:33,695 TRACE Document:168 - access
+13:09:33,695 TRACE Document:168 - in
+13:09:33,695 TRACE Document:168 - entrance
+13:09:33,695 TRACE Document:170 - Top Keywords for the Document
+13:09:33,696 TRACE Document:173 - 
+13:09:33,696 TRACE Document:173 - writers
+13:09:33,696 TRACE Document:173 - uses
+13:09:33,696 TRACE Document:173 - agape,
+13:09:33,696 TRACE Document:173 - power,
+13:09:33,696 TRACE Document:173 - something
+13:09:33,696 TRACE Document:173 - love,
+13:09:33,696 TRACE Document:173 - itself
+13:09:33,696 TRACE Document:173 - upon
+13:09:33,696 TRACE Document:173 - widely-held
+13:09:36,434 TRACE Document:165 - Top LOWords for the Document
+13:09:36,434 TRACE Document:168 - himself
+13:09:36,434 TRACE Document:168 - myself
+13:09:36,434 TRACE Document:168 - group
+13:09:36,434 TRACE Document:168 - straight
+13:09:36,434 TRACE Document:168 - bent
+13:09:36,434 TRACE Document:170 - Top Keywords for the Document
+13:09:36,434 TRACE Document:173 - 
+13:09:36,434 TRACE Document:173 - faith,
+13:09:36,434 TRACE Document:173 - being,
+13:09:36,434 TRACE Document:173 - existed
+13:09:36,434 TRACE Document:173 - commodity,
+13:09:36,434 TRACE Document:173 - love,
+13:09:36,435 TRACE Document:173 - united;
+13:09:36,435 TRACE Document:173 - upon
+13:09:36,435 TRACE Document:173 - widely-held
+13:09:36,435 TRACE Document:173 - indeed,

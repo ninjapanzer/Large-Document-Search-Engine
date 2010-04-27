@@ -88,41 +88,11 @@ public class MainApplication {
 				
 				@Override
 				public void actionPerformed(ActionEvent e) {					// TODO Auto-generated method stub
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3")).start();
-					try {
-						Thread.sleep(5000);
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Start_4")).start();
-					try {
-						Thread.sleep(5000);
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Through_5.txt")).start();
-					try {
-						Thread.sleep(5000);
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_With_Intro")).start();
-					try {
-						Thread.sleep(5000);
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3",1000L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Start_4",1000L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Through_5.txt",1000L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_With_Intro",1000L)).start();
 					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"deuscaritasestall.txt")).start();
-					try {
-						Thread.sleep(5000);
-					} catch (InterruptedException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
 					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"caritasinveritate.txt")).start();
 				}
 			});
@@ -553,13 +523,17 @@ public class MainApplication {
 		return saveMenuItem;
 	}
 	private class AutoProcessTestFiles implements Runnable{
-	private String FileToProcess = null;	
-	public AutoProcessTestFiles(String File){
+	private String FileToProcess = null;
+	private long Sleep;	
+	public AutoProcessTestFiles(String File, long sleep){
 		this.FileToProcess = File;
+		this.Sleep = sleep;
 	}
 	@Override
 	public void run() {		// TODO Auto-generated method stub
 		try {
+			//this.wait(this.Sleep);
+			Thread.sleep(this.Sleep);
 			App element = new App(this.FileToProcess);
 			analyzingObjects.add(element);
 			}catch (Exception e) {
