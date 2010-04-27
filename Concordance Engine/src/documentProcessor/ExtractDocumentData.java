@@ -18,7 +18,7 @@ public class ExtractDocumentData
 	private Logger loggerDocument = Logger.getLogger("documentProcessor.ExtractDocumentData.Document");
 	private Logger loggerParagraph = Logger.getLogger("documentProcessor.ExtractDocumentData.Paragraph");
 	private Logger loggerSentence = Logger.getLogger("documentProcessor.ExtractDocumentData.Sentence");
-	private Logger ProgressLogger = Logger.getLogger(documentProcessor.ExtractDocumentData.class);
+	private Logger loggerProgress = Logger.getLogger("documentProcessor.ExtractDocumentData.DocumentProgress");
 	private Document FinalDocument = new Document();
 	private String WholeDocument;
 	private WordManagement NounList = new WordManagement(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"noun.pnz");
@@ -159,7 +159,7 @@ public class ExtractDocumentData
 				try{DocumentLOWords.addAll(para.topLOWords);
 				}catch (Exception e){}
 				ParagraphLOWords.clear();
-				ProgressLogger.trace(((this.CurrentWord/this.DocSize)*100)+"% Completed");
+				loggerProgress.trace(((this.CurrentWord/this.DocSize)*100)+"% Completed");
 			}
 			this.FinalDocument.topLOWords = Thesaurus.ReduceSynonyms(DocumentLOWords);
 			this.FinalDocument.topKeywords = (Vector<String>) WordListTools.TopItems(DocTopKeywords, 10);
