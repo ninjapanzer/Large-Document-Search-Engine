@@ -1,13 +1,24 @@
-13:09:33,124 TRACE MainApplication:234 - Moving Thread Object 0
-13:09:33,124 TRACE MainApplication:238 - Doing Size(1)     Done Size(1)    Value(0)
-13:09:33,124 TRACE MainApplication:239 - Thread Object 0 Moved
-13:09:33,125 TRACE MainApplication:234 - Moving Thread Object 1
-13:09:33,125 TRACE MainApplication:238 - Doing Size(0)     Done Size(2)    Value(1)
-13:09:33,125 TRACE MainApplication:239 - Thread Object 1 Moved
-13:09:33,726 TRACE MainApplication:234 - Moving Thread Object 2
-13:09:33,726 TRACE MainApplication:238 - Doing Size(0)     Done Size(3)    Value(2)
-13:09:33,726 TRACE MainApplication:239 - Thread Object 2 Moved
-13:09:36,578 TRACE MainApplication:234 - Moving Thread Object 3
-13:09:36,578 TRACE MainApplication:238 - Doing Size(0)     Done Size(4)    Value(3)
-13:09:36,578 TRACE MainApplication:239 - Thread Object 3 Moved
-13:11:05,006 TRACE MainApplication:336 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/kjv10.txt
+14:23:23,140 TRACE MainApplication:234 - Moving Thread Object 0
+14:23:23,140 TRACE MainApplication:238 - Doing Size(0)     Done Size(1)    Value(0)
+14:23:23,140 TRACE MainApplication:239 - Thread Object 0 Moved
+14:23:25,437 TRACE MainApplication:234 - Moving Thread Object 1
+14:23:25,437 TRACE MainApplication:238 - Doing Size(0)     Done Size(2)    Value(1)
+14:23:25,437 TRACE MainApplication:239 - Thread Object 1 Moved
+14:23:25,734 TRACE MainApplication:234 - Moving Thread Object 2
+14:23:25,734 TRACE MainApplication:238 - Doing Size(0)     Done Size(3)    Value(2)
+14:23:25,734 TRACE MainApplication:239 - Thread Object 2 Moved
+14:23:27,703 TRACE MainApplication:234 - Moving Thread Object 3
+14:23:27,703 TRACE MainApplication:238 - Doing Size(0)     Done Size(4)    Value(3)
+14:23:27,703 TRACE MainApplication:239 - Thread Object 3 Moved
+14:24:16,968 TRACE MainApplication:234 - Moving Thread Object 4
+14:24:16,968 TRACE MainApplication:238 - Doing Size(0)     Done Size(5)    Value(4)
+14:24:16,968 TRACE MainApplication:239 - Thread Object 4 Moved
+14:24:19,484 TRACE MainApplication:234 - Moving Thread Object 5
+14:24:19,484 TRACE MainApplication:238 - Doing Size(0)     Done Size(6)    Value(5)
+14:24:19,484 TRACE MainApplication:239 - Thread Object 5 Moved
+14:24:19,625 TRACE MainApplication:234 - Moving Thread Object 6
+14:24:19,625 TRACE MainApplication:238 - Doing Size(0)     Done Size(7)    Value(6)
+14:24:19,625 TRACE MainApplication:239 - Thread Object 6 Moved
+14:24:21,328 TRACE MainApplication:234 - Moving Thread Object 7
+14:24:21,328 TRACE MainApplication:238 - Doing Size(0)     Done Size(8)    Value(7)
+14:24:21,328 TRACE MainApplication:239 - Thread Object 7 Moved

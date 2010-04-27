@@ -2,6 +2,7 @@ package documentProcessor;
 
 import java.io.File;
 import java.util.Scanner;
+import java.util.regex.Pattern;
 
 import org.apache.log4j.Logger;
 
@@ -36,7 +37,10 @@ public class StripCase
 			while(scan.hasNext())
 			{
 				wholedoc = scan.next();
-				wholedoc = wholedoc.replaceAll("[\\?\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
+				String puncregex = ".*?(\").*?(\').*?(\\?).*?(\\*).*?(\\().*?(\\)).*?(\\_).*?(\\[).*?(\\]).*?(\\{).*?(\\}).*?(\\^).*?(\\&).*?(\\%).*?(\\$).*?(\\#).*?(\\@).*?(\\!).*?(\\,).*?(\\/).*?(\\).*?(\\|).*?(\\-).*?(\\+).*?(=)";
+				Pattern p = Pattern.compile(puncregex,Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
+				//wholedoc = wholedoc.replaceAll("[\\?\\*\\(\\)\\_\\[\\]\\{\\}\\^\\=\\|]", "");
+				wholedoc = wholedoc.replaceAll(p.toString(), "");
 				//logger.debug(wholedoc.split(" ").length);
 				//logger.debug(this.WholeDocument.split(" ").length);
 				whitespacetemp = wholedoc.toCharArray();

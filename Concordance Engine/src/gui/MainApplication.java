@@ -88,10 +88,10 @@ public class MainApplication {
 				
 				@Override
 				public void actionPerformed(ActionEvent e) {					// TODO Auto-generated method stub
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3",1000L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3",0L)).start();
 					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Start_4",1000L)).start();
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Through_5.txt",1000L)).start();
-					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_With_Intro",1000L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_Through_5.txt",1500L)).start();
+					new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"DeusCaritasEst3_With_Intro",2000L)).start();
 					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"deuscaritasestall.txt")).start();
 					//new Thread(new AutoProcessTestFiles(".."+File.separator+"Concordance"+File.separator+"Datafiles"+File.separator+"caritasinveritate.txt")).start();
 				}

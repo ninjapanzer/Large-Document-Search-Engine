@@ -129,7 +129,7 @@ public class PhraseAnalysis implements ComponentIface {
 		for(long i = 0; i<count-1; i++){
 			try{
 				String biword = Source.get((int)i).wordcontent+Source.get((int)(i+1)).wordcontent;
-			biwords.add(biword.replaceAll("\\.", ""));
+			biwords.add(biword.replaceAll(".*?(\\.).*?(\\s+)", ""));
 			}catch(Exception e){
 				System.out.println(Source.get((int)i).wordcontent+" or "+Source.get((int)(i+1)).wordcontent+" Not a biWord Skipping");
 			}
