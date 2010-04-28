@@ -39,17 +39,17 @@ public class SynonymAnalysis implements ComponentIface{
 		for(Comparables item : this.TestDocuments){
 			thing.addElement(this.retrieveDocumentLOWords(item.NestedDocument));
 		}
-		System.out.print("Document Comparison = ");
+		logger.trace("Document Comparison = ");
 		System.out.format("%.2f",LOWordComparison(thing));
-		System.out.println("%");
+		logger.trace("%");
 		Vector<Vector<String>> ParaLOWords = this.gatherParagraphsLOWords();
-		System.out.print("Paragraph Comparison = ");
-		System.out.format("%.2f",LOWordComparison(ParaLOWords));
-		System.out.println("%");
+		logger.trace("Paragraph Comparison = ");
+		logger.trace(String.format("%.2f",LOWordComparison(ParaLOWords)));
+		logger.trace("%");
 		Vector<Vector<String>> SentLOWords = this.gatherSentencesLOWords();
-		System.out.print("Sentence Comparison = ");
-		System.out.format("%.2f",LOWordComparison(SentLOWords));
-		System.out.println("%");
+		logger.trace("Sentence Comparison = ");
+		logger.trace(String.format("%.2f",LOWordComparison(SentLOWords)));
+		logger.trace("%");
 		ArrayList<Vector<String>> Doc1LOWords = new ArrayList<Vector<String>>();
 		ArrayList<Vector<String>> Doc2LOWords = new ArrayList<Vector<String>>();
 		for(Paragraphs item : this.TestDocuments.get(0).NestedDocument.Block){
@@ -58,7 +58,7 @@ public class SynonymAnalysis implements ComponentIface{
 		for(Paragraphs item : this.TestDocuments.get(1).NestedDocument.Block){
 			Doc2LOWords.add(item.topLOWords);
 		}
-		System.out.println("Paragraph Flat Comparison");
+		logger.trace("Paragraph Flat Comparison");
 		for(int i = 0; i<Doc1LOWords.size(); i++){
 			for(int j = 0; j<Doc2LOWords.size(); j++){
 				Comparisons cmp = new Comparisons();
@@ -73,10 +73,10 @@ public class SynonymAnalysis implements ComponentIface{
 		double QualityScore = 0;
 		double TotalSize = this.DocumentComparison.size();
 		for(Comparisons Item : this.DocumentComparison){
-			System.out.println("The Quality for Comparison of Paragraphs "+(int)Item.ItemNumberDoc1+" to "+(int)Item.ItemNumberDoc2+" is "+Item.CmpQuality*100+"%");
+			logger.trace("The Quality for Comparison of Paragraphs "+(int)Item.ItemNumberDoc1+" to "+(int)Item.ItemNumberDoc2+" is "+Item.CmpQuality*100+"%");
 			QualityScore += Item.CmpQuality;
 		}
-		System.out.println(QualityScore/(TotalSize*10));
+		logger.trace(QualityScore/(TotalSize*10));
 		return QualityScore/TotalSize;
 	}
 	

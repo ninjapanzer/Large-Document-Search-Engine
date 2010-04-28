@@ -1,1 +1,0 @@
-19:45:51,609 TRACE MainApplication:350 - File Dialog: C:\Documents and Settings\Intern_3\workspace\Concordance\Datafiles\kjv10.txt
