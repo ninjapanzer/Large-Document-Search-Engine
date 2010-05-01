@@ -1,0 +1,2565 @@
+18:34:10,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:10,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:10,546 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:10,578 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:10,578 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:10,578 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:10,578 TRACE CompareDocumentThread:59 - thenew
+18:34:10,578 TRACE CompareDocumentThread:59 - .
+18:34:10,578 TRACE CompareDocumentThread:59 - theword
+18:34:10,578 TRACE CompareDocumentThread:59 - loveof
+18:34:10,578 TRACE CompareDocumentThread:59 - oflove
+18:34:10,578 TRACE CompareDocumentThread:59 - withthe
+18:34:10,578 TRACE CompareDocumentThread:59 - ofthe
+18:34:10,578 TRACE CompareDocumentThread:59 - newtestament
+18:34:10,578 TRACE CompareDocumentThread:59 - whichis
+18:34:10,578 TRACE CompareDocumentThread:59 - straightaway
+18:34:10,578 TRACE CompareDocumentThread:61 - ------------Score
+18:34:10,578 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:10,578 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:10,578 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:10,578 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:10,578 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:10,578 TRACE CompareDocumentThread:67 - .let
+18:34:10,578 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:10,578 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:10,578 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:10,578 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:10,578 TRACE CompareDocumentThread:67 - ofthethree
+18:34:10,578 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:10,578 TRACE CompareDocumentThread:69 - ------------Score
+18:34:10,578 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:10,578 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:10,578 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:10,578 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:10,578 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:10,578 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:10,578 TRACE CompareDocumentThread:44 - %
+18:34:10,578 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:10,578 TRACE CompareDocumentThread:47 - 100.00
+18:34:10,578 TRACE CompareDocumentThread:48 - %
+18:34:10,578 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:10,578 TRACE CompareDocumentThread:51 - 94.29
+18:34:10,578 TRACE CompareDocumentThread:52 - %
+18:34:10,578 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:10,578 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:10,578 TRACE CompareDocumentThread:79 - 0.1
+18:34:10,578 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:10,578 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:10,578 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:10,578 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:30,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:30,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:30,906 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:30,906 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:30,906 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:30,906 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:30,906 TRACE CompareDocumentThread:59 - thenew
+18:34:30,906 TRACE CompareDocumentThread:59 - .
+18:34:30,906 TRACE CompareDocumentThread:59 - theword
+18:34:30,906 TRACE CompareDocumentThread:59 - loveof
+18:34:30,921 TRACE CompareDocumentThread:59 - oflove
+18:34:30,921 TRACE CompareDocumentThread:59 - withthe
+18:34:30,921 TRACE CompareDocumentThread:59 - ofthe
+18:34:30,921 TRACE CompareDocumentThread:59 - newtestament
+18:34:30,921 TRACE CompareDocumentThread:59 - whichis
+18:34:30,921 TRACE CompareDocumentThread:59 - straightaway
+18:34:30,921 TRACE CompareDocumentThread:61 - ------------Score
+18:34:30,937 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:30,937 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:30,937 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:30,937 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:30,937 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:30,937 TRACE CompareDocumentThread:67 - .let
+18:34:30,937 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:30,937 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:30,937 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:30,937 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:30,937 TRACE CompareDocumentThread:67 - ofthethree
+18:34:30,937 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:30,937 TRACE CompareDocumentThread:69 - ------------Score
+18:34:30,937 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:30,937 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:30,937 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:30,937 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:30,937 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:30,937 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:30,937 TRACE CompareDocumentThread:44 - %
+18:34:30,937 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:30,937 TRACE CompareDocumentThread:47 - 100.00
+18:34:30,937 TRACE CompareDocumentThread:48 - %
+18:34:30,937 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:30,937 TRACE CompareDocumentThread:51 - 94.29
+18:34:30,937 TRACE CompareDocumentThread:52 - %
+18:34:30,937 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:30,937 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:30,937 TRACE CompareDocumentThread:79 - 0.1
+18:34:30,937 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:30,937 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:30,937 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:30,937 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:42,687 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:42,687 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:42,687 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:42,718 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:42,718 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:42,718 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:42,718 TRACE CompareDocumentThread:59 - thenew
+18:34:42,718 TRACE CompareDocumentThread:59 - .
+18:34:42,718 TRACE CompareDocumentThread:59 - theword
+18:34:42,718 TRACE CompareDocumentThread:59 - loveof
+18:34:42,718 TRACE CompareDocumentThread:59 - oflove
+18:34:42,718 TRACE CompareDocumentThread:59 - withthe
+18:34:42,718 TRACE CompareDocumentThread:59 - ofthe
+18:34:42,718 TRACE CompareDocumentThread:59 - newtestament
+18:34:42,718 TRACE CompareDocumentThread:59 - whichis
+18:34:42,718 TRACE CompareDocumentThread:59 - straightaway
+18:34:42,718 TRACE CompareDocumentThread:61 - ------------Score
+18:34:42,718 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:42,718 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:42,718 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:42,718 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:42,718 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:42,718 TRACE CompareDocumentThread:67 - .let
+18:34:42,718 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:42,718 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:42,718 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:42,718 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:42,718 TRACE CompareDocumentThread:67 - ofthethree
+18:34:42,718 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:42,718 TRACE CompareDocumentThread:69 - ------------Score
+18:34:42,718 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:42,718 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:42,718 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:42,718 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:42,718 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:42,718 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:42,718 TRACE CompareDocumentThread:44 - %
+18:34:42,718 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:42,718 TRACE CompareDocumentThread:47 - 100.00
+18:34:42,718 TRACE CompareDocumentThread:48 - %
+18:34:42,718 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:42,718 TRACE CompareDocumentThread:51 - 94.29
+18:34:42,718 TRACE CompareDocumentThread:52 - %
+18:34:42,718 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:42,718 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:42,718 TRACE CompareDocumentThread:79 - 0.1
+18:34:42,718 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:42,718 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:42,718 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:42,718 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:44,234 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:44,234 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:44,234 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:44,234 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:44,234 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:44,234 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:44,234 TRACE CompareDocumentThread:59 - thenew
+18:34:44,234 TRACE CompareDocumentThread:59 - .
+18:34:44,234 TRACE CompareDocumentThread:59 - theword
+18:34:44,234 TRACE CompareDocumentThread:59 - loveof
+18:34:44,250 TRACE CompareDocumentThread:59 - oflove
+18:34:44,250 TRACE CompareDocumentThread:59 - withthe
+18:34:44,250 TRACE CompareDocumentThread:59 - ofthe
+18:34:44,250 TRACE CompareDocumentThread:59 - newtestament
+18:34:44,250 TRACE CompareDocumentThread:59 - whichis
+18:34:44,250 TRACE CompareDocumentThread:59 - straightaway
+18:34:44,250 TRACE CompareDocumentThread:61 - ------------Score
+18:34:44,250 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:44,265 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:44,265 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:44,265 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:44,265 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:44,265 TRACE CompareDocumentThread:67 - .let
+18:34:44,265 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:44,265 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:44,265 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:44,265 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:44,265 TRACE CompareDocumentThread:67 - ofthethree
+18:34:44,265 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:44,265 TRACE CompareDocumentThread:69 - ------------Score
+18:34:44,265 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:44,265 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:44,265 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:44,265 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:44,265 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:44,265 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:44,265 TRACE CompareDocumentThread:44 - %
+18:34:44,265 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:44,265 TRACE CompareDocumentThread:47 - 100.00
+18:34:44,265 TRACE CompareDocumentThread:48 - %
+18:34:44,265 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:44,265 TRACE CompareDocumentThread:51 - 94.29
+18:34:44,265 TRACE CompareDocumentThread:52 - %
+18:34:44,265 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:44,265 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:44,265 TRACE CompareDocumentThread:79 - 0.1
+18:34:44,265 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:44,265 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:44,265 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:44,265 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:45,187 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:45,187 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:45,187 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:45,203 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:45,203 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:45,203 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:45,203 TRACE CompareDocumentThread:59 - thenew
+18:34:45,203 TRACE CompareDocumentThread:59 - .
+18:34:45,203 TRACE CompareDocumentThread:59 - theword
+18:34:45,203 TRACE CompareDocumentThread:59 - loveof
+18:34:45,203 TRACE CompareDocumentThread:59 - oflove
+18:34:45,203 TRACE CompareDocumentThread:59 - withthe
+18:34:45,203 TRACE CompareDocumentThread:59 - ofthe
+18:34:45,203 TRACE CompareDocumentThread:59 - newtestament
+18:34:45,203 TRACE CompareDocumentThread:59 - whichis
+18:34:45,203 TRACE CompareDocumentThread:59 - straightaway
+18:34:45,203 TRACE CompareDocumentThread:61 - ------------Score
+18:34:45,203 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:45,203 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:45,203 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:45,203 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:45,203 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:45,203 TRACE CompareDocumentThread:67 - .let
+18:34:45,203 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:45,203 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:45,203 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:45,203 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:45,203 TRACE CompareDocumentThread:67 - ofthethree
+18:34:45,203 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:45,203 TRACE CompareDocumentThread:69 - ------------Score
+18:34:45,203 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:45,203 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:45,203 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:45,203 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:45,203 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:45,203 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:45,203 TRACE CompareDocumentThread:44 - %
+18:34:45,203 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:45,203 TRACE CompareDocumentThread:47 - 100.00
+18:34:45,203 TRACE CompareDocumentThread:48 - %
+18:34:45,203 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:45,203 TRACE CompareDocumentThread:51 - 94.29
+18:34:45,203 TRACE CompareDocumentThread:52 - %
+18:34:45,203 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:45,203 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:45,203 TRACE CompareDocumentThread:79 - 0.1
+18:34:45,203 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:45,203 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:45,203 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:45,203 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:46,000 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:46,000 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:46,000 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:46,000 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:46,000 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:46,000 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:46,015 TRACE CompareDocumentThread:59 - thenew
+18:34:46,015 TRACE CompareDocumentThread:59 - .
+18:34:46,015 TRACE CompareDocumentThread:59 - theword
+18:34:46,015 TRACE CompareDocumentThread:59 - loveof
+18:34:46,015 TRACE CompareDocumentThread:59 - oflove
+18:34:46,015 TRACE CompareDocumentThread:59 - withthe
+18:34:46,015 TRACE CompareDocumentThread:59 - ofthe
+18:34:46,015 TRACE CompareDocumentThread:59 - newtestament
+18:34:46,015 TRACE CompareDocumentThread:59 - whichis
+18:34:46,015 TRACE CompareDocumentThread:59 - straightaway
+18:34:46,031 TRACE CompareDocumentThread:61 - ------------Score
+18:34:46,031 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:46,031 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:46,031 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:46,031 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:46,031 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:46,031 TRACE CompareDocumentThread:67 - .let
+18:34:46,031 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:46,031 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:46,031 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:46,031 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:46,031 TRACE CompareDocumentThread:67 - ofthethree
+18:34:46,031 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:46,031 TRACE CompareDocumentThread:69 - ------------Score
+18:34:46,031 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:46,031 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:46,031 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:46,031 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:46,031 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:46,031 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:46,031 TRACE CompareDocumentThread:44 - %
+18:34:46,031 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:46,031 TRACE CompareDocumentThread:47 - 100.00
+18:34:46,031 TRACE CompareDocumentThread:48 - %
+18:34:46,031 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:46,031 TRACE CompareDocumentThread:51 - 94.29
+18:34:46,031 TRACE CompareDocumentThread:52 - %
+18:34:46,031 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:46,031 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:46,031 TRACE CompareDocumentThread:79 - 0.1
+18:34:46,031 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:46,031 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:46,031 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:46,031 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:46,687 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:46,687 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:46,687 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:46,703 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:46,703 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:46,703 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:46,703 TRACE CompareDocumentThread:59 - thenew
+18:34:46,703 TRACE CompareDocumentThread:59 - .
+18:34:46,703 TRACE CompareDocumentThread:59 - theword
+18:34:46,703 TRACE CompareDocumentThread:59 - loveof
+18:34:46,703 TRACE CompareDocumentThread:59 - oflove
+18:34:46,703 TRACE CompareDocumentThread:59 - withthe
+18:34:46,703 TRACE CompareDocumentThread:59 - ofthe
+18:34:46,703 TRACE CompareDocumentThread:59 - newtestament
+18:34:46,703 TRACE CompareDocumentThread:59 - whichis
+18:34:46,703 TRACE CompareDocumentThread:59 - straightaway
+18:34:46,703 TRACE CompareDocumentThread:61 - ------------Score
+18:34:46,703 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:46,703 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:46,703 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:46,703 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:46,703 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:46,703 TRACE CompareDocumentThread:67 - .let
+18:34:46,703 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:46,703 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:46,703 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:46,703 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:46,703 TRACE CompareDocumentThread:67 - ofthethree
+18:34:46,703 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:46,703 TRACE CompareDocumentThread:69 - ------------Score
+18:34:46,703 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:46,703 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:46,703 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:46,703 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:46,703 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:46,703 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:46,703 TRACE CompareDocumentThread:44 - %
+18:34:46,703 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:46,703 TRACE CompareDocumentThread:47 - 100.00
+18:34:46,703 TRACE CompareDocumentThread:48 - %
+18:34:46,703 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:46,703 TRACE CompareDocumentThread:51 - 94.29
+18:34:46,703 TRACE CompareDocumentThread:52 - %
+18:34:46,703 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:46,703 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:46,703 TRACE CompareDocumentThread:79 - 0.1
+18:34:46,703 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:46,703 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:46,703 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:46,703 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:34:56,875 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:34:56,875 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:34:56,875 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:34:56,906 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:56,906 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:34:56,906 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:34:56,906 TRACE CompareDocumentThread:59 - thenew
+18:34:56,906 TRACE CompareDocumentThread:59 - .
+18:34:56,906 TRACE CompareDocumentThread:59 - theword
+18:34:56,906 TRACE CompareDocumentThread:59 - loveof
+18:34:56,906 TRACE CompareDocumentThread:59 - oflove
+18:34:56,906 TRACE CompareDocumentThread:59 - withthe
+18:34:56,906 TRACE CompareDocumentThread:59 - ofthe
+18:34:56,906 TRACE CompareDocumentThread:59 - newtestament
+18:34:56,906 TRACE CompareDocumentThread:59 - whichis
+18:34:56,906 TRACE CompareDocumentThread:59 - straightaway
+18:34:56,906 TRACE CompareDocumentThread:61 - ------------Score
+18:34:56,906 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:34:56,906 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:34:56,906 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:34:56,906 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:34:56,906 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:34:56,906 TRACE CompareDocumentThread:67 - .let
+18:34:56,906 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:34:56,906 TRACE CompareDocumentThread:67 - blowthewhistle
+18:34:56,906 TRACE CompareDocumentThread:67 - usedwithadded
+18:34:56,906 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:34:56,906 TRACE CompareDocumentThread:67 - ofthethree
+18:34:56,906 TRACE CompareDocumentThread:67 - humanbeings,was
+18:34:56,906 TRACE CompareDocumentThread:69 - ------------Score
+18:34:56,906 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:34:56,906 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:34:56,906 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:34:56,906 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:34:56,906 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:34:56,906 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:34:56,906 TRACE CompareDocumentThread:44 - %
+18:34:56,906 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:34:56,906 TRACE CompareDocumentThread:47 - 100.00
+18:34:56,906 TRACE CompareDocumentThread:48 - %
+18:34:56,906 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:34:56,906 TRACE CompareDocumentThread:51 - 94.29
+18:34:56,906 TRACE CompareDocumentThread:52 - %
+18:34:56,906 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:34:56,906 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:34:56,906 TRACE CompareDocumentThread:79 - 0.1
+18:34:56,906 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:34:56,906 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:34:56,906 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:34:56,906 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:35:01,203 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:35:01,203 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:35:01,203 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:35:01,203 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:01,203 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:01,203 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:35:01,203 TRACE CompareDocumentThread:59 - thenew
+18:35:01,203 TRACE CompareDocumentThread:59 - .
+18:35:01,203 TRACE CompareDocumentThread:59 - theword
+18:35:01,203 TRACE CompareDocumentThread:59 - loveof
+18:35:01,218 TRACE CompareDocumentThread:59 - oflove
+18:35:01,218 TRACE CompareDocumentThread:59 - withthe
+18:35:01,218 TRACE CompareDocumentThread:59 - ofthe
+18:35:01,218 TRACE CompareDocumentThread:59 - newtestament
+18:35:01,218 TRACE CompareDocumentThread:59 - whichis
+18:35:01,218 TRACE CompareDocumentThread:59 - straightaway
+18:35:01,218 TRACE CompareDocumentThread:61 - ------------Score
+18:35:01,234 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:35:01,234 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:35:01,234 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:35:01,234 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:35:01,234 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:35:01,234 TRACE CompareDocumentThread:67 - .let
+18:35:01,234 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:35:01,234 TRACE CompareDocumentThread:67 - blowthewhistle
+18:35:01,234 TRACE CompareDocumentThread:67 - usedwithadded
+18:35:01,234 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:35:01,234 TRACE CompareDocumentThread:67 - ofthethree
+18:35:01,234 TRACE CompareDocumentThread:67 - humanbeings,was
+18:35:01,234 TRACE CompareDocumentThread:69 - ------------Score
+18:35:01,234 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:35:01,234 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:35:01,234 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:35:01,234 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:35:01,234 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:35:01,234 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:35:01,234 TRACE CompareDocumentThread:44 - %
+18:35:01,234 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:35:01,234 TRACE CompareDocumentThread:47 - 100.00
+18:35:01,234 TRACE CompareDocumentThread:48 - %
+18:35:01,234 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:35:01,234 TRACE CompareDocumentThread:51 - 94.29
+18:35:01,234 TRACE CompareDocumentThread:52 - %
+18:35:01,234 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:35:01,234 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:35:01,234 TRACE CompareDocumentThread:79 - 0.1
+18:35:01,234 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:35:01,234 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:35:01,234 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:35:01,234 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:35:14,359 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:35:14,359 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:35:14,359 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:35:14,359 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:14,359 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:14,359 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:35:14,359 TRACE CompareDocumentThread:59 - thenew
+18:35:14,359 TRACE CompareDocumentThread:59 - .
+18:35:14,359 TRACE CompareDocumentThread:59 - theword
+18:35:14,359 TRACE CompareDocumentThread:59 - loveof
+18:35:14,375 TRACE CompareDocumentThread:59 - oflove
+18:35:14,375 TRACE CompareDocumentThread:59 - withthe
+18:35:14,375 TRACE CompareDocumentThread:59 - ofthe
+18:35:14,375 TRACE CompareDocumentThread:59 - newtestament
+18:35:14,375 TRACE CompareDocumentThread:59 - whichis
+18:35:14,375 TRACE CompareDocumentThread:59 - straightaway
+18:35:14,375 TRACE CompareDocumentThread:61 - ------------Score
+18:35:14,390 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:35:14,390 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:35:14,390 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:35:14,390 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:35:14,390 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:35:14,390 TRACE CompareDocumentThread:67 - .let
+18:35:14,390 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:35:14,390 TRACE CompareDocumentThread:67 - blowthewhistle
+18:35:14,390 TRACE CompareDocumentThread:67 - usedwithadded
+18:35:14,390 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:35:14,390 TRACE CompareDocumentThread:67 - ofthethree
+18:35:14,390 TRACE CompareDocumentThread:67 - humanbeings,was
+18:35:14,390 TRACE CompareDocumentThread:69 - ------------Score
+18:35:14,390 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:35:14,390 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:35:14,390 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:35:14,390 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:35:14,390 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:35:14,390 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:35:14,390 TRACE CompareDocumentThread:44 - %
+18:35:14,390 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:35:14,390 TRACE CompareDocumentThread:47 - 100.00
+18:35:14,390 TRACE CompareDocumentThread:48 - %
+18:35:14,390 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:35:14,390 TRACE CompareDocumentThread:51 - 94.29
+18:35:14,390 TRACE CompareDocumentThread:52 - %
+18:35:14,390 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:35:14,390 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:35:14,390 TRACE CompareDocumentThread:79 - 0.1
+18:35:14,390 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:35:14,390 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:35:14,390 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:35:14,390 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:35:21,562 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:35:21,562 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:35:21,562 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:35:21,578 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:21,578 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:35:21,578 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:35:21,578 TRACE CompareDocumentThread:59 - thenew
+18:35:21,578 TRACE CompareDocumentThread:59 - .
+18:35:21,578 TRACE CompareDocumentThread:59 - theword
+18:35:21,578 TRACE CompareDocumentThread:59 - loveof
+18:35:21,593 TRACE CompareDocumentThread:59 - oflove
+18:35:21,593 TRACE CompareDocumentThread:59 - withthe
+18:35:21,593 TRACE CompareDocumentThread:59 - ofthe
+18:35:21,593 TRACE CompareDocumentThread:59 - newtestament
+18:35:21,593 TRACE CompareDocumentThread:59 - whichis
+18:35:21,593 TRACE CompareDocumentThread:59 - straightaway
+18:35:21,593 TRACE CompareDocumentThread:61 - ------------Score
+18:35:21,609 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:35:21,609 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:35:21,609 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:35:21,609 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:35:21,609 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:35:21,609 TRACE CompareDocumentThread:67 - .let
+18:35:21,609 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:35:21,609 TRACE CompareDocumentThread:67 - blowthewhistle
+18:35:21,609 TRACE CompareDocumentThread:67 - usedwithadded
+18:35:21,609 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:35:21,609 TRACE CompareDocumentThread:67 - ofthethree
+18:35:21,609 TRACE CompareDocumentThread:67 - humanbeings,was
+18:35:21,609 TRACE CompareDocumentThread:69 - ------------Score
+18:35:21,609 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:35:21,609 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:35:21,609 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:35:21,609 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:35:21,609 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:35:21,609 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:35:21,609 TRACE CompareDocumentThread:44 - %
+18:35:21,609 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:35:21,609 TRACE CompareDocumentThread:47 - 100.00
+18:35:21,609 TRACE CompareDocumentThread:48 - %
+18:35:21,609 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:35:21,609 TRACE CompareDocumentThread:51 - 94.29
+18:35:21,609 TRACE CompareDocumentThread:52 - %
+18:35:21,609 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:35:21,609 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:35:21,609 TRACE CompareDocumentThread:79 - 0.1
+18:35:21,609 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:35:21,609 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:35:21,609 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:35:21,609 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:36:42,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:36:42,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:36:42,921 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:36:42,921 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:36:42,921 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:36:42,921 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:36:42,921 TRACE CompareDocumentThread:59 - thenew
+18:36:42,921 TRACE CompareDocumentThread:59 - .
+18:36:42,921 TRACE CompareDocumentThread:59 - theword
+18:36:42,921 TRACE CompareDocumentThread:59 - loveof
+18:36:42,921 TRACE CompareDocumentThread:59 - oflove
+18:36:42,937 TRACE CompareDocumentThread:59 - withthe
+18:36:42,937 TRACE CompareDocumentThread:59 - ofthe
+18:36:42,937 TRACE CompareDocumentThread:59 - newtestament
+18:36:42,937 TRACE CompareDocumentThread:59 - whichis
+18:36:42,937 TRACE CompareDocumentThread:59 - straightaway
+18:36:42,937 TRACE CompareDocumentThread:61 - ------------Score
+18:36:42,937 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:36:42,953 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:36:42,953 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:36:42,953 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:36:42,953 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:36:42,953 TRACE CompareDocumentThread:67 - .let
+18:36:42,953 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:36:42,953 TRACE CompareDocumentThread:67 - blowthewhistle
+18:36:42,953 TRACE CompareDocumentThread:67 - usedwithadded
+18:36:42,953 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:36:42,953 TRACE CompareDocumentThread:67 - ofthethree
+18:36:42,953 TRACE CompareDocumentThread:67 - humanbeings,was
+18:36:42,953 TRACE CompareDocumentThread:69 - ------------Score
+18:36:42,953 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:36:42,953 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:36:42,953 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:36:42,953 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:36:42,953 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:36:42,953 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:36:42,953 TRACE CompareDocumentThread:44 - %
+18:36:42,953 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:36:42,953 TRACE CompareDocumentThread:47 - 100.00
+18:36:42,953 TRACE CompareDocumentThread:48 - %
+18:36:42,953 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:36:42,953 TRACE CompareDocumentThread:51 - 94.29
+18:36:42,953 TRACE CompareDocumentThread:52 - %
+18:36:42,953 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:36:42,953 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:36:42,953 TRACE CompareDocumentThread:79 - 0.1
+18:36:42,953 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:36:42,953 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:36:42,953 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:36:42,953 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:37:44,406 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:37:44,406 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:37:44,406 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:37:44,437 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:37:44,437 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:37:44,437 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:37:44,437 TRACE CompareDocumentThread:59 - thenew
+18:37:44,437 TRACE CompareDocumentThread:59 - .
+18:37:44,437 TRACE CompareDocumentThread:59 - theword
+18:37:44,437 TRACE CompareDocumentThread:59 - loveof
+18:37:44,437 TRACE CompareDocumentThread:59 - oflove
+18:37:44,437 TRACE CompareDocumentThread:59 - withthe
+18:37:44,437 TRACE CompareDocumentThread:59 - ofthe
+18:37:44,437 TRACE CompareDocumentThread:59 - newtestament
+18:37:44,437 TRACE CompareDocumentThread:59 - whichis
+18:37:44,437 TRACE CompareDocumentThread:59 - straightaway
+18:37:44,437 TRACE CompareDocumentThread:61 - ------------Score
+18:37:44,437 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:37:44,437 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:37:44,437 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:37:44,437 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:37:44,437 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:37:44,437 TRACE CompareDocumentThread:67 - .let
+18:37:44,437 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:37:44,437 TRACE CompareDocumentThread:67 - blowthewhistle
+18:37:44,437 TRACE CompareDocumentThread:67 - usedwithadded
+18:37:44,437 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:37:44,437 TRACE CompareDocumentThread:67 - ofthethree
+18:37:44,437 TRACE CompareDocumentThread:67 - humanbeings,was
+18:37:44,437 TRACE CompareDocumentThread:69 - ------------Score
+18:37:44,437 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:37:44,437 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:37:44,437 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:37:44,437 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:37:44,437 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:37:44,437 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:37:44,437 TRACE CompareDocumentThread:44 - %
+18:37:44,437 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:37:44,437 TRACE CompareDocumentThread:47 - 100.00
+18:37:44,437 TRACE CompareDocumentThread:48 - %
+18:37:44,437 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:37:44,437 TRACE CompareDocumentThread:51 - 94.29
+18:37:44,437 TRACE CompareDocumentThread:52 - %
+18:37:44,437 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:37:44,437 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:37:44,437 TRACE CompareDocumentThread:79 - 0.1
+18:37:44,437 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:37:44,437 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:37:44,437 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:37:44,437 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:02,968 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:02,968 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:02,968 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:02,968 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:02,968 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:02,968 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:02,968 TRACE CompareDocumentThread:59 - thenew
+18:38:02,968 TRACE CompareDocumentThread:59 - .
+18:38:02,968 TRACE CompareDocumentThread:59 - theword
+18:38:02,968 TRACE CompareDocumentThread:59 - loveof
+18:38:02,984 TRACE CompareDocumentThread:59 - oflove
+18:38:02,984 TRACE CompareDocumentThread:59 - withthe
+18:38:02,984 TRACE CompareDocumentThread:59 - ofthe
+18:38:02,984 TRACE CompareDocumentThread:59 - newtestament
+18:38:02,984 TRACE CompareDocumentThread:59 - whichis
+18:38:02,984 TRACE CompareDocumentThread:59 - straightaway
+18:38:02,984 TRACE CompareDocumentThread:61 - ------------Score
+18:38:03,000 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:03,000 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:03,000 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:03,000 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:03,000 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:03,000 TRACE CompareDocumentThread:67 - .let
+18:38:03,000 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:03,000 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:03,000 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:03,000 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:03,000 TRACE CompareDocumentThread:67 - ofthethree
+18:38:03,000 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:03,000 TRACE CompareDocumentThread:69 - ------------Score
+18:38:03,000 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:03,000 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:03,000 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:03,000 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:03,000 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:03,000 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:03,000 TRACE CompareDocumentThread:44 - %
+18:38:03,000 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:03,000 TRACE CompareDocumentThread:47 - 100.00
+18:38:03,000 TRACE CompareDocumentThread:48 - %
+18:38:03,000 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:03,000 TRACE CompareDocumentThread:51 - 94.29
+18:38:03,000 TRACE CompareDocumentThread:52 - %
+18:38:03,000 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:03,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:03,000 TRACE CompareDocumentThread:79 - 0.1
+18:38:03,000 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:03,000 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:03,000 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:38:03,000 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:05,921 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:05,921 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:05,921 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:05,968 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:05,968 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:05,968 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:05,968 TRACE CompareDocumentThread:59 - thenew
+18:38:05,968 TRACE CompareDocumentThread:59 - .
+18:38:05,968 TRACE CompareDocumentThread:59 - theword
+18:38:05,968 TRACE CompareDocumentThread:59 - loveof
+18:38:05,968 TRACE CompareDocumentThread:59 - oflove
+18:38:05,968 TRACE CompareDocumentThread:59 - withthe
+18:38:05,968 TRACE CompareDocumentThread:59 - ofthe
+18:38:05,968 TRACE CompareDocumentThread:59 - newtestament
+18:38:05,968 TRACE CompareDocumentThread:59 - whichis
+18:38:05,968 TRACE CompareDocumentThread:59 - straightaway
+18:38:05,968 TRACE CompareDocumentThread:61 - ------------Score
+18:38:05,968 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:05,968 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:05,968 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:05,968 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:05,968 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:05,968 TRACE CompareDocumentThread:67 - .let
+18:38:05,968 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:05,968 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:05,968 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:05,968 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:05,968 TRACE CompareDocumentThread:67 - ofthethree
+18:38:05,968 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:05,968 TRACE CompareDocumentThread:69 - ------------Score
+18:38:05,968 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:05,968 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:05,968 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:05,968 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:05,968 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:05,968 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:05,968 TRACE CompareDocumentThread:44 - %
+18:38:05,968 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:05,968 TRACE CompareDocumentThread:47 - 100.00
+18:38:05,968 TRACE CompareDocumentThread:48 - %
+18:38:05,968 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:05,968 TRACE CompareDocumentThread:51 - 94.29
+18:38:05,968 TRACE CompareDocumentThread:52 - %
+18:38:05,968 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:05,968 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:05,968 TRACE CompareDocumentThread:79 - 0.1
+18:38:05,968 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:05,968 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:05,968 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:38:05,968 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:11,296 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:11,296 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Start_4 ID: 2
+18:38:11,296 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:11,296 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:38:11,296 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:38:11,296 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:11,296 TRACE CompareDocumentThread:59 - .
+18:38:11,296 TRACE CompareDocumentThread:59 - theword
+18:38:11,296 TRACE CompareDocumentThread:59 - oflove
+18:38:11,296 TRACE CompareDocumentThread:59 - letus
+18:38:11,312 TRACE CompareDocumentThread:59 - inthe
+18:38:11,312 TRACE CompareDocumentThread:59 - withthe
+18:38:11,312 TRACE CompareDocumentThread:59 - ofthe
+18:38:11,312 TRACE CompareDocumentThread:59 - newtestament
+18:38:11,312 TRACE CompareDocumentThread:59 - the
+18:38:11,312 TRACE CompareDocumentThread:59 - whichis
+18:38:11,312 TRACE CompareDocumentThread:61 - ------------Score
+18:38:11,312 TRACE CompareDocumentThread:63 - 0.03787878787878788
+18:38:11,328 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:11,328 TRACE CompareDocumentThread:67 - .the
+18:38:11,328 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:11,328 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:11,328 TRACE CompareDocumentThread:67 - .let
+18:38:11,328 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:11,328 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:11,328 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:11,328 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:11,328 TRACE CompareDocumentThread:67 - ofthethree
+18:38:11,328 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:11,328 TRACE CompareDocumentThread:69 - ------------Score
+18:38:11,328 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:11,328 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Start_4:
+18:38:11,328 TRACE CompareDocumentThread:79 - BiWord Quality 40.67796610169492
+18:38:11,328 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:11,328 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:11,328 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:11,328 TRACE CompareDocumentThread:44 - %
+18:38:11,328 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:11,328 TRACE CompareDocumentThread:47 - 160.00
+18:38:11,328 TRACE CompareDocumentThread:48 - %
+18:38:11,328 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:11,328 TRACE CompareDocumentThread:51 - 97.78
+18:38:11,328 TRACE CompareDocumentThread:52 - %
+18:38:11,328 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:11,328 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:38:11,328 TRACE CompareDocumentThread:79 - 0.04
+18:38:11,328 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:11,328 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:11,328 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.4678323119881562
+18:38:11,328 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.4620253164556962
+18:38:13,828 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:13,828 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Through_5.txt ID: 3
+18:38:13,828 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:13,859 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Through_5.txt
+
+18:38:13,859 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Through_5.txt
+
+18:38:13,859 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:13,859 TRACE CompareDocumentThread:59 - 
+18:38:13,859 TRACE CompareDocumentThread:59 - .
+18:38:13,859 TRACE CompareDocumentThread:59 - theword
+18:38:13,859 TRACE CompareDocumentThread:59 - acertain
+18:38:13,859 TRACE CompareDocumentThread:59 - inthe
+18:38:13,859 TRACE CompareDocumentThread:59 - withthe
+18:38:13,859 TRACE CompareDocumentThread:59 - ofthe
+18:38:13,859 TRACE CompareDocumentThread:59 - the
+18:38:13,859 TRACE CompareDocumentThread:59 - whichis
+18:38:13,859 TRACE CompareDocumentThread:59 - itis
+18:38:13,859 TRACE CompareDocumentThread:61 - ------------Score
+18:38:13,859 TRACE CompareDocumentThread:63 - 0.03164556962025317
+18:38:13,859 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:13,859 TRACE CompareDocumentThread:67 - 
+18:38:13,859 TRACE CompareDocumentThread:67 - acertainforetaste
+18:38:13,859 TRACE CompareDocumentThread:67 - foretasteofthe
+18:38:13,859 TRACE CompareDocumentThread:67 - .the
+18:38:13,859 TRACE CompareDocumentThread:67 - certainforetasteof
+18:38:13,859 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:13,859 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:13,859 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:13,859 TRACE CompareDocumentThread:67 - ofthethree
+18:38:13,859 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:13,859 TRACE CompareDocumentThread:69 - ------------Score
+18:38:13,859 TRACE CompareDocumentThread:71 - 0.03745318352059925
+18:38:13,859 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Through_5.txt:
+18:38:13,859 TRACE CompareDocumentThread:79 - BiWord Quality 22.7994227994228
+18:38:13,859 TRACE CompareDocumentThread:80 - TriWord Quality 51.14942528735632
+18:38:13,859 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:13,859 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:13,859 TRACE CompareDocumentThread:44 - %
+18:38:13,859 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:13,859 TRACE CompareDocumentThread:47 - 153.33
+18:38:13,859 TRACE CompareDocumentThread:48 - %
+18:38:13,859 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:13,859 TRACE CompareDocumentThread:51 - 106.09
+18:38:13,859 TRACE CompareDocumentThread:52 - %
+18:38:13,859 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:13,859 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:38:13,859 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 1 is 0.0%
+18:38:13,859 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 2 is 0.0%
+18:38:13,859 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 3 is 0.0%
+18:38:13,859 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 4 is 0.0%
+18:38:13,859 TRACE CompareDocumentThread:79 - 0.0080
+18:38:13,859 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:13,859 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:13,859 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.10325456870689759
+18:38:13,859 TRACE CompareDocumentThread:98 - Analysis Completed with Value 2.9981933832662127
+18:38:16,968 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Start_4 ID: 2
+18:38:16,968 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Through_5.txt ID: 3
+18:38:16,968 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:17,000 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3_Start_4 vs DeusCaritasEst3_Through_5.txt
+
+18:38:17,000 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3_Start_4 vs DeusCaritasEst3_Through_5.txt
+
+18:38:17,000 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:17,000 TRACE CompareDocumentThread:59 - 
+18:38:17,000 TRACE CompareDocumentThread:59 - .
+18:38:17,000 TRACE CompareDocumentThread:59 - acertain
+18:38:17,000 TRACE CompareDocumentThread:59 - inthe
+18:38:17,000 TRACE CompareDocumentThread:59 - asa
+18:38:17,000 TRACE CompareDocumentThread:59 - withthe
+18:38:17,000 TRACE CompareDocumentThread:59 - ofthe
+18:38:17,000 TRACE CompareDocumentThread:59 - the
+18:38:17,000 TRACE CompareDocumentThread:59 - whichis
+18:38:17,000 TRACE CompareDocumentThread:59 - itis
+18:38:17,000 TRACE CompareDocumentThread:61 - ------------Score
+18:38:17,000 TRACE CompareDocumentThread:63 - 0.022222222222222223
+18:38:17,000 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:17,000 TRACE CompareDocumentThread:67 - 
+18:38:17,000 TRACE CompareDocumentThread:67 - certainforetasteof
+18:38:17,000 TRACE CompareDocumentThread:67 - acertainforetaste
+18:38:17,000 TRACE CompareDocumentThread:67 - foretasteofthe
+18:38:17,000 TRACE CompareDocumentThread:67 - .the
+18:38:17,000 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:17,000 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:17,000 TRACE CompareDocumentThread:67 - appearsecondary:“omnia
+18:38:17,000 TRACE CompareDocumentThread:67 - asfellowshipwith
+18:38:17,000 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:17,000 TRACE CompareDocumentThread:69 - ------------Score
+18:38:17,000 TRACE CompareDocumentThread:71 - 0.024630541871921183
+18:38:17,000 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3_Start_4 vs DeusCaritasEst3_Through_5.txt:
+18:38:17,000 TRACE CompareDocumentThread:79 - BiWord Quality 29.64426877470356
+18:38:17,000 TRACE CompareDocumentThread:80 - TriWord Quality 51.653944020356235
+18:38:17,000 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:17,000 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:17,000 TRACE CompareDocumentThread:44 - %
+18:38:17,000 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:17,000 TRACE CompareDocumentThread:47 - 133.33
+18:38:17,000 TRACE CompareDocumentThread:48 - %
+18:38:17,000 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:17,000 TRACE CompareDocumentThread:51 - 95.20
+18:38:17,000 TRACE CompareDocumentThread:52 - %
+18:38:17,000 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:17,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:17,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 1 is 0.0%
+18:38:17,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 2 is 0.0%
+18:38:17,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 3 is 0.0%
+18:38:17,000 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 4 is 0.0%
+18:38:17,000 TRACE CompareDocumentThread:79 - 0.02
+18:38:17,000 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:17,000 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:17,000 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.21259277851482666
+18:38:17,000 TRACE CompareDocumentThread:98 - Analysis Completed with Value 2.168831168831169
+18:38:20,593 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:20,593 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Through_5.txt ID: 3
+18:38:20,593 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:20,640 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:38:20,640 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:38:20,640 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:20,640 TRACE CompareDocumentThread:59 - 
+18:38:20,640 TRACE CompareDocumentThread:59 - .
+18:38:20,640 TRACE CompareDocumentThread:59 - theword
+18:38:20,640 TRACE CompareDocumentThread:59 - acertain
+18:38:20,640 TRACE CompareDocumentThread:59 - inthe
+18:38:20,640 TRACE CompareDocumentThread:59 - withthe
+18:38:20,640 TRACE CompareDocumentThread:59 - ofthe
+18:38:20,640 TRACE CompareDocumentThread:59 - the
+18:38:20,640 TRACE CompareDocumentThread:59 - whichis
+18:38:20,640 TRACE CompareDocumentThread:59 - itis
+18:38:20,640 TRACE CompareDocumentThread:61 - ------------Score
+18:38:20,640 TRACE CompareDocumentThread:63 - 0.03164556962025317
+18:38:20,640 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:20,640 TRACE CompareDocumentThread:67 - 
+18:38:20,640 TRACE CompareDocumentThread:67 - acertainforetaste
+18:38:20,640 TRACE CompareDocumentThread:67 - foretasteofthe
+18:38:20,640 TRACE CompareDocumentThread:67 - .the
+18:38:20,640 TRACE CompareDocumentThread:67 - certainforetasteof
+18:38:20,640 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:20,640 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:20,640 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:20,640 TRACE CompareDocumentThread:67 - ofthethree
+18:38:20,640 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:20,640 TRACE CompareDocumentThread:69 - ------------Score
+18:38:20,640 TRACE CompareDocumentThread:71 - 0.03745318352059925
+18:38:20,640 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt:
+18:38:20,640 TRACE CompareDocumentThread:79 - BiWord Quality 22.91515591007977
+18:38:20,640 TRACE CompareDocumentThread:80 - TriWord Quality 52.55905511811023
+18:38:20,640 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:20,640 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:20,640 TRACE CompareDocumentThread:44 - %
+18:38:20,640 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:20,640 TRACE CompareDocumentThread:47 - 153.33
+18:38:20,640 TRACE CompareDocumentThread:48 - %
+18:38:20,640 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:20,640 TRACE CompareDocumentThread:51 - 105.22
+18:38:20,640 TRACE CompareDocumentThread:52 - %
+18:38:20,640 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:20,640 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:38:20,640 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 1 is 0.0%
+18:38:20,640 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 2 is 0.0%
+18:38:20,640 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 3 is 0.0%
+18:38:20,640 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 4 is 0.0%
+18:38:20,640 TRACE CompareDocumentThread:79 - 0.0080
+18:38:20,640 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:20,640 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:20,640 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.09945777108457736
+18:38:20,640 TRACE CompareDocumentThread:98 - Analysis Completed with Value 3.170886075949367
+18:38:23,937 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:23,937 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:23,937 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:23,937 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:23,937 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:23,937 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:23,937 TRACE CompareDocumentThread:59 - thenew
+18:38:23,937 TRACE CompareDocumentThread:59 - .
+18:38:23,937 TRACE CompareDocumentThread:59 - theword
+18:38:23,937 TRACE CompareDocumentThread:59 - loveof
+18:38:23,937 TRACE CompareDocumentThread:59 - oflove
+18:38:23,953 TRACE CompareDocumentThread:59 - withthe
+18:38:23,953 TRACE CompareDocumentThread:59 - ofthe
+18:38:23,953 TRACE CompareDocumentThread:59 - newtestament
+18:38:23,953 TRACE CompareDocumentThread:59 - whichis
+18:38:23,953 TRACE CompareDocumentThread:59 - straightaway
+18:38:23,953 TRACE CompareDocumentThread:61 - ------------Score
+18:38:23,953 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:23,968 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:23,968 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:23,968 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:23,968 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:23,968 TRACE CompareDocumentThread:67 - .let
+18:38:23,968 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:23,968 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:23,968 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:23,968 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:23,968 TRACE CompareDocumentThread:67 - ofthethree
+18:38:23,968 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:23,968 TRACE CompareDocumentThread:69 - ------------Score
+18:38:23,968 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:23,968 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:23,968 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:23,968 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:23,968 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:23,968 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:23,968 TRACE CompareDocumentThread:44 - %
+18:38:23,968 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:23,968 TRACE CompareDocumentThread:47 - 100.00
+18:38:23,968 TRACE CompareDocumentThread:48 - %
+18:38:23,968 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:23,968 TRACE CompareDocumentThread:51 - 94.29
+18:38:23,968 TRACE CompareDocumentThread:52 - %
+18:38:23,968 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:23,968 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:23,968 TRACE CompareDocumentThread:79 - 0.1
+18:38:23,968 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:23,968 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:23,968 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:38:23,968 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:31,921 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:31,921 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:31,921 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:31,921 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:31,921 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:31,921 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:31,921 TRACE CompareDocumentThread:59 - thenew
+18:38:31,921 TRACE CompareDocumentThread:59 - .
+18:38:31,921 TRACE CompareDocumentThread:59 - theword
+18:38:31,921 TRACE CompareDocumentThread:59 - loveof
+18:38:31,937 TRACE CompareDocumentThread:59 - oflove
+18:38:31,937 TRACE CompareDocumentThread:59 - withthe
+18:38:31,937 TRACE CompareDocumentThread:59 - ofthe
+18:38:31,937 TRACE CompareDocumentThread:59 - newtestament
+18:38:31,937 TRACE CompareDocumentThread:59 - whichis
+18:38:31,937 TRACE CompareDocumentThread:59 - straightaway
+18:38:31,937 TRACE CompareDocumentThread:61 - ------------Score
+18:38:31,937 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:31,953 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:31,953 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:31,953 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:31,953 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:31,953 TRACE CompareDocumentThread:67 - .let
+18:38:31,953 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:31,953 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:31,953 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:31,953 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:31,953 TRACE CompareDocumentThread:67 - ofthethree
+18:38:31,953 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:31,953 TRACE CompareDocumentThread:69 - ------------Score
+18:38:31,953 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:31,953 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:31,953 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:31,953 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:31,953 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:31,953 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:31,953 TRACE CompareDocumentThread:44 - %
+18:38:31,953 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:31,953 TRACE CompareDocumentThread:47 - 100.00
+18:38:31,953 TRACE CompareDocumentThread:48 - %
+18:38:31,953 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:31,953 TRACE CompareDocumentThread:51 - 94.29
+18:38:31,953 TRACE CompareDocumentThread:52 - %
+18:38:31,953 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:31,953 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:31,953 TRACE CompareDocumentThread:79 - 0.1
+18:38:31,953 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:31,953 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:31,953 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:38:31,953 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:38,234 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:38,234 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:38,234 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:38,250 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:38,250 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:38,250 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:38,250 TRACE CompareDocumentThread:59 - thenew
+18:38:38,250 TRACE CompareDocumentThread:59 - .
+18:38:38,250 TRACE CompareDocumentThread:59 - theword
+18:38:38,250 TRACE CompareDocumentThread:59 - loveof
+18:38:38,265 TRACE CompareDocumentThread:59 - oflove
+18:38:38,265 TRACE CompareDocumentThread:59 - withthe
+18:38:38,265 TRACE CompareDocumentThread:59 - ofthe
+18:38:38,265 TRACE CompareDocumentThread:59 - newtestament
+18:38:38,265 TRACE CompareDocumentThread:59 - whichis
+18:38:38,265 TRACE CompareDocumentThread:59 - straightaway
+18:38:38,265 TRACE CompareDocumentThread:61 - ------------Score
+18:38:38,265 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:38,281 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:38,281 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:38,281 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:38,281 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:38,281 TRACE CompareDocumentThread:67 - .let
+18:38:38,281 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:38,281 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:38,281 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:38,281 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:38,281 TRACE CompareDocumentThread:67 - ofthethree
+18:38:38,281 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:38,281 TRACE CompareDocumentThread:69 - ------------Score
+18:38:38,281 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:38,281 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:38,281 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:38,281 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:38,281 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:38,281 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:38,281 TRACE CompareDocumentThread:44 - %
+18:38:38,281 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:38,281 TRACE CompareDocumentThread:47 - 100.00
+18:38:38,281 TRACE CompareDocumentThread:48 - %
+18:38:38,281 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:38,281 TRACE CompareDocumentThread:51 - 94.29
+18:38:38,281 TRACE CompareDocumentThread:52 - %
+18:38:38,281 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:38,281 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:38,281 TRACE CompareDocumentThread:79 - 0.1
+18:38:38,281 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:38:38,281 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:38:38,281 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:38:38,281 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:38:49,109 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:38:49,109 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:38:49,109 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:38:49,140 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:49,140 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:38:49,140 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:38:49,140 TRACE CompareDocumentThread:59 - thenew
+18:38:49,140 TRACE CompareDocumentThread:59 - .
+18:38:49,140 TRACE CompareDocumentThread:59 - theword
+18:38:49,140 TRACE CompareDocumentThread:59 - loveof
+18:38:49,140 TRACE CompareDocumentThread:59 - oflove
+18:38:49,140 TRACE CompareDocumentThread:59 - withthe
+18:38:49,140 TRACE CompareDocumentThread:59 - ofthe
+18:38:49,140 TRACE CompareDocumentThread:59 - newtestament
+18:38:49,140 TRACE CompareDocumentThread:59 - whichis
+18:38:49,140 TRACE CompareDocumentThread:59 - straightaway
+18:38:49,140 TRACE CompareDocumentThread:61 - ------------Score
+18:38:49,140 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:38:49,140 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:38:49,140 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:38:49,140 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:38:49,140 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:38:49,140 TRACE CompareDocumentThread:67 - .let
+18:38:49,140 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:38:49,140 TRACE CompareDocumentThread:67 - blowthewhistle
+18:38:49,140 TRACE CompareDocumentThread:67 - usedwithadded
+18:38:49,140 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:38:49,140 TRACE CompareDocumentThread:67 - ofthethree
+18:38:49,140 TRACE CompareDocumentThread:67 - humanbeings,was
+18:38:49,140 TRACE CompareDocumentThread:69 - ------------Score
+18:38:49,140 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:38:49,140 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:38:49,140 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:38:49,140 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:38:49,140 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:38:49,140 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:38:49,140 TRACE CompareDocumentThread:44 - %
+18:38:49,140 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:38:49,140 TRACE CompareDocumentThread:47 - 100.00
+18:38:49,140 TRACE CompareDocumentThread:48 - %
+18:38:49,140 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:38:49,140 TRACE CompareDocumentThread:51 - 94.29
+18:38:49,140 TRACE CompareDocumentThread:52 - %
+18:38:49,140 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:38:49,140 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:38:49,140 TRACE CompareDocumentThread:79 - 0.1
+18:38:49,140 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:39:03,375 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:39:03,375 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:39:03,375 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:39:03,406 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:39:03,406 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:39:03,406 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:39:03,406 TRACE CompareDocumentThread:59 - thenew
+18:39:03,406 TRACE CompareDocumentThread:59 - .
+18:39:03,406 TRACE CompareDocumentThread:59 - theword
+18:39:03,406 TRACE CompareDocumentThread:59 - loveof
+18:39:03,406 TRACE CompareDocumentThread:59 - oflove
+18:39:03,406 TRACE CompareDocumentThread:59 - withthe
+18:39:03,406 TRACE CompareDocumentThread:59 - ofthe
+18:39:03,406 TRACE CompareDocumentThread:59 - newtestament
+18:39:03,406 TRACE CompareDocumentThread:59 - whichis
+18:39:03,406 TRACE CompareDocumentThread:59 - straightaway
+18:39:03,406 TRACE CompareDocumentThread:61 - ------------Score
+18:39:03,406 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:39:03,406 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:39:03,406 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:39:03,406 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:39:03,406 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:39:03,406 TRACE CompareDocumentThread:67 - .let
+18:39:03,406 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:39:03,406 TRACE CompareDocumentThread:67 - blowthewhistle
+18:39:03,406 TRACE CompareDocumentThread:67 - usedwithadded
+18:39:03,406 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:39:03,406 TRACE CompareDocumentThread:67 - ofthethree
+18:39:03,406 TRACE CompareDocumentThread:67 - humanbeings,was
+18:39:03,406 TRACE CompareDocumentThread:69 - ------------Score
+18:39:03,406 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:39:03,406 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:39:03,406 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:39:03,406 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:39:03,406 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:39:03,406 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:39:03,406 TRACE CompareDocumentThread:44 - %
+18:39:03,406 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:39:03,406 TRACE CompareDocumentThread:47 - 100.00
+18:39:03,406 TRACE CompareDocumentThread:48 - %
+18:39:03,406 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:39:03,406 TRACE CompareDocumentThread:51 - 94.29
+18:39:03,406 TRACE CompareDocumentThread:52 - %
+18:39:03,406 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:39:03,406 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:39:03,406 TRACE CompareDocumentThread:79 - 0.1
+18:39:03,406 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:39:03,406 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:39:03,406 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:39:03,406 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:40:33,625 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:40:33,625 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:40:33,625 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:40:33,625 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:33,625 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:33,625 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:40:33,625 TRACE CompareDocumentThread:59 - thenew
+18:40:33,625 TRACE CompareDocumentThread:59 - .
+18:40:33,625 TRACE CompareDocumentThread:59 - theword
+18:40:33,625 TRACE CompareDocumentThread:59 - loveof
+18:40:33,640 TRACE CompareDocumentThread:59 - oflove
+18:40:33,640 TRACE CompareDocumentThread:59 - withthe
+18:40:33,640 TRACE CompareDocumentThread:59 - ofthe
+18:40:33,640 TRACE CompareDocumentThread:59 - newtestament
+18:40:33,640 TRACE CompareDocumentThread:59 - whichis
+18:40:33,640 TRACE CompareDocumentThread:59 - straightaway
+18:40:33,656 TRACE CompareDocumentThread:61 - ------------Score
+18:40:33,656 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:40:33,656 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:40:33,656 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:40:33,656 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:40:33,656 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:40:33,656 TRACE CompareDocumentThread:67 - .let
+18:40:33,656 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:40:33,656 TRACE CompareDocumentThread:67 - blowthewhistle
+18:40:33,656 TRACE CompareDocumentThread:67 - usedwithadded
+18:40:33,656 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:40:33,656 TRACE CompareDocumentThread:67 - ofthethree
+18:40:33,656 TRACE CompareDocumentThread:67 - humanbeings,was
+18:40:33,656 TRACE CompareDocumentThread:69 - ------------Score
+18:40:33,656 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:40:33,656 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:40:33,656 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:40:33,656 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:40:33,656 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:40:33,656 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:40:33,656 TRACE CompareDocumentThread:44 - %
+18:40:33,656 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:40:33,656 TRACE CompareDocumentThread:47 - 100.00
+18:40:33,656 TRACE CompareDocumentThread:48 - %
+18:40:33,656 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:40:33,656 TRACE CompareDocumentThread:51 - 91.43
+18:40:33,656 TRACE CompareDocumentThread:52 - %
+18:40:33,656 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:40:33,656 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:40:33,656 TRACE CompareDocumentThread:79 - 0.1
+18:40:33,656 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:40:33,656 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:40:33,656 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:40:33,656 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:40:48,375 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:40:48,375 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:40:48,375 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:40:48,390 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:48,390 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:48,390 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:40:48,390 TRACE CompareDocumentThread:59 - thenew
+18:40:48,390 TRACE CompareDocumentThread:59 - .
+18:40:48,390 TRACE CompareDocumentThread:59 - theword
+18:40:48,390 TRACE CompareDocumentThread:59 - loveof
+18:40:48,406 TRACE CompareDocumentThread:59 - oflove
+18:40:48,406 TRACE CompareDocumentThread:59 - withthe
+18:40:48,406 TRACE CompareDocumentThread:59 - ofthe
+18:40:48,406 TRACE CompareDocumentThread:59 - newtestament
+18:40:48,406 TRACE CompareDocumentThread:59 - whichis
+18:40:48,406 TRACE CompareDocumentThread:59 - straightaway
+18:40:48,406 TRACE CompareDocumentThread:61 - ------------Score
+18:40:48,406 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:40:48,421 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:40:48,421 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:40:48,421 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:40:48,421 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:40:48,421 TRACE CompareDocumentThread:67 - .let
+18:40:48,421 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:40:48,421 TRACE CompareDocumentThread:67 - blowthewhistle
+18:40:48,421 TRACE CompareDocumentThread:67 - usedwithadded
+18:40:48,421 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:40:48,421 TRACE CompareDocumentThread:67 - ofthethree
+18:40:48,421 TRACE CompareDocumentThread:67 - humanbeings,was
+18:40:48,421 TRACE CompareDocumentThread:69 - ------------Score
+18:40:48,421 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:40:48,421 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:40:48,421 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:40:48,421 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:40:48,421 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:40:48,421 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:40:48,421 TRACE CompareDocumentThread:44 - %
+18:40:48,421 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:40:48,421 TRACE CompareDocumentThread:47 - 100.00
+18:40:48,421 TRACE CompareDocumentThread:48 - %
+18:40:48,421 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:40:48,421 TRACE CompareDocumentThread:51 - 91.43
+18:40:48,421 TRACE CompareDocumentThread:52 - %
+18:40:48,421 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:40:48,421 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:40:48,421 TRACE CompareDocumentThread:79 - 0.1
+18:40:48,421 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:40:48,421 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:40:48,421 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:40:48,421 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:40:49,312 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:40:49,312 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:40:49,312 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:40:49,328 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:49,328 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:40:49,328 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:40:49,328 TRACE CompareDocumentThread:59 - thenew
+18:40:49,328 TRACE CompareDocumentThread:59 - .
+18:40:49,328 TRACE CompareDocumentThread:59 - theword
+18:40:49,328 TRACE CompareDocumentThread:59 - loveof
+18:40:49,328 TRACE CompareDocumentThread:59 - oflove
+18:40:49,328 TRACE CompareDocumentThread:59 - withthe
+18:40:49,328 TRACE CompareDocumentThread:59 - ofthe
+18:40:49,328 TRACE CompareDocumentThread:59 - newtestament
+18:40:49,328 TRACE CompareDocumentThread:59 - whichis
+18:40:49,328 TRACE CompareDocumentThread:59 - straightaway
+18:40:49,328 TRACE CompareDocumentThread:61 - ------------Score
+18:40:49,328 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:40:49,328 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:40:49,328 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:40:49,328 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:40:49,328 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:40:49,328 TRACE CompareDocumentThread:67 - .let
+18:40:49,328 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:40:49,328 TRACE CompareDocumentThread:67 - blowthewhistle
+18:40:49,328 TRACE CompareDocumentThread:67 - usedwithadded
+18:40:49,328 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:40:49,328 TRACE CompareDocumentThread:67 - ofthethree
+18:40:49,328 TRACE CompareDocumentThread:67 - humanbeings,was
+18:40:49,328 TRACE CompareDocumentThread:69 - ------------Score
+18:40:49,328 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:40:49,328 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:40:49,328 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:40:49,328 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:40:49,328 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:40:49,328 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:40:49,328 TRACE CompareDocumentThread:44 - %
+18:40:49,328 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:40:49,328 TRACE CompareDocumentThread:47 - 100.00
+18:40:49,328 TRACE CompareDocumentThread:48 - %
+18:40:49,328 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:40:49,328 TRACE CompareDocumentThread:51 - 91.43
+18:40:49,328 TRACE CompareDocumentThread:52 - %
+18:40:49,328 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:40:49,328 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:40:49,328 TRACE CompareDocumentThread:79 - 0.1
+18:40:49,328 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:40:49,328 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:40:49,328 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:40:49,328 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:41:01,531 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:41:01,531 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:41:01,531 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:41:01,546 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:01,546 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:01,546 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:41:01,546 TRACE CompareDocumentThread:59 - thenew
+18:41:01,546 TRACE CompareDocumentThread:59 - .
+18:41:01,546 TRACE CompareDocumentThread:59 - theword
+18:41:01,546 TRACE CompareDocumentThread:59 - loveof
+18:41:01,578 TRACE CompareDocumentThread:59 - oflove
+18:41:01,578 TRACE CompareDocumentThread:59 - withthe
+18:41:01,578 TRACE CompareDocumentThread:59 - ofthe
+18:41:01,578 TRACE CompareDocumentThread:59 - newtestament
+18:41:01,578 TRACE CompareDocumentThread:59 - whichis
+18:41:01,578 TRACE CompareDocumentThread:59 - straightaway
+18:41:01,578 TRACE CompareDocumentThread:61 - ------------Score
+18:41:01,578 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:41:01,578 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:41:01,578 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:41:01,578 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:41:01,578 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:41:01,578 TRACE CompareDocumentThread:67 - .let
+18:41:01,578 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:41:01,578 TRACE CompareDocumentThread:67 - blowthewhistle
+18:41:01,578 TRACE CompareDocumentThread:67 - usedwithadded
+18:41:01,578 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:41:01,578 TRACE CompareDocumentThread:67 - ofthethree
+18:41:01,578 TRACE CompareDocumentThread:67 - humanbeings,was
+18:41:01,578 TRACE CompareDocumentThread:69 - ------------Score
+18:41:01,578 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:41:01,578 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:41:01,578 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:41:01,578 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:41:01,578 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:41:01,578 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:41:01,578 TRACE CompareDocumentThread:44 - %
+18:41:01,578 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:41:01,578 TRACE CompareDocumentThread:47 - 100.00
+18:41:01,578 TRACE CompareDocumentThread:48 - %
+18:41:01,578 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:41:01,578 TRACE CompareDocumentThread:51 - 91.43
+18:41:01,578 TRACE CompareDocumentThread:52 - %
+18:41:01,578 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:41:01,578 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:41:01,578 TRACE CompareDocumentThread:79 - 0.1
+18:41:01,578 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:41:01,578 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:41:01,578 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:41:01,578 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:41:10,000 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:41:10,000 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:41:10,000 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:41:10,000 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:10,000 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:10,000 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:41:10,000 TRACE CompareDocumentThread:59 - thenew
+18:41:10,000 TRACE CompareDocumentThread:59 - .
+18:41:10,000 TRACE CompareDocumentThread:59 - theword
+18:41:10,000 TRACE CompareDocumentThread:59 - loveof
+18:41:10,015 TRACE CompareDocumentThread:59 - oflove
+18:41:10,015 TRACE CompareDocumentThread:59 - withthe
+18:41:10,015 TRACE CompareDocumentThread:59 - ofthe
+18:41:10,015 TRACE CompareDocumentThread:59 - newtestament
+18:41:10,015 TRACE CompareDocumentThread:59 - whichis
+18:41:10,015 TRACE CompareDocumentThread:59 - straightaway
+18:41:10,015 TRACE CompareDocumentThread:61 - ------------Score
+18:41:10,015 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:41:10,031 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:41:10,031 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:41:10,031 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:41:10,031 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:41:10,031 TRACE CompareDocumentThread:67 - .let
+18:41:10,031 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:41:10,031 TRACE CompareDocumentThread:67 - blowthewhistle
+18:41:10,031 TRACE CompareDocumentThread:67 - usedwithadded
+18:41:10,031 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:41:10,031 TRACE CompareDocumentThread:67 - ofthethree
+18:41:10,031 TRACE CompareDocumentThread:67 - humanbeings,was
+18:41:10,031 TRACE CompareDocumentThread:69 - ------------Score
+18:41:10,031 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:41:10,031 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:41:10,031 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:41:10,031 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:41:10,031 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:41:10,031 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:41:10,031 TRACE CompareDocumentThread:44 - %
+18:41:10,031 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:41:10,031 TRACE CompareDocumentThread:47 - 100.00
+18:41:10,031 TRACE CompareDocumentThread:48 - %
+18:41:10,031 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:41:10,031 TRACE CompareDocumentThread:51 - 91.43
+18:41:10,031 TRACE CompareDocumentThread:52 - %
+18:41:10,031 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:41:10,031 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:41:10,031 TRACE CompareDocumentThread:79 - 0.1
+18:41:10,031 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:41:10,031 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:41:10,031 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:41:10,031 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:41:19,281 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:41:19,281 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:41:19,281 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:41:19,296 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:19,296 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:19,296 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:41:19,296 TRACE CompareDocumentThread:59 - thenew
+18:41:19,296 TRACE CompareDocumentThread:59 - .
+18:41:19,296 TRACE CompareDocumentThread:59 - theword
+18:41:19,296 TRACE CompareDocumentThread:59 - loveof
+18:41:19,312 TRACE CompareDocumentThread:59 - oflove
+18:41:19,312 TRACE CompareDocumentThread:59 - withthe
+18:41:19,312 TRACE CompareDocumentThread:59 - ofthe
+18:41:19,312 TRACE CompareDocumentThread:59 - newtestament
+18:41:19,312 TRACE CompareDocumentThread:59 - whichis
+18:41:19,312 TRACE CompareDocumentThread:59 - straightaway
+18:41:19,312 TRACE CompareDocumentThread:61 - ------------Score
+18:41:19,312 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:41:19,328 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:41:19,328 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:41:19,328 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:41:19,328 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:41:19,328 TRACE CompareDocumentThread:67 - .let
+18:41:19,328 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:41:19,328 TRACE CompareDocumentThread:67 - blowthewhistle
+18:41:19,328 TRACE CompareDocumentThread:67 - usedwithadded
+18:41:19,328 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:41:19,328 TRACE CompareDocumentThread:67 - ofthethree
+18:41:19,328 TRACE CompareDocumentThread:67 - humanbeings,was
+18:41:19,328 TRACE CompareDocumentThread:69 - ------------Score
+18:41:19,328 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:41:19,328 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:41:19,328 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:41:19,328 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:41:19,328 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:41:19,328 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:41:19,328 TRACE CompareDocumentThread:44 - %
+18:41:19,328 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:41:19,328 TRACE CompareDocumentThread:47 - 100.00
+18:41:19,328 TRACE CompareDocumentThread:48 - %
+18:41:19,328 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:41:19,328 TRACE CompareDocumentThread:51 - 91.43
+18:41:19,328 TRACE CompareDocumentThread:52 - %
+18:41:19,328 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:41:19,328 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:41:19,328 TRACE CompareDocumentThread:79 - 0.1
+18:41:19,328 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:41:19,328 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:41:19,328 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:41:19,328 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:41:24,406 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:41:24,406 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:41:24,406 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:41:24,406 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:24,406 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:24,406 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:41:24,406 TRACE CompareDocumentThread:59 - thenew
+18:41:24,406 TRACE CompareDocumentThread:59 - .
+18:41:24,406 TRACE CompareDocumentThread:59 - theword
+18:41:24,406 TRACE CompareDocumentThread:59 - loveof
+18:41:24,421 TRACE CompareDocumentThread:59 - oflove
+18:41:24,421 TRACE CompareDocumentThread:59 - withthe
+18:41:24,421 TRACE CompareDocumentThread:59 - ofthe
+18:41:24,421 TRACE CompareDocumentThread:59 - newtestament
+18:41:24,421 TRACE CompareDocumentThread:59 - whichis
+18:41:24,437 TRACE CompareDocumentThread:59 - straightaway
+18:41:24,437 TRACE CompareDocumentThread:61 - ------------Score
+18:41:24,437 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:41:24,437 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:41:24,437 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:41:24,437 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:41:24,437 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:41:24,437 TRACE CompareDocumentThread:67 - .let
+18:41:24,437 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:41:24,437 TRACE CompareDocumentThread:67 - blowthewhistle
+18:41:24,437 TRACE CompareDocumentThread:67 - usedwithadded
+18:41:24,437 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:41:24,437 TRACE CompareDocumentThread:67 - ofthethree
+18:41:24,437 TRACE CompareDocumentThread:67 - humanbeings,was
+18:41:24,437 TRACE CompareDocumentThread:69 - ------------Score
+18:41:24,437 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:41:24,437 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:41:24,437 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:41:24,437 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:41:24,437 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:41:24,437 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:41:24,437 TRACE CompareDocumentThread:44 - %
+18:41:24,437 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:41:24,437 TRACE CompareDocumentThread:47 - 100.00
+18:41:24,437 TRACE CompareDocumentThread:48 - %
+18:41:24,437 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:41:24,437 TRACE CompareDocumentThread:51 - 91.43
+18:41:24,437 TRACE CompareDocumentThread:52 - %
+18:41:24,437 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:41:24,437 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:41:24,437 TRACE CompareDocumentThread:79 - 0.1
+18:41:24,437 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:41:24,437 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:41:24,437 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:41:24,437 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:41:56,156 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:41:56,156 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:41:56,156 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:41:56,171 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:56,171 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:41:56,171 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:41:56,171 TRACE CompareDocumentThread:59 - thenew
+18:41:56,171 TRACE CompareDocumentThread:59 - .
+18:41:56,171 TRACE CompareDocumentThread:59 - theword
+18:41:56,171 TRACE CompareDocumentThread:59 - loveof
+18:41:56,203 TRACE CompareDocumentThread:59 - oflove
+18:41:56,203 TRACE CompareDocumentThread:59 - withthe
+18:41:56,203 TRACE CompareDocumentThread:59 - ofthe
+18:41:56,203 TRACE CompareDocumentThread:59 - newtestament
+18:41:56,203 TRACE CompareDocumentThread:59 - whichis
+18:41:56,203 TRACE CompareDocumentThread:59 - straightaway
+18:41:56,203 TRACE CompareDocumentThread:61 - ------------Score
+18:41:56,203 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:41:56,203 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:41:56,218 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:41:56,218 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:41:56,218 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:41:56,218 TRACE CompareDocumentThread:67 - .let
+18:41:56,218 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:41:56,218 TRACE CompareDocumentThread:67 - blowthewhistle
+18:41:56,218 TRACE CompareDocumentThread:67 - usedwithadded
+18:41:56,218 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:41:56,218 TRACE CompareDocumentThread:67 - ofthethree
+18:41:56,218 TRACE CompareDocumentThread:67 - humanbeings,was
+18:41:56,218 TRACE CompareDocumentThread:69 - ------------Score
+18:41:56,218 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:41:56,218 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:41:56,218 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:41:56,218 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:41:56,218 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:41:56,218 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:41:56,218 TRACE CompareDocumentThread:44 - %
+18:41:56,218 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:41:56,218 TRACE CompareDocumentThread:47 - 100.00
+18:41:56,218 TRACE CompareDocumentThread:48 - %
+18:41:56,218 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:41:56,218 TRACE CompareDocumentThread:51 - 91.43
+18:41:56,218 TRACE CompareDocumentThread:52 - %
+18:41:56,218 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:41:56,218 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:41:56,218 TRACE CompareDocumentThread:79 - 0.1
+18:41:56,218 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:41:56,218 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:41:56,218 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:41:56,218 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:42:51,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:42:51,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:42:51,546 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:42:51,562 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:42:51,562 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:42:51,562 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:42:51,562 TRACE CompareDocumentThread:59 - thenew
+18:42:51,562 TRACE CompareDocumentThread:59 - .
+18:42:51,562 TRACE CompareDocumentThread:59 - theword
+18:42:51,562 TRACE CompareDocumentThread:59 - loveof
+18:42:51,578 TRACE CompareDocumentThread:59 - oflove
+18:42:51,578 TRACE CompareDocumentThread:59 - withthe
+18:42:51,578 TRACE CompareDocumentThread:59 - ofthe
+18:42:51,578 TRACE CompareDocumentThread:59 - newtestament
+18:42:51,578 TRACE CompareDocumentThread:59 - whichis
+18:42:51,578 TRACE CompareDocumentThread:59 - straightaway
+18:42:51,578 TRACE CompareDocumentThread:61 - ------------Score
+18:42:51,578 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:42:51,593 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:42:51,593 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:42:51,593 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:42:51,593 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:42:51,593 TRACE CompareDocumentThread:67 - .let
+18:42:51,593 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:42:51,593 TRACE CompareDocumentThread:67 - blowthewhistle
+18:42:51,593 TRACE CompareDocumentThread:67 - usedwithadded
+18:42:51,593 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:42:51,593 TRACE CompareDocumentThread:67 - ofthethree
+18:42:51,593 TRACE CompareDocumentThread:67 - humanbeings,was
+18:42:51,593 TRACE CompareDocumentThread:69 - ------------Score
+18:42:51,593 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:42:51,593 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:42:51,593 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:42:51,593 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:42:51,593 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:42:51,593 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:42:51,593 TRACE CompareDocumentThread:44 - %
+18:42:51,593 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:42:51,593 TRACE CompareDocumentThread:47 - 100.00
+18:42:51,593 TRACE CompareDocumentThread:48 - %
+18:42:51,593 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:42:51,593 TRACE CompareDocumentThread:51 - 91.43
+18:42:51,593 TRACE CompareDocumentThread:52 - %
+18:42:51,593 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:42:51,593 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:42:51,593 TRACE CompareDocumentThread:79 - 0.1
+18:42:51,593 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:42:51,593 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:42:51,593 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:42:51,593 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:42:59,812 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:42:59,812 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:42:59,812 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:42:59,812 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:42:59,812 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:42:59,812 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:42:59,812 TRACE CompareDocumentThread:59 - thenew
+18:42:59,812 TRACE CompareDocumentThread:59 - .
+18:42:59,812 TRACE CompareDocumentThread:59 - theword
+18:42:59,812 TRACE CompareDocumentThread:59 - loveof
+18:42:59,828 TRACE CompareDocumentThread:59 - oflove
+18:42:59,828 TRACE CompareDocumentThread:59 - withthe
+18:42:59,828 TRACE CompareDocumentThread:59 - ofthe
+18:42:59,828 TRACE CompareDocumentThread:59 - newtestament
+18:42:59,828 TRACE CompareDocumentThread:59 - whichis
+18:42:59,843 TRACE CompareDocumentThread:59 - straightaway
+18:42:59,843 TRACE CompareDocumentThread:61 - ------------Score
+18:42:59,843 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:42:59,843 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:42:59,843 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:42:59,843 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:42:59,843 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:42:59,843 TRACE CompareDocumentThread:67 - .let
+18:42:59,843 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:42:59,843 TRACE CompareDocumentThread:67 - blowthewhistle
+18:42:59,843 TRACE CompareDocumentThread:67 - usedwithadded
+18:42:59,843 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:42:59,843 TRACE CompareDocumentThread:67 - ofthethree
+18:42:59,843 TRACE CompareDocumentThread:67 - humanbeings,was
+18:42:59,843 TRACE CompareDocumentThread:69 - ------------Score
+18:42:59,843 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:42:59,843 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:42:59,843 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:42:59,843 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:42:59,843 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:42:59,843 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:42:59,843 TRACE CompareDocumentThread:44 - %
+18:42:59,843 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:42:59,843 TRACE CompareDocumentThread:47 - 100.00
+18:42:59,843 TRACE CompareDocumentThread:48 - %
+18:42:59,843 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:42:59,843 TRACE CompareDocumentThread:51 - 91.43
+18:42:59,843 TRACE CompareDocumentThread:52 - %
+18:42:59,843 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:42:59,843 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:42:59,843 TRACE CompareDocumentThread:79 - 0.1
+18:42:59,843 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:42:59,843 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:42:59,843 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:42:59,843 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:04,843 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:04,843 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:04,843 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:04,859 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:04,859 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:04,859 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:04,859 TRACE CompareDocumentThread:59 - thenew
+18:43:04,859 TRACE CompareDocumentThread:59 - .
+18:43:04,859 TRACE CompareDocumentThread:59 - theword
+18:43:04,859 TRACE CompareDocumentThread:59 - loveof
+18:43:04,875 TRACE CompareDocumentThread:59 - oflove
+18:43:04,875 TRACE CompareDocumentThread:59 - withthe
+18:43:04,875 TRACE CompareDocumentThread:59 - ofthe
+18:43:04,875 TRACE CompareDocumentThread:59 - newtestament
+18:43:04,875 TRACE CompareDocumentThread:59 - whichis
+18:43:04,875 TRACE CompareDocumentThread:59 - straightaway
+18:43:04,875 TRACE CompareDocumentThread:61 - ------------Score
+18:43:04,875 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:04,890 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:04,890 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:04,890 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:04,890 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:04,890 TRACE CompareDocumentThread:67 - .let
+18:43:04,890 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:04,890 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:04,890 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:04,890 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:04,890 TRACE CompareDocumentThread:67 - ofthethree
+18:43:04,890 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:04,890 TRACE CompareDocumentThread:69 - ------------Score
+18:43:04,890 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:04,890 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:04,890 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:04,890 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:04,890 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:04,890 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:04,890 TRACE CompareDocumentThread:44 - %
+18:43:04,890 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:04,890 TRACE CompareDocumentThread:47 - 100.00
+18:43:04,890 TRACE CompareDocumentThread:48 - %
+18:43:04,890 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:04,890 TRACE CompareDocumentThread:51 - 91.43
+18:43:04,890 TRACE CompareDocumentThread:52 - %
+18:43:04,890 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:04,890 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:04,890 TRACE CompareDocumentThread:79 - 0.1
+18:43:04,890 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:04,890 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:04,890 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:04,890 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:15,781 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:15,781 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:15,781 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:15,781 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:15,781 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:15,781 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:15,781 TRACE CompareDocumentThread:59 - thenew
+18:43:15,781 TRACE CompareDocumentThread:59 - .
+18:43:15,781 TRACE CompareDocumentThread:59 - theword
+18:43:15,796 TRACE CompareDocumentThread:59 - loveof
+18:43:15,796 TRACE CompareDocumentThread:59 - oflove
+18:43:15,796 TRACE CompareDocumentThread:59 - withthe
+18:43:15,796 TRACE CompareDocumentThread:59 - ofthe
+18:43:15,796 TRACE CompareDocumentThread:59 - newtestament
+18:43:15,796 TRACE CompareDocumentThread:59 - whichis
+18:43:15,796 TRACE CompareDocumentThread:59 - straightaway
+18:43:15,796 TRACE CompareDocumentThread:61 - ------------Score
+18:43:15,812 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:15,812 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:15,812 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:15,812 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:15,812 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:15,812 TRACE CompareDocumentThread:67 - .let
+18:43:15,812 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:15,812 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:15,812 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:15,812 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:15,812 TRACE CompareDocumentThread:67 - ofthethree
+18:43:15,812 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:15,812 TRACE CompareDocumentThread:69 - ------------Score
+18:43:15,812 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:15,812 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:15,812 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:15,812 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:15,812 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:15,812 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:15,812 TRACE CompareDocumentThread:44 - %
+18:43:15,812 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:15,812 TRACE CompareDocumentThread:47 - 100.00
+18:43:15,812 TRACE CompareDocumentThread:48 - %
+18:43:15,812 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:15,812 TRACE CompareDocumentThread:51 - 91.43
+18:43:15,812 TRACE CompareDocumentThread:52 - %
+18:43:15,812 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:15,812 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:15,812 TRACE CompareDocumentThread:79 - 0.1
+18:43:15,812 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:15,812 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:15,812 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:15,812 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:21,203 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:21,203 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:21,203 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:21,203 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:21,203 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:21,203 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:21,203 TRACE CompareDocumentThread:59 - thenew
+18:43:21,203 TRACE CompareDocumentThread:59 - .
+18:43:21,203 TRACE CompareDocumentThread:59 - theword
+18:43:21,203 TRACE CompareDocumentThread:59 - loveof
+18:43:21,218 TRACE CompareDocumentThread:59 - oflove
+18:43:21,218 TRACE CompareDocumentThread:59 - withthe
+18:43:21,218 TRACE CompareDocumentThread:59 - ofthe
+18:43:21,218 TRACE CompareDocumentThread:59 - newtestament
+18:43:21,218 TRACE CompareDocumentThread:59 - whichis
+18:43:21,218 TRACE CompareDocumentThread:59 - straightaway
+18:43:21,218 TRACE CompareDocumentThread:61 - ------------Score
+18:43:21,234 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:21,234 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:21,234 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:21,234 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:21,234 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:21,234 TRACE CompareDocumentThread:67 - .let
+18:43:21,234 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:21,234 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:21,234 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:21,234 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:21,234 TRACE CompareDocumentThread:67 - ofthethree
+18:43:21,234 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:21,234 TRACE CompareDocumentThread:69 - ------------Score
+18:43:21,234 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:21,234 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:21,234 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:21,234 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:21,234 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:21,234 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:21,234 TRACE CompareDocumentThread:44 - %
+18:43:21,234 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:21,234 TRACE CompareDocumentThread:47 - 100.00
+18:43:21,234 TRACE CompareDocumentThread:48 - %
+18:43:21,234 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:21,234 TRACE CompareDocumentThread:51 - 91.43
+18:43:21,234 TRACE CompareDocumentThread:52 - %
+18:43:21,234 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:21,234 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:21,234 TRACE CompareDocumentThread:79 - 0.1
+18:43:21,234 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:21,234 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:21,234 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:21,234 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:26,578 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:26,578 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:26,578 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:26,578 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:26,578 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:26,578 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:26,578 TRACE CompareDocumentThread:59 - thenew
+18:43:26,578 TRACE CompareDocumentThread:59 - .
+18:43:26,578 TRACE CompareDocumentThread:59 - theword
+18:43:26,578 TRACE CompareDocumentThread:59 - loveof
+18:43:26,578 TRACE CompareDocumentThread:59 - oflove
+18:43:26,593 TRACE CompareDocumentThread:59 - withthe
+18:43:26,593 TRACE CompareDocumentThread:59 - ofthe
+18:43:26,593 TRACE CompareDocumentThread:59 - newtestament
+18:43:26,593 TRACE CompareDocumentThread:59 - whichis
+18:43:26,593 TRACE CompareDocumentThread:59 - straightaway
+18:43:26,593 TRACE CompareDocumentThread:61 - ------------Score
+18:43:26,593 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:26,609 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:26,609 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:26,609 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:26,609 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:26,609 TRACE CompareDocumentThread:67 - .let
+18:43:26,609 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:26,609 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:26,609 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:26,609 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:26,609 TRACE CompareDocumentThread:67 - ofthethree
+18:43:26,609 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:26,609 TRACE CompareDocumentThread:69 - ------------Score
+18:43:26,609 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:26,609 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:26,609 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:26,609 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:26,609 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:26,609 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:26,609 TRACE CompareDocumentThread:44 - %
+18:43:26,609 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:26,609 TRACE CompareDocumentThread:47 - 100.00
+18:43:26,609 TRACE CompareDocumentThread:48 - %
+18:43:26,609 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:26,609 TRACE CompareDocumentThread:51 - 91.43
+18:43:26,609 TRACE CompareDocumentThread:52 - %
+18:43:26,609 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:26,609 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:26,609 TRACE CompareDocumentThread:79 - 0.1
+18:43:26,609 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:26,609 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:26,609 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:26,609 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:31,859 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:31,859 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:31,859 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:31,875 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:31,875 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:31,875 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:31,875 TRACE CompareDocumentThread:59 - thenew
+18:43:31,875 TRACE CompareDocumentThread:59 - .
+18:43:31,875 TRACE CompareDocumentThread:59 - theword
+18:43:31,875 TRACE CompareDocumentThread:59 - loveof
+18:43:31,890 TRACE CompareDocumentThread:59 - oflove
+18:43:31,890 TRACE CompareDocumentThread:59 - withthe
+18:43:31,890 TRACE CompareDocumentThread:59 - ofthe
+18:43:31,890 TRACE CompareDocumentThread:59 - newtestament
+18:43:31,890 TRACE CompareDocumentThread:59 - whichis
+18:43:31,890 TRACE CompareDocumentThread:59 - straightaway
+18:43:31,906 TRACE CompareDocumentThread:61 - ------------Score
+18:43:31,906 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:31,906 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:31,906 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:31,906 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:31,906 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:31,906 TRACE CompareDocumentThread:67 - .let
+18:43:31,906 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:31,906 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:31,906 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:31,906 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:31,906 TRACE CompareDocumentThread:67 - ofthethree
+18:43:31,906 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:31,906 TRACE CompareDocumentThread:69 - ------------Score
+18:43:31,906 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:31,906 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:31,906 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:31,906 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:31,906 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:31,906 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:31,906 TRACE CompareDocumentThread:44 - %
+18:43:31,906 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:31,906 TRACE CompareDocumentThread:47 - 100.00
+18:43:31,906 TRACE CompareDocumentThread:48 - %
+18:43:31,906 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:31,906 TRACE CompareDocumentThread:51 - 91.43
+18:43:31,906 TRACE CompareDocumentThread:52 - %
+18:43:31,906 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:31,906 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:31,906 TRACE CompareDocumentThread:79 - 0.1
+18:43:31,906 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:31,906 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:31,906 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:31,906 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:36,937 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:36,937 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:36,937 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:36,937 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:36,937 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:36,937 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:36,937 TRACE CompareDocumentThread:59 - thenew
+18:43:36,937 TRACE CompareDocumentThread:59 - .
+18:43:36,937 TRACE CompareDocumentThread:59 - theword
+18:43:36,937 TRACE CompareDocumentThread:59 - loveof
+18:43:36,953 TRACE CompareDocumentThread:59 - oflove
+18:43:36,953 TRACE CompareDocumentThread:59 - withthe
+18:43:36,953 TRACE CompareDocumentThread:59 - ofthe
+18:43:36,953 TRACE CompareDocumentThread:59 - newtestament
+18:43:36,953 TRACE CompareDocumentThread:59 - whichis
+18:43:36,953 TRACE CompareDocumentThread:59 - straightaway
+18:43:36,953 TRACE CompareDocumentThread:61 - ------------Score
+18:43:36,953 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:36,968 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:36,968 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:36,968 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:36,968 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:36,968 TRACE CompareDocumentThread:67 - .let
+18:43:36,968 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:36,968 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:36,968 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:36,968 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:36,968 TRACE CompareDocumentThread:67 - ofthethree
+18:43:36,968 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:36,968 TRACE CompareDocumentThread:69 - ------------Score
+18:43:36,968 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:36,968 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:36,968 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:36,968 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:36,968 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:36,968 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:36,968 TRACE CompareDocumentThread:44 - %
+18:43:36,968 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:36,968 TRACE CompareDocumentThread:47 - 100.00
+18:43:36,968 TRACE CompareDocumentThread:48 - %
+18:43:36,968 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:36,968 TRACE CompareDocumentThread:51 - 91.43
+18:43:36,968 TRACE CompareDocumentThread:52 - %
+18:43:36,968 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:36,968 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:36,968 TRACE CompareDocumentThread:79 - 0.1
+18:43:36,968 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:36,968 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:36,968 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:36,968 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:43:57,359 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:43:57,359 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:43:57,359 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:43:57,359 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:57,359 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:43:57,359 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:43:57,359 TRACE CompareDocumentThread:59 - thenew
+18:43:57,359 TRACE CompareDocumentThread:59 - .
+18:43:57,359 TRACE CompareDocumentThread:59 - theword
+18:43:57,375 TRACE CompareDocumentThread:59 - loveof
+18:43:57,390 TRACE CompareDocumentThread:59 - oflove
+18:43:57,390 TRACE CompareDocumentThread:59 - withthe
+18:43:57,390 TRACE CompareDocumentThread:59 - ofthe
+18:43:57,406 TRACE CompareDocumentThread:59 - newtestament
+18:43:57,406 TRACE CompareDocumentThread:59 - whichis
+18:43:57,406 TRACE CompareDocumentThread:59 - straightaway
+18:43:57,406 TRACE CompareDocumentThread:61 - ------------Score
+18:43:57,406 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:43:57,406 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:43:57,406 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:43:57,406 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:43:57,406 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:43:57,406 TRACE CompareDocumentThread:67 - .let
+18:43:57,406 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:43:57,406 TRACE CompareDocumentThread:67 - blowthewhistle
+18:43:57,406 TRACE CompareDocumentThread:67 - usedwithadded
+18:43:57,406 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:43:57,406 TRACE CompareDocumentThread:67 - ofthethree
+18:43:57,406 TRACE CompareDocumentThread:67 - humanbeings,was
+18:43:57,406 TRACE CompareDocumentThread:69 - ------------Score
+18:43:57,406 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:43:57,406 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:43:57,406 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:43:57,406 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:43:57,406 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:43:57,406 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:43:57,406 TRACE CompareDocumentThread:44 - %
+18:43:57,406 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:43:57,406 TRACE CompareDocumentThread:47 - 100.00
+18:43:57,406 TRACE CompareDocumentThread:48 - %
+18:43:57,406 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:43:57,406 TRACE CompareDocumentThread:51 - 91.43
+18:43:57,406 TRACE CompareDocumentThread:52 - %
+18:43:57,406 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:43:57,406 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:43:57,406 TRACE CompareDocumentThread:79 - 0.1
+18:43:57,406 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:43:57,406 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:43:57,406 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:43:57,406 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:44:01,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:44:01,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Start_4 ID: 2
+18:44:01,906 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:44:01,906 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Start_4
+
+18:44:01,906 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Start_4
+
+18:44:01,906 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:44:01,906 TRACE CompareDocumentThread:59 - .
+18:44:01,906 TRACE CompareDocumentThread:59 - theword
+18:44:01,906 TRACE CompareDocumentThread:59 - oflove
+18:44:01,921 TRACE CompareDocumentThread:59 - letus
+18:44:01,921 TRACE CompareDocumentThread:59 - inthe
+18:44:01,921 TRACE CompareDocumentThread:59 - withthe
+18:44:01,921 TRACE CompareDocumentThread:59 - ofthe
+18:44:01,921 TRACE CompareDocumentThread:59 - newtestament
+18:44:01,921 TRACE CompareDocumentThread:59 - the
+18:44:01,921 TRACE CompareDocumentThread:59 - whichis
+18:44:01,937 TRACE CompareDocumentThread:61 - ------------Score
+18:44:01,937 TRACE CompareDocumentThread:63 - 0.03787878787878788
+18:44:01,937 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:44:01,937 TRACE CompareDocumentThread:67 - .the
+18:44:01,937 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:44:01,937 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:44:01,937 TRACE CompareDocumentThread:67 - .let
+18:44:01,937 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:44:01,937 TRACE CompareDocumentThread:67 - blowthewhistle
+18:44:01,937 TRACE CompareDocumentThread:67 - usedwithadded
+18:44:01,937 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:44:01,937 TRACE CompareDocumentThread:67 - ofthethree
+18:44:01,937 TRACE CompareDocumentThread:67 - humanbeings,was
+18:44:01,937 TRACE CompareDocumentThread:69 - ------------Score
+18:44:01,937 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:44:01,937 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3_With_Intro vs DeusCaritasEst3_Start_4:
+18:44:01,937 TRACE CompareDocumentThread:79 - BiWord Quality 40.243902439024396
+18:44:01,937 TRACE CompareDocumentThread:80 - TriWord Quality 48.65900383141762
+18:44:01,937 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:44:01,937 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:44:01,937 TRACE CompareDocumentThread:44 - %
+18:44:01,937 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:44:01,937 TRACE CompareDocumentThread:47 - 160.00
+18:44:01,937 TRACE CompareDocumentThread:48 - %
+18:44:01,937 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:44:01,937 TRACE CompareDocumentThread:51 - 100.00
+18:44:01,937 TRACE CompareDocumentThread:52 - %
+18:44:01,937 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:44:01,937 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:44:01,937 TRACE CompareDocumentThread:79 - 0.04
+18:44:01,937 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:44:01,937 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:44:01,937 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.4826371319877814
+18:44:01,937 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.3737061989536679
+18:44:10,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:44:10,906 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 4
+18:44:10,906 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:44:10,906 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:44:10,906 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3
+
+18:44:10,906 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:44:10,906 TRACE CompareDocumentThread:59 - thenew
+18:44:10,906 TRACE CompareDocumentThread:59 - .
+18:44:10,906 TRACE CompareDocumentThread:59 - theword
+18:44:10,906 TRACE CompareDocumentThread:59 - loveof
+18:44:10,921 TRACE CompareDocumentThread:59 - oflove
+18:44:10,921 TRACE CompareDocumentThread:59 - withthe
+18:44:10,921 TRACE CompareDocumentThread:59 - ofthe
+18:44:10,921 TRACE CompareDocumentThread:59 - newtestament
+18:44:10,921 TRACE CompareDocumentThread:59 - whichis
+18:44:10,921 TRACE CompareDocumentThread:59 - straightaway
+18:44:10,921 TRACE CompareDocumentThread:61 - ------------Score
+18:44:10,921 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:44:10,937 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:44:10,937 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:44:10,937 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:44:10,937 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:44:10,937 TRACE CompareDocumentThread:67 - .let
+18:44:10,937 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:44:10,937 TRACE CompareDocumentThread:67 - blowthewhistle
+18:44:10,937 TRACE CompareDocumentThread:67 - usedwithadded
+18:44:10,937 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:44:10,937 TRACE CompareDocumentThread:67 - ofthethree
+18:44:10,937 TRACE CompareDocumentThread:67 - humanbeings,was
+18:44:10,937 TRACE CompareDocumentThread:69 - ------------Score
+18:44:10,937 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:44:10,937 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3:
+18:44:10,937 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:44:10,937 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:44:10,937 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:44:10,937 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:44:10,937 TRACE CompareDocumentThread:44 - %
+18:44:10,937 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:44:10,937 TRACE CompareDocumentThread:47 - 100.00
+18:44:10,937 TRACE CompareDocumentThread:48 - %
+18:44:10,937 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:44:10,937 TRACE CompareDocumentThread:51 - 91.43
+18:44:10,937 TRACE CompareDocumentThread:52 - %
+18:44:10,937 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:44:10,937 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:44:10,937 TRACE CompareDocumentThread:79 - 0.1
+18:44:10,937 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:44:10,937 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:44:10,937 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:44:10,937 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:44:43,125 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:44:43,125 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:44:43,125 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:44:43,125 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:44:43,125 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_With_Intro
+
+18:44:43,125 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:44:43,125 TRACE CompareDocumentThread:59 - thenew
+18:44:43,125 TRACE CompareDocumentThread:59 - .
+18:44:43,125 TRACE CompareDocumentThread:59 - theword
+18:44:43,125 TRACE CompareDocumentThread:59 - loveof
+18:44:43,156 TRACE CompareDocumentThread:59 - oflove
+18:44:43,156 TRACE CompareDocumentThread:59 - withthe
+18:44:43,156 TRACE CompareDocumentThread:59 - ofthe
+18:44:43,156 TRACE CompareDocumentThread:59 - newtestament
+18:44:43,156 TRACE CompareDocumentThread:59 - whichis
+18:44:43,156 TRACE CompareDocumentThread:59 - straightaway
+18:44:43,156 TRACE CompareDocumentThread:61 - ------------Score
+18:44:43,156 TRACE CompareDocumentThread:63 - 0.0392156862745098
+18:44:43,156 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:44:43,156 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:44:43,156 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:44:43,156 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:44:43,156 TRACE CompareDocumentThread:67 - .let
+18:44:43,156 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:44:43,156 TRACE CompareDocumentThread:67 - blowthewhistle
+18:44:43,156 TRACE CompareDocumentThread:67 - usedwithadded
+18:44:43,156 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:44:43,156 TRACE CompareDocumentThread:67 - ofthethree
+18:44:43,156 TRACE CompareDocumentThread:67 - humanbeings,was
+18:44:43,156 TRACE CompareDocumentThread:69 - ------------Score
+18:44:43,156 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:44:43,156 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_With_Intro:
+18:44:43,156 TRACE CompareDocumentThread:79 - BiWord Quality 49.32301740812379
+18:44:43,156 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:44:43,156 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:44:43,156 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:44:43,156 TRACE CompareDocumentThread:44 - %
+18:44:43,156 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:44:43,156 TRACE CompareDocumentThread:47 - 100.00
+18:44:43,156 TRACE CompareDocumentThread:48 - %
+18:44:43,156 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:44:43,156 TRACE CompareDocumentThread:51 - 94.29
+18:44:43,156 TRACE CompareDocumentThread:52 - %
+18:44:43,156 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:44:43,156 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:44:43,156 TRACE CompareDocumentThread:79 - 0.1
+18:44:43,156 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:44:43,156 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:44:43,156 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.9395912529639806
+18:44:43,156 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0316455696202531
+18:44:45,765 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:44:45,765 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Start_4 ID: 2
+18:44:45,765 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:44:45,765 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:44:45,765 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:44:45,765 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:44:45,765 TRACE CompareDocumentThread:59 - .
+18:44:45,765 TRACE CompareDocumentThread:59 - theword
+18:44:45,765 TRACE CompareDocumentThread:59 - oflove
+18:44:45,765 TRACE CompareDocumentThread:59 - letus
+18:44:45,781 TRACE CompareDocumentThread:59 - inthe
+18:44:45,781 TRACE CompareDocumentThread:59 - withthe
+18:44:45,781 TRACE CompareDocumentThread:59 - ofthe
+18:44:45,781 TRACE CompareDocumentThread:59 - newtestament
+18:44:45,781 TRACE CompareDocumentThread:59 - the
+18:44:45,781 TRACE CompareDocumentThread:59 - whichis
+18:44:45,781 TRACE CompareDocumentThread:61 - ------------Score
+18:44:45,781 TRACE CompareDocumentThread:63 - 0.03787878787878788
+18:44:45,796 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:44:45,796 TRACE CompareDocumentThread:67 - .the
+18:44:45,796 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:44:45,796 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:44:45,796 TRACE CompareDocumentThread:67 - .let
+18:44:45,796 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:44:45,796 TRACE CompareDocumentThread:67 - blowthewhistle
+18:44:45,796 TRACE CompareDocumentThread:67 - usedwithadded
+18:44:45,796 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:44:45,796 TRACE CompareDocumentThread:67 - ofthethree
+18:44:45,796 TRACE CompareDocumentThread:67 - humanbeings,was
+18:44:45,796 TRACE CompareDocumentThread:69 - ------------Score
+18:44:45,796 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:44:45,796 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Start_4:
+18:44:45,796 TRACE CompareDocumentThread:79 - BiWord Quality 40.67796610169492
+18:44:45,796 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:44:45,796 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:44:45,796 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:44:45,796 TRACE CompareDocumentThread:44 - %
+18:44:45,796 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:44:45,796 TRACE CompareDocumentThread:47 - 160.00
+18:44:45,796 TRACE CompareDocumentThread:48 - %
+18:44:45,796 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:44:45,796 TRACE CompareDocumentThread:51 - 97.78
+18:44:45,796 TRACE CompareDocumentThread:52 - %
+18:44:45,796 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:44:45,796 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:44:45,796 TRACE CompareDocumentThread:79 - 0.04
+18:44:45,796 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:44:45,796 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:44:45,796 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.4678323119881562
+18:44:45,796 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.4620253164556962
+18:44:50,437 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:44:50,437 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Through_5.txt ID: 3
+18:44:50,437 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:44:50,453 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:44:50,453 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:44:50,453 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:44:50,453 TRACE CompareDocumentThread:59 - 
+18:44:50,453 TRACE CompareDocumentThread:59 - .
+18:44:50,453 TRACE CompareDocumentThread:59 - theword
+18:44:50,453 TRACE CompareDocumentThread:59 - acertain
+18:44:50,468 TRACE CompareDocumentThread:59 - inthe
+18:44:50,468 TRACE CompareDocumentThread:59 - withthe
+18:44:50,468 TRACE CompareDocumentThread:59 - ofthe
+18:44:50,468 TRACE CompareDocumentThread:59 - the
+18:44:50,468 TRACE CompareDocumentThread:59 - whichis
+18:44:50,468 TRACE CompareDocumentThread:59 - itis
+18:44:50,468 TRACE CompareDocumentThread:61 - ------------Score
+18:44:50,468 TRACE CompareDocumentThread:63 - 0.03164556962025317
+18:44:50,484 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:44:50,484 TRACE CompareDocumentThread:67 - 
+18:44:50,484 TRACE CompareDocumentThread:67 - acertainforetaste
+18:44:50,484 TRACE CompareDocumentThread:67 - foretasteofthe
+18:44:50,484 TRACE CompareDocumentThread:67 - .the
+18:44:50,484 TRACE CompareDocumentThread:67 - certainforetasteof
+18:44:50,484 TRACE CompareDocumentThread:67 - blowthewhistle
+18:44:50,484 TRACE CompareDocumentThread:67 - usedwithadded
+18:44:50,484 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:44:50,484 TRACE CompareDocumentThread:67 - ofthethree
+18:44:50,484 TRACE CompareDocumentThread:67 - humanbeings,was
+18:44:50,484 TRACE CompareDocumentThread:69 - ------------Score
+18:44:50,484 TRACE CompareDocumentThread:71 - 0.03745318352059925
+18:44:50,484 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt:
+18:44:50,484 TRACE CompareDocumentThread:79 - BiWord Quality 22.91515591007977
+18:44:50,484 TRACE CompareDocumentThread:80 - TriWord Quality 52.55905511811023
+18:44:50,484 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:44:50,484 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:44:50,484 TRACE CompareDocumentThread:44 - %
+18:44:50,484 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:44:50,484 TRACE CompareDocumentThread:47 - 153.33
+18:44:50,484 TRACE CompareDocumentThread:48 - %
+18:44:50,484 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:44:50,484 TRACE CompareDocumentThread:51 - 105.22
+18:44:50,484 TRACE CompareDocumentThread:52 - %
+18:44:50,484 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:44:50,484 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:44:50,484 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 1 is 0.0%
+18:44:50,484 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 2 is 0.0%
+18:44:50,484 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 3 is 0.0%
+18:44:50,484 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 4 is 0.0%
+18:44:50,484 TRACE CompareDocumentThread:79 - 0.0080
+18:44:50,484 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:44:50,484 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:44:50,484 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.09945777108457736
+18:44:50,484 TRACE CompareDocumentThread:98 - Analysis Completed with Value 3.170886075949367
+18:45:35,343 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 1
+18:45:35,343 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_With_Intro ID: 6
+18:45:35,343 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:45:35,359 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_With_Intro
+
+18:45:35,359 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3_With_Intro vs DeusCaritasEst3_With_Intro
+
+18:45:35,359 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:45:35,359 TRACE CompareDocumentThread:59 - thenew
+18:45:35,359 TRACE CompareDocumentThread:59 - .
+18:45:35,359 TRACE CompareDocumentThread:59 - theword
+18:45:35,375 TRACE CompareDocumentThread:59 - loveof
+18:45:35,375 TRACE CompareDocumentThread:59 - oflove
+18:45:35,375 TRACE CompareDocumentThread:59 - withthe
+18:45:35,375 TRACE CompareDocumentThread:59 - ofthe
+18:45:35,375 TRACE CompareDocumentThread:59 - newtestament
+18:45:35,375 TRACE CompareDocumentThread:59 - whichis
+18:45:35,375 TRACE CompareDocumentThread:59 - addeddepth
+18:45:35,375 TRACE CompareDocumentThread:61 - ------------Score
+18:45:35,390 TRACE CompareDocumentThread:63 - 0.03816793893129771
+18:45:35,390 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:45:35,390 TRACE CompareDocumentThread:67 - therelationshipbetween
+18:45:35,390 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:45:35,390 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:45:35,390 TRACE CompareDocumentThread:67 - .let
+18:45:35,390 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:45:35,390 TRACE CompareDocumentThread:67 - blowthewhistle
+18:45:35,390 TRACE CompareDocumentThread:67 - usedwithadded
+18:45:35,390 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:45:35,390 TRACE CompareDocumentThread:67 - ofthethree
+18:45:35,390 TRACE CompareDocumentThread:67 - humanbeings,was
+18:45:35,390 TRACE CompareDocumentThread:69 - ------------Score
+18:45:35,390 TRACE CompareDocumentThread:71 - 0.038314176245210725
+18:45:35,390 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3_With_Intro vs DeusCaritasEst3_With_Intro:
+18:45:35,390 TRACE CompareDocumentThread:79 - BiWord Quality 50.0
+18:45:35,390 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:45:35,390 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:45:35,390 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:45:35,390 TRACE CompareDocumentThread:44 - %
+18:45:35,390 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:45:35,390 TRACE CompareDocumentThread:47 - 100.00
+18:45:35,390 TRACE CompareDocumentThread:48 - %
+18:45:35,390 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:45:35,390 TRACE CompareDocumentThread:51 - 91.43
+18:45:35,390 TRACE CompareDocumentThread:52 - %
+18:45:35,390 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:45:35,390 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 100.0%
+18:45:35,390 TRACE CompareDocumentThread:79 - 0.1
+18:45:35,390 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:45:35,390 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:45:35,390 TRACE CompareDocumentThread:97 - Analysis Completed with Value 1.0
+18:45:35,390 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.0
+18:45:53,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:45:53,546 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Start_4 ID: 2
+18:45:53,546 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:45:53,562 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:45:53,562 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Start_4
+
+18:45:53,562 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:45:53,562 TRACE CompareDocumentThread:59 - .
+18:45:53,562 TRACE CompareDocumentThread:59 - theword
+18:45:53,562 TRACE CompareDocumentThread:59 - oflove
+18:45:53,562 TRACE CompareDocumentThread:59 - letus
+18:45:53,578 TRACE CompareDocumentThread:59 - inthe
+18:45:53,578 TRACE CompareDocumentThread:59 - withthe
+18:45:53,578 TRACE CompareDocumentThread:59 - ofthe
+18:45:53,578 TRACE CompareDocumentThread:59 - newtestament
+18:45:53,578 TRACE CompareDocumentThread:59 - the
+18:45:53,578 TRACE CompareDocumentThread:59 - whichis
+18:45:53,578 TRACE CompareDocumentThread:61 - ------------Score
+18:45:53,578 TRACE CompareDocumentThread:63 - 0.03787878787878788
+18:45:53,593 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:45:53,593 TRACE CompareDocumentThread:67 - .the
+18:45:53,593 TRACE CompareDocumentThread:67 - agape,clearlypoint
+18:45:53,593 TRACE CompareDocumentThread:67 - germanphilosopherwas
+18:45:53,593 TRACE CompareDocumentThread:67 - .let
+18:45:53,593 TRACE CompareDocumentThread:67 - christianitywhichbegan
+18:45:53,593 TRACE CompareDocumentThread:67 - blowthewhistle
+18:45:53,593 TRACE CompareDocumentThread:67 - usedwithadded
+18:45:53,593 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:45:53,593 TRACE CompareDocumentThread:67 - ofthethree
+18:45:53,593 TRACE CompareDocumentThread:67 - humanbeings,was
+18:45:53,593 TRACE CompareDocumentThread:69 - ------------Score
+18:45:53,593 TRACE CompareDocumentThread:71 - 0.03937007874015748
+18:45:53,593 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Start_4:
+18:45:53,593 TRACE CompareDocumentThread:79 - BiWord Quality 40.67796610169492
+18:45:53,593 TRACE CompareDocumentThread:80 - TriWord Quality 50.0
+18:45:53,593 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:45:53,593 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:45:53,593 TRACE CompareDocumentThread:44 - %
+18:45:53,593 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:45:53,593 TRACE CompareDocumentThread:47 - 160.00
+18:45:53,593 TRACE CompareDocumentThread:48 - %
+18:45:53,593 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:45:53,593 TRACE CompareDocumentThread:51 - 97.78
+18:45:53,593 TRACE CompareDocumentThread:52 - %
+18:45:53,593 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:45:53,593 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:45:53,593 TRACE CompareDocumentThread:79 - 0.04
+18:45:53,593 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:45:53,593 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:45:53,593 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.4678323119881562
+18:45:53,593 TRACE CompareDocumentThread:98 - Analysis Completed with Value 1.4620253164556962
+18:45:58,328 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3 ID: 0
+18:45:58,328 TRACE CompareDocumentThread:61 - File Added: DeusCaritasEst3_Through_5.txt ID: 3
+18:45:58,328 TRACE CompareDocumentThread:47 - analysis.PhraseAnalysis
+18:45:58,343 TRACE CompareDocumentThread:126 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:45:58,343 TRACE CompareDocumentThread:109 - Document DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt
+
+18:45:58,343 TRACE CompareDocumentThread:57 - ------------Top BiWords
+18:45:58,343 TRACE CompareDocumentThread:59 - 
+18:45:58,343 TRACE CompareDocumentThread:59 - .
+18:45:58,343 TRACE CompareDocumentThread:59 - theword
+18:45:58,343 TRACE CompareDocumentThread:59 - acertain
+18:45:58,359 TRACE CompareDocumentThread:59 - inthe
+18:45:58,359 TRACE CompareDocumentThread:59 - withthe
+18:45:58,359 TRACE CompareDocumentThread:59 - ofthe
+18:45:58,359 TRACE CompareDocumentThread:59 - the
+18:45:58,359 TRACE CompareDocumentThread:59 - whichis
+18:45:58,359 TRACE CompareDocumentThread:59 - itis
+18:45:58,359 TRACE CompareDocumentThread:61 - ------------Score
+18:45:58,359 TRACE CompareDocumentThread:63 - 0.03164556962025317
+18:45:58,375 TRACE CompareDocumentThread:65 - ------------Top TriWords
+18:45:58,375 TRACE CompareDocumentThread:67 - 
+18:45:58,375 TRACE CompareDocumentThread:67 - acertainforetaste
+18:45:58,375 TRACE CompareDocumentThread:67 - foretasteofthe
+18:45:58,375 TRACE CompareDocumentThread:67 - .the
+18:45:58,375 TRACE CompareDocumentThread:67 - certainforetasteof
+18:45:58,375 TRACE CompareDocumentThread:67 - blowthewhistle
+18:45:58,375 TRACE CompareDocumentThread:67 - usedwithadded
+18:45:58,375 TRACE CompareDocumentThread:67 - ofchristianitywhich
+18:45:58,375 TRACE CompareDocumentThread:67 - ofthethree
+18:45:58,375 TRACE CompareDocumentThread:67 - humanbeings,was
+18:45:58,375 TRACE CompareDocumentThread:69 - ------------Score
+18:45:58,375 TRACE CompareDocumentThread:71 - 0.03745318352059925
+18:45:58,375 TRACE CompareDocumentThread:76 - Analysis for DeusCaritasEst3 vs DeusCaritasEst3_Through_5.txt:
+18:45:58,375 TRACE CompareDocumentThread:79 - BiWord Quality 22.91515591007977
+18:45:58,375 TRACE CompareDocumentThread:80 - TriWord Quality 52.55905511811023
+18:45:58,375 TRACE CompareDocumentThread:47 - analysis.SynonymAnalysis
+18:45:58,375 TRACE CompareDocumentThread:42 - Document Comparison = 
+18:45:58,375 TRACE CompareDocumentThread:44 - %
+18:45:58,375 TRACE CompareDocumentThread:46 - Paragraph Comparison = 
+18:45:58,375 TRACE CompareDocumentThread:47 - 153.33
+18:45:58,375 TRACE CompareDocumentThread:48 - %
+18:45:58,375 TRACE CompareDocumentThread:50 - Sentence Comparison = 
+18:45:58,375 TRACE CompareDocumentThread:51 - 105.22
+18:45:58,375 TRACE CompareDocumentThread:52 - %
+18:45:58,375 TRACE CompareDocumentThread:61 - Paragraph Flat Comparison
+18:45:58,375 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 0 is 40.0%
+18:45:58,375 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 1 is 0.0%
+18:45:58,375 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 2 is 0.0%
+18:45:58,375 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 3 is 0.0%
+18:45:58,375 TRACE CompareDocumentThread:76 - The Quality for Comparison of Paragraphs 0 to 4 is 0.0%
+18:45:58,375 TRACE CompareDocumentThread:79 - 0.0080
+18:45:58,375 TRACE CompareDocumentThread:47 - analysis.KeywordAnalysis
+18:45:58,375 TRACE CompareDocumentThread:47 - analysis.BayesianAnalysis
+18:45:58,375 TRACE CompareDocumentThread:97 - Analysis Completed with Value 0.09945777108457736
+18:45:58,375 TRACE CompareDocumentThread:98 - Analysis Completed with Value 3.170886075949367
