@@ -232,17 +232,20 @@ public class MainApplication {
 				do {
 					for(Iterator<App> iter = analyzingObjects.iterator(); iter.hasNext();){
 						try{
-						obj = iter.next();
+							synchronized (this) {
+								obj = iter.next();
+							}
 						}
 						catch(ConcurrentModificationException e){
 							try {
-								
 								Thread.sleep(500);
 							} catch (InterruptedException e1) {
 								// TODO Auto-generated catch block
 								e1.printStackTrace();
 							}
-							obj = iter.next();
+							synchronized (this) {
+								obj = iter.next();
+							}
 						}
 						if(obj.isDone()) {
 							logger.trace("Moving Thread Object "+analyzedObjects.size());
