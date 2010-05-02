@@ -145,9 +145,9 @@ public class SynonymAnalysis implements ComponentIface{
 		Vector<Vector<String>> SentenceLOWords = new Vector<Vector<String>>();
 		for(Comparables item : this.TestDocuments) {
 			for(Paragraphs pitem : item.NestedDocument.Block){
-				System.out.println("Paragraph Sentence Count "+pitem.Paragraph.size());
+				//System.out.println("Paragraph Sentence Count "+pitem.Paragraph.size());
 				for(Sentences sitem : pitem.Paragraph){
-					System.out.println("LOWord Count "+sitem.topLOWords.size());
+					//System.out.println("LOWord Count "+sitem.topLOWords.size());
 					SentenceLOWords.addElement(retrieveSentenceLOWords(sitem));
 					itemcount++;
 				}
