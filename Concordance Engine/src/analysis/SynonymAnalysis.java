@@ -165,6 +165,7 @@ public class SynonymAnalysis implements ComponentIface{
 	private Vector<String> retrieveSentenceLOWords(Sentences Sentence){
 		return Sentence.topLOWords;
 	}
+	@SuppressWarnings("unused")
 	private Vector<String> retrieveWordLOWords(Document FullDocument, int ParagraphNumber, int SentenceNumber, int WordNumber){
 		return FullDocument.Block.elementAt(ParagraphNumber).Paragraph.elementAt(SentenceNumber).Sentence.elementAt(WordNumber).LOWords;
 	}

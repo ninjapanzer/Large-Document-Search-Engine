@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 
-import comparison.WordListTools;
-
 public class SimpleBayesianListStorageEngine implements BayesianStorageEngine {
 	private ArrayList<String> _vocabulary = new ArrayList<String>();
 	private ArrayList<String> _document = new ArrayList<String>();

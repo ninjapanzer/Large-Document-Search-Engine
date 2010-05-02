@@ -20,7 +20,6 @@ public class AnalysisLoader {
 	private ArrayList<SelectionItems> Selection = null;
 	private Vector<App> AnaylzedDocuments = null;
 	private ArrayList<Comparables> Comparables = null;
-	private ArrayList<Comparisons> DocumentComparison = null;
 	private static Logger logger = Logger.getLogger("analysis.AnalysisLoader.CompareDocumentThread");
 	// The overall architecture does not take much optimization into account
 	//		We can deal with that later
@@ -30,7 +29,7 @@ public class AnalysisLoader {
 	public AnalysisLoader(ArrayList<SelectionItems> Selection, Vector<App> AnaylzedDocuments) throws Exception{
 		this.Selection = Selection;
 		this.AnaylzedDocuments = AnaylzedDocuments;
-		this.DocumentComparison = new ArrayList<Comparisons>();
+		new ArrayList<Comparisons>();
 		this.extractComparisonList();
 		String[] multiProps = {"analysis_item","analysis_item_config","analysis_item_weight"};
 		CustomProperties props = new CustomProperties("analysis_config.properties");

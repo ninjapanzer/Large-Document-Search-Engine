@@ -37,20 +37,9 @@ public class PhraseAnalysis implements ComponentIface {
 			result.TriWords = this.generateTriWords(item.SequencedDocument);
 			this.TestResults.add(result);
 		}
-		long hashcount = 0;
 		ArrayList<String> ConfBiWords = this.compareBiWords();
 		ArrayList<String> ConfTriWords = this.compareTriWords();
-		//logger.trace("Document "+this.TestResults.get(i).Filename +" vs "+ this.TestResults.get(i+1).Filename +"\n");
-		/*logger.trace("------------Common BiWords");
-		for(String item : ConfBiWords){
-			logger.trace(item);
-		}
-		logger.trace("------------Common TriWords");
-		for(String item : ConfTriWords){
-			logger.trace(item);
-		}*/
-		//Return top phrases using wordlisttools
-		//then compare the phrases to the total common phrases
+		
 		double finalscore = 0;
 		for(int i = 0; i< this.TestResults.size()-1; i++){
 			Collection<String> topBiWords = WordListTools.TopItems(ConfBiWords, 10);
@@ -79,16 +68,6 @@ public class PhraseAnalysis implements ComponentIface {
 			logger.trace("BiWord Quality "+(double)((ConfBiWords.size()/totalBiWordPhrases)*100));
 			logger.trace("TriWord Quality "+(double)((ConfTriWords.size()/totalTriWordPhrases)*100));
 		}
-		/*for(PhraseAnaysisResults item : this.TestResults){
-			logger.trace(item.Filename +" Common BiWords");
-			for(String subitem : item.BiWords){
-				logger.trace(subitem);
-			}
-			logger.trace(item.Filename +" Common TriWords");
-			for(String subitem : item.TriWords){
-				logger.trace(subitem);
-			}
-		}*/
 		
 		return finalscore/(double)this.TestResults.size();
 		
@@ -142,6 +121,7 @@ public class PhraseAnalysis implements ComponentIface {
 		return biwords;
 	}
 	//testing noun identification
+	@SuppressWarnings("unused")
 	private ArrayList<String> generateNounBiWords(ArrayList<ReconstructDocument> Source){
 		long count = Source.size();
 		ArrayList<String> biwords = new ArrayList<String>();

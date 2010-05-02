@@ -200,6 +200,7 @@ public class MainApplication {
 								filename = "";
 							}
 							try {
+								@SuppressWarnings("unused")
 								AnalysisLoader Comparison = new AnalysisLoader(Selection, analyzedObjects);
 							} catch (Exception e) {
 								// TODO Auto-generated catch block

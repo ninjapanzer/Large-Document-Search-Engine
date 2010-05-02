@@ -43,10 +43,10 @@ public class KeywordAnalysis implements ComponentIface {
 		ArrayList<Vector<String>> Doc1LOWords = new ArrayList<Vector<String>>();
 		ArrayList<Vector<String>> Doc2LOWords = new ArrayList<Vector<String>>();
 		for(Paragraphs item : this.TestDocuments.get(0).NestedDocument.Block){
-			Doc1LOWords.add(item.topLOWords);
+			Doc1LOWords.add(item.topKeywords);
 		}
 		for(Paragraphs item : this.TestDocuments.get(1).NestedDocument.Block){
-			Doc2LOWords.add(item.topLOWords);
+			Doc2LOWords.add(item.topKeywords);
 		}
 		this.FlatComparison(Doc1LOWords, Doc2LOWords);
 		Doc1LOWords = null;

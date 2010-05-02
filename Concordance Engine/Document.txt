@@ -1,255 +1,238 @@
-12:46:36,398 TRACE Document:166 - Top LOWords for the Document
-12:46:36,398 TRACE Document:169 - entry
-12:46:36,398 TRACE Document:169 - opening
-12:46:36,398 TRACE Document:169 - review
-12:46:36,398 TRACE Document:169 - scholar
-12:46:36,398 TRACE Document:169 - cross
-12:46:36,398 TRACE Document:171 - Top Keywords for the Document
-12:46:36,399 TRACE Document:174 - radical,
-12:46:36,399 TRACE Document:174 - philia,
-12:46:36,399 TRACE Document:174 - imposes
-12:46:36,399 TRACE Document:174 - uses
-12:46:36,399 TRACE Document:174 - writers
-12:46:36,399 TRACE Document:174 - something
-12:46:36,399 TRACE Document:174 - love,
-12:46:36,399 TRACE Document:174 - itself
-12:46:36,400 TRACE Document:174 - upon
-12:46:36,400 TRACE Document:174 - widely-held
-12:46:38,000 TRACE Document:166 - Top LOWords for the Document
-12:46:38,000 TRACE Document:169 - entry
-12:46:38,000 TRACE Document:169 - opening
-12:46:38,000 TRACE Document:169 - access
-12:46:38,000 TRACE Document:169 - in
-12:46:38,000 TRACE Document:169 - entrance
-12:46:38,000 TRACE Document:171 - Top Keywords for the Document
-12:46:38,000 TRACE Document:174 - 
-12:46:38,001 TRACE Document:174 - radical,
-12:46:38,001 TRACE Document:174 - uses
-12:46:38,001 TRACE Document:174 - writers
-12:46:38,001 TRACE Document:174 - power,
-12:46:38,001 TRACE Document:174 - something
-12:46:38,001 TRACE Document:174 - love,
-12:46:38,001 TRACE Document:174 - itself
-12:46:38,001 TRACE Document:174 - upon
-12:46:38,001 TRACE Document:174 - widely-held
-12:46:38,179 TRACE Document:166 - Top LOWords for the Document
-12:46:38,179 TRACE Document:169 - entry
-12:46:38,179 TRACE Document:169 - opening
-12:46:38,179 TRACE Document:169 - review
-12:46:38,179 TRACE Document:169 - scholar
-12:46:38,180 TRACE Document:169 - cross
-12:46:38,180 TRACE Document:171 - Top Keywords for the Document
-12:46:38,180 TRACE Document:174 - radical,
-12:46:38,180 TRACE Document:174 - philia,
-12:46:38,180 TRACE Document:174 - uses
-12:46:38,180 TRACE Document:174 - writers
-12:46:38,180 TRACE Document:174 - something
-12:46:38,180 TRACE Document:174 - love,
-12:46:38,180 TRACE Document:174 - itself
-12:46:38,180 TRACE Document:174 - upon
-12:46:38,180 TRACE Document:174 - –
-12:46:38,180 TRACE Document:174 - widely-held
-12:46:41,097 TRACE Document:166 - Top LOWords for the Document
-12:46:41,097 TRACE Document:169 - himself
-12:46:41,097 TRACE Document:169 - myself
-12:46:41,097 TRACE Document:169 - group
-12:46:41,097 TRACE Document:169 - straight
-12:46:41,097 TRACE Document:169 - bent
-12:46:41,097 TRACE Document:171 - Top Keywords for the Document
-12:46:41,097 TRACE Document:174 - 
-12:46:41,097 TRACE Document:174 - faith,
-12:46:41,097 TRACE Document:174 - being,
-12:46:41,097 TRACE Document:174 - existed
-12:46:41,097 TRACE Document:174 - commodity,
-12:46:41,097 TRACE Document:174 - love,
-12:46:41,097 TRACE Document:174 - united;
-12:46:41,098 TRACE Document:174 - upon
-12:46:41,098 TRACE Document:174 - widely-held
-12:46:41,098 TRACE Document:174 - indeed,
-12:47:22,339 TRACE Document:166 - Top LOWords for the Document
-12:47:22,339 TRACE Document:169 - entry
-12:47:22,339 TRACE Document:169 - opening
-12:47:22,339 TRACE Document:169 - review
-12:47:22,339 TRACE Document:169 - scholar
-12:47:22,339 TRACE Document:169 - cross
-12:47:22,340 TRACE Document:171 - Top Keywords for the Document
-12:47:22,340 TRACE Document:174 - radical,
-12:47:22,340 TRACE Document:174 - philia,
-12:47:22,340 TRACE Document:174 - imposes
-12:47:22,340 TRACE Document:174 - uses
-12:47:22,340 TRACE Document:174 - writers
-12:47:22,340 TRACE Document:174 - something
-12:47:22,340 TRACE Document:174 - love,
-12:47:22,340 TRACE Document:174 - itself
-12:47:22,341 TRACE Document:174 - upon
-12:47:22,341 TRACE Document:174 - widely-held
-12:47:24,576 TRACE Document:166 - Top LOWords for the Document
-12:47:24,576 TRACE Document:169 - entry
-12:47:24,576 TRACE Document:169 - opening
-12:47:24,577 TRACE Document:169 - access
-12:47:24,577 TRACE Document:169 - in
-12:47:24,577 TRACE Document:169 - entrance
-12:47:24,577 TRACE Document:171 - Top Keywords for the Document
-12:47:24,577 TRACE Document:174 - 
-12:47:24,577 TRACE Document:174 - radical,
-12:47:24,577 TRACE Document:174 - uses
-12:47:24,577 TRACE Document:174 - writers
-12:47:24,577 TRACE Document:174 - power,
-12:47:24,578 TRACE Document:174 - something
-12:47:24,578 TRACE Document:174 - love,
-12:47:24,578 TRACE Document:174 - itself
-12:47:24,578 TRACE Document:174 - upon
-12:47:24,578 TRACE Document:174 - widely-held
-12:47:24,647 TRACE Document:166 - Top LOWords for the Document
-12:47:24,647 TRACE Document:169 - entry
-12:47:24,647 TRACE Document:169 - opening
-12:47:24,647 TRACE Document:169 - review
-12:47:24,647 TRACE Document:169 - scholar
-12:47:24,648 TRACE Document:169 - cross
-12:47:24,648 TRACE Document:171 - Top Keywords for the Document
-12:47:24,648 TRACE Document:174 - radical,
-12:47:24,648 TRACE Document:174 - philia,
-12:47:24,648 TRACE Document:174 - uses
-12:47:24,648 TRACE Document:174 - writers
-12:47:24,648 TRACE Document:174 - something
-12:47:24,648 TRACE Document:174 - love,
-12:47:24,648 TRACE Document:174 - itself
-12:47:24,648 TRACE Document:174 - upon
-12:47:24,648 TRACE Document:174 - –
-12:47:24,648 TRACE Document:174 - widely-held
-12:47:27,672 TRACE Document:166 - Top LOWords for the Document
-12:47:27,672 TRACE Document:169 - himself
-12:47:27,672 TRACE Document:169 - myself
-12:47:27,673 TRACE Document:169 - group
-12:47:27,673 TRACE Document:169 - straight
-12:47:27,673 TRACE Document:169 - bent
-12:47:27,673 TRACE Document:171 - Top Keywords for the Document
-12:47:27,673 TRACE Document:174 - 
-12:47:27,673 TRACE Document:174 - faith,
-12:47:27,673 TRACE Document:174 - being,
-12:47:27,673 TRACE Document:174 - existed
-12:47:27,673 TRACE Document:174 - commodity,
-12:47:27,673 TRACE Document:174 - love,
-12:47:27,673 TRACE Document:174 - united;
-12:47:27,673 TRACE Document:174 - upon
-12:47:27,673 TRACE Document:174 - widely-held
-12:47:27,673 TRACE Document:174 - indeed,
-13:10:35,084 TRACE Document:166 - Top LOWords for the Document
-13:10:35,084 TRACE Document:169 - entry
-13:10:35,084 TRACE Document:169 - opening
-13:10:35,084 TRACE Document:169 - myself
-13:10:35,085 TRACE Document:169 - axiom
-13:10:35,085 TRACE Document:169 - himself
-13:10:35,085 TRACE Document:171 - Top Keywords for the Document
-13:10:35,085 TRACE Document:174 - 
-13:10:35,085 TRACE Document:174 - including
-13:10:35,085 TRACE Document:174 - truth,
-13:10:35,085 TRACE Document:174 - relations,
-13:10:35,085 TRACE Document:174 - shell,
-13:10:35,085 TRACE Document:174 - faith,
-13:10:35,085 TRACE Document:174 - agápe
-13:10:35,085 TRACE Document:174 - without
-13:10:35,085 TRACE Document:174 - acceptance,
-13:10:35,085 TRACE Document:174 - gift,
-13:13:18,905 TRACE Document:166 - Top LOWords for the Document
-13:13:18,906 TRACE Document:169 - take
-13:13:18,906 TRACE Document:169 - mighty
-13:13:18,906 TRACE Document:169 - take in
-13:13:18,906 TRACE Document:169 - opening
-13:13:18,906 TRACE Document:169 - myself
-13:13:18,906 TRACE Document:171 - Top Keywords for the Document
-13:13:18,906 TRACE Document:174 - 
-13:13:18,906 TRACE Document:174 - associated
-13:13:18,906 TRACE Document:174 - varieties
-13:13:18,906 TRACE Document:174 - you!
-13:13:18,907 TRACE Document:174 - called
-13:13:18,907 TRACE Document:174 - listings
-13:13:18,907 TRACE Document:174 - comments
-13:13:18,907 TRACE Document:174 - 3)
-13:13:18,907 TRACE Document:174 - originated
-13:13:18,907 TRACE Document:174 - propogate
-13:13:42,747 TRACE Document:166 - Top LOWords for the Document
-13:13:42,747 TRACE Document:169 - entry
-13:13:42,747 TRACE Document:169 - opening
-13:13:42,747 TRACE Document:169 - rating
-13:13:42,747 TRACE Document:169 - vair
-13:13:42,747 TRACE Document:169 - found
-13:13:42,748 TRACE Document:171 - Top Keywords for the Document
-13:13:42,748 TRACE Document:174 - 
-13:13:42,748 TRACE Document:174 - good,
-13:13:42,748 TRACE Document:174 - apples,
-13:13:42,748 TRACE Document:174 - crisp,
-13:13:42,748 TRACE Document:174 - red,
-13:13:42,748 TRACE Document:174 - depending
-13:13:42,748 TRACE Document:174 - provided
-13:13:42,748 TRACE Document:174 - classifies
-13:13:42,748 TRACE Document:174 - apples
-13:13:42,749 TRACE Document:174 - white-fleshed
-13:13:52,665 TRACE Document:166 - Top LOWords for the Document
-13:13:52,665 TRACE Document:169 - vair
-13:13:52,665 TRACE Document:169 - old woman
-13:13:52,665 TRACE Document:169 - rainbow
-13:13:52,665 TRACE Document:169 - cross
-13:13:52,666 TRACE Document:169 - produce
-13:13:52,666 TRACE Document:171 - Top Keywords for the Document
-13:13:52,666 TRACE Document:174 - 
-13:13:52,666 TRACE Document:174 - sweet,
-13:13:52,666 TRACE Document:174 - crisp,
-13:13:52,666 TRACE Document:174 - roses
-13:13:52,666 TRACE Document:174 - eaten
-13:13:52,666 TRACE Document:174 - depending
-13:13:52,666 TRACE Document:174 - apples
-13:13:52,666 TRACE Document:174 - pie,
-13:13:52,667 TRACE Document:174 - cooking,
-13:13:52,667 TRACE Document:174 - white-fleshed
-13:13:56,985 TRACE Document:166 - Top LOWords for the Document
-13:13:56,985 TRACE Document:169 - entry
-13:13:56,985 TRACE Document:169 - opening
-13:13:56,985 TRACE Document:169 - access
-13:13:56,985 TRACE Document:169 - in
-13:13:56,985 TRACE Document:169 - entrance
-13:13:56,985 TRACE Document:171 - Top Keywords for the Document
-13:13:56,985 TRACE Document:174 - phytonutrient
-13:13:56,985 TRACE Document:174 - singled
-13:13:56,985 TRACE Document:174 - oranges
-13:13:56,985 TRACE Document:174 - properties
-13:13:56,985 TRACE Document:174 - (types
-13:13:56,986 TRACE Document:174 - hydroxycinnamic
-13:13:56,986 TRACE Document:174 - phytonutrients
-13:13:56,986 TRACE Document:174 - herperidin
-13:13:56,986 TRACE Document:174 - oranges,
-13:13:56,986 TRACE Document:174 - molecule,
-13:13:59,504 TRACE Document:166 - Top LOWords for the Document
-13:13:59,504 TRACE Document:169 - entry
-13:13:59,504 TRACE Document:169 - opening
-13:13:59,504 TRACE Document:169 - chart
-13:13:59,504 TRACE Document:169 - rating
-13:13:59,504 TRACE Document:169 - found
-13:13:59,504 TRACE Document:171 - Top Keywords for the Document
-13:13:59,504 TRACE Document:174 - 
-13:13:59,504 TRACE Document:174 - c,
-13:13:59,504 TRACE Document:174 - good,
-13:13:59,504 TRACE Document:174 - inches
-13:13:59,504 TRACE Document:174 - fruits
-13:13:59,504 TRACE Document:174 - depending
-13:13:59,504 TRACE Document:174 - provided
-13:13:59,505 TRACE Document:174 - oranges
-13:13:59,505 TRACE Document:174 - recipes;
-13:13:59,505 TRACE Document:174 - skins
-13:14:00,946 TRACE Document:166 - Top LOWords for the Document
-13:14:00,946 TRACE Document:169 - so
-13:14:00,946 TRACE Document:169 - entry
-13:14:00,946 TRACE Document:169 - opening
-13:14:00,946 TRACE Document:169 - as
-13:14:00,946 TRACE Document:169 - match
-13:14:00,946 TRACE Document:171 - Top Keywords for the Document
-13:14:00,946 TRACE Document:174 - 
-13:14:00,946 TRACE Document:174 - fruits
-13:14:00,946 TRACE Document:174 - having
-13:14:00,946 TRACE Document:174 - aurantium)
-13:14:00,946 TRACE Document:174 - oranges
-13:14:00,946 TRACE Document:174 - marnier
-13:14:00,947 TRACE Document:174 - americans,
-13:14:00,947 TRACE Document:174 - serves
-13:14:00,947 TRACE Document:174 - skins
-13:14:00,947 TRACE Document:174 - sinensis)
+14:35:20,541 TRACE Document:166 - Top LOWords for the Document
+14:35:20,541 TRACE Document:169 - entry
+14:35:20,541 TRACE Document:169 - opening
+14:35:20,541 TRACE Document:169 - review
+14:35:20,542 TRACE Document:169 - scholar
+14:35:20,542 TRACE Document:169 - cross
+14:35:20,542 TRACE Document:171 - Top Keywords for the Document
+14:35:20,542 TRACE Document:174 - radical,
+14:35:20,542 TRACE Document:174 - philia,
+14:35:20,542 TRACE Document:174 - imposes
+14:35:20,542 TRACE Document:174 - uses
+14:35:20,542 TRACE Document:174 - writers
+14:35:20,542 TRACE Document:174 - something
+14:35:20,542 TRACE Document:174 - love,
+14:35:20,543 TRACE Document:174 - itself
+14:35:20,543 TRACE Document:174 - upon
+14:35:20,543 TRACE Document:174 - widely-held
+14:35:21,559 TRACE Document:166 - Top LOWords for the Document
+14:35:21,559 TRACE Document:169 - entry
+14:35:21,559 TRACE Document:169 - opening
+14:35:21,559 TRACE Document:169 - access
+14:35:21,560 TRACE Document:169 - in
+14:35:21,560 TRACE Document:169 - entrance
+14:35:21,560 TRACE Document:171 - Top Keywords for the Document
+14:35:21,560 TRACE Document:174 - 
+14:35:21,560 TRACE Document:174 - radical,
+14:35:21,560 TRACE Document:174 - uses
+14:35:21,560 TRACE Document:174 - writers
+14:35:21,560 TRACE Document:174 - power,
+14:35:21,560 TRACE Document:174 - something
+14:35:21,560 TRACE Document:174 - love,
+14:35:21,560 TRACE Document:174 - itself
+14:35:21,560 TRACE Document:174 - upon
+14:35:21,560 TRACE Document:174 - widely-held
+14:35:21,606 TRACE Document:166 - Top LOWords for the Document
+14:35:21,606 TRACE Document:169 - entry
+14:35:21,606 TRACE Document:169 - opening
+14:35:21,606 TRACE Document:169 - review
+14:35:21,607 TRACE Document:169 - scholar
+14:35:21,607 TRACE Document:169 - cross
+14:35:21,607 TRACE Document:171 - Top Keywords for the Document
+14:35:21,607 TRACE Document:174 - radical,
+14:35:21,607 TRACE Document:174 - philia,
+14:35:21,607 TRACE Document:174 - uses
+14:35:21,607 TRACE Document:174 - writers
+14:35:21,607 TRACE Document:174 - something
+14:35:21,607 TRACE Document:174 - love,
+14:35:21,607 TRACE Document:174 - itself
+14:35:21,607 TRACE Document:174 - upon
+14:35:21,607 TRACE Document:174 - –
+14:35:21,607 TRACE Document:174 - widely-held
+14:35:24,550 TRACE Document:166 - Top LOWords for the Document
+14:35:24,550 TRACE Document:169 - himself
+14:35:24,550 TRACE Document:169 - myself
+14:35:24,550 TRACE Document:169 - group
+14:35:24,550 TRACE Document:169 - straight
+14:35:24,550 TRACE Document:169 - bent
+14:35:24,550 TRACE Document:171 - Top Keywords for the Document
+14:35:24,550 TRACE Document:174 - 
+14:35:24,550 TRACE Document:174 - faith,
+14:35:24,550 TRACE Document:174 - being,
+14:35:24,550 TRACE Document:174 - existed
+14:35:24,551 TRACE Document:174 - commodity,
+14:35:24,551 TRACE Document:174 - love,
+14:35:24,551 TRACE Document:174 - united;
+14:35:24,551 TRACE Document:174 - upon
+14:35:24,551 TRACE Document:174 - widely-held
+14:35:24,551 TRACE Document:174 - indeed,
+14:37:47,946 TRACE Document:166 - Top LOWords for the Document
+14:37:47,946 TRACE Document:169 - entry
+14:37:47,946 TRACE Document:169 - opening
+14:37:47,946 TRACE Document:169 - review
+14:37:47,946 TRACE Document:169 - scholar
+14:37:47,946 TRACE Document:169 - cross
+14:37:47,947 TRACE Document:171 - Top Keywords for the Document
+14:37:47,947 TRACE Document:174 - radical,
+14:37:47,947 TRACE Document:174 - philia,
+14:37:47,947 TRACE Document:174 - imposes
+14:37:47,947 TRACE Document:174 - uses
+14:37:47,947 TRACE Document:174 - writers
+14:37:47,947 TRACE Document:174 - something
+14:37:47,947 TRACE Document:174 - love,
+14:37:47,947 TRACE Document:174 - itself
+14:37:47,947 TRACE Document:174 - upon
+14:37:47,948 TRACE Document:174 - widely-held
+14:37:50,146 TRACE Document:166 - Top LOWords for the Document
+14:37:50,147 TRACE Document:169 - entry
+14:37:50,147 TRACE Document:169 - opening
+14:37:50,147 TRACE Document:169 - access
+14:37:50,147 TRACE Document:169 - in
+14:37:50,147 TRACE Document:169 - entrance
+14:37:50,147 TRACE Document:171 - Top Keywords for the Document
+14:37:50,147 TRACE Document:174 - 
+14:37:50,147 TRACE Document:174 - radical,
+14:37:50,148 TRACE Document:174 - uses
+14:37:50,148 TRACE Document:174 - writers
+14:37:50,148 TRACE Document:174 - power,
+14:37:50,148 TRACE Document:174 - something
+14:37:50,148 TRACE Document:174 - love,
+14:37:50,148 TRACE Document:174 - itself
+14:37:50,148 TRACE Document:174 - upon
+14:37:50,148 TRACE Document:174 - widely-held
+14:37:50,183 TRACE Document:166 - Top LOWords for the Document
+14:37:50,183 TRACE Document:169 - entry
+14:37:50,183 TRACE Document:169 - opening
+14:37:50,183 TRACE Document:169 - review
+14:37:50,183 TRACE Document:169 - scholar
+14:37:50,183 TRACE Document:169 - cross
+14:37:50,183 TRACE Document:171 - Top Keywords for the Document
+14:37:50,183 TRACE Document:174 - radical,
+14:37:50,183 TRACE Document:174 - philia,
+14:37:50,183 TRACE Document:174 - uses
+14:37:50,183 TRACE Document:174 - writers
+14:37:50,183 TRACE Document:174 - something
+14:37:50,183 TRACE Document:174 - love,
+14:37:50,183 TRACE Document:174 - itself
+14:37:50,184 TRACE Document:174 - upon
+14:37:50,184 TRACE Document:174 - –
+14:37:50,184 TRACE Document:174 - widely-held
+14:37:53,172 TRACE Document:166 - Top LOWords for the Document
+14:37:53,172 TRACE Document:169 - himself
+14:37:53,172 TRACE Document:169 - myself
+14:37:53,172 TRACE Document:169 - group
+14:37:53,172 TRACE Document:169 - straight
+14:37:53,173 TRACE Document:169 - bent
+14:37:53,173 TRACE Document:171 - Top Keywords for the Document
+14:37:53,173 TRACE Document:174 - 
+14:37:53,173 TRACE Document:174 - faith,
+14:37:53,173 TRACE Document:174 - being,
+14:37:53,173 TRACE Document:174 - existed
+14:37:53,173 TRACE Document:174 - commodity,
+14:37:53,173 TRACE Document:174 - love,
+14:37:53,173 TRACE Document:174 - united;
+14:37:53,173 TRACE Document:174 - upon
+14:37:53,173 TRACE Document:174 - widely-held
+14:37:53,173 TRACE Document:174 - indeed,
+14:39:05,805 TRACE Document:166 - Top LOWords for the Document
+14:39:05,805 TRACE Document:169 - take
+14:39:05,805 TRACE Document:169 - mighty
+14:39:05,806 TRACE Document:169 - take in
+14:39:05,806 TRACE Document:169 - opening
+14:39:05,806 TRACE Document:169 - myself
+14:39:05,806 TRACE Document:171 - Top Keywords for the Document
+14:39:05,806 TRACE Document:174 - 
+14:39:05,806 TRACE Document:174 - associated
+14:39:05,806 TRACE Document:174 - varieties
+14:39:05,806 TRACE Document:174 - you!
+14:39:05,807 TRACE Document:174 - called
+14:39:05,807 TRACE Document:174 - listings
+14:39:05,807 TRACE Document:174 - comments
+14:39:05,807 TRACE Document:174 - 3)
+14:39:05,807 TRACE Document:174 - originated
+14:39:05,807 TRACE Document:174 - propogate
+14:39:15,246 TRACE Document:166 - Top LOWords for the Document
+14:39:15,246 TRACE Document:169 - entry
+14:39:15,247 TRACE Document:169 - opening
+14:39:15,247 TRACE Document:169 - rating
+14:39:15,247 TRACE Document:169 - vair
+14:39:15,247 TRACE Document:169 - found
+14:39:15,247 TRACE Document:171 - Top Keywords for the Document
+14:39:15,247 TRACE Document:174 - 
+14:39:15,247 TRACE Document:174 - good,
+14:39:15,247 TRACE Document:174 - apples,
+14:39:15,247 TRACE Document:174 - crisp,
+14:39:15,247 TRACE Document:174 - red,
+14:39:15,248 TRACE Document:174 - depending
+14:39:15,248 TRACE Document:174 - provided
+14:39:15,248 TRACE Document:174 - classifies
+14:39:15,248 TRACE Document:174 - apples
+14:39:15,248 TRACE Document:174 - white-fleshed
+14:39:19,727 TRACE Document:166 - Top LOWords for the Document
+14:39:19,727 TRACE Document:169 - vair
+14:39:19,727 TRACE Document:169 - old woman
+14:39:19,727 TRACE Document:169 - rainbow
+14:39:19,727 TRACE Document:169 - cross
+14:39:19,727 TRACE Document:169 - produce
+14:39:19,728 TRACE Document:171 - Top Keywords for the Document
+14:39:19,728 TRACE Document:174 - 
+14:39:19,728 TRACE Document:174 - sweet,
+14:39:19,728 TRACE Document:174 - crisp,
+14:39:19,728 TRACE Document:174 - roses
+14:39:19,728 TRACE Document:174 - eaten
+14:39:19,728 TRACE Document:174 - depending
+14:39:19,728 TRACE Document:174 - apples
+14:39:19,728 TRACE Document:174 - pie,
+14:39:19,728 TRACE Document:174 - cooking,
+14:39:19,729 TRACE Document:174 - white-fleshed
+14:39:23,542 TRACE Document:166 - Top LOWords for the Document
+14:39:23,542 TRACE Document:169 - entry
+14:39:23,542 TRACE Document:169 - opening
+14:39:23,542 TRACE Document:169 - access
+14:39:23,542 TRACE Document:169 - in
+14:39:23,542 TRACE Document:169 - entrance
+14:39:23,542 TRACE Document:171 - Top Keywords for the Document
+14:39:23,543 TRACE Document:174 - phytonutrient
+14:39:23,543 TRACE Document:174 - singled
+14:39:23,543 TRACE Document:174 - oranges
+14:39:23,543 TRACE Document:174 - properties
+14:39:23,543 TRACE Document:174 - (types
+14:39:23,543 TRACE Document:174 - hydroxycinnamic
+14:39:23,543 TRACE Document:174 - phytonutrients
+14:39:23,543 TRACE Document:174 - herperidin
+14:39:23,543 TRACE Document:174 - oranges,
+14:39:23,543 TRACE Document:174 - molecule,
+14:39:25,803 TRACE Document:166 - Top LOWords for the Document
+14:39:25,803 TRACE Document:169 - entry
+14:39:25,803 TRACE Document:169 - opening
+14:39:25,803 TRACE Document:169 - chart
+14:39:25,812 TRACE Document:169 - rating
+14:39:25,812 TRACE Document:169 - found
+14:39:25,812 TRACE Document:171 - Top Keywords for the Document
+14:39:25,812 TRACE Document:174 - 
+14:39:25,812 TRACE Document:174 - c,
+14:39:25,812 TRACE Document:174 - good,
+14:39:25,812 TRACE Document:174 - inches
+14:39:25,812 TRACE Document:174 - fruits
+14:39:25,812 TRACE Document:174 - depending
+14:39:25,812 TRACE Document:174 - provided
+14:39:25,813 TRACE Document:174 - oranges
+14:39:25,813 TRACE Document:174 - recipes;
+14:39:25,813 TRACE Document:174 - skins
+14:39:26,800 TRACE Document:166 - Top LOWords for the Document
+14:39:26,801 TRACE Document:169 - so
+14:39:26,801 TRACE Document:169 - entry
+14:39:26,801 TRACE Document:169 - opening
+14:39:26,801 TRACE Document:169 - as
+14:39:26,801 TRACE Document:169 - match
+14:39:26,801 TRACE Document:171 - Top Keywords for the Document
+14:39:26,801 TRACE Document:174 - 
+14:39:26,801 TRACE Document:174 - fruits
+14:39:26,801 TRACE Document:174 - having
+14:39:26,801 TRACE Document:174 - aurantium)
+14:39:26,801 TRACE Document:174 - oranges
+14:39:26,801 TRACE Document:174 - marnier
+14:39:26,801 TRACE Document:174 - americans,
+14:39:26,807 TRACE Document:174 - serves
+14:39:26,807 TRACE Document:174 - skins
+14:39:26,807 TRACE Document:174 - sinensis)

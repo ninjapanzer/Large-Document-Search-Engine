@@ -1,53 +1,48 @@
-12:45:55,330 TRACE MainApplication:353 - File Dialog: nullnull
-12:46:36,404 TRACE MainApplication:251 - Moving Thread Object 0
-12:46:36,404 TRACE MainApplication:255 - Doing Size(1)     Done Size(1)    Value(0)
-12:46:36,404 TRACE MainApplication:256 - Thread Object 0 Moved
-12:46:38,063 TRACE MainApplication:251 - Moving Thread Object 1
-12:46:38,064 TRACE MainApplication:255 - Doing Size(1)     Done Size(2)    Value(1)
-12:46:38,064 TRACE MainApplication:256 - Thread Object 1 Moved
-12:46:38,215 TRACE MainApplication:251 - Moving Thread Object 2
-12:46:38,215 TRACE MainApplication:255 - Doing Size(1)     Done Size(3)    Value(2)
-12:46:38,215 TRACE MainApplication:256 - Thread Object 2 Moved
-12:46:41,217 TRACE MainApplication:251 - Moving Thread Object 3
-12:46:41,217 TRACE MainApplication:255 - Doing Size(1)     Done Size(4)    Value(3)
-12:46:41,217 TRACE MainApplication:256 - Thread Object 3 Moved
-12:47:22,394 TRACE MainApplication:251 - Moving Thread Object 4
-12:47:22,396 TRACE MainApplication:255 - Doing Size(1)     Done Size(5)    Value(4)
-12:47:22,396 TRACE MainApplication:256 - Thread Object 4 Moved
-12:47:24,651 TRACE MainApplication:251 - Moving Thread Object 5
-12:47:24,651 TRACE MainApplication:255 - Doing Size(2)     Done Size(6)    Value(5)
-12:47:24,652 TRACE MainApplication:256 - Thread Object 5 Moved
-12:47:24,652 TRACE MainApplication:251 - Moving Thread Object 6
-12:47:24,652 TRACE MainApplication:255 - Doing Size(1)     Done Size(7)    Value(6)
-12:47:24,652 TRACE MainApplication:256 - Thread Object 6 Moved
-12:47:27,804 TRACE MainApplication:251 - Moving Thread Object 7
-12:47:27,804 TRACE MainApplication:255 - Doing Size(1)     Done Size(8)    Value(7)
-12:47:27,805 TRACE MainApplication:256 - Thread Object 7 Moved
-13:10:16,111 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet2/DeusCaritasInveritate3
-13:10:35,092 TRACE MainApplication:251 - Moving Thread Object 8
-13:10:35,092 TRACE MainApplication:255 - Doing Size(1)     Done Size(9)    Value(8)
-13:10:35,092 TRACE MainApplication:256 - Thread Object 8 Moved
-13:12:52,623 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples
-13:13:01,791 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples2
-13:13:09,186 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples3
-13:13:13,171 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/oranges
-13:13:16,948 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Oranges2
-13:13:19,028 TRACE MainApplication:251 - Moving Thread Object 9
-13:13:19,028 TRACE MainApplication:255 - Doing Size(1)     Done Size(10)    Value(9)
-13:13:19,028 TRACE MainApplication:256 - Thread Object 9 Moved
-13:13:20,990 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Oranges3
-13:13:42,771 TRACE MainApplication:251 - Moving Thread Object 10
-13:13:42,771 TRACE MainApplication:255 - Doing Size(1)     Done Size(11)    Value(10)
-13:13:42,774 TRACE MainApplication:256 - Thread Object 10 Moved
-13:13:52,698 TRACE MainApplication:251 - Moving Thread Object 11
-13:13:52,698 TRACE MainApplication:255 - Doing Size(1)     Done Size(12)    Value(11)
-13:13:52,698 TRACE MainApplication:256 - Thread Object 11 Moved
-13:13:57,086 TRACE MainApplication:251 - Moving Thread Object 12
-13:13:57,087 TRACE MainApplication:255 - Doing Size(1)     Done Size(13)    Value(12)
-13:13:57,087 TRACE MainApplication:256 - Thread Object 12 Moved
-13:13:59,653 TRACE MainApplication:251 - Moving Thread Object 13
-13:13:59,653 TRACE MainApplication:255 - Doing Size(1)     Done Size(14)    Value(13)
-13:13:59,653 TRACE MainApplication:256 - Thread Object 13 Moved
-13:14:01,016 TRACE MainApplication:251 - Moving Thread Object 14
-13:14:01,016 TRACE MainApplication:255 - Doing Size(1)     Done Size(15)    Value(14)
-13:14:01,016 TRACE MainApplication:256 - Thread Object 14 Moved
+14:35:20,640 TRACE MainApplication:251 - Moving Thread Object 0
+14:35:20,641 TRACE MainApplication:255 - Doing Size(0)     Done Size(1)    Value(0)
+14:35:20,641 TRACE MainApplication:256 - Thread Object 0 Moved
+14:35:21,695 TRACE MainApplication:251 - Moving Thread Object 1
+14:35:21,695 TRACE MainApplication:255 - Doing Size(1)     Done Size(2)    Value(1)
+14:35:21,695 TRACE MainApplication:256 - Thread Object 1 Moved
+14:35:21,697 TRACE MainApplication:251 - Moving Thread Object 2
+14:35:21,697 TRACE MainApplication:255 - Doing Size(0)     Done Size(3)    Value(2)
+14:35:21,697 TRACE MainApplication:256 - Thread Object 2 Moved
+14:35:24,699 TRACE MainApplication:251 - Moving Thread Object 3
+14:35:24,700 TRACE MainApplication:255 - Doing Size(0)     Done Size(4)    Value(3)
+14:35:24,700 TRACE MainApplication:256 - Thread Object 3 Moved
+14:37:48,010 TRACE MainApplication:251 - Moving Thread Object 4
+14:37:48,010 TRACE MainApplication:255 - Doing Size(0)     Done Size(5)    Value(4)
+14:37:48,010 TRACE MainApplication:256 - Thread Object 4 Moved
+14:37:50,283 TRACE MainApplication:251 - Moving Thread Object 5
+14:37:50,284 TRACE MainApplication:255 - Doing Size(1)     Done Size(6)    Value(5)
+14:37:50,284 TRACE MainApplication:256 - Thread Object 5 Moved
+14:37:50,284 TRACE MainApplication:251 - Moving Thread Object 6
+14:37:50,284 TRACE MainApplication:255 - Doing Size(0)     Done Size(7)    Value(6)
+14:37:50,284 TRACE MainApplication:256 - Thread Object 6 Moved
+14:37:53,286 TRACE MainApplication:251 - Moving Thread Object 7
+14:37:53,287 TRACE MainApplication:255 - Doing Size(0)     Done Size(8)    Value(7)
+14:37:53,287 TRACE MainApplication:256 - Thread Object 7 Moved
+14:38:21,412 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples
+14:38:25,235 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples2
+14:38:29,015 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Apples3
+14:38:32,865 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/oranges
+14:38:36,258 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Oranges2
+14:38:39,978 TRACE MainApplication:353 - File Dialog: /Users/samuraipanzer/Documents/workspace/Concordance/Datafiles/TestSet3/Oranges3
+14:39:05,875 TRACE MainApplication:251 - Moving Thread Object 8
+14:39:05,875 TRACE MainApplication:255 - Doing Size(0)     Done Size(9)    Value(8)
+14:39:05,875 TRACE MainApplication:256 - Thread Object 8 Moved
+14:39:15,369 TRACE MainApplication:251 - Moving Thread Object 9
+14:39:15,369 TRACE MainApplication:255 - Doing Size(0)     Done Size(10)    Value(9)
+14:39:15,369 TRACE MainApplication:256 - Thread Object 9 Moved
+14:39:19,811 TRACE MainApplication:251 - Moving Thread Object 10
+14:39:19,811 TRACE MainApplication:255 - Doing Size(0)     Done Size(11)    Value(10)
+14:39:19,812 TRACE MainApplication:256 - Thread Object 10 Moved
+14:39:23,597 TRACE MainApplication:251 - Moving Thread Object 11
+14:39:23,597 TRACE MainApplication:255 - Doing Size(0)     Done Size(12)    Value(11)
+14:39:23,597 TRACE MainApplication:256 - Thread Object 11 Moved
+14:39:25,890 TRACE MainApplication:251 - Moving Thread Object 12
+14:39:25,890 TRACE MainApplication:255 - Doing Size(0)     Done Size(13)    Value(12)
+14:39:25,891 TRACE MainApplication:256 - Thread Object 12 Moved
+14:39:26,945 TRACE MainApplication:251 - Moving Thread Object 13
+14:39:26,946 TRACE MainApplication:255 - Doing Size(0)     Done Size(14)    Value(13)
+14:39:26,946 TRACE MainApplication:256 - Thread Object 13 Moved

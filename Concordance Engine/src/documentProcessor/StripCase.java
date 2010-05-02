@@ -2,8 +2,6 @@ package documentProcessor;
 
 import java.io.File;
 import java.util.Scanner;
-import java.util.regex.Pattern;
-
 import org.apache.log4j.Logger;
 
 public class StripCase
